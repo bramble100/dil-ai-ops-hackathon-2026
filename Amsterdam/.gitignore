@@ -1,0 +1,10 @@
+# Browser "Save as Complete" asset folders - filenames too long for git
+raw/*_files/
+
+# Extraction scripts and intermediate files
+*.pyc
+extract_all.py
+extract_v2.py
+raw/_full_extraction.txt
+raw/_extracted_*.txt
+raw/pdf_pages/
