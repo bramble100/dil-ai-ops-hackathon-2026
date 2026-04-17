@@ -122,7 +122,7 @@ Works well on long-form articles, blog posts, documentation pages, and even Twit
 
 ## Further Reading
 
-- [docs/karpathy-original.md](docs/karpathy-original.md) - Karpathy's full idea file with reference links (local copy)
+- [docs/karpathy-gist.md](docs/karpathy-gist.md) - Karpathy's full idea file with reference links (local copy)
 - [docs/pattern-overview.md](docs/pattern-overview.md) - Deeper context: the problem, alternatives comparison, use cases, community insights, future directions
 
 ## References

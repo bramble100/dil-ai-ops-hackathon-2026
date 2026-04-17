@@ -2,7 +2,14 @@
 
 A deeper look at the LLM Wiki pattern: the problem it solves, how it compares to alternatives, use cases, practical tips, and ideas for evolution.
 
-This is a curated companion to Karpathy's original idea file (see [docs/karpathy-original.md](karpathy-original.md)). It draws from the [original gist's](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) community discussion (3,800+ forks, 450+ comments) and our own exploration.
+This is a curated companion to Karpathy's original idea file (see [karpathy-gist.md](karpathy-gist.md)). It draws from the [original gist's](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) community discussion (3,800+ forks, 450+ comments) and our own exploration.
+
+## Sources & References
+
+- **Original gist:** [karpathy/llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - Andrej Karpathy's GitHub Gist (local copy: [karpathy-gist.md](karpathy-gist.md))
+- **Original tweet:** [Andrej Karpathy's tweet](https://x.com/karpathy/status/2039805659525644595) (April 2, 2026) - Where the LLM Wiki idea was first shared publicly (local copy: [karpathy-tweet.md](karpathy-tweet.md))
+- **Follow-up tweet with gist link:** [Karpathy's follow-up](https://x.com/karpathy/status/2040470801506541998) (April 4, 2026) - Sharing the gist, with notes on "idea files" as a concept
+- **Diagram by Yuchen Jin:** [Yuchen Jin's visual overview](https://x.com/Yuchenj_UW/status/2040482771576197377) (April 4, 2026) - Diagram summarizing the LLM Wiki architecture (3 layers), operations (ingest, query, lint), and actor roles (local copy: [yuchen-jin-diagram.png](yuchen-jin-diagram.png))
 
 ---
 

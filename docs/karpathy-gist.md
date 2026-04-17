@@ -4,12 +4,7 @@ A pattern for building personal knowledge bases using LLMs.
 
 This is an idea file, it is designed to be copy pasted to your own LLM Agent (e.g. OpenAI Codex, Claude Code, OpenCode / Pi, or etc.). Its goal is to communicate the high level idea, but your agent will build out the specifics in collaboration with you.
 
-## Sources & References
-
-- **Original gist:** [karpathy/llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - The source of this document (a GitHub Gist by Andrej Karpathy, with community discussion in the comments)
-- **Original tweet:** [Andrej Karpathy's tweet](https://x.com/karpathy/status/2039805659525644595) (April 2, 2026) - Where the LLM Wiki idea was first shared publicly
-- **Follow-up tweet with gist link:** [Karpathy's follow-up](https://x.com/karpathy/status/2040470801506541998) (April 4, 2026) - Sharing the gist, with notes on "idea files" as a concept: in the era of LLM agents, share the idea and let the other person's agent customize and build it for their specific needs
-- **Diagram by Yuchen Jin:** [Yuchen Jin's visual overview](https://x.com/Yuchenj_UW/status/2040482771576197377) (April 4, 2026) - A diagram summarizing the LLM Wiki architecture (3 layers), operations (ingest, query, lint), and actor roles (human vs LLM agent)
+> Local copy of the [original GitHub Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). For sources, context, and companion analysis, see [pattern-overview.md](pattern-overview.md).
 
 ## The core idea
 

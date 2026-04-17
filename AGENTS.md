@@ -16,8 +16,10 @@ llm-wiki/
 ├── .gitignore
 ├── .claude/skills/             # Operational workflows (ingest, query, lint, init-topic)
 ├── docs/                       # Reference documents (not part of any topic's wiki)
-│   ├── karpathy-original.md    # Karpathy's original idea file (with added reference links)
-│   └── pattern-overview.md     # Deeper context: problem, alternatives, use cases, community insights
+│   ├── karpathy-gist.md        # Local copy of Karpathy's original LLM Wiki gist
+│   ├── karpathy-tweet.md       # Local copy of Karpathy's original tweet (April 2, 2026)
+│   ├── yuchen-jin-diagram.png  # Architecture diagram by Yuchen Jin (3 layers, operations, actor roles)
+│   └── pattern-overview.md     # Sources & references, problem context, alternatives, use cases, community insights
 └── topics/
     └── <topic-slug>/           # One folder per topic (e.g., ai-engineering)
         ├── TOPIC.md            # Optional: topic-specific rules/context
