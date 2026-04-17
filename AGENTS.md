@@ -42,7 +42,7 @@ llm-wiki/
 
 Each topic is self-contained. Sources in one topic's `raw/` are summarized into that topic's `wiki/`. Cross-topic references are allowed but should be explicit (use full relative paths: `../../other-topic/wiki/concepts/page.md`).
 
-To add a new topic, tell the agent "create a new topic called `<slug>`" (see the `init-topic` skill in `.claude/skills/`), or manually: `mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}` and create its `index.md` + `log.md`.
+To add a new topic, tell the agent "create a new topic called `<slug>`" and it will follow the `init-topic` skill (`.claude/skills/init-topic/SKILL.md`) to create the full directory structure, `index.md`, `log.md`, and `TOPIC.md`.
 
 ---
 

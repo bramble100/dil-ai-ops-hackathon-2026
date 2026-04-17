@@ -2,6 +2,8 @@
 
 A personal knowledge base built and maintained by LLM agents. Based on [Andrej Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
+![LLM Wiki architecture diagram by Yuchen Jin](docs/yuchen-jin-diagram.png)
+
 ## How It Works
 
 1. **You** curate raw sources (articles, papers, notes, images) into `topics/<slug>/raw/`
