@@ -16,24 +16,34 @@ The wiki is a **persistent, compounding artifact**. Knowledge is compiled once a
 ### Prerequisites
 
 - An LLM agent with filesystem access (VS Code + GitHub Copilot, Claude Code, Cursor, etc.)
-- [Obsidian](https://obsidian.md/) for viewing (open this folder as a vault)
+- [Obsidian](https://obsidian.md/) for browsing the wiki (see [Obsidian Setup](#obsidian-setup) below)
 - Git for version history
+
+> "Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase." - Andrej Karpathy
 
 ### First Steps
 
 1. Open this folder in your LLM agent environment
-2. Open this folder as an Obsidian vault
+2. Open this folder as an Obsidian vault (see [Obsidian Setup](#obsidian-setup))
 3. Drop a source file into `topics/ai-engineering/raw/articles/`
 4. Tell the agent: "Ingest `topics/ai-engineering/raw/articles/<filename>`"
 5. Watch the wiki grow
 
 ### Adding a New Topic
 
+All topics follow the same folder structure. To create one, just tell the agent:
+
+> "Create a new topic called `<slug>` about `<description>`"
+
+The agent will create the full directory structure, `index.md`, `log.md`, and `TOPIC.md` following the schema in `AGENTS.md`.
+
+Or do it manually:
+
 ```bash
 mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}
 ```
 
-Then create the initial `wiki/index.md` and `wiki/log.md` (copy from an existing topic).
+Then copy `wiki/index.md` and `wiki/log.md` from an existing topic and adjust the content. Optionally create a `TOPIC.md` with domain-specific scope, categorization axes, and key questions (see `topics/ai-engineering/TOPIC.md` for an example).
 
 ## Structure
 
@@ -70,12 +80,46 @@ The LLM's instructions live in:
 - `AGENTS.md` - Full schema (VS Code Copilot, primary)
 - `CLAUDE.md` - Quick reference (Claude Code, references AGENTS.md)
 
-## Obsidian Tips
+## Obsidian Setup
 
-- **Graph view** shows wiki structure and connections
-- **Dataview plugin** can query page frontmatter (all pages have YAML frontmatter)
-- **Web Clipper extension** converts web articles to markdown for easy source collection
-- Exclude `raw/` from graph view if it gets noisy (Settings > Files & Links > Excluded files)
+[Obsidian](https://obsidian.md/) is a free markdown editor that opens a folder of `.md` files as an interconnected "vault". It's the recommended way to browse the wiki because it renders wikilinks as clickable navigation, shows a graph view of how pages connect, and updates in real time as the LLM edits files. Karpathy: _"Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase."_
+
+### Opening the vault
+
+1. Download and install [Obsidian](https://obsidian.md/)
+2. On the vault chooser screen, click **"Open folder as vault"** and select the `llm-wiki/` root folder
+3. That's it. You'll see the full folder tree in the left sidebar
+
+**Use a single vault at the root** (`llm-wiki/`). This gives you visibility into all topics, the README, and schema files in one place. Obsidian handles subfolders well, and the graph view works across all topics.
+
+### Recommended plugins
+
+- **Graph view** (built-in) - Shows wiki structure and connections. Hover over nodes to see what links where. Exclude `raw/` from the graph if it gets noisy (Settings > Files & Links > Excluded files)
+- **Dataview** (community plugin) - Runs queries over page frontmatter. Since all wiki pages have YAML frontmatter (tags, dates, source counts), Dataview can generate dynamic tables and lists. Example: list all concept pages sorted by source count
+- **Marp** (community plugin) - Renders markdown-based slide decks. Useful for generating presentations from wiki content
+
+### Obsidian Web Clipper
+
+[Obsidian Web Clipper](https://obsidian.md/clipper) is a browser extension (Chrome, Firefox, Edge, Safari) that converts any web page to a clean markdown file and saves it directly into your vault. It's the fastest way to get sources into `raw/`.
+
+**How to use:**
+
+1. Install the extension from your browser's extension store
+2. Configure it to save files to the right folder (e.g., `topics/ai-engineering/raw/articles/`)
+3. When you find an article, tweet, or page worth saving: click the extension icon, then "Add to Obsidian" - 2 clicks total
+4. The page is saved as a `.md` file in your vault, ready for the agent to ingest
+
+Works well on long-form articles, blog posts, documentation pages, and even Twitter/X threads. The extension extracts clean text content and preserves headings, links, and images.
+
+### Settings tips
+
+- **Attachment folder:** In Settings > Files and links > "Attachment folder path", set it to a fixed directory (e.g., `raw/assets/`) so downloaded images land in a predictable place
+- **Download images hotkey:** In Settings > Hotkeys, search for "Download attachments for current file" and bind it to a hotkey (e.g., Ctrl+Shift+D). After clipping an article, hit the hotkey to download all images locally - useful for offline access and for giving the LLM access to diagrams
+
+## Further Reading
+
+- [docs/karpathy-original.md](docs/karpathy-original.md) - Karpathy's full idea file with reference links (local copy)
+- [docs/pattern-overview.md](docs/pattern-overview.md) - Deeper context: the problem, alternatives comparison, use cases, community insights, future directions
 
 ## References
 

@@ -14,6 +14,9 @@ llm-wiki/
 ├── CLAUDE.md                   # Global schema (Claude Code) - references this file
 ├── README.md                   # Human-readable overview
 ├── .gitignore
+├── docs/                       # Reference documents (not part of any topic's wiki)
+│   ├── karpathy-original.md    # Karpathy's original idea file (with added reference links)
+│   └── pattern-overview.md     # Deeper context: problem, alternatives, use cases, community insights
 └── topics/
     └── <topic-slug>/           # One folder per topic (e.g., ai-engineering)
         ├── TOPIC.md            # Optional: topic-specific rules/context
@@ -211,8 +214,13 @@ Rules:
 
 **Steps:**
 
-1. **Read all wiki pages** for the topic.
-2. **Check for:**
+1. **Check for unprocessed sources first:**
+   - List all files in `raw/` (across all subdirectories: articles, papers, notes)
+   - Compare against `source_path` values in `wiki/sources/*.md` frontmatter
+   - Report any files in `raw/` that don't have a corresponding source summary page
+   - Present as: "X files in raw/, Y ingested, Z remaining" with the list of unprocessed files
+2. **Read all wiki pages** for the topic.
+3. **Check for:**
    - Contradictions between pages
    - Stale claims that newer sources have superseded
    - Orphan pages with no inbound links (except source summaries, which are leaf nodes by design)
@@ -221,8 +229,8 @@ Rules:
    - Broken wikilinks
    - Pages exceeding budget (see Growth Management)
    - Questions that might now be answerable with existing sources
-3. **Report findings** as a checklist with severity (minor/medium/important).
-4. **Offer fixes** - the human decides which ones to apply.
+4. **Report findings** as a checklist with severity (minor/medium/important).
+5. **Offer fixes** - the human decides which ones to apply.
 
 ---
 
