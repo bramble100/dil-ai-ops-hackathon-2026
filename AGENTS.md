@@ -9,7 +9,7 @@ This schema defines how the wiki is structured, what conventions to follow, and 
 ## Project Structure
 
 ```
-llm-wiki/
+<repo-root>/
 ├── AGENTS.md                   # This file (global schema - VS Code Copilot)
 ├── CLAUDE.md                   # Global schema (Claude Code) - references this file
 ├── README.md                   # Human-readable overview

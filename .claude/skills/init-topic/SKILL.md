@@ -29,7 +29,7 @@ description: Creates a new wiki topic with the full directory structure, index, 
 
 Ask the user (if not already provided):
 
-- **Slug:** Short, lowercase, hyphenated folder name (e.g., `ai-engineering`, `mushroom-ecology`, `competitive-analysis`). Must be URL-safe and unique - check that `topics/<slug>/` doesn't already exist.
+- **Slug:** Short, lowercase, hyphenated folder name (e.g., `ai-engineering`, `product-analytics`, `competitive-analysis`). Must be URL-safe and unique - check that `topics/<slug>/` doesn't already exist.
 - **Domain description:** One sentence describing what this topic covers. Goes into TOPIC.md and the index.md header.
 
 ---

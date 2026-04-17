@@ -112,10 +112,10 @@ The LLM's instructions live in:
 ### Opening the vault
 
 1. Download and install [Obsidian](https://obsidian.md/)
-2. On the vault chooser screen, click **"Open folder as vault"** and select the `llm-wiki/` root folder
+2. On the vault chooser screen, click **"Open folder as vault"** and select this repository's root folder (`dil-ai-ops-hackathon-2026/`)
 3. That's it. You'll see the full folder tree in the left sidebar
 
-**Use a single vault at the root** (`llm-wiki/`). This gives you visibility into all topics, the README, and schema files in one place. Obsidian handles subfolders well, and the graph view works across all topics.
+**Use a single vault at the repo root.** This gives you visibility into all topics, the README, and schema files in one place. Obsidian handles subfolders well, and the graph view works across all topics.
 
 ### Recommended plugins
 

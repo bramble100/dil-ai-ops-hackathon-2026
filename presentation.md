@@ -1,4 +1,5 @@
 # AI Ops Hackathon 2026 -- LLM Wiki
+
 ### BLC + ARC Team
 
 ---
@@ -18,12 +19,12 @@
 
 ### Anyone who builds knowledge from documents over time
 
-| Team | Use Case |
-|---|---|
+| Team                              | Use Case                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Board Intelligence / Research** | Company profiles from annual reports, filings, transcripts -- auto-updated as new sources arrive |
-| **Competitive Intelligence** | Living competitor wikis that evolve with each data point, not one-off reports |
-| **Client Onboarding / CS** | Structured knowledge bases from scattered client docs |
-| **Any analyst** | Turn a pile of PDFs into a cross-referenced, queryable wiki in hours |
+| **Competitive Intelligence**      | Living competitor wikis that evolve with each data point, not one-off reports                    |
+| **Client Onboarding / CS**        | Structured knowledge bases from scattered client docs                                            |
+| **Any analyst**                   | Turn a pile of PDFs into a cross-referenced, queryable wiki in hours                             |
 
 **Our demo proves it:** 12 German PDFs became 35 interconnected financial analysis pages. 11 sources in 4 languages became a 53-page travel guide. No app, no infra -- just Claude Code and markdown.
 
@@ -33,12 +34,12 @@
 
 ### From hours of manual synthesis to minutes of AI compilation
 
-| Metric | Manual Approach | LLM Wiki | Improvement |
-|---|---|---|---|
-| **Build a company profile from 12 annual reports** | 2-3 days analyst work | ~2 hours (mostly review) | **~10x faster** |
-| **Cross-reference multilingual sources** | Requires language specialists | AI handles 4+ languages natively | **Eliminates language barrier** |
-| **Keep wiki current when new data arrives** | Re-read everything, update by hand | Ingest new source, AI updates all affected pages | **Near-zero maintenance** |
-| **Onboard someone to a topic** | "Read these 50 docs" | Hand them a structured wiki with an index | **Instant context** |
+| Metric                                             | Manual Approach                    | LLM Wiki                                         | Improvement                     |
+| -------------------------------------------------- | ---------------------------------- | ------------------------------------------------ | ------------------------------- |
+| **Build a company profile from 12 annual reports** | 2-3 days analyst work              | ~2 hours (mostly review)                         | **~10x faster**                 |
+| **Cross-reference multilingual sources**           | Requires language specialists      | AI handles 4+ languages natively                 | **Eliminates language barrier** |
+| **Keep wiki current when new data arrives**        | Re-read everything, update by hand | Ingest new source, AI updates all affected pages | **Near-zero maintenance**       |
+| **Onboard someone to a topic**                     | "Read these 50 docs"               | Hand them a structured wiki with an index        | **Instant context**             |
 
 **Knowledge compounds instead of evaporating.** Every source added makes the wiki richer. Every question asked can become a new page. Traditional AI chat is stateless -- you lose the work the moment you close the window.
 
@@ -53,7 +54,7 @@
 - **Multilingual synthesis is an AI superpower.** Our Amsterdam wiki was built from Spanish, Hungarian, English, and Dutch sources. The AI read all four and produced a unified English wiki. A human team would need translators.
 - **Structure emerges from chaos.** The AI doesn't just summarize -- it creates entity pages, concept pages, comparisons, and time-series analyses. It finds patterns ("3 sources agree on this ranking") that would take hours to spot manually.
 
-> *"LLMs don't get bored, don't forget to update a cross-reference, and can touch 15 files in one pass."* -- Andrej Karpathy
+> _"LLMs don't get bored, don't forget to update a cross-reference, and can touch 15 files in one pass."_ -- Andrej Karpathy
 
 ---
 
@@ -68,6 +69,7 @@ in any language                 cross-references, index      ingest workflow, qu
 ```
 
 **The workflow is simple:**
+
 1. **Collect** -- Drop source documents into `raw/` (PDFs, markdown, web clips)
 2. **Ingest** -- Tell the AI: "Process this source." It reads, summarizes, creates/updates entity pages, concept pages, comparisons, and the master index
 3. **Query** -- Ask questions. Good answers get filed back as wiki pages. Knowledge compounds.
@@ -81,14 +83,15 @@ in any language                 cross-references, index      ingest workflow, qu
 
 ### Honest about the risks, clear on the path
 
-| Risk | Mitigation |
-|---|---|
-| **AI hallucination / inaccuracy** | Every wiki page cites its source. Schema enforces claim types: Source (verbatim), Analysis (inference), Unverified, Gap. Human reviews the output. |
-| **Sensitive data in prompts** | All processing is local -- documents stay on your machine, wiki stays in your git repo. No data leaves the controlled environment. |
-| **Schema quality = output quality** | We provide battle-tested schemas from our two demos. Bad schema → bad wiki, but this is a solved problem once you have a good template. |
-| **"Just another tool to learn"** | There is nothing to learn -- you drop files in a folder and talk to Claude. The wiki is plain markdown anyone can read. |
+| Risk                                | Mitigation                                                                                                                                         |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI hallucination / inaccuracy**   | Every wiki page cites its source. Schema enforces claim types: Source (verbatim), Analysis (inference), Unverified, Gap. Human reviews the output. |
+| **Sensitive data in prompts**       | All processing is local -- documents stay on your machine, wiki stays in your git repo. No data leaves the controlled environment.                 |
+| **Schema quality = output quality** | We provide battle-tested schemas from our two demos. Bad schema → bad wiki, but this is a solved problem once you have a good template.            |
+| **"Just another tool to learn"**    | There is nothing to learn -- you drop files in a folder and talk to Claude. The wiki is plain markdown anyone can read.                            |
 
 **Driving adoption:**
+
 - **Start with one real team problem** -- a messy Confluence space, a pile of client PDFs, a competitive landscape nobody maintains
 - **The output sells itself** -- hand someone a structured 35-page wiki built from their own documents in 2 hours. That's the demo.
 - **Templates, not training** -- ship reusable schemas so any team can start in minutes
@@ -99,14 +102,15 @@ in any language                 cross-references, index      ingest workflow, qu
 
 ### Already built -- now it's about scaling the pattern
 
-| Phase | What | Timeline |
-|---|---|---|
-| **Done** | Two working demos (corporate intelligence + travel guide), reusable schemas, README/playbook | Hackathon |
-| **Next: Template Library** | Package schemas for common use cases -- company profiles, competitive intel, client onboarding, regulatory research | 1-2 weeks |
-| **Next: Team Pilot** | Pick one real team (e.g. Board Intelligence) and build a wiki from their actual documents. Measure time saved vs. current process. | 2-4 weeks |
-| **Future: Automation** | Scripted ingest pipelines (watch folders, scheduled refreshes), Obsidian vault as team-shared viewer, integration with DiligentGPT/Glean as a source feeder | Quarter |
+| Phase                      | What                                                                                                                                                        | Timeline  |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **Done**                   | Two working demos (corporate intelligence + travel guide), reusable schemas, README/playbook                                                                | Hackathon |
+| **Next: Template Library** | Package schemas for common use cases -- company profiles, competitive intel, client onboarding, regulatory research                                         | 1-2 weeks |
+| **Next: Team Pilot**       | Pick one real team (e.g. Board Intelligence) and build a wiki from their actual documents. Measure time saved vs. current process.                          | 2-4 weeks |
+| **Future: Automation**     | Scripted ingest pipelines (watch folders, scheduled refreshes), Obsidian vault as team-shared viewer, integration with DiligentGPT/Glean as a source feeder | Quarter   |
 
 **What we need:**
+
 - **Claude Code licenses** for pilot participants (or any LLM agent with filesystem access)
 - **A willing pilot team** with a real document problem and 2 hours to spare
 - **No infrastructure, no budget, no deployment** -- this runs on a laptop with a git repo
@@ -118,11 +122,13 @@ in any language                 cross-references, index      ingest workflow, qu
 ### Lessons from building two wikis in a day
 
 **On AI in practice:**
+
 - **Schema is everything.** The same AI produces mediocre or excellent output depending on how well you define the rules. Investing 30 minutes in a good schema saves hours of cleanup.
 - **Human-in-the-loop beats full automation.** One-at-a-time ingest with review caught errors early. Batch mode was faster but sloppier. The sweet spot is small batches of 3-5 sources.
 - **AI handles languages we can't.** Synthesizing Hungarian, Spanish, Dutch, and English sources into one coherent wiki -- no human on our team could have done that.
 - **Git + markdown is underrated infra.** Version history, diffs, branching, collaboration -- all free. No vendor lock-in, no migration risk.
 
 **How we'll use AI day-to-day going forward:**
+
 - **Not as a chatbot, but as a knowledge engineer.** The mental model shift from "ask AI a question" to "have AI build and maintain something" changes what's possible.
 - **For any recurring research task** -- if you're doing it more than once, the wiki pattern means the second time builds on the first instead of starting over.

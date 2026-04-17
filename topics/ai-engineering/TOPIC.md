@@ -1,5 +1,9 @@
 # AI Engineering - Topic Configuration
 
+> **Status:** scaffold / not yet populated.
+>
+> This topic exists as the canonical reference for the `init-topic` layout (`concepts/`, `entities/`, `sources/`, `syntheses/`, `questions/`). For examples of fully populated topics, see [`../amsterdam/`](../amsterdam/) and [`../rheinmetall/`](../rheinmetall/).
+
 ## Domain
 
 AI from a software engineer's perspective. This is not an academic ML research wiki - it's a practitioner's knowledge base focused on **using AI effectively as a tool for building software**.
