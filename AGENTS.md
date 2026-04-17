@@ -14,6 +14,7 @@ llm-wiki/
 ├── CLAUDE.md                   # Global schema (Claude Code) - references this file
 ├── README.md                   # Human-readable overview
 ├── .gitignore
+├── .claude/skills/             # Operational workflows (ingest, query, lint, init-topic)
 ├── docs/                       # Reference documents (not part of any topic's wiki)
 │   ├── karpathy-original.md    # Karpathy's original idea file (with added reference links)
 │   └── pattern-overview.md     # Deeper context: problem, alternatives, use cases, community insights
@@ -39,7 +40,7 @@ llm-wiki/
 
 Each topic is self-contained. Sources in one topic's `raw/` are summarized into that topic's `wiki/`. Cross-topic references are allowed but should be explicit (use full relative paths: `../../other-topic/wiki/concepts/page.md`).
 
-To add a new topic: `mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}` and create its `index.md` + `log.md`.
+To add a new topic, tell the agent "create a new topic called `<slug>`" (see the `init-topic` skill in `.claude/skills/`), or manually: `mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}` and create its `index.md` + `log.md`.
 
 ---
 
@@ -179,58 +180,14 @@ Rules:
 
 ## Operations
 
-### 1. Ingest
+Detailed operational workflows live in `.claude/skills/`. Each skill has a `SKILL.md` with YAML frontmatter (name, description, trigger phrases) and a step-by-step workflow.
 
-**Trigger:** Human says "ingest [source]" or "process [filename]" or adds a file to `raw/` and asks you to process it.
-
-**Steps:**
-
-1. **Read the source** completely. If it's a URL, fetch and save to `raw/articles/` as markdown first.
-2. **Discuss with the human** (briefly): What are the 2-3 most interesting takeaways? Does the human want any particular emphasis?
-3. **Create a source summary** in `wiki/sources/<slug>.md` following the source summary format.
-4. **Update existing pages:**
-   - For each key concept in the source: create a new concept page OR update an existing one with the new information.
-   - For each named entity: create a new entity page OR update an existing one.
-   - If the source contradicts existing wiki content: note the contradiction explicitly on the relevant page AND create a question page.
-5. **Update `wiki/index.md`** - Add the new source summary and any new concept/entity pages.
-6. **Append to `wiki/log.md`** - Record the ingest.
-
-**Batch ingest:** For multiple sources, process 3-5 at a time (the "Ralph Wiggum technique"). Review each batch before proceeding. This prevents attention degradation.
-
-### 2. Query
-
-**Trigger:** Human asks a question about the wiki's knowledge domain.
-
-**Steps:**
-
-1. **Read `wiki/index.md`** first to identify relevant pages.
-2. **Read the relevant pages** (concepts, entities, sources, syntheses).
-3. **Synthesize an answer** with inline citations to wiki pages.
-4. **If the answer is substantial and reusable:** Offer to file it as a synthesis page in `wiki/syntheses/`. This way explorations compound in the knowledge base.
-
-### 3. Lint
-
-**Trigger:** Human says "lint", "health check", or "audit the wiki".
-
-**Steps:**
-
-1. **Check for unprocessed sources first:**
-   - List all files in `raw/` (across all subdirectories: articles, papers, notes)
-   - Compare against `source_path` values in `wiki/sources/*.md` frontmatter
-   - Report any files in `raw/` that don't have a corresponding source summary page
-   - Present as: "X files in raw/, Y ingested, Z remaining" with the list of unprocessed files
-2. **Read all wiki pages** for the topic.
-3. **Check for:**
-   - Contradictions between pages
-   - Stale claims that newer sources have superseded
-   - Orphan pages with no inbound links (except source summaries, which are leaf nodes by design)
-   - Important concepts mentioned in text but lacking their own page
-   - Missing cross-references between related pages
-   - Broken wikilinks
-   - Pages exceeding budget (see Growth Management)
-   - Questions that might now be answerable with existing sources
-4. **Report findings** as a checklist with severity (minor/medium/important).
-5. **Offer fixes** - the human decides which ones to apply.
+| Operation      | Skill                                | When to Use                                                                                       |
+| -------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Ingest**     | `.claude/skills/ingest/SKILL.md`     | Process a raw source into the wiki (create summary, update concepts/entities, update index & log) |
+| **Query**      | `.claude/skills/query/SKILL.md`      | Answer a question by searching and synthesizing from wiki pages                                   |
+| **Lint**       | `.claude/skills/lint/SKILL.md`       | Health-check for unprocessed sources, contradictions, orphans, broken links, staleness            |
+| **Init Topic** | `.claude/skills/init-topic/SKILL.md` | Create a new topic with full directory structure and initial files                                |
 
 ---
 

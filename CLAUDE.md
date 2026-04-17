@@ -6,9 +6,10 @@ This project uses a shared schema. All wiki conventions, workflows, and rules ar
 
 ## Quick Reference
 
-- **Ingest:** Human adds a source to `topics/<slug>/raw/`, you process it into `wiki/`
-- **Query:** Human asks a question, you search `wiki/index.md` then synthesize from relevant pages
-- **Lint:** Health check for contradictions, orphans, broken links, staleness
+- **Ingest:** Human adds a source to `topics/<slug>/raw/`, you process it into `wiki/` (see `.claude/skills/ingest/SKILL.md`)
+- **Query:** Human asks a question, you search `wiki/index.md` then synthesize from relevant pages (see `.claude/skills/query/SKILL.md`)
+- **Lint:** Health check for contradictions, orphans, broken links, staleness (see `.claude/skills/lint/SKILL.md`)
+- **Init Topic:** Create a new topic with full directory structure (see `.claude/skills/init-topic/SKILL.md`)
 
 ## Key Rules
 

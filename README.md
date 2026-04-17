@@ -35,7 +35,7 @@ All topics follow the same folder structure. To create one, just tell the agent:
 
 > "Create a new topic called `<slug>` about `<description>`"
 
-The agent will create the full directory structure, `index.md`, `log.md`, and `TOPIC.md` following the schema in `AGENTS.md`.
+The agent will follow the `init-topic` skill (`.claude/skills/init-topic/SKILL.md`) to create the full directory structure, `index.md`, `log.md`, and `TOPIC.md`.
 
 Or do it manually:
 
@@ -67,18 +67,22 @@ topics/
 
 ## Operations
 
-| Command    | What happens                                                                                             |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| **Ingest** | "Process this source" - LLM reads it, creates summary, updates concept/entity pages, updates index & log |
-| **Query**  | "What do we know about X?" - LLM searches wiki, synthesizes answer, optionally files it                  |
-| **Lint**   | "Health check" - LLM finds contradictions, orphans, broken links, stale content                          |
+| Command        | What happens                                                                                             |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| **Ingest**     | "Process this source" - LLM reads it, creates summary, updates concept/entity pages, updates index & log |
+| **Query**      | "What do we know about X?" - LLM searches wiki, synthesizes answer, optionally files it                  |
+| **Lint**       | "Health check" - LLM finds contradictions, orphans, broken links, stale content                          |
+| **Init Topic** | "New topic about X" - LLM creates full directory structure, index, log, and topic config                 |
+
+Each operation has a detailed skill file in `.claude/skills/` with step-by-step workflows, edge cases, and gotchas.
 
 ## Schema
 
 The LLM's instructions live in:
 
-- `AGENTS.md` - Full schema (VS Code Copilot, primary)
+- `AGENTS.md` - Wiki structure, page types, conventions, quality standards (VS Code Copilot, primary)
 - `CLAUDE.md` - Quick reference (Claude Code, references AGENTS.md)
+- `.claude/skills/` - Operational workflows (ingest, query, lint, init-topic) with detailed steps and edge cases
 
 ## Obsidian Setup
 
