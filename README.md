@@ -2,6 +2,14 @@
 
 A personal knowledge base built and maintained by LLM agents. Based on [Andrej Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
+> This repository was created for the **Diligent AI Ops Hackathon 2026**. For the original hackathon framing, motivation, and architecture overview, see [`docs/hackathon-brief.md`](docs/hackathon-brief.md).
+
+Live topics in this repo:
+
+- [`topics/ai-engineering/`](topics/ai-engineering/) - AI from a software engineer's perspective (scaffold)
+- [`topics/amsterdam/`](topics/amsterdam/) - Amsterdam & Netherlands travel wiki (fully populated)
+- [`topics/rheinmetall/`](topics/rheinmetall/) - Rheinmetall company analysis (fully populated)
+
 ![LLM Wiki architecture diagram by Yuchen Jin](docs/yuchen-jin-diagram.png)
 
 ## How It Works
@@ -51,21 +59,32 @@ Then copy `wiki/index.md` and `wiki/log.md` from an existing topic and adjust th
 
 ```
 topics/
-└── ai-engineering/          # Each topic is self-contained
-    ├── raw/                 # Your sources (immutable)
-    │   ├── articles/        # Web articles, blog posts
-    │   ├── papers/          # Research papers
-    │   ├── notes/           # Quick thoughts, observations
-    │   └── assets/          # Images, diagrams, PDFs
-    └── wiki/                # LLM-generated (don't edit manually)
-        ├── index.md         # Master catalog
-        ├── log.md           # Activity timeline
-        ├── concepts/        # Ideas, patterns, techniques
-        ├── entities/        # Tools, people, orgs, products
-        ├── sources/         # One summary per raw source
-        ├── syntheses/       # Analyses, comparisons
-        └── questions/       # Open questions, contradictions
+├── ai-engineering/          # Scaffold - canonical layout produced by init-topic
+│   ├── TOPIC.md             # Domain, scope, categorization axes
+│   ├── raw/                 # Your sources (immutable)
+│   │   ├── articles/        # Web articles, blog posts
+│   │   ├── papers/          # Research papers
+│   │   ├── notes/           # Quick thoughts, observations
+│   │   └── assets/          # Images, diagrams, PDFs
+│   └── wiki/                # LLM-generated (don't edit manually)
+│       ├── index.md         # Master catalog
+│       ├── log.md           # Activity timeline
+│       ├── concepts/        # Ideas, patterns, techniques
+│       ├── entities/        # Tools, people, orgs, products
+│       ├── sources/         # One summary per raw source
+│       ├── syntheses/       # Analyses, comparisons
+│       └── questions/       # Open questions, contradictions
+├── amsterdam/               # Travel wiki - domain-fitted taxonomy
+│   ├── TOPIC.md             # (originally SCHEMA.md)
+│   ├── raw/                 # Multilingual source articles and PDFs
+│   └── wiki/                # places/, themes/, practical/, hotels/, sources/
+└── rheinmetall/             # Company analysis - domain-fitted taxonomy
+    ├── TOPIC.md
+    ├── raw/                 # Annual reports, transcripts
+    └── wiki/                # topic-specific subfolders
 ```
+
+The `concepts/entities/syntheses/questions` taxonomy is the default produced by the `init-topic` skill. Individual topics are free to use a different internal `wiki/` taxonomy when a domain calls for it - Amsterdam and Rheinmetall are examples of that.
 
 ## Operations
 
@@ -124,8 +143,10 @@ Works well on long-form articles, blog posts, documentation pages, and even Twit
 
 ## Further Reading
 
+- [docs/hackathon-brief.md](docs/hackathon-brief.md) - Original hackathon framing, motivation, and 30-second/deep explanations
 - [docs/karpathy-gist.md](docs/karpathy-gist.md) - Karpathy's full idea file with reference links (local copy)
 - [docs/pattern-overview.md](docs/pattern-overview.md) - Deeper context: the problem, alternatives comparison, use cases, community insights, future directions
+- [presentation.md](presentation.md) - Hackathon presentation sketch
 
 ## References
 
