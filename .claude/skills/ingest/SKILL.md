@@ -106,7 +106,7 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 
 ## Phase 6: Update Index and Log
 
-**Index (`wiki/index.md`):** Add the new source summary and any new pages. Follow the existing format: wikilink + one-sentence summary + metadata.
+**Index (`wiki/index.md`):** Add the new source summary and any new pages. Follow the existing format: markdown link + one-sentence summary + metadata.
 
 **Log (`wiki/log.md`):** Append an entry:
 
@@ -118,7 +118,7 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 - Updated: concepts/<existing-concept>, entities/<existing-entity>
 ```
 
-No wikilinks in log entries.
+No links in log entries.
 
 ---
 

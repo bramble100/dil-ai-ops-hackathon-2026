@@ -60,7 +60,9 @@ title: "<Descriptive title>"
 type: source
 source_path: "raw/articles/filename.md"
 source_url: "<original URL if applicable>"
-date_ingested: "YYYY-MM-DD"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
+status: "complete | partial | incomplete"
 tags: [tag1, tag2]
 ---
 ```
@@ -81,7 +83,8 @@ A topic/idea/pattern/technique that appears across multiple sources. Evolves as 
 title: "<Concept name>"
 type: concept
 source_count: <number of sources informing this page>
-last_updated: "YYYY-MM-DD"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
 ---
 ```
@@ -103,7 +106,8 @@ A specific named thing: a tool, person, organization, product, framework, servic
 title: "<Entity name>"
 type: entity
 entity_kind: "tool | person | organization | product | framework | service"
-last_updated: "YYYY-MM-DD"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
 ---
 ```
@@ -124,8 +128,8 @@ A human-requested or agent-derived analysis. Comparisons, trend analyses, connec
 ---
 title: "<Descriptive title>"
 type: synthesis
-date_created: "YYYY-MM-DD"
-last_updated: "YYYY-MM-DD"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
 ---
 ```
@@ -141,8 +145,8 @@ An open question, contradiction, or gap identified during ingest or lint. Stays 
 title: "<Question as a sentence>"
 type: question
 status: "open | investigating | resolved"
-date_opened: "YYYY-MM-DD"
-date_resolved: "YYYY-MM-DD"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
 ---
 ```
@@ -260,7 +264,7 @@ Append-only chronological record. Parseable format.
 Rules:
 
 - Each entry starts with `## [YYYY-MM-DD] operation | Title`
-- NO wikilinks in log entries (keeps Obsidian graph clean)
+- NO links in log entries (keeps Obsidian graph clean)
 - Keep entries concise: 2-5 lines each
 - After 50+ entries, compact older entries (sessions > 30 days become one-line summaries)
 

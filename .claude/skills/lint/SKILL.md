@@ -49,7 +49,7 @@ Check for each of the following. Rate findings by severity.
 **Important (address soon):**
 
 - Contradictions between pages (two pages making conflicting claims about the same topic)
-- Broken wikilinks (links pointing to pages that don't exist)
+- Broken links (links pointing to pages that don't exist)
 - Pages exceeding budget (see Growth Management in `AGENTS.md`)
 
 **Medium (address when convenient):**
@@ -82,7 +82,7 @@ Present as a checklist grouped by severity:
 ### Important
 
 - [ ] Contradiction: concepts/X claims "A" but sources/Y says "B"
-- [ ] Broken link: concepts/Z links to [[entities/nonexistent]]
+- [ ] Broken link: concepts/Z links to entities/nonexistent.md
 
 ### Medium
 
@@ -124,6 +124,6 @@ Append to `wiki/log.md`:
 ## Edge Cases
 
 - **Don't create pages during lint.** Lint identifies gaps; the user decides whether to fill them. Exception: fixing broken links or index inconsistencies (mechanical fixes).
-- **Source summaries are intentionally leaf nodes.** They link out to concepts/entities but shouldn't have inbound wikilinks (other pages cite them via footnotes). Don't flag these as orphans.
+- **Source summaries are intentionally leaf nodes.** They link out to concepts/entities but shouldn't have inbound links (other pages cite them via footnotes). Don't flag these as orphans.
 - **Stale != wrong.** A page from 3 months ago might still be perfectly accurate. Flag staleness only when newer relevant sources exist.
 - **Growth budgets are guidelines, not hard limits.** A concept page at 90 lines that's well-organized is fine. A page at 60 lines that's a disorganized mess is worse. Use judgment.
