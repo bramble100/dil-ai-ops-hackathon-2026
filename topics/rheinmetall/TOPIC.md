@@ -37,7 +37,6 @@ wiki/
   concepts/             # Thematic and strategic concept pages
     automotive-to-defense-pivot.md
     european-defense-spending.md
-    nato-2-percent-target.md
     ukraine-war-impact.md
     ammunition-capacity-expansion.md
     digitalization-and-ai.md
@@ -66,7 +65,7 @@ Every wiki page starts with YAML frontmatter:
 ---
 title: Page Title
 type: source | entity | concept | financial | comparison | overview
-sources: [ar-2025, transcript-fy20]   # which raw sources informed this page
+sources: [ar-2025, transcript-fy20] # which raw sources informed this page
 created: 2026-04-16
 updated: 2026-04-16
 status: draft | complete

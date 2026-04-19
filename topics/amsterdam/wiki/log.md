@@ -10,15 +10,15 @@ updated: 2026-04-19
 ## [2026-04-16] init | Wiki bootstrapped
 
 - Initial wiki creation
-**Sources inventoried:** 11 files (10 HTML web pages + 1 PDF)
-**Languages:** Spanish (3), Hungarian (3), Dutch (1), English (3), PDF (1)
-**Pages created:** SCHEMA.md, index.md, log.md, overview.md
-**Notes:** Sources are saved web pages (HTML + assets). Topics span Amsterdam attractions, Netherlands day trips, Dutch culture, specific venues (Keukenhof, Cruquius Museum, Die Port van Cleve hotel). Content appears to be trip-planning research for a 2026 visit.
+  **Sources inventoried:** 11 files (10 HTML web pages + 1 PDF)
+  **Languages:** Spanish (3), Hungarian (3), Dutch (1), English (3), PDF (1)
+  **Pages created:** SCHEMA.md, index.md, log.md, overview.md
+  **Notes:** Sources are saved web pages (HTML + assets). Topics span Amsterdam attractions, Netherlands day trips, Dutch culture, specific venues (Keukenhof, Cruquius Museum, Die Port van Cleve hotel). Content appears to be trip-planning research for a 2026 visit.
 
 ## [2026-04-16] ingest | Full batch (11 sources)
 
 - Full batch ingest of all 11 source documents
-**Sources processed:**
+  **Sources processed:**
 
 - 10 lugares que ver en Holanda (Viajeros Callejeros, Spanish, ~28,800 chars) -- 10 must-see places
 - 30 cosas que hacer y ver en los Paises Bajos (Sinohasviajado, Spanish, 61 chars) -- **extraction failed**
@@ -89,3 +89,8 @@ updated: 2026-04-19
 - Renamed frontmatter field raw_file to source_path across all 11 source summaries
 - Standardized link format to markdown links (confirmed compatible with Obsidian graph view)
 - Standardized log entry headers to [date] operation | title format
+
+## [2026-04-19] maintenance | TOPIC.md cleanup
+
+- Removed 3 unbuilt place pages from TOPIC.md directory listing: jordaan, ndsm-wharf, a-dam-lookout
+- No source coverage exists for these locations; can be re-added if sources are ingested

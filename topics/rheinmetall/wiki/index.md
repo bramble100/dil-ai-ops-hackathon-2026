@@ -8,9 +8,11 @@ updated: 2026-04-16
 # Rheinmetall AG Wiki - Index
 
 ## Overview
+
 - [Overview](overview.md) - Executive summary of Rheinmetall AG: key metrics, structure, history, leadership
 
 ## Source Summaries
+
 - [Annual Report 2017](sources/ar-2017.md) - Geschaeftsbericht FY2017; last year before major defense upswing
 - [Annual Report 2018](sources/ar-2018.md) - Revenue 6.1bn, early signs of defense growth
 - [Annual Report 2019](sources/ar-2019.md) - Peak pre-COVID revenue 6.3bn, automotive still significant
@@ -25,12 +27,14 @@ updated: 2026-04-16
 - [Transcript FY2020](sources/transcript-fy20.md) - FY20 results, defense resilience vs automotive weakness
 
 ## Entity Pages
+
 - [Armin Papperger](entities/armin-papperger.md) - CEO since 2013, architect of the defense transformation
 - [Helmut Merch](entities/helmut-merch.md) - CFO 2014-2024, steered finances through the pivot
 - [Rheinmetall AG - Corporate Profile](entities/rheinmetall-ag.md) - Legal structure, listing, governance
 - [Key Subsidiaries & JVs](entities/key-subsidiaries.md) - RBSL, Leonardo JV, Rheinmetall MAN, Expal, etc.
 
 ## Concept Pages
+
 - [Automotive to Defense Pivot](concepts/automotive-to-defense-pivot.md) - The multi-year transformation from dual-segment conglomerate to pure defense
 - [European Defense Spending](concepts/european-defense-spending.md) - NATO 2% target, Zeitenwende, EU defense fund
 - [Ukraine War Impact](concepts/ukraine-war-impact.md) - How the Feb 2022 invasion reshaped Rheinmetall's trajectory
@@ -39,6 +43,7 @@ updated: 2026-04-16
 - [Export Controls](concepts/export-controls.md) - German/EU arms export regime and its impact on Rheinmetall
 
 ## Financial Analysis
+
 - [Revenue Trends](financials/revenue-trends.md) - Revenue 2017-2025 with segment breakdown and growth drivers
 - [Profitability Trends](financials/profitability-trends.md) - Operating margins, EBIT, ROCE evolution
 - [Order Backlog Analysis](financials/order-backlog-analysis.md) - EUR 63.8bn backlog: composition, visibility, conversion
@@ -47,5 +52,11 @@ updated: 2026-04-16
 - [Employee Growth](financials/employee-growth.md) - Headcount evolution reflecting strategic shift
 
 ## Comparisons
+
 - [Pre vs Post Ukraine](comparisons/pre-vs-post-ukraine.md) - Financial and strategic inflection at Feb 2022
 - [Guidance vs Actuals](comparisons/guidance-vs-actuals.md) - Management's track record on forward guidance
+
+## Open Questions
+
+- [2022 Operating Result Discrepancy](questions/2022-operating-result-discrepancy.md) - 754 MioEUR (AR 2022) vs 769 MioEUR (later reports) — likely PPA adjustment (open)
+- [2023 ROCE Discrepancy](questions/2023-roce-discrepancy.md) - 19.9% (AR 2023) vs 21.4% (AR 2025) — unexplained restatement (open)

@@ -10,14 +10,14 @@ updated: 2026-04-19
 ## [2026-04-16] init | Wiki bootstrapped
 
 - Initial wiki creation
-**Sources inventoried:** 12 PDFs (8 annual reports 2017-2023+2025, 4 earnings call transcripts FY17-FY20)
-**Pages created:** SCHEMA.md, index.md, log.md, overview.md
-**Notes:** Raw corpus is ~3,000 pages. Annual reports 2017-2020 are in German (Geschaeftsbericht format with ISIN-based filenames). Reports from 2021 onward use English titles but content remains German. Earnings call transcripts are in English. No 2024 annual report in corpus -- gap noted.
+  **Sources inventoried:** 12 PDFs (8 annual reports 2017-2023+2025, 4 earnings call transcripts FY17-FY20)
+  **Pages created:** SCHEMA.md, index.md, log.md, overview.md
+  **Notes:** Raw corpus is ~3,000 pages. Annual reports 2017-2020 are in German (Geschaeftsbericht format with ISIN-based filenames). Reports from 2021 onward use English titles but content remains German. Earnings call transcripts are in English. No 2024 annual report in corpus -- gap noted.
 
 ## [2026-04-16] ingest | Full batch (12 sources)
 
 - Full batch ingest of all 12 source documents
-**Sources processed:**
+  **Sources processed:**
 
 - DE0007030009-JA-2017-EQ-D-01.pdf (Annual Report 2017, 226pp)
 - DE0007030009-JA-2018-EQ-D-00.pdf (Annual Report 2018, 230pp)
@@ -81,3 +81,10 @@ updated: 2026-04-19
 - Renamed frontmatter field raw_file to source_path across all 12 source summaries
 - Standardized link format to markdown links (confirmed compatible with Obsidian graph view)
 - Standardized log entry headers to [date] operation | title format
+
+## [2026-04-19] maintenance | File contradiction questions + TOPIC cleanup
+
+- Created: questions/2022-operating-result-discrepancy (754 vs 769 MioEUR operating result)
+- Created: questions/2023-roce-discrepancy (19.9% vs 21.4% ROCE)
+- Updated index.md with Open Questions section
+- Removed nato-2-percent-target.md from TOPIC.md (content merged into european-defense-spending)

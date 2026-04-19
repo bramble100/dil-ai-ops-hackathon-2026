@@ -34,10 +34,7 @@ wiki/
     dam-square.md
     canal-ring.md
     red-light-district.md
-    jordaan.md
     albert-cuyp-market.md
-    ndsm-wharf.md
-    a-dam-lookout.md
 
     # Greater Netherlands
     keukenhof.md
