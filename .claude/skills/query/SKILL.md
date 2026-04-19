@@ -26,11 +26,13 @@ description: Answers questions by searching the wiki, synthesizing from relevant
 
 ## Phase 1: Search the Index
 
-Read `wiki/index.md` to identify relevant pages. Look for:
+Read `TOPIC.md` to understand the wiki layout before searching. Also list the actual `wiki/` subdirectories — if they diverge from what `TOPIC.md` declares, use the actual structure and note the discrepancy. Then read `wiki/index.md` to identify relevant pages. Look for:
 
-- **Direct matches** - The question mentions a concept or entity that has a page
+- **Direct matches** - The question mentions a topic that has a dedicated page (concept, entity, place, financial analysis, etc., depending on the topic's layout)
 - **Indirect matches** - The question relates to themes covered by existing pages
 - **Source summaries** that might contain relevant claims
+
+Search across all wiki subfolders listed in the layout, not just `concepts/` and `entities/`.
 
 ---
 

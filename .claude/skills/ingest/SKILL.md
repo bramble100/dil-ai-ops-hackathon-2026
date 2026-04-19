@@ -1,11 +1,11 @@
 ---
 name: ingest
-description: Processes raw source documents into the wiki - creates source summaries, updates concept/entity pages, maintains index and log. Discovers unprocessed sources when no file is specified. Use when the user adds a source, drops a file into raw/, or says "ingest". Triggers on phrases like "ingest", "process this source", "process this file", "add this to the wiki", "what's unprocessed".
+description: Processes raw source documents into the wiki - creates source summaries, updates wiki pages, maintains index and log. Discovers unprocessed sources when no file is specified. Use when the user adds a source, drops a file into raw/, or says "ingest". Triggers on phrases like "ingest", "process this source", "process this file", "add this to the wiki", "what's unprocessed".
 ---
 
 # Ingest Source
 
-**Purpose:** Process a raw source document into a structured, interlinked wiki entry - creating a summary, updating concept and entity pages, and maintaining the index and log.
+**Purpose:** Process a raw source document into a structured, interlinked wiki entry - creating a summary, updating wiki pages, and maintaining the index and log.
 
 ## When to Apply
 
@@ -22,7 +22,7 @@ description: Processes raw source documents into the wiki - creates source summa
 2. **Read** - Read the source completely
 3. **Discuss** - Brief conversation about key takeaways
 4. **Summarize** - Create a source summary page
-5. **Integrate** - Update concept and entity pages
+5. **Integrate** - Update wiki pages
 6. **Bookkeep** - Update index and log
 
 ---
@@ -30,6 +30,10 @@ description: Processes raw source documents into the wiki - creates source summa
 ## Phase 1: Discover Unprocessed Sources
 
 **When:** The user says "ingest" without naming a specific file.
+
+**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). If any exist, classify each by type and move it to the appropriate subfolder (`articles/`, `papers/`, `notes/`, or `assets/`). Confirm the classification with the user before moving. This keeps `raw/` organized while letting users drop files anywhere.
+
+**Step 2 — Find unprocessed sources.**
 
 1. List all files in `raw/` across subdirectories (articles, papers, notes). Exclude `.gitkeep` and files in `assets/`.
 2. Read `source_path` frontmatter from every file in `wiki/sources/`.
@@ -42,6 +46,7 @@ description: Processes raw source documents into the wiki - creates source summa
 
 ## Phase 2: Read the Source
 
+- **First:** Read `TOPIC.md` to understand the topic's wiki layout, page conventions, and domain-specific rules. This determines where new pages are filed in Phase 5. Also list the actual `wiki/` subdirectories — if they diverge from what `TOPIC.md` declares, use the actual structure and note the discrepancy to the user.
 - Read the entire source file.
 - If the user provides a **URL** instead of a file: fetch the URL, convert to clean markdown, save to `raw/articles/<slug>.md`, then proceed.
 - Note the source's original URL if present (often in frontmatter from Obsidian Web Clipper).
@@ -80,15 +85,10 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 
 ## Phase 5: Update Existing Pages
 
-**Concepts:** For each key concept in the source:
+Read the wiki layout from `TOPIC.md` (or use the defaults: `concepts/`, `entities/`, `syntheses/`, `questions/`). For each key idea, person, place, or thing in the source, determine which wiki folder it belongs to based on the layout. Create or update pages in the appropriate folder.
 
-- Existing page: update with new information, add source to footnotes, increment `source_count`.
-- No page exists: create one with `source_count: 1`.
-
-**Entities:** For each named entity (tool, person, org, product):
-
-- Existing page: update, add source reference.
-- No page exists: create one.
+- **Existing page:** Update with new information, add source to footnotes, increment `source_count` if applicable.
+- **No page exists:** Create one in the appropriate folder with proper frontmatter.
 
 **Contradiction handling:** When the new source contradicts existing wiki content:
 
@@ -114,8 +114,8 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 ## [YYYY-MM-DD] ingest | <Source Title>
 
 - Source: raw/articles/<filename>.md
-- Created: sources/<slug>, concepts/<new-concept>, entities/<new-entity>
-- Updated: concepts/<existing-concept>, entities/<existing-entity>
+- Created: sources/<slug>, <folder>/<new-page>, <folder>/<new-page>
+- Updated: <folder>/<existing-page>, <folder>/<existing-page>
 ```
 
 No links in log entries.

@@ -8,6 +8,14 @@
 
 AI from a software engineer's perspective. This is not an academic ML research wiki - it's a practitioner's knowledge base focused on **using AI effectively as a tool for building software**.
 
+## Wiki Layout
+
+- `sources/` - One summary per raw source document (always present)
+- `concepts/` - Ideas, patterns, techniques (prompt engineering, RAG, agent patterns, etc.)
+- `entities/` - Tools, people, organizations, products (Copilot, Claude Code, Cursor, etc.)
+- `syntheses/` - Analyses, comparisons, connection maps
+- `questions/` - Open questions, contradictions to investigate
+
 ## Scope
 
 - **Tools & Products:** LLM providers (OpenAI, Anthropic, Google), coding agents (Copilot, Claude Code, Cursor), IDEs, MCP servers, plugins
