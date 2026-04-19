@@ -118,6 +118,8 @@ Content structure:
 
 A specific named thing: a tool, person, organization, product, framework, service.
 
+> **Judgment:** Not every mentioned entity needs a page. Create one only if the entity has recurring relevance or if a reader would plausibly look it up. See the heuristic guidance under [Topic-Specific Configuration](#topic-specific-configuration) for how to write actionable entity criteria in `TOPIC.md`.
+
 ```yaml
 ---
 title: "<Entity name>"
@@ -381,6 +383,12 @@ Each topic can optionally have a `TOPIC.md` file at `topics/<slug>/TOPIC.md` wit
 - Domain-specific ingest notes (routing hints beyond what the layout implies)
 
 The global schema (this file) always applies. `TOPIC.md` adds domain-specific guidance on top.
+
+### Writing Good TOPIC.md Configuration
+
+**Tag lists should be framed as extensible vocabulary.** If your `TOPIC.md` defines a list of tags, explicitly say they are a starting point — not a closed set. Agents treat unlabeled lists as exhaustive. Write: _"These are suggested tags — extend freely when content doesn't fit existing vocabulary."_
+
+**Heuristics must be answerable at batch time.** Ingest processes a small batch of sources at once, never the full corpus. Avoid rules like "create an entity page for people mentioned in 3+ letters" — the agent can't know this during ingestion. Write heuristics that can be decided source-by-source: _"Create an entity page if this entity has a named decision-making role, or if a reader would plausibly look it up to understand a key principle."_
 
 ---
 

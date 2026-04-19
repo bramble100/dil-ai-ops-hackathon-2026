@@ -80,6 +80,7 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 - No clear title? Derive one from the content. Don't use the filename.
 - Tweet or thread? The title should capture the key claim, not "Tweet by @handle".
 - Keep summaries tight: 3-5 sentences for the overview. Full content lives in `raw/`.
+- **Obsidian Web Clipper sources** may have `tags: - "clippings"` in their frontmatter (a Web Clipper artifact). Before ingesting, normalize this tag to something meaningful — or ask the user what tag to use. Don't carry the `clippings` artifact into source summary frontmatter.
 
 ---
 
