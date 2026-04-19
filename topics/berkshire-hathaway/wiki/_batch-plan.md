@@ -8,11 +8,11 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 1 — 1977-1981 (early Berkshire, short letters)
 
-- [ ] buffett-letter-1977.md
-- [ ] buffett-letter-1978.md
-- [ ] buffett-letter-1979.md
-- [ ] buffett-letter-1980.md
-- [ ] buffett-letter-1981.md
+- [x] buffett-letter-1977.md
+- [x] buffett-letter-1978.md
+- [x] buffett-letter-1979.md
+- [x] buffett-letter-1980.md
+- [x] buffett-letter-1981.md
 
 ### Batch 2 — 1982-1986 (early Berkshire, short letters)
 

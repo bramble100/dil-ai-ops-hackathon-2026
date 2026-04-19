@@ -41,3 +41,10 @@
 - Added standalone page guidance: quotes.md, timeline.md, acquisitions-timeline.md
 - Updated index.md: changed "Expected:" definitive lists to "e.g." illustrative examples
 - Updated ingest notes: source discovery limited to raw/articles/, PDF formatting caveats documented
+
+## [2026-04-20] ingest-batch | Batch 1 — 1977-1981 (early Berkshire, foundational letters)
+
+- Sources: raw/articles/buffett-letter-1977.md, buffett-letter-1978.md, buffett-letter-1979.md, buffett-letter-1980.md, buffett-letter-1981.md
+- Created: sources/buffett-letter-1977 through 1981, principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/inflation-and-investing, principles/capital-allocation, entities/geico, entities/national-indemnity, entities/sees-candies, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
+- Updated: index.md
+- Notes: All principle pages marked draft — will be enriched as later batches add sources. Batch establishes foundational framework: ROE yardstick, four filters, owner earnings, business quality, underwriting discipline, inflation analysis, capital allocation. GEICO and textiles are the anchor case studies (positive and negative).
