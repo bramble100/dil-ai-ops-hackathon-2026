@@ -1,6 +1,6 @@
 ---
 name: ingest
-description: Processes raw source documents into the wiki - creates source summaries, updates wiki pages, maintains index and log. Discovers unprocessed sources when no file is specified. Use when the user adds a source, drops a file into raw/, or says "ingest". Triggers on phrases like "ingest", "process this source", "process this file", "add this to the wiki", "what's unprocessed".
+description: Processes raw source documents into the wiki - creates source summaries, updates wiki pages, maintains index and log. Discovers unprocessed sources when no file is specified. Supports batch mode for topics with many sources (uses _batch-plan.md). Use when the user adds a source, drops a file into raw/, or says "ingest". Triggers on phrases like "ingest", "process this source", "process this file", "add this to the wiki", "what's unprocessed", "process the next batch".
 ---
 
 # Ingest Source
@@ -25,6 +25,8 @@ description: Processes raw source documents into the wiki - creates source summa
 5. **Integrate** - Update wiki pages
 6. **Bookkeep** - Update index and log
 
+→ **Batch mode** (10+ sources or `_batch-plan.md` exists): read `.claude/skills/ingest/BATCH.md` before proceeding.
+
 ---
 
 ## Phase 1: Discover Unprocessed Sources
@@ -38,7 +40,8 @@ description: Processes raw source documents into the wiki - creates source summa
 1. List all files in `raw/` across subdirectories (articles, papers, notes). Exclude `.gitkeep` and files in `assets/`.
 2. Read `source_path` frontmatter from every file in `wiki/sources/`.
 3. Compare the two lists. Present unprocessed files as a numbered list.
-4. Ask the user which file(s) to process.
+4. **Batch plan check:** If there are 10 or more unprocessed files, or if a quick size check (`wc -l` across the files) suggests a total reading load above ~3000 lines, pause before asking which files to process. Explain the context degradation risk and recommend batch mode: _"There are N unprocessed sources — processing them all at once risks degraded quality as context fills up. Would you like to create a batch plan first?"_ If yes, load `.claude/skills/ingest/BATCH.md` and follow the Generating a Batch Plan workflow. If no, proceed — but cap the session at 3–5 sources.
+5. Ask the user which file(s) to process.
 
 **Skip this phase** when the user names a specific file or provides a URL.
 
@@ -123,14 +126,11 @@ No links in log entries.
 
 ---
 
-## Batch Ingest
+## Batch Mode
 
-For multiple sources, process 3-5 at a time. After each batch:
+**When:** A `wiki/_batch-plan.md` exists, there are 10+ unprocessed sources, or the user says "create a batch plan" / "prepare for ingestion" / "process the next batch".
 
-- Pause and let the user review the new/updated pages.
-- Ask if emphasis or direction should be adjusted before continuing.
-
-This prevents context degradation on large batches.
+**Load:** Read `.claude/skills/ingest/BATCH.md` — it covers session state recovery, batch workflow, log format, progress tracking, and plan generation.
 
 ---
 
