@@ -1,7 +1,7 @@
 ---
 title: "Source: 10 lugares que ver en Holanda imprescindibles"
 type: source
-raw_file: viajeros-callejeros.html
+source_path: "raw/viajeros-callejeros.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

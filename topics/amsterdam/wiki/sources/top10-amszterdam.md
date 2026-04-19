@@ -1,7 +1,7 @@
 ---
 title: "Source: Top 10 latnivalo Amszterdamban, terkeppel!"
 type: source
-raw_file: top10-amszterdam.html
+source_path: "raw/top10-amszterdam.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

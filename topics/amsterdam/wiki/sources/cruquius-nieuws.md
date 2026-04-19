@@ -1,7 +1,7 @@
 ---
 title: "Source: Cruquius Museum Nieuws (News)"
 type: source
-raw_file: cruquius-nieuws.html
+source_path: "raw/cruquius-nieuws.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

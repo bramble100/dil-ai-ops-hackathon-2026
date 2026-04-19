@@ -1,7 +1,7 @@
 ---
 title: "Source: Keukenhof Official Website"
 type: source
-raw_file: keukenhof.html
+source_path: "raw/keukenhof.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

@@ -15,8 +15,8 @@ This project uses a shared schema. All wiki conventions, workflows, and rules ar
 
 1. Never modify files in `raw/` - sources are immutable
 2. Always update `wiki/index.md` and `wiki/log.md` after changes
-3. Use Obsidian wikilinks: `[[concepts/page-name|Display Text]]`
-4. No wikilinks in `log.md`
+3. Use standard markdown links: `[Display Text](relative/path.md)` (not Obsidian wikilinks)
+4. No links in `log.md`
 5. Respect page budgets (see AGENTS.md Growth Management section)
 6. Cite sources via inline footnotes
 7. Discuss key takeaways with the human before filing during ingest

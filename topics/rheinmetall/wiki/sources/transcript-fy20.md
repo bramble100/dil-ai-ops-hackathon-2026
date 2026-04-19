@@ -1,7 +1,7 @@
 ---
 title: "Source: Earnings Call Transcript FY2020"
 type: source
-raw_file: 2021-03-18_Rheinmetall_Transcript_Conference_Call_FY2020.pdf
+source_path: "raw/2021-03-18_Rheinmetall_Transcript_Conference_Call_FY2020.pdf"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

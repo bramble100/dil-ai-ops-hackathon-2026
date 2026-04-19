@@ -158,25 +158,26 @@ When a question is resolved, move the answer into the appropriate concept/entity
 
 ---
 
-## Cross-Linking Conventions (Obsidian)
+## Cross-Linking Conventions
 
-Use Obsidian-style wikilinks for all cross-references within a topic's wiki:
+Use standard markdown links for all cross-references within a topic's wiki:
 
 ```markdown
-See [[concepts/prompt-engineering]] for more on this technique.
-This builds on [[entities/claude-code|Claude Code]]'s agent capabilities.
-As noted in [[sources/karpathy-llm-wiki-2026|Karpathy's LLM Wiki gist]], ...
+See [prompt engineering](concepts/prompt-engineering.md) for more on this technique.
+This builds on [Claude Code](entities/claude-code.md)'s agent capabilities.
+As noted in the [Karpathy LLM Wiki gist](sources/karpathy-llm-wiki-2026.md), ...
 ```
 
-Format: `[[relative-path-from-wiki-root|Optional Display Text]]`
+Format: `[Display Text](relative-path-from-current-file.md)`
 
 Rules:
 
-- Links are relative to the `wiki/` directory
-- Always include the subfolder: `[[concepts/name]]`, not just `[[name]]`
-- Use display text when the filename isn't reader-friendly: `[[entities/vscode|VS Code]]`
-- Do NOT add wikilinks in `log.md` (it pollutes the Obsidian graph with low-value connections)
-- Source summary pages are leaf nodes in the graph - they link OUT to concepts/entities but other pages link to them via footnotes, not wikilinks
+- Use standard markdown links (`[text](path.md)`), not Obsidian wikilinks (`[[path]]`)
+- Both formats work in Obsidian (rendering, graph view, backlinks) - markdown links are preferred because they also work in VS Code, Cursor, and GitHub
+- Paths are relative to the current file (use `../` to navigate up)
+- Always include the `.md` extension in link targets
+- Do NOT add links in `log.md` (it pollutes the Obsidian graph with low-value connections)
+- Source summary pages are leaf nodes in the graph - they link OUT to concepts/entities but other pages link to them via footnotes, not direct links
 
 ---
 
@@ -204,28 +205,28 @@ Format:
 
 ## Sources
 
-- [[sources/karpathy-llm-wiki-2026]] - Karpathy's LLM Wiki pattern for persistent knowledge bases (2026-04-02)
+- [Karpathy LLM Wiki 2026](sources/karpathy-llm-wiki-2026.md) - Karpathy's LLM Wiki pattern for persistent knowledge bases (2026-04-02)
 
 ## Concepts
 
-- [[concepts/prompt-engineering]] - Techniques for crafting effective LLM prompts (3 sources)
+- [Prompt Engineering](concepts/prompt-engineering.md) - Techniques for crafting effective LLM prompts (3 sources)
 
 ## Entities
 
-- [[entities/claude-code]] - Anthropic's CLI coding agent (2 sources)
+- [Claude Code](entities/claude-code.md) - Anthropic's CLI coding agent (2 sources)
 
 ## Syntheses
 
-- [[syntheses/rag-vs-wiki-comparison]] - Comparison of RAG and wiki approaches (2026-04-05)
+- [RAG vs Wiki Comparison](syntheses/rag-vs-wiki-comparison.md) - Comparison of RAG and wiki approaches (2026-04-05)
 
 ## Open Questions
 
-- [[questions/wiki-scaling-limits]] - At what scale does the markdown wiki pattern break down? (open)
+- [Wiki Scaling Limits](questions/wiki-scaling-limits.md) - At what scale does the markdown wiki pattern break down? (open)
 ```
 
 Rules:
 
-- One line per page: wikilink + one-sentence summary + metadata hint (date or source count)
+- One line per page: markdown link + one-sentence summary + metadata hint (date or source count)
 - Organized by page type
 - Updated on every ingest operation
 - Source count on concept/entity pages helps the LLM (and human) gauge depth
@@ -313,7 +314,7 @@ Use inline footnotes for source attribution:
 ```markdown
 LLM Wikis outperform RAG for synthesizing knowledge across documents[^1].
 
-[^1]: [[sources/karpathy-llm-wiki-2026]] - "The wiki is a persistent, compounding artifact"
+[^1]: [Karpathy LLM Wiki 2026](sources/karpathy-llm-wiki-2026.md) - "The wiki is a persistent, compounding artifact"
 ```
 
 ### What the Agent Should NOT Do
@@ -321,7 +322,7 @@ LLM Wikis outperform RAG for synthesizing knowledge across documents[^1].
 - Never modify files in `raw/`. Sources are immutable.
 - Never fabricate claims. If unsure, say so and file a question.
 - Never remove content without the human's approval (move to archive section or git handles history).
-- Never add wikilinks to `log.md`.
+- Never add links to `log.md`.
 
 ---
 
