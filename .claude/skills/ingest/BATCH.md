@@ -27,7 +27,7 @@ If existing wiki pages are relevant to the current batch (e.g., a principle page
 Process all sources in the batch together, not sequentially:
 
 1. **Read all sources** in the batch completely (Phase 2 for each)
-2. **One combined discussion** (Phase 3) — cover the batch as a group: what themes emerge, what connects them, what's new vs. what reinforces existing wiki content. Skip if the user says "just process it."
+2. **One combined discussion** (Phase 3) — cover the batch as a group: what themes emerge, what connects them, what's new vs. what reinforces existing wiki content. **Skipped by default** (auto-mode) — see Phase 3 in SKILL.md. Only engage if the user says "discuss mode" or if genuine ambiguity requires input (use `vscode_askQuestions` inline).
 3. **Create all source summaries** (Phase 4 for each source)
 4. **Integrate into wiki pages** (Phase 5) — holistic update, not per-source:
    - Group related claims from across the batch before writing to any page

@@ -64,7 +64,9 @@ Brief exchange, not a monologue. Cover:
 - Does the user want any particular emphasis or angle?
 - Any connections to existing wiki content you've noticed?
 
-**Skip this phase** if the user says "just process it" or similar. Use your best judgment on emphasis.
+**Auto-mode (default):** Skip this phase — proceed with best judgment. This avoids doubling interactions and cost, especially during batch processing. If genuine input is needed (ambiguous domain, contradictory sources, unclear categorization), use the `vscode_askQuestions` tool to collect it inline rather than pausing for a discussion turn.
+
+**Discussion mode:** The user can say "discuss mode" or "let's discuss" to opt into this phase for a specific session or source.
 
 ---
 
@@ -84,6 +86,7 @@ Create `wiki/sources/<slug>.md` using the Source Summary page type from `AGENTS.
 - Tweet or thread? The title should capture the key claim, not "Tweet by @handle".
 - Keep summaries tight: 3-5 sentences for the overview. Full content lives in `raw/`.
 - **Obsidian Web Clipper sources** may have `tags: - "clippings"` in their frontmatter (a Web Clipper artifact). Before ingesting, normalize this tag to something meaningful — or ask the user what tag to use. Don't carry the `clippings` artifact into source summary frontmatter.
+- **Citation prefixes in Key Claims:** Do NOT prefix claims with `[YYYY Letter]` or `[Source Name]` in source summary pages — the file itself is about that single source, so the attribution is redundant. Reserve attribution labels (e.g., `[1981 Letter]`, `[Multi-year]`, `[Analysis]`) for wiki content pages (principles, entities, case studies, etc.) where claims from multiple sources appear together.
 
 ---
 
