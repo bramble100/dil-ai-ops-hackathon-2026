@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -91,6 +91,33 @@ Combined ratio improves from 134 (1984) to 111 (1985), but underreserving from p
 ### Insurance Capacity and the Commodity Cycle (1985)
 
 **[1985 Letter]** The 1985 insurance cycle confirms the commodity business framework: ~15 insurers raised $3B+ in capital to write business at better prices, and the trend is accelerating. "If capacity additions continue at this rate, it won't be long before serious price-cutting appears." The fault lies with capital-raisers of 1985-86, not future price-cutters — "the dynamics of capitalism cause each insurer to make decisions that for itself appear sensible, but that collectively slash profitability."
+
+### Not More Statesmen, But Less Corn (1986)
+
+**[1986 Letter]** The most vivid articulation of why pricing discipline is futile when capacity is abundant. Insurance leaders "beseech their colleagues to behave in a more 'statesmanlike' manner when pricing policies." Buffett's retort: "What's needed is not more statesmen, but less corn" — just as a Nebraska farmer can't ask worldwide growers to "market their corn with more statesmanship."
+
+The 1985-86 capital influx ($3B+ raised, newly formed insurers) guarantees future trouble: "capacity soars, competitive juices flow, and prices fade." The irony: "the managers of certain major new competitors are the very same managers that just a few years ago bankrupted insurers that were our old competitors."
+
+NICO's monthly volume: $5M (late 1984) → $35M (early 1986) → declining as new capacity arrives.
+
+### The Commodity Diagnosis (1987)
+
+**[1987 Letter]** Insurance is "cursed with a set of dismal economic characteristics: hundreds of competitors, ease of entry, and a product that cannot be differentiated in any meaningful way." Only two escapes: (1) lowest cost, or (2) a protected niche.
+
+Berkshire's two differentiators:
+
+1. **Financial strength** — "when a buyer really focuses on whether a $10 million claim can be easily paid five or ten years down the road... he will find only a few companies he can trust. Among those, Berkshire will lead the pack"
+2. **Total indifference to volume** — "In 1989, we will be perfectly willing to write five times as much business as we write in 1988 — or only one-fifth as much"
+
+Three structural features enable this flexibility: (a) market share is irrelevant to profitability; (b) distribution channels are non-proprietary; (c) idle capacity (people) is affordable.
+
+**[1987 Letter]** The "Disraeli" phenomenon: "What we learn from history is that we do not learn from history" — managers expand capacity the moment shortages appear, guaranteeing the shortage's end.
+
+### Insurance Earnings Skepticism (1987)
+
+**[1987 Letter]** "You should be very suspicious of any earnings figures reported by insurers (including our own)." Auditors annually certify numbers they know are likely to differ dramatically from true earnings. Buffett proposes new audit language: "We have relied upon representations of management... We can express no opinion about the accuracy of these figures."
+
+The 1987 fresh-start adjustment inflated Berkshire's earnings by $8.2M — a one-time benefit from converting to discounted reserves for tax purposes.
 
 ## Key People
 

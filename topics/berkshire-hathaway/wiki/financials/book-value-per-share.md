@@ -1,7 +1,7 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -26,6 +26,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1983     | $975.83          | 32%        | 22.6%                     |
 | 1984     | $1,108.77        | 13.6%      | 22.1%                     |
 | 1985     | $1,643.71        | 48.2%      | 23.2%                     |
+| 1986     | $2,073.06        | 26.1%      | 23.3%                     |
+| 1987     | $2,477.47        | 19.5%      | 23.1%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding: ~1,146,909 (end 1985) — virtually no dilution over 21 years._
 
@@ -39,6 +41,9 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1983 Letter]** Blue Chip merger completed with virtually no dilution since 1965: 1,146,909 shares vs. 1,137,778 shares at the start — all growth was organic
 - **[1984 Letter]** Gain of $152.6M ($133/share) "sounds pretty good but actually it's mediocre." 13.6% return is the lowest single-year performance in the series so far. "You can be certain that this percentage will diminish in the future." Scale drag: earning 15% over the next decade requires ~$3.9B in aggregate profits.
 - **[1985 Letter]** Gain of $613.6M ($535/share, 48.2%) — "fitting that the visit of Halley's Comet coincided with this percentage gain: neither will be seen again in my lifetime." $468.9M of pre-tax gains from security sales, mostly General Foods sale. CAGR climbs to 23.2% but "An iron law of business is that growth eventually dampens exceptional economics." Comparable decade-ahead target now $5.7B.
+
+- **[1986 Letter]** Net worth gain $492.5M (26.1%). Corporate net worth increased 10,600% over 22 years while shares outstanding increased less than 1%. Business value "probably exceeded the book value gain" — driven by managers improving earnings on little additional capital (unrecorded economic Goodwill).
+- **[1987 Letter]** Net worth gain $464M (19.5%). CAGR dips slightly to 23.1%. Business value "moderately outpacing" book value growth over the last decade. Seven non-financial units alone demonstrate the gap: $180M pre-tax on $175M equity, carried at $222M above underlying book.
 
 ## The Inflation Caveat
 

@@ -1,7 +1,7 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -82,6 +82,30 @@ The capex trap in commodity businesses: each company's investment decision "appe
 ### The Power of Economic Goodwill, Demonstrated (1985)
 
 **[1985 Letter]** NFM, See's, and the Buffalo News combined: $72M pre-tax earnings (vs. $8M fifteen years earlier) with only ~$40M in additional invested capital. The average American business requires ~$5 of additional capital for every $1 of additional pre-tax earnings — these three would have needed $300M+ of incremental capital to achieve the same growth at average economics.
+
+### Tax Incidence as a Franchise Test (1986)
+
+**[1986 Letter]** Who benefits when corporate tax rates are cut? The answer reveals business quality:
+
+- **Regulated utilities:** tax cuts pass through to customers via lower rates
+- **Price-competitive/commodity businesses:** the free market acts as a regulator — tax cuts eventually pass through to customers
+- **Unregulated businesses with strong franchises:** the corporation and shareholders keep the benefit, just as "the most able brain surgeon or lawyer in your area" won't reduce fees when personal tax rates fall
+
+### The Stability Premium (1987)
+
+**[1987 Letter]** Fortune study: only 25 of 1,000 companies averaged >20% ROE for a decade with no year below 15%. Almost all used little leverage and sold "non-sexy products or services in much the same manner as they did ten years ago."
+
+> "The best business returns are usually achieved by companies that are doing something quite similar today to what they were doing five or ten years ago." — 1987 Letter
+
+> "Severe change and exceptional returns usually don't mix." — 1987 Letter
+
+> "Economic terrain that is forever shifting violently is ground on which it is difficult to build a fortress-like business franchise. Such a franchise is usually the key to sustained high returns." — 1987 Letter
+
+### The Sainted Seven (1987)
+
+**[1987 Letter]** Berkshire's seven non-financial units earned $180M pre-tax on $175M equity — ~57% after-tax return on equity, a figure only six Fortune 1,000 companies matched over the prior decade. Interest expense was only $2M. "Our managers have produced extraordinary results by doing rather ordinary things — but doing them exceptionally well."
+
+> "Our goal is to find an outstanding business at a sensible price, not a mediocre business at a bargain price. Charlie and I have found that making silk purses out of silk is the best that we can do; with sow's ears, we fail." — 1987 Letter
 
 ## Connections
 

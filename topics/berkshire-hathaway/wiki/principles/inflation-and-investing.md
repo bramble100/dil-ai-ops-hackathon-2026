@@ -1,7 +1,7 @@
 ---
 title: "Inflation and Investing"
 type: principle
-sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984]
+sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -51,6 +51,18 @@ The 1983 Goodwill appendix provides the constructive counterpart: [Economic Good
 ### Inflation and Long-Term Bonds (1984)
 
 **[1984 Letter]** "We dislike the purchase of most long-term bonds under most circumstances... bonds are as sound as a dollar — and we view the long-term outlook for dollars as dismal." Fiscal policy featuring a huge deficit is "both extremely dangerous and difficult to reverse." A "small, but not insignificant, chance of runaway inflation" exists. In runaway inflation, a diversified stock portfolio suffers enormous real losses — but outstanding bonds suffer "far more." An all-bond portfolio therefore carries a "small but unacceptable 'wipe out' risk."
+
+### Fiscal Policy and Currency Debasement (1986-1987)
+
+**[1986 Letter]** "We continue to believe that the industry's revenues must grow at close to 10% annually for it to just hold its own in terms of profitability, even though general inflation may be running only 2%-4%." Social and judicial inflation — skyrocketing verdicts and expanded policy coverage — are the drivers, not general price inflation.
+
+Tax rates of 1988 are "totally unrealistic" — Buffett predicts either higher tax rates or higher inflation within five years, "and it would not surprise us to see both."
+
+**[1987 Letter]** The trade deficit creates "claim checks" (bonds, deposits) piling up with foreigners. The government's approach: "patterned on that of Blanche DuBois... 'I have always depended on the kindness of strangers.'" When claim checks grow sufficiently numerous and the issuer can "unilaterally determine their purchasing power, the pressure on the issuer to dilute their value by inflating the currency becomes almost irresistible."
+
+> "For the debtor government, the weapon of inflation is the economic equivalent of the 'H' bomb." — 1987 Letter
+
+The Scarlett O'Hara fiscal policy: "'I'll think about it tomorrow.' And, almost inevitably, procrastination in facing up to fiscal problems will have inflationary consequences."
 
 ## Connections
 

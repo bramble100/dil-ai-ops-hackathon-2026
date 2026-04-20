@@ -2,7 +2,7 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -31,6 +31,10 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 - **Competitive moat is cultural:** Insurance products are standardized, easily copied, with no patents or trademarks. "There is no question that the nature of the insurance business magnifies the effect which individual managers have on company performance"[^3]
 - **[1984 Letter]** Berkshire is "almost without question the strongest property/casualty insurance operation in the country." Financial strength is an asset for structured settlements and loss-reserve assumptions — very few companies can guarantee payments for decades. Columbia Insurance Company capital increased to support growth.
 - **[1985 Letter]** National Indemnity runs a $1M+ minimum premium ad in three issues of an insurance weekly — draws 600 replies, produces ~$50M in premiums. Willingness to risk $10M on a single event with no reinsurance lay-off sets Berkshire apart. Mike Goldberg hires "young managers with excellent potential." Also writes the Fireman's Fund 7% quota-share contract.
+
+- **[1986 Letter]** NICO volume: $5M/month (late 1984) → $35M/month (early 1986) → declining as competitors return. Combined ratio improved 111 → 103; possibly fastest-growing top-100 insurer over two years. Fireman's Fund quota-share expanded. "Swings in our volume arise... from the here-today, gone-tomorrow behavior of other insurers."
+- **[1986 Letter]** Loss reserve development errors continued — "three years in a row of error. If the physiological rules that applied to Pinocchio were to apply to me, my nose would now draw crowds." Reserve strengthening is really "correction of previous untruths."
+- **[1987 Letter]** Berkshire's insurance described as having commodity economics ("hundreds of competitors, ease of entry") but two differentiators: unmatched financial strength and total indifference to volume. Combined ratio 105 (statutory), but float growth improving overall profitability. Mike Goldberg "has assembled a group of talented professionals to write larger risks and unusual coverages."
 
 ## Connections
 

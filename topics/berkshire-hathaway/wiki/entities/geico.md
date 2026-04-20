@@ -2,7 +2,7 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -39,6 +39,10 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 - **[1983 Letter]** "The combination of a very important and very hard to duplicate business advantage with an extraordinary management" — three-person team of Byrne (underwriting), Snyder (operations), and Simpson (investments).
 - **[1984 Letter]** 36% ownership; $885M direct volume ($320M Berkshire's share). Intrinsic business value increased substantially even as market value was flat — "In GEICO's case, as in all of our investments, we look to business performance, not market performance." Stock over-performance relative to business (1981-83) reversed: stock stalled while business value grew. Lou Simpson has "the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
 - **[1985 Letter]** Excellent premium growth but underwriting deteriorated — private passenger auto and homeowners were the only major lines to worsen industrywide. Jack Byrne departs mid-1985 for Fireman's Fund. Buffett praises Byrne's greatest achievement: "he found managers to succeed him who have talents as valuable as his own." Bill Snyder becomes Chairman, Lou Simpson Vice Chairman.
+
+- **[1986 Letter]** 41% owned; combined ratio 96.9 with 16% premium growth. Expense ratio 23.5% (down from 24.1% in 1985) vs. peers at 38%+. Berkshire's share of premium volume: over $500M, "close to double that of only three years ago." The cost advantage is "a kind of moat that protects a valuable and much-sought-after business castle." Bill Snyder "continually widens the moat by driving down costs still more." Repurchased 5.5% of shares in 1986.
+- **[1986 Letter]** Lou Simpson's GEICO equity portfolio returned 23.7% to 45.8% annually (1980-86), crushing the S&P 500 in six of seven years. "Consistently invested in undervalued common stocks that, individually, were unlikely to present him with a permanent loss."
+- **[1987 Letter]** Formally designated as permanent holding. Cost: $45.7M; market value: $756.9M (16.5x return). Per-share operating earnings of $9.01 vs. $6.67 average purchase price — current earnings exceed purchase price by 35%.
 
 ## Connections
 

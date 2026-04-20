@@ -1,7 +1,7 @@
 ---
 title: "Economic Goodwill"
 type: principle
-sources: [buffett-letter-1983, buffett-letter-1985]
+sources: [buffett-letter-1983, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -86,10 +86,30 @@ A good business (perspective 1) is not always a good purchase (perspective 2) �
 
 NFM, See's, and the Buffalo News demonstrate the positive case: $72M pre-tax earnings (vs. $8M fifteen years prior) with only $40M additional capital. The average American business requires ~$5 of additional capital per $1 of additional earnings.
 
-[^1]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: Goodwill and its Amortization
+### The Scott Fetzer Purchase-Price Demonstration (1986)
 
-[^2]: [1985 Letter](../sources/buffett-letter-1985.md) — Three Very Good Businesses
+**[1986 Letter — Appendix]** Berkshire paid $315M for Scott Fetzer's $172.4M book value — a $142.6M premium allocated to inventory write-ups ($37.3M), fixed asset adjustments ($68M net of deferred tax changes), and residual Goodwill ($24.3M). The resulting balance sheet showed $315M shareholders' equity vs. the old company's $172.4M — same assets, different accounting.
+
+The annual charges flowing from these write-ups ($11.6M) reduced reported GAAP earnings from $40.2M to $28.6M — but none were tax-deductible and none represented real economic costs. Owner earnings were identical under both presentations.
+
+### Unrecorded Goodwill (1986-1987)
+
+**[1986 Letter]** Key managers improved earnings "dramatically while, except in the case of insurance, utilizing little additional capital. This accomplishment builds economic value, or 'Goodwill,' that does not show up in the net worth figure on our balance sheet."
+
+**[1987 Letter]** Seven non-financial units earned ~57% after-tax ROE on $175M of equity — carried on Berkshire's books at ~$222M above underlying assets. But the units should be judged on their returns on underlying (pre-premium) equity, not on what Berkshire paid.
+
+## Connections
+
+- [Business Quality](business-quality.md) — economic Goodwill is the quantification of what makes a business "wonderful"
+- [See's Candies](../entities/sees-candies.md) — the primary teaching example
+- [GEICO](../entities/geico.md) — low-cost producer Goodwill
+- [Textile Operations](../case-studies/textile-operations.md) — negative example: $13M of tangible assets sold for $163K
+- [Owner Earnings](owner-earnings.md) — the Scott Fetzer appendix shows owner earnings unaffected by Goodwill accounting
 - [Inflation and Investing](inflation-and-investing.md) — asset-light businesses are the true inflation hedges
 - [Return on Equity](return-on-equity.md) — ROE on net tangible assets is the indicator of economic Goodwill
 
 [^1]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: "Goodwill and its Amortization: The Rules and The Realities"
+
+[^2]: [1985 Letter](../sources/buffett-letter-1985.md) — Three Very Good Businesses
+
+[^3]: [1986 Letter](../sources/buffett-letter-1986.md) — Appendix: Purchase-Price Accounting and the "Cash Flow" Fallacy

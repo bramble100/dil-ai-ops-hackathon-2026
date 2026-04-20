@@ -23,6 +23,7 @@ Chronological list of acquisitions and major investment positions as documented 
 | ~1978 | Waumbec Mills                                    | Below working capital | Closed 1980; "Your Chairman made a costly mistake"                         | [Textile Operations](case-studies/textile-operations.md) |
 | 1983  | Nebraska Furniture Mart (90%)                    | ~$55.35M              | $100M+ revenue single store; Mrs. B (Rose Blumkin) at 89                   | [NFM](entities/nebraska-furniture-mart.md)               |
 | 1985  | Scott & Fetzer                                   | ~$320M + ~$90M debt   | $700M revenue, 17 businesses; World Book #1 encyclopedia                   | [Scott & Fetzer](entities/scott-fetzer.md)               |
+| 1986  | Fechheimer Bros. (~84%)                          | ~$55M valuation       | Uniform mfg/distribution; Heldman family 3 generations; earnings up 1987   | [Fechheimer](entities/fechheimer.md)                     |
 
 ## Major Equity Investments (Non-Controlling)
 
@@ -41,6 +42,10 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1984    | Exxon                          | —         | —                 | New major position built 1984                                               |
 | 1984    | WPPSS bonds                    | 139.0     | —                 | 16.3% after-tax return; bonds-as-business analysis                          |
 | 1985    | Fireman's Fund (7% quota)      | —         | —                 | Quota-share reinsurance; NatI 5/7, Wes-FIC 2/7                             |
+| 1986    | NHP, Inc. (~50%)               | 23.7      | —                 | Multifamily housing; 500 properties, 80,000 units; $2.5B cost              |
+| 1987    | Salomon Inc (convertible pfd)  | 700.0     | 686 (1987)        | 9% preferred, convertible at $38 after 3 years; trust in Gutfreund         | [Salomon Inc](entities/salomon-inc.md) |
+| 1987    | Texaco bonds                   | 104.0     | 119 (1987)        | Purchased after bankruptcy; worst-case capital preservation                 |
+| 1987    | Allegis (arbitrage)            | 76.0      | 78 (1987)         | Only $50M+ arbitrage position at yearend                                    |
 
 ## Connections
 

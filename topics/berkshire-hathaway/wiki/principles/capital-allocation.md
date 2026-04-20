@@ -1,7 +1,7 @@
 ---
 title: "Capital Allocation"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -131,9 +131,36 @@ Berkshire's system: incentive bonuses tied to unit performance, not stock price.
 
 **[1985 Letter]** Berkshire grants Tom Murphy voting rights over its Capital Cities shares and restricts sale to prevent hostile accumulation. "These arrangements were initiated by Charlie and me, not by Tom." The rationale: promote stability so first-class managers can "focus their efforts entirely upon running the businesses" rather than being distracted by "revolving-door capitalists."
 
+### The Scale Challenge at $2B (1986)
+
+**[1986 Letter]** Capital allocation is "a considerably more important challenge than at most companies" because Berkshire (a) earns more than average, (b) retains all earnings, and (c) existing operations require little incremental capital. "The future results of a business earning 23% annually and retaining it all are far more affected by today's capital allocations."
+
+The year's frustration: Fechheimer acquired but uses only ~2% of net worth; no equities attractive. "If Charlie and I were to draw blanks for a few years in our capital-allocation endeavors, Berkshire's rate of growth would slow significantly."
+
+### The CEO Capital Allocation Problem (1987)
+
+**[1987 Letter]** Most CEOs rise through marketing, production, or engineering — then must suddenly make capital allocation decisions they've never practiced.
+
+> "It's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve." — 1987 Letter
+
+After ten years, a CEO retaining earnings equal to 10% of net worth annually "will have been responsible for the deployment of more than 60% of all the capital at work in the business." Many turn to investment bankers and consultants — which "is more likely to accentuate the capital-allocation problem than to solve it."
+
+### Permanent Holdings (1987)
+
+**[1987 Letter]** Capital Cities/ABC, GEICO, and Washington Post formally designated as permanent: "we would not sell even though they became far overpriced in the market." Three reasons: (1) personal relationships with exceptional managers, (2) business quality, (3) philosophy — "You shape your houses and then they shape you" (Churchill).
+
+### Debt Philosophy (1987)
+
+**[1987 Letter]** Berkshire's debt policy: "acceptable long-term results under extraordinarily adverse conditions, rather than optimal results under a normal range of conditions."
+
+> "It seems to us to be both foolish and improper to risk what is important (including, necessarily, the welfare of innocent bystanders such as policyholders and employees) for some extra returns that are relatively unimportant." — 1987 Letter
+
+**Fund first, buy later:** Borrow when conditions are "non-oppressive" — tight money creates the best acquisition opportunities. $250M debentures issued at ~10%, currently earning 6.5% (negative carry of $160K/week). "If you want to shoot rare, fast-moving elephants, you should always carry a loaded gun."
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
+- [Mr. Market](mr-market.md) — permanent holdings philosophy flows from ignoring daily quotations
 - [Owner Earnings](owner-earnings.md) — the value of retained earnings depends on allocation skill
 - [Business Quality](business-quality.md) — great businesses generate the cash that enables good allocation
 - [GEICO Investment](../case-studies/geico-investment.md) — exemplar of buying wonderful business cheaply

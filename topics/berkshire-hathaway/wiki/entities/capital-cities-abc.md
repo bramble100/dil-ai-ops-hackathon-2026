@@ -2,7 +2,7 @@
 title: "Capital Cities/ABC"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, media, 1985]
@@ -33,6 +33,14 @@ Capital Cities/ABC represents the [Capital Allocation](../principles/capital-all
 
 The deal also demonstrates the value of [Four Filters](../principles/four-filters.md) patience — Buffett had admired Murphy for decades and had previously owned (and regrettably sold) Capital Cities stock.
 
+## Performance & Permanent Holding Status
+
+**[1986 Letter]** Capital Cities/ABC designated as one of three "permanent" holdings alongside GEICO and Washington Post. Market value reached $801.7M on a $515.8M cost basis. Buffett declares: even if these securities appeared "significantly overpriced, we would not anticipate selling them, just as we would not sell See's or Buffalo Evening News." Critiques "modern manager" who refers to his "portfolio" of businesses where all are candidates for "restructuring" whenever dictated by Wall Street preferences.
+
+**[1987 Letter]** Market value doubled to $1,035M on $517.5M cost — the first of Berkshire's three permanent holdings to achieve a 2x gain. Reaffirms permanence: "With Tom Murphy and Dan Burke at Cap Cities, Bill Snyder and Lou Simpson at GEICO, and Kay Graham and Dick Simmons at The Washington Post, we simply couldn't be in better hands."
+
 ## Sources
 
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Capital Cities acquisition details, Murphy/Burke praise, voting arrangement
+[^2]: [1986 Letter](../sources/buffett-letter-1986.md) — Permanent holding designation, $801.7M market value, anti-restructuring philosophy
+[^3]: [1987 Letter](../sources/buffett-letter-1987.md) — $1,035M market value (2x cost), Murphy/Burke "couldn't be in better hands"

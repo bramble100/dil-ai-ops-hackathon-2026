@@ -1,7 +1,7 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -43,6 +43,28 @@ The idea appears in embryonic form in the 1978 letter (retained earnings of inve
 ### Security Profits vs. Operating Earnings (1985)
 
 **[1985 Letter]** $468.9M in pre-tax security sales, mostly the General Foods sale ($338M pre-tax). "Security profits in a given year bear similarities to a college graduation ceremony in which the knowledge gained over four years is recognized on a day when nothing further is learned." Capital gains in any year are "meaningless as a measure of how well we have done in the current year" — they reflect value accumulated over holding periods of a decade or more.
+
+### The Definitive Owner Earnings Formula (1986)
+
+**[1986 Letter — Appendix]** The formal equation, using Scott Fetzer as a worked example:
+
+Owner earnings = **(a)** reported earnings + **(b)** depreciation, depletion, amortization, and certain other non-cash charges − **(c)** the average annual capex required to fully maintain long-term competitive position and unit volume.
+
+> "We consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes — both for investors in buying stocks and for managers in buying entire businesses. We agree with Keynes's observation: 'I would rather be vaguely right than precisely wrong.'" — 1986 Appendix
+
+The **"cash flow" fallacy:** Wall Street routinely reports (a) + (b) but does not subtract (c). "When (a) — that is, GAAP earnings — looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn't add (b) without subtracting (c): though dentists correctly claim that if you ignore your teeth they'll go away, the same is not true for (c)."
+
+**Company O vs. Company N:** Scott Fetzer's 1986 earnings were $40.2M under pre-acquisition accounting vs. $28.6M under Berkshire's GAAP (post-acquisition purchase-price adjustments). Identical economics — only the accounting differed. The $11.6M difference comprised non-cash inventory charges, extra depreciation on written-up assets, Goodwill amortization, and tax acrobatics. None were tax-deductible; the "old" and "new" company paid identical taxes.
+
+For Scott Fetzer, Buffett judges (c) to be "very close to" the old company's (b) of $8.3M — far below the new company's $19.9M. Owner earnings are therefore "considerably larger than the GAAP figures."
+
+**The general rule:** In most businesses, (c) exceeds (b) — "GAAP earnings overstate owner earnings. Frequently this overstatement is substantial." The oil industry is a conspicuous example: spending only (b) guarantees shrinkage.
+
+### Accounting Schizophrenia (1987)
+
+**[1987 Letter]** Three permanent holdings — Capital Cities/ABC, GEICO, Washington Post — had $2.1B market value but produced only $11M in reported Berkshire earnings. Berkshire's share of their actual earnings: "well over $100 million." GAAP requires dividends-only for <20% holdings (income account understates reality) but marks insurance-held equities to market on the balance sheet (net worth reflects reality). For controlled companies, the opposite: full earnings flow to income but balance sheet values are frozen at historical cost.
+
+> "Our mental approach to this accounting schizophrenia is to ignore GAAP figures and to focus solely on the future earning power of both our controlled and non-controlled businesses." — 1987 Letter
 
 ## Connections
 

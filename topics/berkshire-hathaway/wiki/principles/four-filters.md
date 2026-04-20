@@ -1,7 +1,7 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -40,6 +40,16 @@ Stated explicitly in the 1977 letter and restated with slight variation in 1978.
 **[1985 Letter]** The four-factor General Foods analysis: (1) bargain purchase price, (2) fine underlying economics, (3) able management concentrating on shareholder interests, (4) buyer willing to pay full value. "While that last factor is the only one that produces reported earnings, we consider identification of the first three to be the key to building value."
 
 **[1985 Letter]** Acquisition criteria raised to $10M minimum (from $5M). The approach remains "somewhat haphazard" — no corporate planners, no staff investigating promoter pitches. "Instead, we simply hope that something sensible comes along."
+
+**[1987 Letter]** The four filters restated in their most compact form:
+
+> "We look at the economic prospects of the business, the people in charge of running it, and the price we must pay. We do not have in mind any time or price for sale." — 1987 Letter
+
+> "Our goal is to find an outstanding business at a sensible price, not a mediocre business at a bargain price." — 1987 Letter
+
+**[1987 Letter]** Controlled vs. marketable holdings produce an important asymmetry on filter (3): when the investment is controlled, Berkshire can allocate capital directly; when it's a partial holding, the manager's capital allocation skill matters enormously. But "in practice... this advantage is somewhat illusory: Management changes, like marital changes, are painful, time-consuming and chancy."
+
+**[1986 Letter]** The five investment categories framework: (1) long-term common stocks, (2) medium-term fixed-income, (3) long-term fixed-income, (4) short-term cash equivalents, (5) arbitrage. "We have no particular bias when it comes to choosing from these categories. We just continuously search among them for the highest after-tax returns."
 
 ## Connections
 

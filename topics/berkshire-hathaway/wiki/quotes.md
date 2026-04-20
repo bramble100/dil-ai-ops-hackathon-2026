@@ -209,3 +209,69 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "More money has been lost reaching for a little extra yield than at the point of a gun." — 1984 Letter
 >
 > Context: On bond investing discipline. → [Inflation and Investing](principles/inflation-and-investing.md)
+
+> "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful." — 1986 Letter
+>
+> Context: On market timing philosophy — the operational version of Mr. Market. → [Mr. Market](principles/mr-market.md)
+
+> "Bull markets can obscure mathematical laws, but they cannot repeal them." — 1986 Letter
+>
+> Context: Stockholders as a whole must underperform the companies they own due to costs. → [Mr. Market](principles/mr-market.md)
+
+> "What's needed is not more statesmen, but less corn." — 1986 Letter
+>
+> Context: On the futility of appealing to insurance industry pricing discipline. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "Marrying for money — probably a bad idea under any circumstances, but absolute madness if you are already rich." — 1986 Letter
+>
+> Context: On working only with people you like and admire. → [Capital Allocation](principles/capital-allocation.md)
+
+> "If each of us hires people who are smaller than we are, we shall become a company of dwarfs. But, if each of us hires people who are bigger than we are, we shall become a company of giants." — David Ogilvy, quoted in 1986 Letter
+>
+> Context: Berkshire's management hiring philosophy. → Management quality
+
+> "Accounting numbers, of course, are the language of business... Managers and owners need to remember, however, that accounting is but an aid to business thinking, never a substitute for it." — 1986 Letter (Appendix)
+>
+> Context: On the limits of GAAP — owner earnings vs. reported earnings. → [Owner Earnings](principles/owner-earnings.md)
+
+## Mr. Market & Market Psychology
+
+> "Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful." — 1987 Letter
+>
+> Context: The full Mr. Market parable from Ben Graham. → [Mr. Market](principles/mr-market.md)
+
+> "If you've been in the game 30 minutes and you don't know who the patsy is, you're the patsy." — 1987 Letter
+>
+> Context: You must understand and value your business better than Mr. Market. → [Mr. Market](principles/mr-market.md)
+
+> "In the short run, the market is a voting machine but in the long run it is a weighing machine." — Ben Graham, quoted in 1987 Letter
+>
+> Context: The market eventually confirms business success. → [Mr. Market](principles/mr-market.md)
+
+> "After buying a farm, would a rational owner next order his real estate agent to start selling off pieces of it whenever a neighboring property was sold at a lower price?" — 1987 Letter
+>
+> Context: Critique of portfolio insurance and Black Monday. → [Mr. Market](principles/mr-market.md)
+
+> "Severe change and exceptional returns usually don't mix." — 1987 Letter
+>
+> Context: Stability beats novelty — mundane businesses with consistent strategies outperform. → [Business Quality](principles/business-quality.md)
+
+> "Our goal is to find an outstanding business at a sensible price, not a mediocre business at a bargain price." — 1987 Letter
+>
+> Context: Silk purses from silk — the evolution from Graham's cigar-butt approach. → [Four Filters](principles/four-filters.md)
+
+> "It's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve." — 1987 Letter
+>
+> Context: Most CEOs are unprepared for capital allocation decisions. → [Capital Allocation](principles/capital-allocation.md)
+
+> "If you want to shoot rare, fast-moving elephants, you should always carry a loaded gun." — 1987 Letter
+>
+> Context: Maintain liquidity — borrow when conditions are non-oppressive, not when you need it. → [Capital Allocation](principles/capital-allocation.md)
+
+> "You shape your houses and then they shape you." — Churchill, quoted in 1987 Letter
+>
+> Context: On why permanent holdings reflect how Buffett and Munger wish to live. → [Capital Allocation](principles/capital-allocation.md)
+
+> "What witch doctor has ever achieved fame and fortune by simply advising 'Take two aspirins'?" — 1987 Letter
+>
+> Context: On why market esoterica (efficient markets, betas) appeals to practitioners but not to investors. → [Mr. Market](principles/mr-market.md)

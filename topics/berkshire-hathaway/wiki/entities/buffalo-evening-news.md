@@ -2,7 +2,7 @@
 title: "Buffalo Evening News"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -44,11 +44,20 @@ While competitors cut editorial content to boost margins, the News maintained a 
 
 **[1985 Letter]** Linage increased but ROP declined; preprint gain more than accounted for all growth. Preprints are "far less profitable than ROP ads, and also more vulnerable to competition." Stan Lipsey praised as a manager of exceptional caliber.
 
+### 1986 Performance
+
+**[1986 Letter]** Third year in a row of declining man-hours worked and closely controlled costs; operating margins improved materially despite advertising rate increases well below major-paper norms. 50% news hole maintained — "a higher percentage, we believe, than exists at any dominant newspaper in this country of our size or larger." Penetration now top among 50 largest papers (weekday) and #1 Sunday. Sunday penetration 83% — up from 63% when the Courier-Express was the only Sunday paper ten years prior; sells ~100,000 more copies per Sunday than the Courier-Express did, despite declining market-area population. "A penetration gain [that] no other city... has experienced anywhere close to." First permanent-holding declaration: would not sell "even if someone were to offer us a price far above what we believe [it] is worth." Newsprint price increase at end of 1986 will pressure 1987 margins.
+
+### 1987 Performance
+
+**[1987 Letter]** Still national leader in weekday/Sunday penetration and news-hole percentage. Seven fresh editions every 24 hours, each extensively changed in content — even obituary page redone every edition. News hole ~50%, saving $4M annually if cut to 40%, "That interests us not at all." Superb management by Stan Lipsey; profits grew excellently despite moderate revenue gains. Margins predicted to shrink in 1988 due to skyrocketing newsprint costs. Part of the "flexible budgets" critique: Buffett refuses to cut quality because profits are temporarily down.
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — newspaper franchise as a tailwind business (in this era)
 - [Economic Goodwill](../principles/economic-goodwill.md) — requires minimal tangible assets; communications businesses are prime Goodwill generators
 
 [^1]: [1982 Letter](../sources/buffett-letter-1982.md) — Sunday circulation growth
-
 [^2]: [1983 Letter](../sources/buffett-letter-1983.md) — #1 penetration, news hole philosophy
+[^3]: [1986 Letter](../sources/buffett-letter-1986.md) — 83% Sunday penetration, 50% news hole math, operating margin improvement
+[^4]: [1987 Letter](../sources/buffett-letter-1987.md) — Seven daily editions, news-hole commitment, flexible-budgets critique

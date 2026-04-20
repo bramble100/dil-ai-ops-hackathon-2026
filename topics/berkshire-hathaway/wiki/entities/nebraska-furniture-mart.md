@@ -2,7 +2,7 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -47,6 +47,10 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 **[1984 Letter]** The Blumkin secrets: (1) enthusiasm and energy; (2) extraordinary realism about their area of competence and decisive action within it; (3) ignoring propositions outside that area; (4) unfailingly high-grade behavior with everyone. Mrs. B boils it down: "sell cheap and tell the truth." Mrs. B receives Honorary Doctorate from NYU at 91 — "not one day in her life was spent in a school room prior to her receipt of the doctorate." Acquisition integrity: "NFM had never had an audit and we did not request one; we did not take an inventory nor verify the receivables; we did not check property titles. We gave Mrs. B a check for $55 million and she gave us her word."
 
 **[1985 Letter]** Sales set another record despite worsening farm economy. Mrs. B at 92 continues to set a pace "none of us can keep up with."
+
+**[1986 Letter]** Net sales increased 10.2% to $132M. Remarkable growth given Omaha's slow population growth and modest inflation. Marketing territory continues to widen "because of its ever-growing reputation for rock-bottom everyday prices and the broadest of selections." Warehouse capacity expanding by one-third. Mrs. B at 93 continues as Chairman. "Competitors come and go (mostly go), but Mrs. B. and her progeny roll on."
+
+**[1987 Letter]** Net sales $142.6M, up 8% from 1986. Agatha Christie anecdote introduces Mrs. B: "archaeologists... the older you become, the more interested they are in you." Mrs. B at 94, working seven days a week, "gathering speed and may well reach her full potential in another five or ten years." Board scraps "mandatory retirement-at-100 policy." Customers saved approximately $30M in 1987 by buying from NFM vs. elsewhere. Anonymous competitor letter complains NFM is "leaving 10% to 20% on the table" — NFM ignores, follows Mrs. B's maxim: "Sell cheap and tell the truth." Louie and grandsons Ron, Irv, Steve praised: "the business instincts, integrity and drive of Mrs. B."
 
 ## Connections
 

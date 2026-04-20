@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -45,6 +45,14 @@ See's is the primary example in Buffett's famous [Economic Goodwill](../principl
 **[1984 Letter]** Revenue $135.9M; 24.76M lbs (+0.4%); same-store volume declined 1.1%. Per-pound realization $5.49 (only 1.4% increase). Progress on cost control: non-raw-material costs per pound up only 2.2%. Christmas concentration: 40% of volume and ~75% of profits in the four weeks before Christmas. Six new candy bars introduced. Seasonality and mall competition intensifying.
 
 **[1985 Letter]** Industry trends "not good" — same-store poundage slippage continues, putting pressure on per-pound costs. "We now are willing to increase prices only modestly and, unless we can stabilize per-shop poundage, profit margins will narrow." Part of the three-business group earning $72M pre-tax combined.
+
+### 1986-1987 Performance
+
+**[1986 Letter]** Same-store poundage decline stemmed by a strong Christmas season. Total pounds up ~2% (12,000+ tons annually). Minimal price increases. See's has "a one-of-a-kind product 'personality' produced by a combination of its candy's delicious taste and moderate price, the company's total control of the distribution process, and the exceptional service provided by store employees."
+
+**[1987 Letter]** Revenue $142M+ at nearly 25M lbs — new volume high. Same-store sales essentially unchanged for the second consecutive year (improvement from six consecutive years of decline). ~85% of profit earned in December. Pre-tax earnings: $31.7M (vs. $30.3M in 1986). "Practically no one besides See's has made significant profits in recent years from the operation of candy shops."
+
+The customer letter anecdote: two eliminated candy varieties triggered "hundreds of letters" — including threats of mandatory injunctions. Chuck Huggins reintroduced both pieces and sent gift certificates with "a complete and honest explanation."
 
 ## Connections
 

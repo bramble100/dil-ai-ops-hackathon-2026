@@ -2,7 +2,7 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -29,6 +29,24 @@ Scott & Fetzer illustrates several key [principles](../principles/four-filters.m
 
 Buffett notes: "We made no study of the industry or of its competitors, nor did we have discussion with investment bankers or anyone knowledgeable about the company."
 
+## 1986 Operations & Owner Earnings Teaching Case
+
+**[1986 Letter]** First full year under Berkshire. Ralph Schey praised: "superb businessman and a straight shooter" with "exceptional versatility and energy" managing a wide array of businesses. World Book unit volume up 7% over 1985 and 45% over 1982; Childcraft also grew significantly. World Book dominates US direct-sales encyclopedias at under 5 cents per page. Kirby recorded fourth straight year of unit volume gains (up 4% from 1985, 33% from 1982); 30-40 year old Kirby cleaners still in active duty.
+
+The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase-price accounting: "Company O" (old GAAP) vs "Company N" (new GAAP under Berkshire ownership). Paid $315M for net assets carried at $172.4M — a $142.6M premium allocated entirely to goodwill (amortized over 40 years). Real owner earnings were $40.2M, but reported GAAP earnings were only $28.6M due to $11.6M in new amortization charges. The gap "will persist for 38 more years under present GAAP rules." This appendix became Buffett's definitive argument against using reported earnings to value acquisitions.
+
+## 1987 Operations
+
+**[1987 Letter]** Part of the "Sainted Seven" — pre-tax earnings rose 10% while average capital employed declined significantly. Ralph's "mastery of the 19 businesses for which he is responsible is truly amazing." World Book released its most dramatically-revised edition since 1962 (color photos from 14,000 to 24,000; 6,000+ articles revised; 840 new contributors). Unit sales in US increased for fifth consecutive year; international sales and profits also grew substantially.
+
+## Connections
+
+- [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
+- [Economic Goodwill](../principles/economic-goodwill.md) — $142.6M goodwill premium explained
+- [Four Filters](../principles/four-filters.md) — speed of acquisition reflects Berkshire buyer advantage
+
 ## Sources
 
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Acquisition details, Schey praise, World Book position
+[^2]: [1986 Letter](../sources/buffett-letter-1986.md) — First-year operations, owner earnings appendix (Company O vs N)
+[^3]: [1987 Letter](../sources/buffett-letter-1987.md) — Sainted Seven member, 10% earnings growth, World Book revised edition

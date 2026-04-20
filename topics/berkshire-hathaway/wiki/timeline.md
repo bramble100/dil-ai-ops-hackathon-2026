@@ -64,3 +64,20 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 1985 | Cherry Coke becomes official drink of Berkshire annual meeting                           | Governance  |                                                          |
 | 1985 | Acquisition criteria raised: minimum after-tax earnings $5M → $10M                      | Governance  | [Capital Allocation](principles/capital-allocation.md)   |
 | 1985 | Book value $1,643.71/share (23.2% CAGR from 1964); 48.2% YoY — Halley's Comet year     | Financial   | [Book Value](financials/book-value-per-share.md)         |
+| 1986 | Fechheimer Bros. acquired (~$55M valuation; 84% purchased); uniform mfg/distribution     | Acquisition | [Fechheimer](entities/fechheimer.md)                     |
+| 1986 | NHP, Inc.: $23.7M for ~50%; multifamily housing — 500 properties, 80,000 units           | Investment  |                                                          |
+| 1986 | "Be fearful when others are greedy" first stated as investment policy                     | Principles  | [Mr. Market](principles/mr-market.md)                    |
+| 1986 | Owner earnings formula defined in appendix — (a)+(b)−(c); "cash flow" fallacy demolished  | Principles  | [Owner Earnings](principles/owner-earnings.md)           |
+| 1986 | Tax Reform Act of 1986: corporate rate 46%→34%; capital gains rate 28%→34%; insurance hit | Policy      | [Business Quality](principles/business-quality.md)       |
+| 1986 | Corporate jet purchased for $850K used — self-deprecating admission after years of criticism | Governance |                                                        |
+| 1986 | Insurance combined ratio 103; among fastest-growing top-100 insurers over two years       | Insurance   | [National Indemnity](entities/national-indemnity.md)     |
+| 1986 | GEICO: 41% owned, combined ratio 96.9, expense ratio 23.5%; moat metaphor introduced     | Insurance   | [GEICO](entities/geico.md)                               |
+| 1986 | Book value $2,073.06/share (23.3% CAGR from 1964); 26.1% YoY; shares up <1% over 22 years | Financial | [Book Value](financials/book-value-per-share.md)       |
+| 1987 | Mr. Market parable presented — full Graham allegory; most-cited passage in entire corpus   | Principles  | [Mr. Market](principles/mr-market.md)                    |
+| 1987 | Three permanent holdings formally designated: Capital Cities/ABC, GEICO, Washington Post  | Governance  | [Capital Allocation](principles/capital-allocation.md)   |
+| 1987 | Salomon Inc: $700M 9% convertible preferred; convertible at $38/share after 3 years       | Investment  | [Salomon Inc](entities/salomon-inc.md)                   |
+| 1987 | $250M debentures issued at ~10%; "loaded gun" philosophy for future acquisitions           | Financial   | [Capital Allocation](principles/capital-allocation.md)   |
+| 1987 | October crash: portfolio insurance critique — $60-90B on "hair trigger"                    | Market      | [Mr. Market](principles/mr-market.md)                    |
+| 1987 | Seven non-financial units earn ~57% after-tax ROE on $175M equity                         | Financial   | [Business Quality](principles/business-quality.md)       |
+| 1987 | Insurance combined ratio 105; float growing faster than premiums                           | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 1987 | Book value $2,477.47/share (23.1% CAGR from 1964); 19.5% YoY                             | Financial   | [Book Value](financials/book-value-per-share.md)         |

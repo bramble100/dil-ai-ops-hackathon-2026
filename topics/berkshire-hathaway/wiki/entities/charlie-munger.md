@@ -2,7 +2,7 @@
 title: "Charlie Munger"
 type: entity
 entity_kind: person
-sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -31,6 +31,10 @@ In these early letters, Munger appears primarily as a named partner rather than 
 **[1984 Letter]** Described as "my partner in general management"; co-responsible for generating the "big ideas" Berkshire needs as its capital base mushrooms.
 
 **[1985 Letter]** "Our Vice Chairman, Charlie Munger, has always emphasized the study of mistakes rather than successes, both in business and other aspects of life. He does so in the spirit of the man who said: 'All I want to know is where I'm going to die so I'll never go there.'" This is the first explicit attribution of the "invert, always invert" philosophy to Munger. Charlie's Wesco-Financial Insurance Company ("Wes-FIC") receives two-sevenths of the Fireman's Fund quota-share contract.
+
+**[1986 Letter]** Buffett defines the two-person partnership: "Charlie Munger, our Vice Chairman, and I really have only two jobs. One is to attract and keep outstanding managers to run our various operations." The second: capital allocation. Charlie oversees K & W Products and recalled Harry Bottle (age 68) to fix it — profits up 300%, capital employed down 20%.
+
+**[1987 Letter]** "With managers like ours, my partner, Charlie Munger, and I have little to do with operations. In fact, it is probably fair to say that if we did more, less would be accomplished." The management philosophy: "informed applause" rather than directives.
 
 ## Connections
 
