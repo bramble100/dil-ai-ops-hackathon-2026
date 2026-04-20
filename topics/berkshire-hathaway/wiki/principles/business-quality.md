@@ -27,6 +27,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -328,3 +329,19 @@ The eclectic manufacturing/service/retail segment earned **22.2% on average tang
 [^13]: [2005 Letter](../sources/buffett-letter-2005.md) — "widening the moat" daily discipline; short-term vs. long-term conflict; 22.2% tangible ROE; auto/airline as cautionary examples
 
 [^13]: [2004 Letter](../sources/buffett-letter-2004.md) — 21.7% tangible ROE on $44.1B revenue; zinc write-off $579M; "simple propositions" / "mono-linked chains"; Shaw 25.6% ROE despite $300M cost surge; MiTek as "mini-Berkshire"
+
+### Newspaper Obituary and the "Good Business" Principle (2006)
+
+**[2006 Letter]** The most comprehensive analysis of newspaper industry decline — and a textbook application of the business quality principle to a formerly great franchise:
+
+> "If you want to get a reputation as a good businessman, be sure to get into a good business." — 2006 Letter (quoting a "wise friend")
+
+Newspapers were "as easy a way to make huge returns as existed in America" — a circularity of Survival of the Fattest where monopoly pricing in both advertising and circulation produced economic heaven. But cable, satellite, and internet destroyed the information monopoly: "if cable and satellite broadcasting, as well as the internet, had come along first, newspapers as we know them probably would never have existed."
+
+The Buffalo News retains highest market penetration among large US papers, but "the days of lush profits from our newspaper are over." Online potential is "at best a small fraction" of print. Non-economic buyers will emerge "just as we have seen such buyers acquire major sports franchises."
+
+**Manufacturing/service/retail:** 25% return on average tangible net worth from a "motley group" selling "lollipops to motor homes" — demonstrating that mundane businesses generate excellent returns under Berkshire's decentralized model. MiTek's stock: $10,000/share → $71,699 after five years with 14 acquisitions[^14].
+
+**Institutional size critique:** Of the ten non-oil companies with largest market cap in 1965, only one made the 2006 list. Quoting Churchill: "We shape our buildings, and afterwards our buildings shape us"[^14].
+
+[^14]: [2006 Letter](../sources/buffett-letter-2006.md) — newspaper decline analysis; "good business" quote; 25% tangible ROE; MiTek $10K→$71.7K; institutional size; Churchill

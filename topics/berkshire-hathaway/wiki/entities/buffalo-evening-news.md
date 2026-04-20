@@ -2,7 +2,21 @@
 title: "Buffalo Evening News"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-2006,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -72,11 +86,29 @@ While competitors cut editorial content to boost margins, the News maintained a 
 - [Economic Goodwill](../principles/economic-goodwill.md) — requires minimal tangible assets; communications businesses are prime Goodwill generators
 
 [^1]: [1982 Letter](../sources/buffett-letter-1982.md) — Sunday circulation growth
+
 [^2]: [1983 Letter](../sources/buffett-letter-1983.md) — #1 penetration, news hole philosophy
+
 [^3]: [1986 Letter](../sources/buffett-letter-1986.md) — 83% Sunday penetration, 50% news hole math, operating margin improvement
+
 [^4]: [1987 Letter](../sources/buffett-letter-1987.md) — Seven daily editions, news-hole commitment, flexible-budgets critique
+
 [^5]: [1988 Letter](../sources/buffett-letter-1988.md) — seventh consecutive profit record; Stan Lipsey +5% margin
+
 [^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member
+
 [^7]: [1990 Letter](../sources/buffett-letter-1990.md) — 5% earnings decline; news hole 52.3%; secular media erosion identified
+
 [^8]: [1991 Letter](../sources/buffett-letter-1991.md) — secular decline confirmed; intrinsic value reduced; advantage vs. leveraged peers
+
 [^9]: [1992 Letter](../sources/buffett-letter-1992.md) — $47.9M pre-tax; recovery above 1990 level; Lipsey continues to outperform
+
+### 2006: The Definitive Newspaper Obituary
+
+**[2006 Letter]** Buffett delivers the most comprehensive analysis of newspaper industry decline in the entire corpus. The historical arc: newspapers enjoyed "Survival of the Fattest" monopoly economics — "as easy a way to make huge returns as existed in America." A monopoly publisher famously said: "I owe my fortune to two great American institutions: monopoly and nepotism."
+
+But cable, satellite, and internet destroyed the information monopoly: "if cable and satellite broadcasting, as well as the internet, had come along first, newspapers as we know them probably would never have existed." Online potential is "at best a small fraction" of print.
+
+Stan Lipsey praised alongside editor Margaret Sullivan — the News retains highest market penetration among the country's large newspapers. But "unrelenting pressures will cause profit margins to slide." Buffett commits to keeping the paper (economic principle 11) but is blunt: "the days of lush profits from our newspaper are over." Non-economic buyers will emerge "just as we have seen such buyers acquire major sports franchises" — but "there's no rule that says a newspaper's revenues can't fall below its expenses"[^10].
+
+[^10]: [2006 Letter](../sources/buffett-letter-2006.md) — newspaper industry decline; "Survival of the Fattest" history; internet disruption; Stan Lipsey; Margaret Sullivan; "days of lush profits over"

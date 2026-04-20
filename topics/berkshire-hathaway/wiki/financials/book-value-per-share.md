@@ -32,6 +32,7 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -77,6 +78,7 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 2003     | $50,498.00       | 21.0%      | 22.2%                     |
 | 2004     | $55,824.00       | 10.5%      | 21.9%                     |
 | 2005     | $59,377.00       | 6.4%       | 21.5%                     |
+| 2006     | $70,281.00       | 18.4%      | 21.4%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
@@ -130,6 +132,8 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 - **[2004 Letter]** Net worth gain $8.3B (+10.5%); per-share book value $55,824; 40-year CAGR 21.9%. S&P rose 10.9% — effectively a tie. Buffett warns that equity holdings have declined from 114% of net worth (1980s average) to <50%, making book value "an increasingly inaccurate proxy" for intrinsic value. $43B cash "not a happy position"; struck out on acquisitions. Four Florida hurricanes cost $1.25B. Float $46.1B with $1.5B underwriting profit. Big Four equities: $3.83B cost, $36.3B market value.
 
 - **[2005 Letter]** Net worth gain $5.6B (+6.4%); per-share book value $59,377; 41-year CAGR 21.5%. S&P rose 4.9% — Berkshire outperformed by 1.5pp. Two-table framework: per-share investments $74,129 (28% CAGR from 1965's $4); per-share pre-tax earnings from non-insurance $2,441 (17.2% CAGR from 1965's $4). Combined look-through value substantially exceeds book value. P&G/Gillette merger generated $5.0B "meaningless" GAAP gain. Hurricane losses $3.4B offset by GEICO's $1.2B profit. Float $49.3B costless. Foreign currency: $955M loss on direct positions; shift from currency contracts to foreign equities.
+
+- **[2006 Letter]** Record $16.9B net worth gain (+18.4%); per-share book value $70,281; 42-year CAGR 21.4%. S&P rose 15.8% — Berkshire outperformed by 2.6pp. "We believe that $16.9 billion is a record for a one-year gain in net worth — more than has ever been booked by any American business, leaving aside boosts that have occurred because of mergers." Aided by benign hurricane season. Two-yardstick updated: per-share investments $80,636 (CAGR 27.5% overall, decelerating to 12.6% over 11 years) vs. per-share operating earnings $3,625 (17.9% overall, accelerating to 31.7% over 11 years). Overall gain 1964-2006: 361,156% vs. S&P 6,479%. Portfolio: $61.5B market value on $23.0B cost. Non-insurance operating earnings grew 38% YoY.
 
 ## The Inflation Caveat
 

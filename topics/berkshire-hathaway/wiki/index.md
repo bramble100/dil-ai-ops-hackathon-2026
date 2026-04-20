@@ -40,28 +40,29 @@ updated: 2026-04-20
 - [2003 Letter](sources/buffett-letter-2003.md) - Book value +21.0%, General Re FIXED, Clayton Homes/McLane acquired, float $44.2B at zero cost, GEICO 5.0% share, owner-capitalism, foreign currency $12B, operating earnings per-share table (2003)
 - [2004 Letter](sources/buffett-letter-2004.md) - Book value +10.5%, NICO 25-year portrait, GEICO ~6% share, $43B cash, trade deficit "Sharecropper's Society," Big Four equities, Lou Simpson 20.3% CAGR, Clayton/Oakwood synergy, stock-option expensing, governance (2004)
 - [2005 Letter](sources/buffett-letter-2005.md) - Book value +6.4%, Gotrocks parable, Fred Futile option math, $3.4B hurricane losses, float $49.3B costless, GEICO 6.1% share, Forest River/Business Wire acquired, PacifiCorp agreed, "widening the moat," Gen Re canary, succession first discussed (2005)
+- [2006 Letter](sources/buffett-letter-2006.md) - Record $16.9B gain, ISCAR $4B first international, Equitas $7.12B, float $50.9B, GEICO 8.1M policies, GenRe $526M best year, newspaper decline, Gotrocks 2-and-20 sequel, Walter Schloss, CIO succession, TTI before-lunch deal (2006)
 
 ## Principles
 
 - [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (20 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Two-table framework; derivatives canary; four-sector reporting; 22.2% tangible ROE (25 sources)
-- [Four Filters](principles/four-filters.md) - Forest River fax; Business Wire letter; "no exit strategy"; "simple propositions" (22 sources)
-- [Business Quality](principles/business-quality.md) - "Widening the moat" daily discipline; 22.2% tangible ROE; short-term vs. long-term (26 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $49.3B costless; $3.4B hurricane losses; Pascal's Wager mega-cat; MedPro (29 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Two-table framework; derivatives canary; four-sector reporting; 22.2% tangible ROE (26 sources)
+- [Four Filters](principles/four-filters.md) - Forest River fax; Business Wire letter; ISCAR/TTI; "no exit strategy" (23 sources)
+- [Business Quality](principles/business-quality.md) - "Widening the moat" daily discipline; newspaper decline essay; 22.2% tangible ROE (27 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $50.9B; $3.838B record profit; Equitas $7.12B; Pascal's Wager mega-cat (30 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - "Sharecropper's Society" trade deficit essay; $21.4B foreign currency; misery index; tapeworm (10 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Fred Futile/Stagnant Inc.; "Ratchet, Ratchet and Bingo"; succession; debt philosophy; Jim Kilts (29 sources)
+- [Capital Allocation](principles/capital-allocation.md) - CIO succession criteria; two-yardstick updated; "buyer of choice" goes global (30 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR; 6-8% expectation; foreign equities shift (19 sources)
+- [Mr. Market](principles/mr-market.md) - Gotrocks sequel; 2-and-20 hedge fund math; Walter Schloss tribute; Dow 5.3% CAGR (20 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations; NICO as anti-imperative exemplar (2004) (2 sources)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - Market share 6.1% (2005); $1,221M underwriting profit; Tony Nicely; +12.1% policies; productivity +32% (29 sources)
-- [National Indemnity](entities/national-indemnity.md) - 25-year "Portrait of a Disciplined Underwriter" (2004); Don Wurster; ebb-and-flow; float $46.1B (28 sources)
+- [GEICO](entities/geico.md) - Market share growing; 8.1M policies; 47% productivity; $1,314M profit; Tony Nicely (30 sources)
+- [National Indemnity](entities/national-indemnity.md) - 40th anniversary (1967); float $17M→$50.9B; Jack Ringwalt; Don Wurster (29 sources)
 - [See's Candies](entities/sees-candies.md) - Chuck Huggins retires after 34 years (2005); Brad Kinstler succeeds (20 sources)
 - [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; age 82 (2005); "thumb-sucking" critique; permanent two-person partnership (14 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Kansas City store: "country's largest-volume home-furnishings store" (2003); Mrs. B turns 100 (Dec 1993) (13 sources)
-- [Buffalo Evening News](entities/buffalo-evening-news.md) - Media franchise erosion; $47.9M pre-tax (1992); Stan Lipsey outperforms industry (11 sources)
+- [Buffalo Evening News](entities/buffalo-evening-news.md) - "Days of lush profits over"; newspaper decline essay (2006); Stan Lipsey (12 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
 - [Scott & Fetzer](entities/scott-fetzer.md) - Ralph Schey retires 2000; $1.03B cumulative distributions vs. $230M net purchase price; 86% ROE record (12 sources)
 - [Coca-Cola](entities/coca-cola.md) - Big Four $8,062M value (2005); still below $13.4B 1998 peak; "The Inevitable"; 200M shares (11 sources)
@@ -79,20 +80,22 @@ updated: 2026-04-20
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
-- [General Re](entities/general-re.md) - $(334)M hurricane loss (2005); Gen Re Securities 741 contracts/$404M cumulative; canary in coal mine (8 sources)
-- [Executive Jet Aviation](entities/executive-jet.md) - US deep in red (2005); European +37%; Rich Santulli; quality commitment (8 sources)
+- [General Re](entities/general-re.md) - $526M best year (2006); Gen Re Securities wound down; "All's well that ends" (9 sources)
+- [Executive Jet Aviation](entities/executive-jet.md) - $143M worldwide profit (2006); European turnaround; Mark Booth (9 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - PacifiCorp acquisition; PUHCA repeal; 83.4% voting common; HomeServices $64B; $1,168M pre-tax (7 sources)
-- [Shaw Industries](entities/shaw-industries.md) - $550M bolt-on acquisitions (2005); vertical integration; world's largest carpet maker (6 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - $1.718B pre-tax; PacifiCorp first year; 86.6%; housing crisis foreshadowed (8 sources)
+- [Shaw Industries](entities/shaw-industries.md) - Bob Shaw retires at 75; Vance Bell succeeds; world's largest carpet maker (7 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
 - [Justin Industries](entities/justin-industries.md) - $570M cash; Acme Brick + Western boot brands; "clicks and bricks" joke; serendipitous fax (1 source)
-- [Clayton Homes](entities/clayton-homes.md) - Servicing $17B; own portfolio $9.6B; $416M pre-tax; Karsten acquired; industry 40-year lows (3 sources)
+- [Clayton Homes](entities/clayton-homes.md) - $513M pre-tax; $10B portfolio; 14,787 employees; industry lowest since 1962 (4 sources)
 - [McLane Company](entities/mclane.md) - $23B sales wholesale distribution; Wal-Mart sale in 29 days; no due diligence; Byron Trott (1 source)
-- [Fruit of the Loom](entities/fruit-of-the-loom.md) - 48.7% men's underwear share; 24.7% women's (2005); acquired from bankruptcy (4 sources)
+- [Fruit of the Loom](entities/fruit-of-the-loom.md) - Russell Corp acquired; VF intimate apparel agreed; 48.7% men's underwear share (5 sources)
 - [Lou Simpson](entities/lou-simpson.md) - GEICO CIO; 25-year track record 20.3% CAGR vs. S&P 13.5%; ~$2.5B portfolio (1 source)
 - [Forest River](entities/forest-river.md) - RV manufacturer; $1.6B revenue; Pete Liegl; two-page fax acquisition (2005) (1 source)
 - [Business Wire](entities/business-wire.md) - Press release distribution; Lorry Lokey; 25,000 clients; WSJ article triggered (2005) (1 source)
+- [ISCAR](entities/iscar.md) - $4B first international acquisition (80%); cutting tools; 61 countries; Eitan Wertheimer (1 source)
+- [TTI](entities/tti.md) - Electronic components distributor; Fort Worth; $1.3B revenue; deal before lunch (1 source)
 
 ## Case Studies
 
@@ -101,7 +104,7 @@ updated: 2026-04-20
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $59,377 (2005), 21.5% CAGR; two-table framework; equity <50% net worth (29 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $70,281 (2006), 21.4% CAGR; record $16.9B gain; two-yardstick framework (30 sources)
 
 ## Standalone Pages
 

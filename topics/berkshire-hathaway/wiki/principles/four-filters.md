@@ -23,6 +23,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -228,3 +229,15 @@ This sharpens filter (1) (understandable business): understanding a business mea
 [^9]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — three investor suggestions (cockroach accounting, unintelligible footnotes, earnings projections); Clayton acquisition from book-reading; McLane no-due-diligence speed
 
 [^10]: [2004 Letter](../sources/buffett-letter-2004.md) — zinc write-off $579M; "simple propositions" / "mono-linked chains"; 10 variables at 90% = 35% joint probability; filter (1) complexity corollary
+
+### ISCAR Letter and TTI Morning Deal (2006)
+
+**[2006 Letter]** Two acquisitions demonstrate the four filters in their purest form:
+
+**ISCAR:** Eitan Wertheimer's 1¼-page letter made "the quality of the company and the character of its management leap off the page." A few hours with Eitan, Jacob Harpaz, and Danny Goldman "convinced me that if we were to make a deal, we would be teaming up with extraordinarily talented managers." Filters (1) simple consumable products, (2) 61-country business enabling customer productivity, (3) "true managerial magicians," (4) $4B all-cash. First international acquisition.
+
+**TTI:** Paul Andrews (80% owner, $1.3B revenue) rejected strategic buyers (would dismantle), PE (would leverage and flip), and post-death auction (destructive). Met Buffett November 15, deal before lunch. Andrews wrote: "I am confident that Berkshire is the right owner for TTI." Filter (1) straightforward distribution, (2) 35-year growth from $112K to $1.3B, (3) founder-operator, (4) willing seller at sensible price.
+
+**CIO hiring criteria** apply the four filters to people: "genetically programmed to recognize and avoid serious risks, including those never before encountered." Temperament over intelligence: "Independent thinking, emotional stability, and a keen understanding of both human and institutional behavior." The models commonly employed by financial institutions cannot spot certain perils[^11].
+
+[^11]: [2006 Letter](../sources/buffett-letter-2006.md) — ISCAR letter-to-deal; TTI morning acquisition; CIO temperament criteria; risk-avoidance "genetic programming"

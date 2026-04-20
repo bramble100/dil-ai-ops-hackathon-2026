@@ -11,8 +11,9 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
-source_count: 8
+source_count: 9
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, insurance, reinsurance, acquisition]
@@ -113,3 +114,19 @@ Buffett's annual derivatives warning intensified: "We are a canary in this busin
 Buffett's personal confession: "I have cost you a lot of money by not moving immediately to close down Gen Re's trading operation." Charlie calls it "thumb-sucking." "When a problem exists, whether in personnel or in business operations, the time to act is now." — echoing the 1989 "errors of omission" principle.
 
 - [2005 Letter](../sources/buffett-letter-2005.md) — $(334)M underwriting loss; float $22.9B; hurricanes; Gen Re Securities 741 contracts/$104M loss/$404M cumulative; 100-year contract; canary in coal mine; "thumb-sucking" confession
+
+## 2006: Vindication and Gen Re Securities Closed
+
+**[2006 Letter]** General Re posts **$526M underwriting profit** — its best year under Berkshire ownership — on $22,827M float. The turnaround from 1999's $1.4B loss is complete.
+
+**Gen Re Securities wound down:** 197 contracts remaining (from 23,218 at wind-down start in early 2002). Cumulative pre-tax loss: $409M, with only $5M in 2006. Charlie: the $409M should have been labeled "Good Until Reached For" on the 2001 balance sheet. Buffett: "All's well that ends" (Shakespeare, slightly modified). Final appearance of Gen Re Securities in the annual report[^9].
+
+[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $526M underwriting profit; float $22.8B; Gen Re Securities 197 contracts/$409M cumulative/$5M final loss; "All's well that ends"
+
+## 2006: Vindication and Gen Re Securities Closed
+
+**[2006 Letter]** General Re posts **$526M underwriting profit** — its best year under Berkshire ownership — on $22,827M float. The turnaround from 1999's $1.4B loss is complete.
+
+**Gen Re Securities wound down:** 197 contracts remaining (from 23,218 at wind-down start in early 2002). Cumulative pre-tax loss: $409M, with only $5M in 2006. Charlie: the $409M should have been labeled "Good Until Reached For" on the 2001 balance sheet. Buffett: "All's well that ends" (Shakespeare, slightly modified). Final appearance of Gen Re Securities in the annual report[^9].
+
+[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $526M underwriting profit; float $22.8B; Gen Re Securities 197 contracts/$409M cumulative/$5M final loss; "All's well that ends"

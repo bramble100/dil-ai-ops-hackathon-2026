@@ -11,8 +11,9 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
-source_count: 8
+source_count: 9
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, aviation, acquisition]
@@ -84,3 +85,29 @@ Competitive dynamics: three largest competitors (all owned by aircraft manufactu
 Rich Santulli "one of the most dynamic managers I've ever met, will solve our revenue/expense problem." Buffett and Santulli are "committed to a level of service, security and safety that can't be matched by others" [^7].
 
 [^7]: [2005 Letter](../sources/buffett-letter-2005.md) — US deep in red; European contracts +37%; Santulli praised; competitor fleets combined < NetJets; quality commitment
+
+### 2006: Global Profitability Achieved
+
+**[2006 Letter]** NetJets posts **$143M pre-tax profit** worldwide — a dramatic turnaround from years of losses:
+
+- **European turnaround:** 589 net new customers added 2005-2006 (from only 80 after five years of operation); Mark Booth's "brilliant leadership" brings European profitability; cumulative European pre-tax loss had been $212M through mid-2006
+- **Revenue growth:** Flight operations revenue up **596% since 1998 purchase**
+- **Fleet:** Value managed far greater than three largest competitors combined
+- **Q1 2006 loss:** $19M, overcome by strong remainder of year
+
+Buffett credits Rich Santulli and Mark Booth. NetJets is "the ultimate in safety and service" — Buffett, his family, and most Berkshire directors are personal customers ("none of us gets a discount"). "Once you've flown NetJets, returning to commercial flights is like going back to holding hands"[^8].
+
+[^8]: [2006 Letter](../sources/buffett-letter-2006.md) — $143M worldwide profit; European turnaround under Mark Booth; 589 new European customers; 596% revenue growth since 1998; fleet dominance
+
+### 2006: Global Profitability Achieved
+
+**[2006 Letter]** NetJets posts **$143M pre-tax profit** worldwide — a dramatic turnaround from years of losses:
+
+- **European turnaround:** 589 net new customers added 2005-2006 (from only 80 after five years of operation); Mark Booth's "brilliant leadership" brings European profitability; cumulative European pre-tax loss had been $212M through mid-2006
+- **Revenue growth:** Flight operations revenue up **596% since 1998 purchase**
+- **Fleet:** Value managed far greater than three largest competitors combined
+- **Q1 2006 loss:** $19M, overcome by strong remainder of year
+
+Buffett credits Rich Santulli and Mark Booth. NetJets is "the ultimate in safety and service" — Buffett, his family, and most Berkshire directors are personal customers ("none of us gets a discount"). "Once you've flown NetJets, returning to commercial flights is like going back to holding hands"[^8].
+
+[^8]: [2006 Letter](../sources/buffett-letter-2006.md) — $143M worldwide profit; European turnaround under Mark Booth; 589 new European customers; 596% revenue growth since 1998; fleet dominance

@@ -30,6 +30,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20

@@ -30,6 +30,7 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -166,5 +167,25 @@ Smaller primary insurers: float $1.3B, underwriting profit $47M. "Berkshire has 
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) — Ajit $13.4B float, 20-person staff, $534M profit, $428M retroactive charge; smaller primaries float $943M +38%
 
 [^14]: [2004 Letter](../sources/buffett-letter-2004.md) — 25-year Portrait of a Disciplined Underwriter; Don Wurster $950M float; ebb-and-flow model; no-layoff promise; four Florida hurricanes $1.25B; mega-cat preparedness ($100B scenario); float $46.1B; $1.5B underwriting profit
+
+### 2006: 40th Anniversary and $50.9B Float
+
+**[2006 Letter]** Buffett marks National Indemnity's **40th anniversary** under Berkshire ownership (purchased March 9, 1967 from Jack Ringwalt for $8.6M). Float has grown from $17M to $50.9B. The origin story retold: Charlie Heider alerted Buffett when Ringwalt was "in heat"; deal closed with a handshake, no audit, no due diligence. At the closing, Ringwalt arrived late — he'd been "driving around looking for a parking meter with some unexpired time."
+
+The insurance roster reads like "Cooperstown" — Tony Nicely (GEICO), Ajit Jain (B-H Reinsurance), Joe Brandon and Tad Montross (General Re), Don Wurster (NICO Primary), plus Tom Nerney, Tim Kenesey, Rod Eldred, Sid Ferenc, Steve Menzies, John Kizer, and Don Towle.
+
+Total Berkshire float $50.9B; Equitas adds another $7B. Retroactive reinsurance float "automatically drifts down over time" — new acquisitions needed to increase float further. Overall float cost "significantly below that of the industry, perhaps even falling to less than zero" over time[^15].
+
+[^15]: [2006 Letter](../sources/buffett-letter-2006.md) — 40th anniversary; float from $17M to $50.9B; Ringwalt parking meter; Equitas +$7B; insurance Hall of Fame roster
+
+### 2006: 40th Anniversary and $50.9B Float
+
+**[2006 Letter]** Buffett marks National Indemnity's **40th anniversary** under Berkshire ownership (purchased March 9, 1967 from Jack Ringwalt for $8.6M). Float has grown from $17M to $50.9B. The origin story retold: Charlie Heider alerted Buffett when Ringwalt was "in heat"; deal closed with a handshake, no audit, no due diligence. At the closing, Ringwalt arrived late — he'd been "driving around looking for a parking meter with some unexpired time."
+
+The insurance roster reads like "Cooperstown" — Tony Nicely (GEICO), Ajit Jain (B-H Reinsurance), Joe Brandon and Tad Montross (General Re), Don Wurster (NICO Primary), plus Tom Nerney, Tim Kenesey, Rod Eldred, Sid Ferenc, Steve Menzies, John Kizer, and Don Towle.
+
+Total Berkshire float $50.9B; Equitas adds another $7B. Retroactive reinsurance float "automatically drifts down over time" — new acquisitions needed to increase float further. Overall float cost "significantly below that of the industry, perhaps even falling to less than zero" over time[^15].
+
+[^15]: [2006 Letter](../sources/buffett-letter-2006.md) — 40th anniversary; float from $17M to $50.9B; Ringwalt parking meter; Equitas +$7B; insurance Hall of Fame roster
 
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — PepsiCo $1B prize policy; $1.4B underwriting profit; total float $44.2B at zero cost; smaller primaries $1.3B float

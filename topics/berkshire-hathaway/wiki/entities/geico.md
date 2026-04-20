@@ -33,6 +33,8 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -221,6 +223,34 @@ The 55-year connection: "That simple formula immediately impressed me 55 years a
 New Jersey performance spectacular: retention rate for new policyholders "running higher than in any other state" — GEICO likely to become third-largest auto insurer in NJ by 2007[^17].
 
 [^17]: [2005 Letter](../sources/buffett-letter-2005.md) — market share 6.1%; policies +12.1%; productivity +32%; $502M advertising; $1,221M underwriting profit; float $6,692M; Tony Nicely praised; NJ retention best in nation
+
+### 2006: Productivity Miracle and $1.314B Profit
+
+**[2006 Letter]** GEICO delivers another stellar year with extraordinary productivity gains:
+
+- **Policies:** 8.1 million (up 42% from 5.7M at yearend 2003)
+- **Productivity:** up **47%** over three years (policies +42%, employees −3.5%)
+- **Advertising:** $631M (up from $238M in 2003, $31M in 1995)
+- **Underwriting profit:** $1,314M
+- **Float:** $7,171M
+
+Buffett: Don Keough suggested shareholders "immediately change the names of their present children to Tony or Antoinette." Tony Nicely went to work at GEICO 45 years ago, two months after turning 18; became CEO in 1992. GEICO's position as low-cost producer maintained despite dramatically increased advertising — "GEICO spends far more on ads than any of its competitors, even those much larger"[^18].
+
+[^18]: [2006 Letter](../sources/buffett-letter-2006.md) — 8.1M policies; 47% productivity gain; $631M advertising; $1,314M profit; float $7,171M
+
+### 2006: Productivity Miracle and $1.314B Profit
+
+**[2006 Letter]** GEICO delivers another stellar year with extraordinary productivity gains:
+
+- **Policies:** 8.1 million (up 42% from 5.7M at yearend 2003)
+- **Productivity:** up **47%** over three years (policies +42%, employees −3.5%)
+- **Advertising:** $631M (up from $238M in 2003, $31M in 1995)
+- **Underwriting profit:** $1,314M
+- **Float:** $7,171M
+
+Buffett: Don Keough suggested shareholders "immediately change the names of their present children to Tony or Antoinette." Tony Nicely went to work at GEICO 45 years ago, two months after turning 18; became CEO in 1992. GEICO's position as low-cost producer maintained despite dramatically increased advertising — "GEICO spends far more on ads than any of its competitors, even those much larger"[^18].
+
+[^18]: [2006 Letter](../sources/buffett-letter-2006.md) — 8.1M policies; 47% productivity gain; $631M advertising; $1,314M profit; float $7,171M
 
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
 

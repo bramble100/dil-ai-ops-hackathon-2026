@@ -27,6 +27,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -278,3 +279,22 @@ The first table (investments per share, starting from $4 in 1965) captures Berks
 **Derivatives warning intensified:** Gen Re Securities lost $104M in 2005 ($404M cumulative). Buffett: "We are a canary in this business coal mine" — if sophisticated Berkshire accountants struggle to value 741 remaining derivative contracts, what happens at firms with thousands? Mark-to-model becomes mark-to-myth; the number and value of derivatives outstanding "is now a multiple of what existed in 1998, the last time that financial chaos erupted." This is the clearest pre-2008 warning in the corpus[^15].
 
 [^15]: [2005 Letter](../sources/buffett-letter-2005.md) — two-table framework (investments/earnings per share); four-sector reporting; 22.2% tangible ROE; Gen Re Securities $104M/$404M; canary-in-coal-mine derivatives warning
+
+### Two-Yardstick Updated and Retroactive Reinsurance Accounting (2006)
+
+**[2006 Letter]** The two-yardstick framework from 2005 is refined with an 11-year breakout showing the structural shift:
+
+| Metric                               | 2006    | CAGR 1965-2006 | CAGR 1995-2006 |
+| ------------------------------------ | ------- | -------------- | -------------- |
+| Per-share investments (ex-finance)   | $80,636 | 27.5%          | 12.6%          |
+| Per-share pre-tax operating earnings | $3,625  | 17.9%          | 31.7%          |
+
+Non-insurance operating earnings grew 38% YoY. "Large gains from here on in, though, will come only if we are able to make major, and sensible, acquisitions."
+
+**Retroactive reinsurance DCRA accounting** explained in detail via the Equitas transaction: Cash and Investments debited, Reinsurance Recoverable debited, DCRA asset created. Annual amortization of DCRA produces underwriting losses by design — the question is whether investment income on $7.12B float exceeds those losses. Annual DCRA charge rises from ~$300M to ~$450M after Equitas.
+
+**Gen Re Securities closure:** "All's well that ends" — $409M cumulative loss, 197 contracts remaining from 23,218. Charlie: the $409M should have been labeled "Good Until Reached For" on the 2001 balance sheet.
+
+**Manufacturing/service/retail sector:** $52.66B revenue, $3.526B pre-tax, 25% on average tangible net worth (10.8% on carrying value including goodwill)[^16].
+
+[^16]: [2006 Letter](../sources/buffett-letter-2006.md) — two-yardstick 2006 update; DCRA retroactive reinsurance accounting; Gen Re Securities final chapter; 25% tangible ROE on $52.66B revenue

@@ -2,10 +2,18 @@
 title: "Fruit of the Loom"
 type: entity
 entity_kind: subsidiary
-source_count: 3
+source_count: 4
 created: 2026-04-20
 updated: 2026-04-20
 tags: [apparel, manufacturing, acquisition, turnaround]
+sources:
+  [
+    buffett-letter-2002,
+    buffett-letter-2003,
+    buffett-letter-2004,
+    buffett-letter-2005,
+    buffett-letter-2006,
+  ]
 ---
 
 ## Overview
@@ -49,3 +57,15 @@ John Holland's turnaround (he had previously run the company under its former ow
 **[2005 Letter]** Fruit of the Loom's market share gains are extraordinary: **48.7%** of men's and boys' underwear market (from 44.2%) and **24.7%** of women's and girls' (from 13.7% at acquisition). John Holland continues as CEO. "The company is a powerhouse in basic apparel" [^4].
 
 [^4]: [2005 Letter](../sources/buffett-letter-2005.md) — 48.7% men's underwear share; 24.7% women's share; John Holland CEO
+
+### 2006: Russell Corp and VF Acquisitions
+
+**[2006 Letter]** Fruit of the Loom makes two major acquisitions under John Holland:
+
+- **Russell Corp:** ~$1.2B (including assumed debt) — a leading producer of athletic apparel and uniforms
+- **VF Corp intimate apparel business** (agreed December 2006)
+- Combined additions: ~$2.2B in sales and ~23,000 employees
+
+Buffett praises the tuck-in strategy: "We leverage the managerial talent already with us by these tuck-in deals. We will make many more"[^5].
+
+[^5]: [2006 Letter](../sources/buffett-letter-2006.md) — Russell Corp ~$1.2B; VF Corp intimate apparel agreed; ~$2.2B additional sales; 23,000 employees; tuck-in leverage

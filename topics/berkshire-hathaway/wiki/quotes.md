@@ -911,3 +911,83 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Thumb-sucking" — Charlie Munger, quoted in 2005 Letter
 >
 > Context: Munger's assessment of Buffett's delay in shutting down Gen Re Securities. → [Charlie Munger](entities/charlie-munger.md)
+
+## 2006 Letter Quotes
+
+### Market Psychology & Investing
+
+> "Long ago, Sir Isaac Newton gave us three laws of motion, which were the work of genius. But Sir Isaac's talents didn't extend to investing: He lost a bundle in the South Sea Bubble, explaining later, 'I can calculate the movement of the stars, but not the madness of men.'" — 2006 Letter
+>
+> Context: Introduction to the Gotrocks sequel — a parable of helpers draining investor returns. → [Mr. Market](principles/mr-market.md)
+
+> "The game has been rigged, with your family on the losing side. Let's call the new arrangement the 2-and-20 solution." — 2006 Letter
+>
+> Context: Gotrocks sequel — hedge fund managers arrive promising to extract value from other investors: $3B fund → $108M in fees on zero net return. → [Mr. Market](principles/mr-market.md)
+
+> "Walter did not go to business school, or for that matter, college. His office contained one file cabinet in 1956; I don't know how many he has now, but I'll bet it's not many." — 2006 Letter
+>
+> Context: Tribute to Walter Schloss — 30 partnerships, 49 years, 20% CAGR gross, 15.7% net; never charged a fixed fee. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation & Succession
+
+> "We have a $60 billion stock portfolio that needs to be wisely managed... First, he must be an investment professional who has earned large amounts of money for himself. Second, he must have a temperament that derives as much pleasure from the process of investing as from the results." — 2006 Letter
+>
+> Context: CIO succession criteria — eliminating candidates who "think of money as a way of keeping score." → [Capital Allocation](principles/capital-allocation.md)
+
+> "I have been in high gear virtually all of my adult life. After another 12 years or so of the same, Charlie and I will leave Berkshire's management ranks." — 2006 Letter
+>
+> Context: Buffett (76) on succession timing: "Sinatra sang better than ever at 65, but we don't yet know when age-related problems will occur." → [Capital Allocation](principles/capital-allocation.md)
+
+### Business Quality & Moats
+
+> "Once dominant, the newspaper itself, not the marketplace, determines just how much of that money it will grab. If the newspaper narrowed its rate for help-wanted ads, it would immediately lose profits without gaining any additional linage." — 2006 Letter
+>
+> Context: The newspaper monopoly economics explained — "Survival of the Fattest" destroyed by cable, satellite, and internet. → [Business Quality](principles/business-quality.md)
+
+> "When an industry's underlying economics are crumbling, talented management may slow the rate of decline. Eventually, though, eroding fundamentals will overwhelm managerial brilliance." — 2006 Letter
+>
+> Context: Stan Lipsey at the Buffalo News — excellence only slows the secular decline. → [Business Quality](principles/business-quality.md)
+
+### Insurance & Risk
+
+> "Mother Nature went on vacation." — 2006 Letter
+>
+> Context: Benign hurricane season helped produce record $3.838B underwriting profit after $3.4B in 2005 losses. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "A mega-catastrophe that causes $250 billion or more of insured losses will occur in time, and could come tomorrow." — 2006 Letter
+>
+> Context: Despite benign 2006, Buffett warns that a $250B+ catastrophe is inevitable — Berkshire expects to earn $2-3B on that day. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Acquisitions & Management
+
+> "When I met Eitan Wertheimer in the fall of 2005, I knew in a few minutes that he was my kind of guy. He told me of ISCAR's history and operations. In turn, I told him I was a buyer." — 2006 Letter
+>
+> Context: ISCAR — Berkshire's first international acquisition ($4B for 80%); the letter arrived "along with the 60 or 70 other letters, faxes and emails I received that day." → [ISCAR](entities/iscar.md)
+
+> "I told John that I was interested and asked him to arrange a meeting with Paul Andrews, its CEO. Paul came to Omaha, we shook hands, and the deal was done in record time — before lunch." — 2006 Letter
+>
+> Context: TTI acquisition — John Roach referral; deal completed before lunch, no investment bankers involved. → [TTI](entities/tti.md)
+
+> "I will tell you now that we have tried to make at least one acquisition per year of a size that will move the needle. This means a pretax purchase price of at least $500 million." — 2006 Letter
+>
+> Context: Acquisition tempo strategy — "one a year that will move the needle." → [Four Filters](principles/four-filters.md)
+
+### Humor & Self-Deprecation
+
+> "He is like the fellow who sold a hunting dog. The buyer complained that the dog could only be made to point, and asked for his money back. 'I'd advise against that move,' said the seller. 'Right now the dog is pointing, and that's better than he usually does.'" — 2006 Letter
+>
+> Context: On Charlie Munger's limited conversational style. → [Charlie Munger](entities/charlie-munger.md)
+
+> "If you are a manager with a business that is expected to earn about $100 million pre-tax — and you help us acquire a company for which we pay $500 million — you and your family are going to get 3% of that $500 million price, or $15 million. That is the same amount you would get from $300 million of additional earnings at your present business." — 2006 Letter
+>
+> Context: Explaining why Berkshire managers are incentivized (via the "find an elephant" bounty) to help source acquisitions. → [Capital Allocation](principles/capital-allocation.md)
+
+### Derivatives & Risk
+
+> "All's well that ends." — Charlie Munger, quoted in 2006 Letter
+>
+> Context: On Gen Re Securities — $409M cumulative loss, wound down from 23,218 to 197 contracts over four years. → [General Re](entities/general-re.md)
+
+> "Good until reached for." — Charlie Munger, quoted in 2006 Letter
+>
+> Context: Munger's label for the Gen Re Securities $409M loss that was latent on the 2001 balance sheet. → [Charlie Munger](entities/charlie-munger.md)

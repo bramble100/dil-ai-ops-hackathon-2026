@@ -10,8 +10,9 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
-source_count: 7
+source_count: 8
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, utilities, energy, acquisition]
@@ -135,3 +136,49 @@ Post-PacifiCorp, MidAmerican's regulated utility portfolio becomes:
 Buffett on utilities: "You can't expect to earn outsized profits in regulated utilities, but the industry offers owners the opportunity to deploy large sums at fair returns — and therefore, it makes good sense for Berkshire." Plans to look for more utility acquisitions: "Note the plural"[^8].
 
 [^8]: [2005 Letter](../sources/buffett-letter-2005.md) — PUHCA repeal; PacifiCorp acquisition ($3.4B+$1.7B); 1.6M new customers; 83.4% voting common; HomeServices $64B; $1,168M pre-tax; four-party partnership; "note the plural"
+
+## 2006: PacifiCorp First Full Year and $1.718B Pre-Tax
+
+**[2006 Letter]** MidAmerican's pre-tax earnings reach **$1.718B** (up from $1.168B) with PacifiCorp consolidated for its first full year:
+
+| Unit                           | 2006 Pre-Tax | 2005 Pre-Tax |
+| ------------------------------ | ------------ | ------------ |
+| UK utilities                   | $338M        | $308M        |
+| Iowa utility                   | $348M        | $288M        |
+| Western utilities (PacifiCorp) | $356M        | N/A          |
+| Pipelines                      | $376M        | $309M        |
+| HomeServices                   | $74M         | $148M        |
+| Other (net)                    | $226M        | $115M        |
+| **Earnings before int/tax**    | **$1,718M**  | **$1,168M**  |
+| Net earnings to Berkshire      | $885M        | $523M        |
+
+**86.6% economic interest** (fully diluted). MidAmerican's four major utility platforms: (1) Yorkshire/Northern Electric, 3.7M UK customers (#3 UK distributor); (2) MidAmerican Energy, 706K Iowa customers; (3) PacifiCorp (Pacific Power/Rocky Mountain Power), 1.7M customers in six Western states; (4) Kern River/Northern Natural pipelines, ~8% of US natural gas.
+
+**HomeServices** profits fell 50% ($74M vs. $148M) as residential real estate slowed. Buffett critiques lending practices: "optional" contracts and "teaser" rates let borrowers defer payments — "a rolling loan gathers no loss." The Scarlett O'Hara scenario: "I'll think about that tomorrow." For many homeowners, "tomorrow has now arrived" — a prescient 2006 observation of the emerging housing crisis.
+
+Partnership unchanged: "We will make major moves only when we are unanimous" (Buffett/Walter Scott/Dave Sokol/Greg Abel)[^9].
+
+[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $1.718B pre-tax; PacifiCorp first year $356M; 86.6% interest; HomeServices -50%; housing crisis foreshadowed; four-party partnership
+
+## 2006: PacifiCorp First Full Year and $1.718B Pre-Tax
+
+**[2006 Letter]** MidAmerican's pre-tax earnings reach **$1.718B** (up from $1.168B) with PacifiCorp consolidated for its first full year:
+
+| Unit                           | 2006 Pre-Tax | 2005 Pre-Tax |
+| ------------------------------ | ------------ | ------------ |
+| UK utilities                   | $338M        | $308M        |
+| Iowa utility                   | $348M        | $288M        |
+| Western utilities (PacifiCorp) | $356M        | N/A          |
+| Pipelines                      | $376M        | $309M        |
+| HomeServices                   | $74M         | $148M        |
+| Other (net)                    | $226M        | $115M        |
+| **Earnings before int/tax**    | **$1,718M**  | **$1,168M**  |
+| Net earnings to Berkshire      | $885M        | $523M        |
+
+**86.6% economic interest** (fully diluted). MidAmerican's four major utility platforms: (1) Yorkshire/Northern Electric, 3.7M UK customers (#3 UK distributor); (2) MidAmerican Energy, 706K Iowa customers; (3) PacifiCorp (Pacific Power/Rocky Mountain Power), 1.7M customers in six Western states; (4) Kern River/Northern Natural pipelines, ~8% of US natural gas.
+
+**HomeServices** profits fell 50% ($74M vs. $148M) as residential real estate slowed. Buffett critiques lending practices: "optional" contracts and "teaser" rates let borrowers defer payments — "a rolling loan gathers no loss." The Scarlett O'Hara scenario: "I'll think about that tomorrow." For many homeowners, "tomorrow has now arrived" — a prescient 2006 observation of the emerging housing crisis.
+
+Partnership unchanged: "We will make major moves only when we are unanimous" (Buffett/Walter Scott/Dave Sokol/Greg Abel)[^9].
+
+[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $1.718B pre-tax; PacifiCorp first year $356M; 86.6% interest; HomeServices -50%; housing crisis foreshadowed; four-party partnership

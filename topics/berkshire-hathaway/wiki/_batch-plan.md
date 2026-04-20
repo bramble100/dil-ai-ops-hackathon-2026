@@ -78,7 +78,7 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 14 — 2006 (~1,960 lines)
 
-- [ ] buffett-letter-2006.md
+- [x] buffett-letter-2006.md
 
 ### Batch 15 — 2007-2008 (~3,210 lines)
 

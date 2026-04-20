@@ -10,6 +10,7 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -66,3 +67,9 @@ Shaw illustrates Berkshire's acquisition model in manufacturing: identify the in
 **[2005 Letter]** Shaw made $550M in bolt-on acquisitions, mainly for **vertical integration** (moving upstream into raw materials). Bob Shaw and Julian Saul continue leading. Revenue growth despite competitive pressures in the flooring industry [^5].
 
 [^5]: [2005 Letter](../sources/buffett-letter-2005.md) — $550M bolt-on acquisitions for vertical integration
+
+### 2006: Bob Shaw Retires, Vance Bell Succeeds
+
+**[2006 Letter]** Bob Shaw retires at age 75 after building Shaw Industries from a standing start into the country's largest carpet producer. Vance Bell, a 31-year Shaw veteran, succeeds him. Housing weakness slows the carpet business, but "Shaw remains a powerhouse and a major contributor to Berkshire's earnings." Tuck-in acquisitions continue[^6].
+
+[^6]: [2006 Letter](../sources/buffett-letter-2006.md) — Bob Shaw retires at 75; Vance Bell succeeds (31-year veteran); housing weakness; still major earner

@@ -6,7 +6,13 @@ source_count: 3
 created: 2026-04-20
 updated: 2026-04-20
 tags: [manufactured-housing, finance, acquisition]
-sources: [buffett-letter-2003, buffett-letter-2004, buffett-letter-2005]
+sources:
+  [
+    buffett-letter-2003,
+    buffett-letter-2004,
+    buffett-letter-2005,
+    buffett-letter-2006,
+  ]
 ---
 
 ## Overview
@@ -70,3 +76,16 @@ Buffett: "After 40 years, we've finally generated a little synergy at Berkshire.
 On the manufacturing side: original 20 plants + 12 (Oakwood 2004) + 4 (Karsten 2005) = 36 plants. Clayton's operating expertise and Berkshire's financial resources have made manufactured-housing lending "an excellent business for us and one in which we are preeminent"[^3].
 
 [^3]: [2005 Letter](../sources/buffett-letter-2005.md) — servicing $17B; own portfolio $9.6B; $416M pre-tax; Karsten acquired; $83M Berkshire credit markup; industry 40-year lows
+
+## 2006: $513M Pre-Tax and Industry Anomaly
+
+**[2006 Letter]** Clayton remains "an anomaly in the manufactured-housing industry" — the industry recorded its lowest unit sales since 1962, and outside of Clayton, "I doubt if the industry, overall, made any money in 2006."
+
+- **Pre-tax earnings:** $513M (plus $86M fee paid to Berkshire for credit)
+- **Installment receivable portfolio:** $10B
+- **Employees:** 14,787 (from 6,661 at purchase)
+- **CEO:** Kevin Clayton — "knows the business forward and backward, is a rational decision-maker and a joy to work with"
+
+Berkshire's financial strength continues as the driving force: Clayton's $10B financing portfolio exists because of Berkshire's balance sheet. Acquisitions have more than doubled the workforce since purchase[^4].
+
+[^4]: [2006 Letter](../sources/buffett-letter-2006.md) — $513M pre-tax; $86M Berkshire fee; $10B portfolio; 14,787 employees; industry lowest since 1962

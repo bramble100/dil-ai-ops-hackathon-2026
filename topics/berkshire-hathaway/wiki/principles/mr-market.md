@@ -20,6 +20,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -278,3 +279,17 @@ Portfolio expectations sobered: Berkshire's major equity holdings "may double in
 [^16]: [2005 Letter](../sources/buffett-letter-2005.md) — Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR math; portfolio expectations 6-8%; foreign currency to foreign equities shift
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble ended March 10, 2000 (NASDAQ 5,132 = day BRK hit $40,800 low); equity prices presage only moderate returns
+
+### Gotrocks Sequel: 2-and-20 Math (2006)
+
+**[2006 Letter]** Buffett extends the Gotrocks critique to the hedge fund industry's explosive growth. The 2-and-20 fee structure is mathematically devastating:
+
+- A $3B fund earning 10% gross keeps 3.6 percentage points for the manager (2% base + 20% of residual 8%), paying him **$108M** while leaving only 6.4% for investors
+- An index fund returning 15% in the same period charges only a token fee
+- "When someone with experience proposes a deal to someone with money, too often the fellow with money ends up with the experience, and the fellow with experience ends up with the money"
+
+Pension fund delusions compound the problem: private plans overstate earnings and public plans defer tax increases by using unrealistic investment assumptions. "Actuaries and auditors go along with these tactics, and it can be decades before the chickens come home to roost."
+
+**Walter Schloss tribute:** 47-year partnership (1956-2002), no college, one file cabinet → four, no secretary, no inside information. "We try to buy stocks cheap" was Edwin Schloss's entire investment philosophy. Schloss's documented EMT refutation extended: "If you are in the shipping business, it's helpful to have all of your potential competitors be taught that the earth is flat." Business schools ignored the evidence: "Rather than opening their minds, they closed their eyes." A finance instructor questioning EMT had "about as much chance of major promotion as Galileo had of being named Pope"[^17].
+
+[^17]: [2006 Letter](../sources/buffett-letter-2006.md) — 2-and-20 hedge fund math ($108M on $3B); Walter Schloss tribute; EMT academic blindness; pension fund delusions

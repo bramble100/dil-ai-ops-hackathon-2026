@@ -30,6 +30,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2006,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -564,3 +565,22 @@ The governance essay crystallizes Buffett's view that alignment of economic inte
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — owner-capitalism governance; Clayton/McLane acquisition speed; Byron Trott; Designated Gifts termination; successor planning; four internal candidates
 
 [^15]: [2004 Letter](../sources/buffett-letter-2004.md) — $43B cash; struck out on acquisitions; stock-option expensing June 15; successor may get options (well-structured); Coke board independence; Matthew 6:21 test; $4M+ stock / no D&O / no options; whistleblower line; "run your business as if only asset"
+
+### Two-Yardstick Framework and "Buyer of Choice" Goes Global (2006)
+
+**[2006 Letter]** Buffett introduces the **two-yardstick framework** for evaluating Berkshire's progress — quantifying the structural shift from securities-driven to operating-business-driven value:
+
+| Metric                               | 2006    | CAGR 1965-2006 | CAGR 1995-2006 |
+| ------------------------------------ | ------- | -------------- | -------------- |
+| Per-share investments (ex-finance)   | $80,636 | 27.5%          | 12.6%          |
+| Per-share pre-tax operating earnings | $3,625  | 17.9%          | 31.7%          |
+
+The investment column's CAGR deceleration (27.5% → 12.6%) and operating earnings acceleration (17.9% → 31.7%) capture the migration in real time. Large future gains "will come only if we are able to make major, and sensible, acquisitions."
+
+**ISCAR ($4B, 80%)** marks Berkshire's first international acquisition and the global extension of the "buyer of choice" identity. **TTI** (deal-before-lunch) extends the domestic pattern: founder rejects strategic buyers and PE, chooses Berkshire for permanent ownership.
+
+**Compensation philosophy** refined: Berkshire's one-man comp committee takes "virtually none" of Buffett's time; zero CEO departures in 42 years. Incentives always tied to operating results of each CEO's own business — never to Berkshire stock price. "Why in the world should the pay of our operating executives be affected by $6 billion swings" in the $61B equity portfolio? Director independence critique: fees of $150-250K create dependence, not independence. "Ratchet, Ratchet and Bingo" comp consultants.
+
+**Succession plan advanced:** Three CEO candidates confirmed (all much younger); formal plan to hire a younger CIO because Lou Simpson (6 years younger than Buffett) won't serve long-term. CIO requirements: genetically programmed risk avoidance, emotional stability, independent thinking, understanding of institutional behavior[^16].
+
+[^16]: [2006 Letter](../sources/buffett-letter-2006.md) — two-yardstick framework; ISCAR $4B first international; TTI deal-before-lunch; comp philosophy; CIO search criteria; Ratchet Ratchet and Bingo
