@@ -1,7 +1,7 @@
 ---
 title: "Inflation and Investing"
 type: principle
-sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983]
+sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -47,6 +47,10 @@ Warning appears in the 1979 letter (misery index), intensifies in 1980 (hamburge
 The 1983 Goodwill appendix provides the constructive counterpart: [Economic Goodwill](economic-goodwill.md) shows which businesses actually benefit from inflation. The traditional wisdom that tangible assets protect against inflation is demolished: "It doesn't work that way. Asset-heavy businesses generally earn low rates of return." Instead, "a disproportionate number of the great business fortunes built up during the inflationary years arose from ownership of operations that combined intangibles of lasting value with relatively minor requirements for tangible assets."[^5]
 
 > "During inflation, Goodwill is the gift that keeps giving." — 1983 Appendix
+
+### Inflation and Long-Term Bonds (1984)
+
+**[1984 Letter]** "We dislike the purchase of most long-term bonds under most circumstances... bonds are as sound as a dollar — and we view the long-term outlook for dollars as dismal." Fiscal policy featuring a huge deficit is "both extremely dangerous and difficult to reverse." A "small, but not insignificant, chance of runaway inflation" exists. In runaway inflation, a diversified stock portfolio suffers enormous real losses — but outstanding bonds suffer "far more." An all-bond portfolio therefore carries a "small but unacceptable 'wipe out' risk."
 
 ## Connections
 

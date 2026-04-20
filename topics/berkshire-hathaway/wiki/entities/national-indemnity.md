@@ -2,7 +2,7 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -29,6 +29,8 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 - **No layoffs for volume swings:** "We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money"[^2]
 - **Volume willingness:** Premium volume declined when rates were inadequate — Liesche accepted this without pressure from headquarters
 - **Competitive moat is cultural:** Insurance products are standardized, easily copied, with no patents or trademarks. "There is no question that the nature of the insurance business magnifies the effect which individual managers have on company performance"[^3]
+- **[1984 Letter]** Berkshire is "almost without question the strongest property/casualty insurance operation in the country." Financial strength is an asset for structured settlements and loss-reserve assumptions — very few companies can guarantee payments for decades. Columbia Insurance Company capital increased to support growth.
+- **[1985 Letter]** National Indemnity runs a $1M+ minimum premium ad in three issues of an insurance weekly — draws 600 replies, produces ~$50M in premiums. Willingness to risk $10M on a single event with no reinsurance lay-off sets Berkshire apart. Mike Goldberg hires "young managers with excellent potential." Also writes the Fireman's Fund 7% quota-share contract.
 
 ## Connections
 

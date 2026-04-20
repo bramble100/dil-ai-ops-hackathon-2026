@@ -1,7 +1,7 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -33,6 +33,16 @@ The idea appears in embryonic form in the 1978 letter (retained earnings of inve
 **[1982 Letter]** The fractional-interest advantage: "This investor may select from almost the entire array of major American corporations... in an auction market where prices are set by participants with behavior patterns that sometimes resemble those of an army of manic-depressive lemmings."
 
 **[1983 Letter]** The $1-for-$1 retention test codified: "We test the wisdom of retaining earnings by assessing whether retention, over time, delivers shareholders at least $1 of market value for each $1 retained." Applied on a five-year rolling basis. To date, "we have received far more than a dollar of market value gain for every dollar of earnings retained."
+
+### Proportionate Redemptions (1984-1985)
+
+**[1984 Letter]** General Foods distribution: Berkshire sold shares back to the company proportionally as it repurchased in the open market, maintaining exactly 8.75% ownership. Total received: $21.8M. Treated as dividend income for tax purposes (6.9% inter-corporate rate vs. higher capital gains rate). The accounting treatment was disputed by Peat Marwick's New York office — they insisted on treating it as a sale of stock, not a dividend. Buffett disagreed but adopted the auditor's view to avoid a qualified opinion.
+
+**[1985 Letter]** Washington Post proportionate redemption adds another $14.9M pre-tax. Buffett emphasizes these transactions benefit non-selling shareholders: repurchases at below-intrinsic-value "increase the owners' interest in the exceptional business while sparing them participation in subpar businesses."
+
+### Security Profits vs. Operating Earnings (1985)
+
+**[1985 Letter]** $468.9M in pre-tax security sales, mostly the General Foods sale ($338M pre-tax). "Security profits in a given year bear similarities to a college graduation ceremony in which the knowledge gained over four years is recognized on a day when nothing further is learned." Capital gains in any year are "meaningless as a measure of how well we have done in the current year" — they reflect value accumulated over holding periods of a decade or more.
 
 ## Connections
 

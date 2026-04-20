@@ -1,7 +1,7 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -64,6 +64,24 @@ Insurance is the purest commodity: capacity requires only "capital plus an under
 ## Evolution
 
 The contrast between textiles (headwinds) and insurance (tailwinds) is present from the very first letter and runs through all five. By 1981, Buffett formalizes it into the Category 1/Category 2 acquirer framework. The Waumbec mistake (admitted 1979, closed 1980) is the lived experience that cements the principle. The 1982 letter generalizes the textile lesson into the commodity business framework, applicable to any industry with overcapacity and undifferentiated products. The 1983 appendix provides the positive counterpart: [economic Goodwill](economic-goodwill.md) as the quantitative measure of business quality.
+
+### Dominant Newspaper Economics (1984)
+
+**[1984 Letter]** "The economics of a dominant newspaper are excellent, among the very best in the business world." A stunning admission: "While first-class newspapers make excellent profits, the profits of third-rate papers are as good or better — as long as either class of paper is dominant within its community." Once dominant, the marketplace doesn't impose quality standards; management must impose its own. A poor product "will still remain essential to most citizens" for its "bulletin board" value.
+
+### The Textile Closure and Burlington Comparison (1985)
+
+**[1985 Letter]** The textile closure delivers the definitive version of this principle. Burlington Industries — the largest US textile company — invested ~$3B in capex over 21 years. Stock price (split-adjusted): $60 (1964) → $34 (1985), while CPI tripled. "This devastating outcome for the shareholders indicates what can happen when much brain power and energy are applied to a faulty premise."
+
+The capex trap in commodity businesses: each company's investment decision "appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes)."
+
+> "A good managerial record (measured by economic returns) is far more a function of what business boat you get into than it is of how effectively you row." — 1985 Letter
+
+> "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — 1985 Letter
+
+### The Power of Economic Goodwill, Demonstrated (1985)
+
+**[1985 Letter]** NFM, See's, and the Buffalo News combined: $72M pre-tax earnings (vs. $8M fifteen years earlier) with only ~$40M in additional invested capital. The average American business requires ~$5 of additional capital for every $1 of additional pre-tax earnings — these three would have needed $300M+ of incremental capital to achieve the same growth at average economics.
 
 ## Connections
 

@@ -1,7 +1,7 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -24,8 +24,10 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1981     | $526.02          | ~31%       | 21.1%                     |
 | 1982     | $737.43          | 40%        | 22.0%                     |
 | 1983     | $975.83          | 32%        | 22.6%                     |
+| 1984     | $1,108.77        | 13.6%      | 22.1%                     |
+| 1985     | $1,643.71        | 48.2%      | 23.2%                     |
 
-_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain to date. Shares outstanding: 1,146,909 (end 1983) vs. 1,137,778 (start 1965) — virtually no dilution over 19 years._
+_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding: ~1,146,909 (end 1985) — virtually no dilution over 21 years._
 
 ## Key Observations
 
@@ -35,6 +37,8 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1983 Letter]** Book value is "a conservative but reasonably adequate proxy for growth in intrinsic business value" but the two have very different meanings. Intrinsic value now "considerably exceeds" book value because of unrealized gains on non-insurance equities ($70M pre-tax) and economic Goodwill far larger than accounting Goodwill
 - **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 - **[1983 Letter]** Blue Chip merger completed with virtually no dilution since 1965: 1,146,909 shares vs. 1,137,778 shares at the start — all growth was organic
+- **[1984 Letter]** Gain of $152.6M ($133/share) "sounds pretty good but actually it's mediocre." 13.6% return is the lowest single-year performance in the series so far. "You can be certain that this percentage will diminish in the future." Scale drag: earning 15% over the next decade requires ~$3.9B in aggregate profits.
+- **[1985 Letter]** Gain of $613.6M ($535/share, 48.2%) — "fitting that the visit of Halley's Comet coincided with this percentage gain: neither will be seen again in my lifetime." $468.9M of pre-tax gains from security sales, mostly General Foods sale. CAGR climbs to 23.2% but "An iron law of business is that growth eventually dampens exceptional economics." Comparable decade-ahead target now $5.7B.
 
 ## The Inflation Caveat
 

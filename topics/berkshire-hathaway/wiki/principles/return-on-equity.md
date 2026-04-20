@@ -1,7 +1,7 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -53,8 +53,16 @@ The college education analogy: identical spending on two children produces ident
 | 1981       | $526.02          | 21.1%          |
 | 1982       | $737.43          | 22.0%          |
 | 1983       | $975.83          | 22.6%          |
+| 1984       | $1,108.77        | 22.1%          |
+| 1985       | $1,643.71        | 23.2%          |
 
 **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
+
+### The Scale Drag (1984-1985)
+
+**[1984 Letter]** The 1984 gain was $152.6M ($133/share) — "sounds pretty good but actually it's mediocre." Single-year ROE was only 13.6% vs. the 22.1% historical CAGR. Buffett warns that earning even 15% annually over the next decade requires ~$3.9B in aggregate profits — "a few big ideas" are necessary.
+
+**[1985 Letter]** "An iron law of business is that growth eventually dampens exceptional economics. Just look at the records of high-return companies once they have amassed even $1 billion of equity capital. None that I know of has managed subsequently, over a ten-year period, to keep on earning 20% or more on equity while reinvesting all or substantially all of its earnings." The comparable figure for the next decade is now $5.7B (up 48% from the prior year's $3.9B). The 48.2% gain in 1985 was extraordinary — "fitting that the visit of Halley's Comet coincided with this percentage gain: neither will be seen again in my lifetime."
 
 ## Connections
 

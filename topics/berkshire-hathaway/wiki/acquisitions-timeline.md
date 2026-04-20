@@ -22,23 +22,25 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1977  | Cypress Insurance Company                        | Cash                  | Outstanding workers' comp results under Milt Thornton; "absolute gem"      | —                                                        |
 | ~1978 | Waumbec Mills                                    | Below working capital | Closed 1980; "Your Chairman made a costly mistake"                         | [Textile Operations](case-studies/textile-operations.md) |
 | 1983  | Nebraska Furniture Mart (90%)                    | ~$55.35M              | $100M+ revenue single store; Mrs. B (Rose Blumkin) at 89                   | [NFM](entities/nebraska-furniture-mart.md)               |
+| 1985  | Scott & Fetzer                                   | ~$320M + ~$90M debt   | $700M revenue, 17 businesses; World Book #1 encyclopedia                   | [Scott & Fetzer](entities/scott-fetzer.md)               |
 
 ## Major Equity Investments (Non-Controlling)
 
 | Year    | Company                        | Cost ($M) | Market ($M, 1983) | Key Insight                                                                 |
 | ------- | ------------------------------ | --------- | ----------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
-| 1976-80 | GEICO Corporation (33%)        | 47.1      | 398.2             | 8.5x return; special $21M distribution in 1983; combined ratio 96 vs. 111  | [GEICO](case-studies/geico-investment.md) |
-| 1973+   | Washington Post (1.87M shares) | 10.6      | 103.2             | Bought at fraction of intrinsic value; held throughout                      |
-| 1977+   | Capital Cities Communications  | 10.9      | —                 | "Extraordinary properties and extraordinary management"                     |
-| 1978+   | SAFECO Corporation             | 23.9-32.1 | 31.0              | "Best run large property and casualty insurance company"; bought below book |
-| 1977+   | Interpublic Group              | 4.5       | 34.5              | Steady appreciation                                                         |
-| 1979+   | General Foods                  | 11.4-66.3 | 84.0              | Large position built over years                                             |
-| 1979+   | Handy & Harman                 | 21.8      | 36.3              |                                                                             |
-| 1980+   | Aluminum Co. of America        | 25.6      | 18.0              | Chairman later admitted "180 degree" error on aluminum outlook              |
-| 1979+   | R.J. Reynolds Industries       | —         | 108.2             | One of four positions with $35M+ unreported earnings (1982 est.)            |
-| 1982+   | Time Inc.                      | 45.3      | 56.9              | New position built 1982-1983                                                |
-
-_Note: Cost and market values evolved across letters as positions were built or trimmed. Market values updated to 1983 year-end where available._
+| 1976-80 | GEICO Corporation (33→36%)     | 47.1      | 595.9 (1985)      | 12.7x return; combined ratio 96 vs. 111; Jack Byrne departs 1985           | [GEICO](case-studies/geico-investment.md) |
+| 1973+   | Washington Post (1.87M shares) | 10.6      | 221.0 (1985)      | 20x return; proportionate redemptions 1984-85                               |
+| 1985    | Capital Cities/ABC (3M shares) | 517.5     | At cost (1985)    | Largest single investment; Tom Murphy/Dan Burke; voting arrangement          | [Cap Cities](entities/capital-cities-abc.md) |
+| 1978+   | SAFECO Corporation             | 23.9-32.1 | 31.0 (1983)       | "Best run large property and casualty insurance company"; bought below book |
+| 1977+   | Interpublic Group              | 4.5       | 34.5 (1983)       | Steady appreciation                                                         |
+| 1979+   | General Foods                  | 11.4-66.3 | SOLD (1985)       | Sold to Philip Morris for $338M pre-tax gain; 4-factor analysis             |
+| 1979+   | Handy & Harman                 | 21.8      | 36.3 (1983)       |                                                                             |
+| 1980+   | Aluminum Co. of America        | 25.6      | 18.0 (1983)       | Chairman later admitted "180 degree" error on aluminum outlook              |
+| 1979+   | R.J. Reynolds Industries       | —         | 108.2 (1983)      | One of four positions with $35M+ unreported earnings (1982 est.)            |
+| 1982+   | Time Inc.                      | 45.3      | 56.9 (1983)       | New position built 1982-1983                                                |
+| 1984    | Exxon                          | —         | —                 | New major position built 1984                                               |
+| 1984    | WPPSS bonds                    | 139.0     | —                 | 16.3% after-tax return; bonds-as-business analysis                          |
+| 1985    | Fireman's Fund (7% quota)      | —         | —                 | Quota-share reinsurance; NatI 5/7, Wes-FIC 2/7                             |
 
 ## Connections
 

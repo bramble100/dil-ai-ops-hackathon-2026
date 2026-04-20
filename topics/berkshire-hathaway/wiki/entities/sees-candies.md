@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -38,9 +38,13 @@ See's demonstrates several core principles:
 
 See's is the primary example in Buffett's famous [Economic Goodwill](../principles/economic-goodwill.md) appendix. Purchased for $25M with $8M in tangible assets, the $17M accounting Goodwill was being amortized. But by 1983, See's earned $13M after tax on $20M tangible assets — the economic Goodwill had grown far larger than the original $17M. "During inflation, Goodwill is the gift that keeps giving" because asset-light businesses need minimal additional capital to maintain operations as prices rise.
 
-### Cost Control Challenge (1983)
+### Cost Control Challenge (1983-1985)
 
 **[1983 Letter]** Non-raw-material costs grew faster than inflation in recent years. Chuck Huggins has reversed the trend: "our rate of growth in these costs in 1984 will be below the rate of inflation." Poundage has been flat since 1979 (∼8% cumulative decline on a same-store basis), but dollar volume grew through price increases. Modest 1984 price increase aimed at improving volume.
+
+**[1984 Letter]** Revenue $135.9M; 24.76M lbs (+0.4%); same-store volume declined 1.1%. Per-pound realization $5.49 (only 1.4% increase). Progress on cost control: non-raw-material costs per pound up only 2.2%. Christmas concentration: 40% of volume and ~75% of profits in the four weeks before Christmas. Six new candy bars introduced. Seasonality and mall competition intensifying.
+
+**[1985 Letter]** Industry trends "not good" — same-store poundage slippage continues, putting pressure on per-pound costs. "We now are willing to increase prices only modestly and, unless we can stabilize per-shop poundage, profit margins will narrow." Part of the three-business group earning $72M pre-tax combined.
 
 ## Connections
 

@@ -2,7 +2,7 @@
 title: "Buffalo Evening News"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -37,6 +37,12 @@ While competitors cut editorial content to boost margins, the News maintained a 
 ### Preprint Shift
 
 **[1983 Letter]** Preprint revenue surged from $3.6M to $8.1M (lines from 9.3M to 16.4M), but the shift from ROP advertising to preprints has "negative economic implications" — lower profitability and greater competitive vulnerability.
+
+### 1984-1985 Performance
+
+**[1984 Letter]** Record profits driven by excellent cost control: total hours (ex-newsroom) down 2.8%; overall costs up only 4.9%. #1 weekday penetration, #2 Sunday among 100 largest papers. News hole 50.9%. Union catch-up wage increases coming in 1985 (appropriate given cooperative spirit during 1977-82 unprofitable period). Concentrated useful circulation is the key advantage — "wasted" circulation hurts profitability.
+
+**[1985 Letter]** Linage increased but ROP declined; preprint gain more than accounted for all growth. Preprints are "far less profitable than ROP ads, and also more vulnerable to competition." Stan Lipsey praised as a manager of exceptional caliber.
 
 ## Connections
 

@@ -2,7 +2,7 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983]
+sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -17,10 +17,10 @@ America's largest home furnishings store, generating over $100M in annual sales 
 
 - **Founded:** 1937 by Rose Blumkin with $500
 - **Acquired by Berkshire:** 1983 (90% ownership; 10% retained by family management)
-- **Revenue:** $100M+ annually from a single store
+- **Revenue:** $100M+ (1983), $115M (1984, +$14.3M gain) — by far the largest single home furnishings store in the US
 - **Competitive position:** Sells more furniture, carpets, and appliances than all Omaha competitors combined
-- **Key people:** Rose Blumkin ("Mrs. B"), Chairman, age 90, on sales floor seven days a week; Louie Blumkin, President, "the shrewdest buyer of furniture and appliances in the country"; three Blumkin grandsons in management
-- **Cost advantage:** Expense ratios "competitors don't even dream about"
+- **Key people:** Rose Blumkin ("Mrs. B"), Chairman, age 91 (1984), on sales floor seven days a week; Louie Blumkin, President, "the shrewdest buyer of furniture and appliances in the country"; three Blumkin grandsons (Ron, Irv, Steve) in management
+- **Cost advantage:** Operating expenses ~16.5% of sales vs. Levitz's 35.6%; gross margin roughly half of Levitz's 44.4%
 
 ## The Mrs. B Story
 
@@ -43,6 +43,10 @@ NFM's formula: buy brilliantly, operate at minimal expense ratios, pass savings 
 ### Character-Based Management
 
 Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most important, character." The acquisition required no detailed due diligence — Buffett's admiration was based on decades of observation. This reflects the "honest and competent management" filter from the [Four Filters](../principles/four-filters.md).
+
+**[1984 Letter]** The Blumkin secrets: (1) enthusiasm and energy; (2) extraordinary realism about their area of competence and decisive action within it; (3) ignoring propositions outside that area; (4) unfailingly high-grade behavior with everyone. Mrs. B boils it down: "sell cheap and tell the truth." Mrs. B receives Honorary Doctorate from NYU at 91 — "not one day in her life was spent in a school room prior to her receipt of the doctorate." Acquisition integrity: "NFM had never had an audit and we did not request one; we did not take an inventory nor verify the receivables; we did not check property titles. We gave Mrs. B a check for $55 million and she gave us her word."
+
+**[1985 Letter]** Sales set another record despite worsening farm economy. Mrs. B at 92 continues to set a pace "none of us can keep up with."
 
 ## Connections
 

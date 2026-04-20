@@ -42,6 +42,18 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: On why asset-light businesses with durable franchises are the true inflation hedges. → [Economic Goodwill](principles/economic-goodwill.md)
 
+> "The economics of a dominant newspaper are excellent, among the very best in the business world." — 1984 Letter
+>
+> Context: Even a third-rate paper earns first-rate profits if dominant in its community. → [Buffalo Evening News](entities/buffalo-evening-news.md)
+
+> "A good managerial record (measured by economic returns) is far more a function of what business boat you get into than it is of how effectively you row." — 1985 Letter
+>
+> Context: The textile closure crystallizes business quality vs. management effort. → [Business Quality](principles/business-quality.md)
+
+> "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — 1985 Letter
+>
+> Context: The textile closure lesson, restated. → [Textile Operations](case-studies/textile-operations.md)
+
 ## Valuation & Investing
 
 > "We select our marketable equity securities in much the same way we would evaluate a business for acquisition in its entirety." — 1977 Letter
@@ -59,6 +71,14 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "An analogy might be useful. A college education is seldom an economic plus when defined as the increment in knowledge compared to the increment in cost. But when defined as the increment in lifetime earnings of the graduate vs. the non-graduate, the value is enormous." — 1983 Letter
 >
 > Context: On book value vs. intrinsic value — cost basis understates real value. → [Return on Equity](principles/return-on-equity.md)
+
+> "If you have a harem of forty women, you never get to know any of them very well." — Billy Rose, quoted in 1984 Letter
+>
+> Context: On concentration vs. diversification — owning a few great businesses beats scattered mediocrity. → [Four Filters](principles/four-filters.md)
+
+> "We buy marketable stocks for our insurance companies based upon the criteria we would apply in the purchase of an entire business." — 1984 Letter
+>
+> Context: Bonds-as-businesses — the WPPSS investment analyzed through the same four filters. → [Four Filters](principles/four-filters.md)
 
 ## Capital Allocation & Acquisitions
 
@@ -82,6 +102,22 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: On the "winner's curse" in competitive auction acquisitions. → [Capital Allocation](principles/capital-allocation.md)
 
+> "Greenmail is odious and repugnant." — 1984 Letter
+>
+> Context: Shareholder extortionists deliver "your-money-or-your-life" messages; managers pay with other people's money. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Their marvelous core businesses, whose earnings grow year after year, camouflage repeated failures in capital allocation elsewhere." — 1984 Letter
+>
+> Context: The Pro-Am golf trap — one great business hiding many bad capital allocation decisions. → [Capital Allocation](principles/capital-allocation.md)
+
+> "You can't produce a baby in one month by getting nine women pregnant." — 1985 Letter
+>
+> Context: On why rushed acquisitions don't accelerate business building. → [Capital Allocation](principles/capital-allocation.md)
+
+> "We have no master strategy, no corporate planners... Instead, we simply hope that something sensible comes along." — 1985 Letter
+>
+> Context: On Berkshire's "somewhat haphazard" acquisition approach. → [Capital Allocation](principles/capital-allocation.md)
+
 ## Owner Earnings & Accounting
 
 > "If a tree grows in a forest partially owned by us, but we don't record the growth in our financial statements, we still own part of the tree." — 1980 Letter
@@ -95,6 +131,14 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "'Earnings per share' will rise constantly on a dormant savings account or on a U.S. Savings Bond bearing a fixed rate of return simply because 'earnings' are continuously plowed back and added to the capital base. Thus, even a 'stopped clock' can look like a growth stock if the dividend payout ratio is low." — 1979 Letter
 >
 > Context: On why EPS growth is a misleading metric. → [Return on Equity](principles/return-on-equity.md)
+
+> "Security profits in a given year bear similarities to a college graduation ceremony in which the knowledge gained over four years is recognized on a day when nothing further is learned." — 1985 Letter
+>
+> Context: Capital gains reflect value accumulated over holding periods — meaningless as a single-year measure. → [Owner Earnings](principles/owner-earnings.md)
+
+> "The trustee who merely retains the interest of the savings account can show 70% earnings growth and rising 'dividends' over ten years — yet the manager has done nothing." — 1985 Letter (paraphrased)
+>
+> Context: Devastating critique of fixed-price stock options rewarding mechanical compounding. → [Capital Allocation](principles/capital-allocation.md)
 
 ## Inflation
 
@@ -110,6 +154,10 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: On the intractability of inflation. → [Inflation and Investing](principles/inflation-and-investing.md)
 
+> "We dislike the purchase of most long-term bonds under most circumstances... bonds are as sound as a dollar — and we view the long-term outlook for dollars as dismal." — 1984 Letter
+>
+> Context: Fiscal policy creates "a small but unacceptable 'wipe out' risk" for all-bond portfolios. → [Inflation and Investing](principles/inflation-and-investing.md)
+
 ## Management & Character
 
 > "From the time we first met, Gene shot straight 100% of the time — the only behavior pattern he had within him." — 1980 Letter
@@ -123,6 +171,18 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Charlie and I are interchangeable in business decisions. Distance impedes us not at all: we've always found a telephone call to be more productive than a half-day committee meeting." — 1982 Letter
 >
 > Context: On the Buffett-Munger operating partnership. → [Charlie Munger](entities/charlie-munger.md)
+
+> "All I want to know is where I'm going to die so I'll never go there." — quoted by Munger in 1985 Letter
+>
+> Context: Munger's "study of mistakes rather than successes" philosophy — the textile closure as the prime teaching case. → [Charlie Munger](entities/charlie-munger.md)
+
+> "NFM had never had an audit and we did not request one; we did not take an inventory nor verify the receivables; we did not check property titles. We gave Mrs. B a check for $55 million and she gave us her word." — 1984 Letter
+>
+> Context: On character-based management evaluation. → [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md)
+
+> "Sell cheap and tell the truth." — Mrs. B (Rose Blumkin), quoted in 1984 Letter
+>
+> Context: Mrs. B's business philosophy distilled. → [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md)
 
 ## Humor & Self-Deprecation
 
@@ -138,6 +198,14 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: On keeping businesses despite mediocre returns. → [Capital Allocation](principles/capital-allocation.md)
 
-> "It won't work. For unless the acquiring company is overcapitalized, it will need to follow one or both of two paths to finance the acquirer-Loss of the very capital base needed by the company, or issuance of new stock." — 1982 Letter
+> "The corpse is supposed to file the death certificate." — 1984 Letter
 >
-> Context: On the "double whammy" of issuing undervalued shares for acquisitions. → [Capital Allocation](principles/capital-allocation.md)
+> Context: On insolvent insurers that continue writing business — they never "run out of cash" because premiums arrive before claims are paid. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "An oil prospector, moving to his reward in heaven, was met by St. Peter with bad news. 'You're qualified for residence,' said St. Peter, 'but as you can see, the compound reserved for oil men is packed — there's no way to squeeze you in.' After thinking a moment, the prospector asked if he might say just four words to the present occupants. That seemed harmless to St. Peter, so the prospector cupped his hands and yelled, 'Oil discovered in hell.' Immediately the gate to the compound opened and all of the oil men marched out to head for the nether regions. Impressed, St. Peter invited the prospector to move in and make himself comfortable. The prospector paused. 'No,' he said, 'I think I'll go along with the rest of the boys. There might be some truth to that rumor after all.'" — 1985 Letter (attributed to Ben Graham)
+>
+> Context: On the danger of believing your own rumors — even the rumor-spreader gets swept up. → [Four Filters](principles/four-filters.md)
+
+> "More money has been lost reaching for a little extra yield than at the point of a gun." — 1984 Letter
+>
+> Context: On bond investing discipline. → [Inflation and Investing](principles/inflation-and-investing.md)

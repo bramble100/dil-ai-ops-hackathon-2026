@@ -1,7 +1,7 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -31,12 +31,15 @@ Criteria (1)-(3) can usually be satisfied by a "small number of potential invest
 
 ## Evolution
 
-Stated explicitly in the 1977 letter and restated with slight variation in 1978. The 1982 letter formalizes the acquisition-specific version as the six criteria (see [Capital Allocation](capital-allocation.md)), which become a recurring feature of every subsequent letter. The 1983 letter adds the "grizzly" test as a moat evaluation heuristic: "One question I always ask myself in appraising a business is how I would like, assuming I had ample capital and skilled personnel, to compete with it."[^3] In later letters, each filter deepens into its own principle:
+Stated explicitly in the 1977 letter and restated with slight variation in 1978. The 1982 letter formalizes the acquisition-specific version as the six criteria (see [Capital Allocation](capital-allocation.md)), which become a recurring feature of every subsequent letter. The 1983 letter adds the "grizzly" test as a moat evaluation heuristic: "One question I always ask myself in appraising a business is how I would like, assuming I had ample capital and skilled personnel, to compete with it."[^3]
 
-- Filter (1) → [circle of competence] (to be developed)
-- Filter (2) → [Business Quality](business-quality.md) (moats, tailwinds)
-- Filter (3) → management quality assessment (to be developed)
-- Filter (4) → intrinsic value and margin of safety (to be developed)
+**[1984 Letter]** "Masterly inactivity": "It's been over ten years since it has been as difficult as now to find equity investments that meet both our qualitative standards and our quantitative standards of value versus price. We try to avoid compromise of these standards, although we find doing nothing the most difficult task of all." Concentration philosophy reinforced: "If you have a harem of forty women, you never get to know any of them very well" (Billy Rose).
+
+**[1984 Letter]** Bonds-as-businesses: "We buy marketable stocks for our insurance companies based upon the criteria we would apply in the purchase of an entire business. This business-valuation approach is not widespread among professional money managers and is scorned by many academics. Nevertheless, it has served its followers well." The WPPSS bond investment ($139M, 16.3% after-tax return) is analyzed through the same four-filter lens applied to equities.
+
+**[1985 Letter]** The four-factor General Foods analysis: (1) bargain purchase price, (2) fine underlying economics, (3) able management concentrating on shareholder interests, (4) buyer willing to pay full value. "While that last factor is the only one that produces reported earnings, we consider identification of the first three to be the key to building value."
+
+**[1985 Letter]** Acquisition criteria raised to $10M minimum (from $5M). The approach remains "somewhat haphazard" — no corporate planners, no staff investigating promoter pitches. "Instead, we simply hope that something sensible comes along."
 
 ## Connections
 

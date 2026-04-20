@@ -2,7 +2,7 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -22,8 +22,8 @@ Government Employees Insurance Company — a low-cost auto insurer with a struct
 - **Berkshire ownership:** ~33% equity interest (7.2M shares); voting rights held by independent party per DC and NY insurance regulators
 - **Cost basis:** $47M ($28M invested ~1976, remainder ~1980)
 - **Earning power (1980):** ~$20M Berkshire's share; only ~$3M reported as dividends
-- **Market value:** $199.8M (1981), $309.6M (1982), $398.2M (1983)
-- **Key people:** Jack Byrne (CEO), Bill Snyder (operations), Lou Simpson (investment manager — "the best in the property-casualty business" [1982 Letter])
+- **Market value:** $199.8M (1981), $309.6M (1982), $398.2M (1983), $397.3M (1984), $595.9M (1985)
+- **Key people:** Jack Byrne (CEO, left mid-1985 for Fireman's Fund), Bill Snyder (Chairman from 1985), Lou Simpson (Vice Chairman, investment manager — "the best in the property-casualty business" [1982 Letter])
 - **Combined ratio (1983):** 96 after voluntary policyholder dividends vs. industry 111
 
 ## Significance
@@ -37,6 +37,8 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 - **[1982 Letter]** The commodity exception: "GEICO is a magnificent illustration of the high-profit exception" to the rule that commodity industries with overcapacity earn poor returns — "a company with a wide and sustainable cost advantage." Berkshire's ~35% interest represents ~$250M of premium volume, considerably more than all Berkshire-operated insurance direct volume.
 - **[1983 Letter]** Combined ratio 96 vs. industry 111 — "a truly exceptional business idea and an exceptional management." Special $21M distribution from proportional tender offer kept Berkshire's ownership percentage unchanged. Berkshire's ~one-third interest gives it a $270M share of GEICO's premium volume.
 - **[1983 Letter]** "The combination of a very important and very hard to duplicate business advantage with an extraordinary management" — three-person team of Byrne (underwriting), Snyder (operations), and Simpson (investments).
+- **[1984 Letter]** 36% ownership; $885M direct volume ($320M Berkshire's share). Intrinsic business value increased substantially even as market value was flat — "In GEICO's case, as in all of our investments, we look to business performance, not market performance." Stock over-performance relative to business (1981-83) reversed: stock stalled while business value grew. Lou Simpson has "the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
+- **[1985 Letter]** Excellent premium growth but underwriting deteriorated — private passenger auto and homeowners were the only major lines to worsen industrywide. Jack Byrne departs mid-1985 for Fireman's Fund. Buffett praises Byrne's greatest achievement: "he found managers to succeed him who have talents as valuable as his own." Bill Snyder becomes Chairman, Lou Simpson Vice Chairman.
 
 ## Connections
 

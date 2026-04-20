@@ -1,7 +1,7 @@
 ---
 title: "Economic Goodwill"
 type: principle
-sources: [buffett-letter-1983]
+sources: [buffett-letter-1983, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -78,6 +78,17 @@ A good business (perspective 1) is not always a good purchase (perspective 2) �
 - [Business Quality](business-quality.md) — economic Goodwill is the quantification of what makes a business "wonderful"
 - [See's Candies](../entities/sees-candies.md) — the primary teaching example
 - [GEICO](../entities/geico.md) — low-cost producer Goodwill
+- [Textile Operations](../case-studies/textile-operations.md) — negative example: $13M of tangible assets sold for $163K
+
+### The Textile Auction as Negative Example (1985)
+
+**[1985 Letter]** The devastating counterpoint: textile equipment with $13M original cost (including $2M spent 1980-84) and $866K book value sold at auction for $163,122 gross — net of costs, less than zero. Looms bought for $5,000 apiece in 1981 sold for $26 each as scrap. Meanwhile: "the economic goodwill attributable to two paper routes in Buffalo — or a single See's candy store — considerably exceeds the proceeds we received from this massive collection of tangible assets."
+
+NFM, See's, and the Buffalo News demonstrate the positive case: $72M pre-tax earnings (vs. $8M fifteen years prior) with only $40M additional capital. The average American business requires ~$5 of additional capital per $1 of additional earnings.
+
+[^1]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: Goodwill and its Amortization
+
+[^2]: [1985 Letter](../sources/buffett-letter-1985.md) — Three Very Good Businesses
 - [Inflation and Investing](inflation-and-investing.md) — asset-light businesses are the true inflation hedges
 - [Return on Equity](return-on-equity.md) — ROE on net tangible assets is the indicator of economic Goodwill
 

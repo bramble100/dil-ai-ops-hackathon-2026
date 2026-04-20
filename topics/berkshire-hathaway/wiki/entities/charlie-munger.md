@@ -2,7 +2,7 @@
 title: "Charlie Munger"
 type: entity
 entity_kind: person
-sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -27,6 +27,10 @@ Vice Chairman of Berkshire Hathaway and Chairman of Blue Chip Stamps. Buffett's 
 ## Significance
 
 In these early letters, Munger appears primarily as a named partner rather than a quoted thinker. His intellectual contributions — mental models, multidisciplinary thinking, the "wonderful business at a fair price" formulation — will emerge more explicitly in later letters. But his fingerprints are already on key decisions: the shareholder-designated contributions innovation and the strategic management of Blue Chip/Wesco operations.
+
+**[1984 Letter]** Described as "my partner in general management"; co-responsible for generating the "big ideas" Berkshire needs as its capital base mushrooms.
+
+**[1985 Letter]** "Our Vice Chairman, Charlie Munger, has always emphasized the study of mistakes rather than successes, both in business and other aspects of life. He does so in the spirit of the man who said: 'All I want to know is where I'm going to die so I'll never go there.'" This is the first explicit attribution of the "invert, always invert" philosophy to Munger. Charlie's Wesco-Financial Insurance Company ("Wes-FIC") receives two-sevenths of the Fireman's Fund quota-share contract.
 
 ## Connections
 

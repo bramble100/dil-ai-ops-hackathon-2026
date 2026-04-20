@@ -1,7 +1,7 @@
 ---
 title: "Textile Operations — The Anti-Case-Study"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -37,6 +37,8 @@ The structural trap: slow capital turnover + low profit margins + competitors ma
 | 1981 | $(2,669)                       | Waumbec closed       |
 | 1982 | $(1,545)                       | Continued losses     |
 | 1983 | $(100)                         | Near break-even      |
+| 1984 | $418                           | Modest profit        |
+| 1985 | $(2,395)                       | Closure year (July)  |
 
 **[1983 Letter]** Buffett codifies the lesson: "We react with great caution to suggestions that our poor businesses can be restored to satisfactory profitability by major capital expenditures. (The projections will be dazzling — the advocates will be sincere — but, in the end, major additional investment in a terrible industry usually is about as rewarding as struggling in quicksand.)"
 
@@ -54,6 +56,32 @@ The structural trap: slow capital turnover + low profit margins + competitors ma
 4. **Competitors nullify your improvements** — "Our management is diligent in pursuing such objectives. The problem, of course, is that our competitors are just as diligently doing the same thing" [1978 Letter]
 5. **Delay is costly** — Buffett explicitly regrets not facing reality sooner on Waumbec
 
+## The Closure (1985)
+
+**[1985 Letter]** In July 1985, Buffett finally shuts down the textile operations after 21 years. Total sales over the period: ~$530M. Over the nine years before Buffett arrived, the operation accumulated a $10M aggregate loss.
+
+The decision is framed not as an admission of failure but as an extended lesson. Buffett praises both Ken Chace (who ran the division initially) and Garry Morrison (later manager): "I won't close out this section without an expression of admiration for Garry Morrison's efforts." Workers showed skill and cooperativeness.
+
+### The Burlington Industries Comparison
+
+The most devastating comparison in the letter: Burlington Industries, the largest US textile company, invested approximately $3B in capital expenditures over 21 years. Result: stock price (split-adjusted) fell from ~$60 (1964) to ~$34 (1985), while the CPI tripled. "This devastating outcome for the shareholders indicates what can happen when much brain power and energy are applied to a faulty premise."
+
+### The Capex Trap
+
+"Each proposal to add a loom or shuttle... appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes)." Capex projections in commodity businesses fail because competitors invest simultaneously — identical improvements cancel out.
+
+### The Auction
+
+Textile machinery with $13M original cost (including $2M spent 1980-84) and $866K book value sold at auction for $163,122 gross — net of costs, essentially zero. Looms bought for $5,000 apiece in 1981 sold for $26 each as scrap. Meanwhile: "the economic goodwill attributable to two paper routes in Buffalo — or a single See's candy store — considerably exceeds the proceeds we received from this massive collection of tangible assets."[^3]
+
+### The Boat Metaphor
+
+> "A good managerial record (measured by economic returns) is far more a function of what business boat you get into than it is of how effectively you row." — 1985 Letter
+
+> "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — 1985 Letter
+
+The Woody Allen crossroads: "More than ever since Woody Allen said, 'Take the path to the right; I took it, and from that day to this I never had to work a day in my life.'" The 1967 cash from textiles funded the purchase of [National Indemnity](../entities/national-indemnity.md) — the seed of Berkshire's insurance empire.
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — textiles are the definitive headwinds example
@@ -64,3 +92,5 @@ The structural trap: slow capital turnover + low profit margins + competitors ma
 [^1]: [1978 Letter](../sources/buffett-letter-1978.md) — textbook illustration
 
 [^2]: [1979 Letter](../sources/buffett-letter-1979.md) — Waumbec bargain that wasn't
+
+[^3]: [1985 Letter](../sources/buffett-letter-1985.md) — Closure, Burlington comparison, auction

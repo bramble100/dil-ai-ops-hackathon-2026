@@ -1,7 +1,7 @@
 ---
 title: "Capital Allocation"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -97,6 +97,39 @@ First formal listing of the six criteria, repeated in every subsequent letter:
 Capital allocation is present from the first letter (1977: minority ownership of great businesses preferred) and deepens through the batch. The 1981 toad/prince framework is the culminating expression. The 1982 letter adds the definitive analysis of equity issuance as value destruction, plus the first formal listing of acquisition criteria. The 1983 letter codifies everything into the 13 Owner's Manual principles — the constitution for how Berkshire operates.
 
 > "It has struck me that all men's misfortunes spring from the single cause that they are unable to stay quietly in one room." — Pascal, quoted in 1982 Letter (on acquisition follies)
+
+### Dividend Policy Framework (1984)
+
+**[1984 Letter]** First extended dividend analysis. Two categories of earnings:
+
+1. **Restricted earnings** — consumed by inflation just to maintain the business's economic position. These "must be discounted heavily" — they are "conscripted by the business, no matter how poor its economic potential."
+2. **Unrestricted earnings** — genuinely available for distribution. "Should be retained only when there is a reasonable prospect... that for every dollar retained by the corporation, at least one dollar of market value will be created for owners."
+
+The 10% perpetual bond analogy: if prevailing rates are 5%, retain the coupon (reinvestment at 10% creates value); if rates are 15%, distribute (reinvestment at 10% destroys value). The same logic applies to corporate earnings — the market return available to investors is the hurdle rate.
+
+**The Pro-Am golf trap:** Companies with one extraordinary business camouflage repeated allocation failures elsewhere. "Their marvelous core businesses, whose earnings grow year after year, camouflage repeated failures in capital allocation elsewhere (usually involving high-priced acquisitions of businesses that have inherently mediocre economics)."
+
+### Share Repurchases — Extended Analysis (1984)
+
+**[1984 Letter]** Two benefits of repurchases at below-intrinsic-value: (1) arithmetic — "major repurchases at prices well below per-share intrinsic business value immediately increase, in a highly significant way, that value. Corporate acquisition programs almost never do as well"; (2) signaling — management "clearly demonstrates that it is given to actions that enhance the wealth of shareholders" which raises market estimates and moves prices toward intrinsic value.
+
+On greenmail: "odious and repugnant" — a three-party exploitation where the "shareholder extortionist" delivers a "your-money-or-your-life message" to managers who "quickly seek peace at any price — as long as the price is paid by someone else."
+
+### Incentive Compensation Critique (1985)
+
+**[1985 Letter]** A devastating critique of fixed-price stock options. The savings account analogy: a trustee who retains 75% of interest annually can show 70% earnings growth and rising "dividends" over ten years — yet the manager has done nothing but hold on to the owner's money. Fixed-price options reward this mechanical compounding.
+
+Three specific flaws: (1) options are "blind to individual performance" — sluggard and star receive identical rewards; (2) option holders bear no capital costs while owners bear all of them; (3) option holders benefit from low dividends while owners might prefer high payouts.
+
+Berkshire's system: incentive bonuses tied to unit performance, not stock price. "No cap on bonuses, and the potential for rewards is not hierarchical." Top managers can earn 5x+ base salary. A 20-year-old who hits .300 earns the same as a 40-year-old performing equally.
+
+### Acquisition Criteria Raised (1985)
+
+**[1985 Letter]** Minimum after-tax earnings threshold raised from $5M to $10M. Approach remains "somewhat haphazard" — "We have no master strategy, no corporate planners... Instead, we simply hope that something sensible comes along."
+
+### The Capital Cities Voting Arrangement (1985)
+
+**[1985 Letter]** Berkshire grants Tom Murphy voting rights over its Capital Cities shares and restricts sale to prevent hostile accumulation. "These arrangements were initiated by Charlie and me, not by Tom." The rationale: promote stability so first-class managers can "focus their efforts entirely upon running the businesses" rather than being distracted by "revolving-door capitalists."
 
 ## Connections
 

@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -61,6 +61,36 @@ Only a "megadisaster" will produce sufficient supply contraction for profitabili
 ## Evolution
 
 Present in all seven letters. Phil Liesche and the National Indemnity culture — instilled by founder Jack Ringwalt — are the constant exemplar. The principle deepens from a simple "reject bad business" stance (1977) to a full structural analysis of why most insurers can't do it (1980-81: unrealized bond losses, cash-flow addiction, reinsurance euphoria). The 1982 letter adds the commodity business framework: insurance is structurally condemned to overcapacity because capacity creation requires only capital and willingness. The 1983 letter introduces structured settlements as a new strategy: Berkshire's financial strength becomes a competitive moat in long-duration obligations.
+
+### Loss-Reserving Errors and Insurance Accounting (1984)
+
+**[1984 Letter]** An unusually candid analysis of how property/casualty earnings are fundamentally unreliable. Loss estimates require four components: (1) losses paid during the year, (2) estimates for reported-but-unsettled claims, (3) IBNR (incurred but not reported), and (4) revisions to prior years' estimates. Berkshire's own reserving errors consistently understated losses for four consecutive years:
+
+| Year | Reported Result | Corrected (1yr later) |
+| ---- | --------------- | --------------------- |
+| 1980 | +$6.7M          | +$14.9M               |
+| 1981 | +$1.5M          | −$1.1M                |
+| 1982 | −$21.5M         | −$25.1M               |
+| 1983 | −$33.2M         | −$51.0M               |
+| 1984 | −$45.4M         | ?                     |
+
+"The corpse is supposed to file the death certificate" — insolvent insurers don't run out of cash because premiums arrive upfront and claims are paid later. "Walking dead" companies redouble business-writing efforts, accepting any price to maintain cash flow.
+
+Berkshire's combined ratio: 134 (third straight year worse than industry at 117.7). Mike Goldberg "has corrected many of the mistakes I made before he took over insurance operations."
+
+### Financial Strength as Competitive Moat (1984-1985)
+
+**[1984 Letter]** "We are almost without question the strongest property/casualty insurance operation in the country, with a capital position far superior to that of well-known companies of much greater size." This matters most for structured settlements and loss-reserve assumptions — claimants need decades of guaranteed payments.
+
+**[1985 Letter]** The prediction materializes: premium volume more than tripled. "A policy is only an IOU" — buyers who couldn't collect in 1985 now seek Berkshire. National Indemnity's $1M+ minimum premium ad in an insurance weekly drew 600 replies and produced ~$50M in premiums.
+
+Berkshire's willingness to risk $10M on a single event — with no lay-off to reinsurers — sets it apart. The reinsurance market has collapsed for long-tail casualty lines: "Mark Twain's cat: having once sat on a hot stove, it never did so again — but it never again sat on a cold stove, either."
+
+Combined ratio improves from 134 (1984) to 111 (1985), but underreserving from prior years continues to surface.
+
+### Insurance Capacity and the Commodity Cycle (1985)
+
+**[1985 Letter]** The 1985 insurance cycle confirms the commodity business framework: ~15 insurers raised $3B+ in capital to write business at better prices, and the trend is accelerating. "If capacity additions continue at this rate, it won't be long before serious price-cutting appears." The fault lies with capital-raisers of 1985-86, not future price-cutters — "the dynamics of capitalism cause each insurer to make decisions that for itself appear sensible, but that collectively slash profitability."
 
 ## Key People
 

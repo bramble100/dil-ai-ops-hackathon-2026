@@ -1,7 +1,7 @@
 ---
 title: "GEICO Investment"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -30,13 +30,19 @@ Berkshire accumulated a ~33% equity interest in GEICO Corporation (7.2M shares) 
 
 The market offered a 33% interest in a franchise with $20M earning power for $47M — a price impossible to achieve through negotiated acquisition.
 
-## Long-Term Outcome (through 1983)
+## Long-Term Outcome (through 1985)
 
 - GEICO reduced shares outstanding from 34.2M to 21.6M through buybacks, dramatically enhancing per-share value
-- Market value progression: ~$68M (1979) → ~$200M (1981) → $309.6M (1982) → $398.2M (1983) — 8.5x on the original $47M investment
+- Market value progression: ~$68M (1979) → ~$200M (1981) → $309.6M (1982) → $398.2M (1983) → $397.3M (1984) → $595.9M (1985) — 12.7x on the original $47M investment
 - **[1982 Letter]** $79M of Berkshire's $208M net worth gain came from GEICO market appreciation alone
 - **[1983 Letter]** Special $21M distribution via proportional tender offer; Berkshire tendered shares to maintain ownership percentage, treating proceeds as a dividend (6.9% effective tax rate vs. 28% on capital gains)
+- **[1984 Letter]** 36% ownership, $885M direct volume ($320M Berkshire's proportionate share). Market value flat at $397.3M despite substantial intrinsic value growth — Buffett welcomes market underperformance because it enables buybacks at favorable prices
+- **[1985 Letter]** Excellent premium growth but underwriting results deteriorated with the industry. Jack Byrne departs for Fireman's Fund; Bill Snyder and Lou Simpson assume top roles. Buffett praises Byrne's greatest achievement: building a succession team
 - Combined ratio 96 (1983) vs. industry 111 — outperformance widening
+
+### Market vs. Business Performance (1984)
+
+**[1984 Letter]** A key lesson: GEICO's stock outperformed its business value growth during 1981-83 ("it was much more logical to buy GEICO stock at $33/share... during 1981-83, our insurance subsidiaries were buying full ownership of businesses for prices far higher than GEICO's stock-market valuation"). By 1984 the stock had stalled while business value continued growing. "In GEICO's case, as in all of our investments, we look to business performance, not market performance." Temporary market underperformance is welcome when the investee is buying back shares — Berkshire benefits from more being repurchased at lower prices.
 
 ## Buffett's Retrospective
 
