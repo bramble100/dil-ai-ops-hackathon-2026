@@ -2,7 +2,7 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -36,6 +36,12 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 - **[1986 Letter]** Loss reserve development errors continued — "three years in a row of error. If the physiological rules that applied to Pinocchio were to apply to me, my nose would now draw crowds." Reserve strengthening is really "correction of previous untruths."
 - **[1987 Letter]** Berkshire's insurance described as having commodity economics ("hundreds of competitors, ease of entry") but two differentiators: unmatched financial strength and total indifference to volume. Combined ratio 105 (statutory), but float growth improving overall profitability. Mike Goldberg "has assembled a group of talented professionals to write larger risks and unusual coverages."
 
+### 1988-1989 Performance
+
+**[1988 Letter]** Combined ratio 104 (statutory). Fireman's Fund seven-year quota-share contract expires August 1989. Volume continues declining as Berkshire refuses to replace business at inadequate prices — the discipline codified a decade earlier continues unchanged[^4].
+
+**[1989 Letter]** Combined ratio 110.4 (estimated). The "underwriting cycle" is formally debunked — insurance has no rhythmic quality; profitability tracks the commodity economics of capacity and willingness to write. After Hurricane Hugo ($4.2B industry losses) and the San Francisco earthquake ($2B+), Berkshire enters the catastrophe reinsurance market with $250M per-event capacity — the largest single-event exposure any company is willing to absorb on its own account. Ajit Jain, operating from a single room, handles all large reinsurance deals. "We will accept more reinsurance risk for our own account than any other company"[^5].
+
 ## Connections
 
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — National Indemnity is the living example
@@ -47,3 +53,7 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 [^2]: [1979 Letter](../sources/buffett-letter-1979.md) — no-layoff policy
 
 [^3]: [1977 Letter](../sources/buffett-letter-1977.md) — managers magnify results
+
+[^4]: [1988 Letter](../sources/buffett-letter-1988.md) — combined ratio 104; Fireman's Fund contract expiring
+
+[^5]: [1989 Letter](../sources/buffett-letter-1989.md) — CAT reinsurance $250M capacity; Ajit Jain; underwriting cycle debunked

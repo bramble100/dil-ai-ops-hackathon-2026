@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -119,6 +119,35 @@ Three structural features enable this flexibility: (a) market share is irrelevan
 
 The 1987 fresh-start adjustment inflated Berkshire's earnings by $8.2M — a one-time benefit from converting to discounted reserves for tax purposes.
 
+### Proposition 103 and the Socialized Insurance Threat (1988)
+
+**[1988 Letter]** California's Proposition 103 mandates a 20% rate rollback and threatens GEICO's 10% California premium volume. Buffett draws a sharp comparison: a manufacturer selling cereals can build in costs and earn a reasonable return, but "the auto insurer's product... is a commodity. A purchaser of auto insurance regards his product as being pretty much the same as every other." Political interference in a commodity product's pricing is particularly destructive because the product has no brand premium to absorb the impact.
+
+### The "Underwriting Cycle" Debunked (1989)
+
+**[1989 Letter]** Buffett formally rejects the industry's cherished notion that underwriting results follow a predictable cycle:
+
+> "The 'favorable turn' that the industry has been expecting since 1986 has not materialized... In my opinion, the industry's problems have not arisen from a 'cycle' at all. Instead, the industry has a 'problem' — excess capacity." — 1989 Letter (paraphrase of argument)
+
+The correct framework: insurance is a commodity business where capacity is a "mental state" — the willingness of managers to sign policies. There is no rhythmic quality to results; profitability improves only when managers collectively refuse to accept inadequate prices, which happens only after catastrophic losses make the consequences of bad pricing undeniable.
+
+### CAT Reinsurance Strategy (1989)
+
+**[1989 Letter]** After Hurricane Hugo ($4.2B industry losses) and the San Francisco earthquake ($2B+), Berkshire enters the catastrophe reinsurance market as the industry's most willing capacity provider:
+
+> "We will accept more reinsurance risk for our own account than any other company." — 1989 Letter
+
+Berkshire offers $250M per-event capacity — the ability to absorb a single catastrophe loss of that magnitude without material impact on the company. Two structural advantages: (1) financial strength — $4.9B net worth makes a $250M loss tolerable; (2) volume indifference — Berkshire doesn't need the premiums and can walk away if pricing deteriorates. Ajit Jain, operating from a single room, handles all large reinsurance deals[^3].
+
+The Fireman's Fund seven-year contract expires August 1989. Premium volume declines further as Berkshire refuses to replace it at inadequate prices.
+
+### Combined Ratio Track Record Extended (1988-1989)
+
+| Year | Combined Ratio |
+| ---- | -------------- |
+| 1988 | 104            |
+| 1989 | 110.4 (est.)   |
+
 ## Key People
 
 - **Phil Liesche** — National Indemnity's leader, the embodiment of underwriting discipline; retired 1982 at age 65
@@ -128,6 +157,7 @@ The 1987 fresh-start adjustment inflated Berkshire's earnings by $8.2M — a one
 - **Roland Miller** — improved auto and general liability results at National Indemnity while competitors deteriorated
 - **Tom Rowley** — Continental Divide Insurance (Colorado homestate), recruited by Goldberg
 - **Don Wurster** — runs structured settlements and loss reserve assumptions at National Indemnity
+- **Ajit Jain** — handles all large reinsurance deals from a single room; key to the CAT reinsurance strategy from 1989
 
 ## Connections
 
@@ -138,3 +168,5 @@ The 1987 fresh-start adjustment inflated Berkshire's earnings by $8.2M — a one
 [^1]: [1979 Letter](../sources/buffett-letter-1979.md) — Liesche's approach
 
 [^2]: [1980 Letter](../sources/buffett-letter-1980.md) — asset maintenance underwriting
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — CAT reinsurance strategy; Ajit Jain; underwriting cycle debunked

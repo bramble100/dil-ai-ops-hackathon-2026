@@ -2,7 +2,7 @@
 title: "Salomon Inc"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1987]
+sources: [buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -28,9 +28,19 @@ The Salomon preferred represents Buffett's willingness to use convertible prefer
 
 **[1987 Letter]** "Such service-above-self behavior is far from automatic in Wall Street" — the investment was driven primarily by trust in Gutfreund's character, not by analysis of investment banking economics.
 
+### 1988-1989 Updates
+
+**[1988 Letter]** The $700M preferred position continues. Admiration for Gutfreund reinforced. Salomon participated in the RJR Nabisco leveraged buyout contest — a transaction Buffett observed firsthand through his Salomon board seat, informing his arbitrage analysis[^2].
+
+**[1989 Letter]** Salomon is the original template for the convertible preferred strategy now extended to Gillette, USAir, and Champion. Buffett reaffirms that the preferred structure suits industries where he lacks "special insights regarding direction or future profitability" — the preferred coupon provides an acceptable floor while conversion offers upside participation. Gutfreund's integrity continues to be the thesis[^3].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — convertible preferred as a risk-management tool
 - [Four Filters](../principles/four-filters.md) — management integrity (filter 3) as the primary investment thesis
 
 [^1]: [1987 Letter](../sources/buffett-letter-1987.md) — acquisition and Gutfreund relationship
+
+[^2]: [1988 Letter](../sources/buffett-letter-1988.md) — RJR Nabisco involvement; Gutfreund admiration reinforced
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred template for Gillette/USAir/Champion

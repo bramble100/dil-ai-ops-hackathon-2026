@@ -275,3 +275,83 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "What witch doctor has ever achieved fame and fortune by simply advising 'Take two aspirins'?" — 1987 Letter
 >
 > Context: On why market esoterica (efficient markets, betas) appeals to practitioners but not to investors. → [Mr. Market](principles/mr-market.md)
+
+---
+
+## 1988-1989 Additions
+
+### Business Quality & Moats
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — 1989 Letter
+>
+> Context: The definitive formulation from "Mistakes of the First Twenty-five Years." → [Business Quality](principles/business-quality.md)
+
+> "Time is the friend of the wonderful business, the enemy of the mediocre." — 1989 Letter
+>
+> Context: Why cigar butt investing fails over time. → [Business Quality](principles/business-quality.md)
+
+> "Never is there just one cockroach in the kitchen." — 1989 Letter
+>
+> Context: Initial business problems are almost never isolated incidents. → [Business Quality](principles/business-quality.md)
+
+> "We have been successful because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers." — 1989 Letter
+>
+> Context: On selecting easy-to-understand businesses with strong tailwinds. → [Four Filters](principles/four-filters.md)
+
+### Valuation & Investing
+
+> "Our favorite holding period is forever." — 1988 Letter
+>
+> Context: First use of the iconic formulation, applied to Coca-Cola and Freddie Mac. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Too much of a good thing can be wonderful." — Mae West, quoted in 1988 Letter
+>
+> Context: On concentrated investing — owning large positions in understood businesses. → [Four Filters](principles/four-filters.md)
+
+> "Observing correctly that the market was frequently efficient, they went on to conclude incorrectly that it was always efficient. The difference between the propositions is night and day." — 1988 Letter
+>
+> Context: On Efficient Market Theory — frequently right, fundamentally wrong. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation & Acquisitions
+
+> "A small chance of distress or disgrace cannot, in our view, be offset by a large chance of extra returns." — 1989 Letter
+>
+> Context: On conservative leverage — even 99:1 odds are rejected. → [Capital Allocation](principles/capital-allocation.md)
+
+> "We've never succeeded in making a good deal with a bad person." — 1989 Letter
+>
+> Context: Only work with people you like, trust, and admire. → [Four Filters](principles/four-filters.md)
+
+### The Institutional Imperative
+
+> "I thought then that decent, intelligent, and experienced managers would automatically make rational business decisions. But I learned over time that isn't so." — 1989 Letter
+>
+> Context: Buffett's "most surprising discovery" — institutions override individual rationality. → [Institutional Imperative](principles/institutional-imperative.md)
+
+### Owner Earnings & Accounting
+
+> "We consider the owner earnings figure, not the GAAP figure, to be the relevant item for valuation purposes... We agree with Keynes's observation: 'I would rather be vaguely right than precisely wrong.'" — 1986 Appendix (cited in 1988-1989 letters)
+>
+> Context: Owner earnings formula restated in context of look-through earnings. → [Owner Earnings](principles/owner-earnings.md)
+
+> "'How much,' says the client, 'is two plus two?' Replies the cooperative accountant, 'What number did you have in mind?'" — 1988 Letter
+>
+> Context: Some managers use accounting innocently; others use it to deceive and defraud. → [Owner Earnings](principles/owner-earnings.md)
+
+> "It has been far safer to steal large sums with a pen than small sums with a gun." — 1988 Letter
+>
+> Context: On accounting fraud in corporate America. → [Owner Earnings](principles/owner-earnings.md)
+
+### Humor & Self-Deprecation
+
+> "I blundered in 1983 by neglecting to ask Mrs. B a question any schoolboy would have thought of: 'Are there any more at home like you?'" — 1989 Letter
+>
+> Context: On discovering the Borsheim's/Friedman family connection five years late. → [Borsheim's](entities/borsheims.md)
+
+> "Marrying for money — a mistake under most circumstances, insanity if one is already rich." — 1989 Letter
+>
+> Context: On selling great holdings for slightly better returns — don't trade what you have for what you don't need. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Of a certainty, it was in 1936 that I started buying Cokes at the rate of six for 25¢ to sell for 5¢ each... I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product. I even remember which of my youthful friends was the most avid consumer... But it was not until the summer of 1988 that my brain finally established dominance over my wallet." — 1989 Letter
+>
+> Context: A 52-year delay in buying Coca-Cola stock despite consuming the product daily. → [Coca-Cola](entities/coca-cola.md)

@@ -1,7 +1,7 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -28,6 +28,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1985     | $1,643.71        | 48.2%      | 23.2%                     |
 | 1986     | $2,073.06        | 26.1%      | 23.3%                     |
 | 1987     | $2,477.47        | 19.5%      | 23.1%                     |
+| 1988     | $2,974.52        | 20.0%      | 23.0%                     |
+| 1989     | $4,296.01        | 44.4%      | 23.8%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding: ~1,146,909 (end 1985) — virtually no dilution over 21 years._
 
@@ -44,6 +46,9 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 
 - **[1986 Letter]** Net worth gain $492.5M (26.1%). Corporate net worth increased 10,600% over 22 years while shares outstanding increased less than 1%. Business value "probably exceeded the book value gain" — driven by managers improving earnings on little additional capital (unrecorded economic Goodwill).
 - **[1987 Letter]** Net worth gain $464M (19.5%). CAGR dips slightly to 23.1%. Business value "moderately outpacing" book value growth over the last decade. Seven non-financial units alone demonstrate the gap: $180M pre-tax on $175M equity, carried at $222M above underlying book.
+
+- **[1988 Letter]** Net worth gain $569M (20.0%); book value $2,974.52/share. CAGR holds at 23.0%. Scale drag warning: earning 15% annually over the next decade now requires $10.3B in aggregate profits — up from $3.9B four years ago. "Anyone ignoring these differences makes the same mistake that a baseball manager would were he to judge the future prospects of a 42-year-old center fielder on the basis of his lifetime batting average."
+- **[1989 Letter]** Net worth gain $1.515B (44.4%) — the largest dollar and percentage gain since 1985's Halley's Comet year. Book value $4,296.01/share. CAGR reaches 23.8% over 25 years. But Buffett warns the "double-dip" is over: investees' stock prices have caught up with their intrinsic values, so future gains will be "single-dip" — dependent on earnings growth alone, without additional market re-rating. Carl Sagan bacteria analogy: "If my net worth were $1, it would only need to double 42 times to equal the entire U.S. GDP. So, obviously, it's time to start thinking about growth in a different way." $902.6M zero-coupon convertible debentures issued; Berkshire achieves AAA rating.
 
 ## The Inflation Caveat
 

@@ -1,7 +1,7 @@
 ---
 title: "Textile Operations — The Anti-Case-Study"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -82,9 +82,18 @@ Textile machinery with $13M original cost (including $2M spent 1980-84) and $866
 
 The Woody Allen crossroads: "More than ever since Woody Allen said, 'Take the path to the right; I took it, and from that day to this I never had to work a day in my life.'" The 1967 cash from textiles funded the purchase of [National Indemnity](../entities/national-indemnity.md) — the seed of Berkshire's insurance empire.
 
+### The 1989 Retrospective: Cigar Butt as Original Sin
+
+**[1989 Letter]** Four years after the closure, Buffett returns to the textile experience in his "Mistakes of the First Twenty-five Years" section, elevating it from a business lesson to a philosophical inflection point:
+
+> "My first mistake, of course, was in buying control of Berkshire... I knew its business — Loss of some insurance-loss-reserve credits and somewhat better than expected textile earnings offset each other — textiles were cheap in price. But though I knew this price to be a 'cigar butt' — a discarded stogie with one puff remaining — that puff was free... Unless you are a liquidator, that kind of approach to buying businesses is foolish." — 1989 Letter
+
+The original Berkshire textile purchase is now explicitly identified as the foundational "cigar butt" error — the case from which Buffett derived the principle that "it's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." The 1989 retrospective gives the textile experience its ultimate significance: it was the crucible that, combined with Charlie Munger's influence, produced Berkshire's evolution from Graham-style net-net investing to franchise-quality investing[^4].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — textiles are the definitive headwinds example
+- [Institutional Imperative](../principles/institutional-imperative.md) — Buffett's own textile persistence was partly institutional imperative at work
 - [See's Candies](../entities/sees-candies.md) — the perfect contrast (pricing power, low capital needs)
 - [Capital Allocation](../principles/capital-allocation.md) — don't throw good money after bad
 - [Inflation and Investing](../principles/inflation-and-investing.md) — the tapeworm hits capital-intensive businesses hardest
@@ -94,3 +103,5 @@ The Woody Allen crossroads: "More than ever since Woody Allen said, 'Take the pa
 [^2]: [1979 Letter](../sources/buffett-letter-1979.md) — Waumbec bargain that wasn't
 
 [^3]: [1985 Letter](../sources/buffett-letter-1985.md) — Closure, Burlington comparison, auction
+
+[^4]: [1989 Letter](../sources/buffett-letter-1989.md) — "Mistakes of the First Twenty-five Years"; cigar butt as original sin

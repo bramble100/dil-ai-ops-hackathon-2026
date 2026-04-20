@@ -23,40 +23,46 @@ updated: 2026-04-20
 - [1985 Letter](sources/buffett-letter-1985.md) - Textile closure and Burlington comparison, Capital Cities/ABC $517.5M, Scott & Fetzer, incentive comp critique, boat metaphor, Halley's Comet year (1985)
 - [1986 Letter](sources/buffett-letter-1986.md) - Owner earnings formula, Fechheimer acquisition, "be fearful when others are greedy," Tax Reform Act, GEICO moat metaphor, "not more statesmen but less corn" (1986)
 - [1987 Letter](sources/buffett-letter-1987.md) - Mr. Market parable, Sainted Seven 57% ROE, permanent holdings designated, CEO capital allocation critique, Salomon preferred, portfolio insurance, debt philosophy (1987)
+- [1988 Letter](sources/buffett-letter-1988.md) - Coca-Cola $592.5M, arbitrage framework, EMT demolished, "favorite holding period is forever," Sainted Seven 67% ROE, Borsheim's announced, GAAP manifesto (1988)
+- [1989 Letter](sources/buffett-letter-1989.md) - "Mistakes of First 25 Years," institutional imperative, cigar butt critique, Gillette/USAir/Champion preferreds, zero-coupon takedown, Rip Van Winkle tax, CAT reinsurance, 44.4% gain (1989)
 
 ## Principles
 
-- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS (11 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Look-through earnings; definitive formula (a+b−c); "cash flow" fallacy (9 sources)
-- [Four Filters](principles/four-filters.md) - Stock selection: understandable, favorable prospects, honest management, attractive price (8 sources)
-- [Business Quality](principles/business-quality.md) - Tailwinds vs headwinds; commodity trap; tax incidence test; stability premium (11 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Rejecting underpriced insurance business; "not statesmen, but less corn" (11 sources)
-- [Inflation and Investing](principles/inflation-and-investing.md) - Misery index, tapeworm, equity value-added, trade deficit, fiscal policy (7 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Owner's Manual, CEO allocation failure, permanent holdings, debt philosophy (11 sources)
-- [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Scott Fetzer purchase-price demonstration (4 sources)
-- [Mr. Market](principles/mr-market.md) - Ben Graham's allegory; fear/greed; portfolio insurance critique; voting vs weighing machine (2 sources)
+- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark (13 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Look-through earnings; definitive formula (a+b−c); EBDIT critique; Rip Van Winkle tax (11 sources)
+- [Four Filters](principles/four-filters.md) - Stock selection; arbitrage framework; EMT demolition; cigar butt vs wonderful company; convertible preferreds (10 sources)
+- [Business Quality](principles/business-quality.md) - Tailwinds vs headwinds; cockroach theory; one-foot hurdles; Coca-Cola franchise archetype (13 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Rejecting underpriced business; "underwriting cycle" debunked; CAT reinsurance $250M (13 sources)
+- [Inflation and Investing](principles/inflation-and-investing.md) - Misery index, tapeworm, Rip Van Winkle tax advantage, trade deficit, fiscal policy (9 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Owner's Manual, permanent holdings, convertible preferred strategy, errors of omission, AAA rating (13 sources)
+- [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
+- [Mr. Market](principles/mr-market.md) - Ben Graham's allegory; EMT demolished; double-dip over; "favorite holding period is forever" (4 sources)
+- [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations: inertia, project absorption, leader ratification, peer imitation (1 source)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - Low-cost auto insurer; moat metaphor; permanent holding; 16.5x return (11 sources)
-- [National Indemnity](entities/national-indemnity.md) - Core insurance operation; embodiment of underwriting discipline (11 sources)
-- [See's Candies](entities/sees-candies.md) - Premium chocolate brand; archetype of wonderful business; ~25M lbs, $31.7M pre-tax (11 sources)
-- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; Buffett's intellectual partner; "informed applause" philosophy (8 sources)
-- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - $142.6M net sales (1987); Mrs. B at 94 still outselling everyone (5 sources)
-- [Buffalo Evening News](entities/buffalo-evening-news.md) - #1 weekday penetration; 50% news hole; seven editions daily (6 sources)
-- [Capital Cities/ABC](entities/capital-cities-abc.md) - $517.5M cost → $1,035M market (2x); permanent holding; Tom Murphy & Dan Burke (3 sources)
-- [Scott & Fetzer](entities/scott-fetzer.md) - ~$320M; World Book; Company O vs N owner earnings teaching case; Sainted Seven member (3 sources)
-- [Fechheimer Bros.](entities/fechheimer.md) - ~$55M uniform manufacturer; Heldman family three generations; annual-report "ad" acquisition (2 sources)
-- [Salomon Inc](entities/salomon-inc.md) - $700M convertible preferred; trust in John Gutfreund (1 source)
+- [GEICO](entities/geico.md) - Low-cost auto insurer; Prop 103 threat; permanent holding; 23:1 return by 1989 (13 sources)
+- [National Indemnity](entities/national-indemnity.md) - Core insurance; CAT reinsurance $250M capacity; Ajit Jain (13 sources)
+- [See's Candies](entities/sees-candies.md) - Premium chocolate; record 25.1M lbs (1988); 8% increase 1989; Sainted Seven Plus One (13 sources)
+- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; "wonderful businesses at fair prices" attribution; S&L crisis letter (10 sources)
+- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Mrs. B departs at 96; carpet dept 75.3% share; Dillard's won't compete (7 sources)
+- [Buffalo Evening News](entities/buffalo-evening-news.md) - #1 penetration; 50% news hole; seventh consecutive profit record; Stan Lipsey +5% margin (8 sources)
+- [Capital Cities/ABC](entities/capital-cities-abc.md) - $517.5M cost → $1,692M market (3.3x by 1989); permanent holding (5 sources)
+- [Scott & Fetzer](entities/scott-fetzer.md) - World Book in Soviet Union; Campbell Hausfeld doubled; Sainted Seven Plus One (5 sources)
+- [Fechheimer Bros.](entities/fechheimer.md) - Uniform manufacturer; five Heldmans; Sainted Seven Plus One member (4 sources)
+- [Salomon Inc](entities/salomon-inc.md) - $700M convertible preferred; template for Gillette/USAir/Champion (3 sources)
+- [Coca-Cola](entities/coca-cola.md) - $1,024M cost by 1989; 23.35M shares; "favorite holding period is forever"; 52-year delay story (2 sources)
+- [Borsheim's](entities/borsheims.md) - 80% acquired 1989; Friedman family; NFM-identical model; no audit, one-page contract (2 sources)
+- [Gillette](entities/gillette.md) - $600M convertible preferred; only preferred where Buffett claims business understanding (1 source)
 
 ## Case Studies
 
-- [Textile Operations](case-studies/textile-operations.md) - The anti-case-study: 1965-1985, closed July 1985; Burlington comparison, capex trap, boat metaphor (9 sources)
-- [GEICO Investment](case-studies/geico-investment.md) - $47M cost → $756.9M market by 1987; permanent holding; current earnings exceed purchase price (11 sources)
+- [Textile Operations](case-studies/textile-operations.md) - The anti-case-study: 1965-1985; cigar butt as original sin (1989 retrospective); Burlington comparison (10 sources)
+- [GEICO Investment](case-studies/geico-investment.md) - $47M cost → $1,045M market by 1989; 23:1 return; Prop 103 risk; permanent holding (13 sources)
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $2,477.47 (1987), 23.1% CAGR (11 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $4,296.01 (1989), 23.8% CAGR; double-dip over (13 sources)
 
 ## Standalone Pages
 

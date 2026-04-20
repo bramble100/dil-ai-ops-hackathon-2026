@@ -1,7 +1,7 @@
 ---
 title: "Inflation and Investing"
 type: principle
-sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -64,6 +64,12 @@ Tax rates of 1988 are "totally unrealistic" — Buffett predicts either higher t
 
 The Scarlett O'Hara fiscal policy: "'I'll think about it tomorrow.' And, almost inevitably, procrastination in facing up to fiscal problems will have inflationary consequences."
 
+### Long-Term Bond Aversion Restated (1988-1989)
+
+**[1988 Letter]** WPPSS bonds upgraded to AA-; Buffett hopes for "another stigmatized issue" offering comparable returns. The stance on long-term bonds remains unchanged: Berkshire holds them only when price dislocations create equity-like returns.
+
+**[1989 Letter]** The Rip Van Winkle tax advantage adds a new dimension to the inflation/tax interaction: $1 doubling annually for 20 years, sold and taxed each year, produces ~$25,250; the same $1 invested once that doubles 20 times produces ~$692,000 after tax — a 27:1 difference arising solely from the timing of tax payments. The deferred tax liability on unrealized gains is effectively "an interest-free loan from the U.S. Treasury." This reinforces the permanent-holdings philosophy: even modest inflation combined with annual taxation dramatically erodes real returns, making long-term holding the rational response[^6].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — ROE must be judged against the misery index, not in isolation
@@ -81,3 +87,5 @@ The Scarlett O'Hara fiscal policy: "'I'll think about it tomorrow.' And, almost 
 [^4]: [1981 Letter](../sources/buffett-letter-1981.md) — "like virginity"
 
 [^5]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: Goodwill and its Amortization
+
+[^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Rip Van Winkle tax advantage

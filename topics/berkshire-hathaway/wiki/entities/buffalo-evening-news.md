@@ -2,7 +2,7 @@
 title: "Buffalo Evening News"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -52,6 +52,12 @@ While competitors cut editorial content to boost margins, the News maintained a 
 
 **[1987 Letter]** Still national leader in weekday/Sunday penetration and news-hole percentage. Seven fresh editions every 24 hours, each extensively changed in content — even obituary page redone every edition. News hole ~50%, saving $4M annually if cut to 40%, "That interests us not at all." Superb management by Stan Lipsey; profits grew excellently despite moderate revenue gains. Margins predicted to shrink in 1988 due to skyrocketing newsprint costs. Part of the "flexible budgets" critique: Buffett refuses to cut quality because profits are temporarily down.
 
+### 1988-1989 Performance
+
+**[1988 Letter]** #1 penetration maintained. 50.1% news hole. Seventh consecutive profit record. Stan Lipsey credited with improving profit margins by approximately 5 percentage points since taking over — a remarkable achievement given the newsprint cost increases and continued commitment to editorial quality[^5].
+
+**[1989 Letter]** Continues as a Sainted Seven Plus One member. The newspaper franchise model still producing exceptional returns on modest tangible assets — a demonstration of [economic Goodwill](../principles/economic-goodwill.md) in action[^6].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — newspaper franchise as a tailwind business (in this era)
@@ -61,3 +67,5 @@ While competitors cut editorial content to boost margins, the News maintained a 
 [^2]: [1983 Letter](../sources/buffett-letter-1983.md) — #1 penetration, news hole philosophy
 [^3]: [1986 Letter](../sources/buffett-letter-1986.md) — 83% Sunday penetration, 50% news hole math, operating margin improvement
 [^4]: [1987 Letter](../sources/buffett-letter-1987.md) — Seven daily editions, news-hole commitment, flexible-budgets critique
+[^5]: [1988 Letter](../sources/buffett-letter-1988.md) — seventh consecutive profit record; Stan Lipsey +5% margin
+[^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member

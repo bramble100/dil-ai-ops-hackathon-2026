@@ -2,7 +2,7 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -39,6 +39,12 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 **[1987 Letter]** Part of the "Sainted Seven" — pre-tax earnings rose 10% while average capital employed declined significantly. Ralph's "mastery of the 19 businesses for which he is responsible is truly amazing." World Book released its most dramatically-revised edition since 1962 (color photos from 14,000 to 24,000; 6,000+ articles revised; 840 new contributors). Unit sales in US increased for fifth consecutive year; international sales and profits also grew substantially.
 
+## 1988-1989 Operations
+
+**[1988 Letter]** Ralph Schey continues to deliver exceptional performance. Campbell Hausfeld (air compressor division) has approximately doubled in size. Kirby export sales doubled. World Book breaks into the Soviet Union — the first encyclopedia to be offered in Russia. Part of the Sainted Seven achieving 67% return on average equity[^4].
+
+**[1989 Letter]** Part of the "Sainted Seven Plus One" group earning 57% return on average equity. Ralph Schey praised again as an extraordinary operator: the businesses continue to earn high returns while requiring minimal additional capital. Scott Fetzer remains the centerpiece demonstration that Berkshire's acquisition model works — excellent economics, excellent management, no interference from headquarters[^5].
+
 ## Connections
 
 - [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
@@ -50,3 +56,5 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Acquisition details, Schey praise, World Book position
 [^2]: [1986 Letter](../sources/buffett-letter-1986.md) — First-year operations, owner earnings appendix (Company O vs N)
 [^3]: [1987 Letter](../sources/buffett-letter-1987.md) — Sainted Seven member, 10% earnings growth, World Book revised edition
+[^4]: [1988 Letter](../sources/buffett-letter-1988.md) — Campbell Hausfeld doubled; Kirby exports doubled; World Book in Soviet Union
+[^5]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One; Ralph Schey praise

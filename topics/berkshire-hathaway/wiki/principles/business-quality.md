@@ -1,7 +1,7 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -107,6 +107,40 @@ The capex trap in commodity businesses: each company's investment decision "appe
 
 > "Our goal is to find an outstanding business at a sensible price, not a mediocre business at a bargain price. Charlie and I have found that making silk purses out of silk is the best that we can do; with sow's ears, we fail." — 1987 Letter
 
+### The Sainted Seven at 67% (1988)
+
+**[1988 Letter]** The seven non-financial units increased their return to "about 67% on average equity capital" — again with no meaningful leverage. Buffett emphasizes this is not from financial engineering: "these businesses earn their returns through good performance, not through leverage."
+
+### The Cigar Butt Critique (1989)
+
+**[1989 Letter]** The "Mistakes of the First Twenty-five Years" retrospective delivers the definitive judgment on business quality vs. purchase price:
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — 1989 Letter
+
+> "Time is the friend of the wonderful business, the enemy of the mediocre." — 1989 Letter
+
+Cigar butt investing — buying a business "at a price so low that there will be one good 'puff' left in it" — delivers a one-time gain but the underlying economics continue to decay. The lesson came from Berkshire's original textile purchase and the Hochschild Kohn department store: "I could give you other personal examples of 'ichh' follow-through behavior. My most gruesome was Berkshire Hathaway."
+
+### The Cockroach Theory (1989)
+
+**[1989 Letter]** "Never is there just one cockroach in the kitchen." Applied to business problems: initial losses or difficulties at troubled businesses are almost never isolated incidents. Combined with the institutional imperative, this makes turnarounds even more improbable than they appear.
+
+### Good Jockeys, Good Horses (1989)
+
+**[1989 Letter]** The definitive restatement: "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." Buffett confesses to making this mistake repeatedly despite understanding the principle intellectually — demonstrating the power of optimism bias and the institutional imperative even in his own decision-making.
+
+### One-Foot Hurdles (1989)
+
+**[1989 Letter]** The heuristic for business selection: "We have been successful because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers." Seek businesses where economic tailwinds are so strong that even modest management skill produces excellent results.
+
+### Coca-Cola as Franchise Archetype (1988-1989)
+
+**[1988-1989 Letters]** The Coca-Cola investment ($1,024M cost by yearend 1989) represents the supreme application of the wonderful-company-at-fair-price principle. Under CEO Roberto Goizueta, Coke combined an "extraordinary consumer franchise" with "truly rare" financial discipline. Buffett's 52-year delay — "I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product... Of a certainty, it was in 1936 that I started buying Cokes" — illustrates the difficulty of escaping old analytical frameworks even when the evidence is overwhelming[^3].
+
+### Insurance as Commodity Warning (1988-1989)
+
+**[1988 Letter]** Auto insurance profitability compared to cereal: "The cereal maker's 'value added' — his secret recipe, in effect — protects his profit margins. The auto insurer's product, however, is a commodity." When Proposition 103 threatens to socialize auto insurance economics in California, it demonstrates how regulatory risk amplifies the commodity problem[^4].
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -116,7 +150,13 @@ The capex trap in commodity businesses: each company's investment decision "appe
 - [Four Filters](four-filters.md) — filter (2): favorable long-term prospects
 - [Inflation and Investing](inflation-and-investing.md) — bad businesses are hit hardest by the "tapeworm"
 - [Capital Allocation](capital-allocation.md) — don't throw good money after bad
+- [Coca-Cola](../entities/coca-cola.md) — the franchise archetype; wonderful company at fair price
+- [Institutional Imperative](institutional-imperative.md) — the force that keeps businesses on wrong courses
 
 [^1]: [1980 Letter](../sources/buffett-letter-1980.md) — "reputation of the business remains intact"
 
 [^2]: [1979 Letter](../sources/buffett-letter-1979.md) — turnarounds seldom turn
+
+[^3]: [1988 Letter](../sources/buffett-letter-1988.md) & [1989 Letter](../sources/buffett-letter-1989.md) — Coca-Cola investment
+
+[^4]: [1988 Letter](../sources/buffett-letter-1988.md) — Proposition 103 and insurance as commodity

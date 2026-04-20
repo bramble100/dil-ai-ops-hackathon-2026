@@ -1,7 +1,7 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -65,6 +65,28 @@ For Scott Fetzer, Buffett judges (c) to be "very close to" the old company's (b)
 **[1987 Letter]** Three permanent holdings — Capital Cities/ABC, GEICO, Washington Post — had $2.1B market value but produced only $11M in reported Berkshire earnings. Berkshire's share of their actual earnings: "well over $100 million." GAAP requires dividends-only for <20% holdings (income account understates reality) but marks insurance-held equities to market on the balance sheet (net worth reflects reality). For controlled companies, the opposite: full earnings flow to income but balance sheet values are frozen at historical cost.
 
 > "Our mental approach to this accounting schizophrenia is to ignore GAAP figures and to focus solely on the future earning power of both our controlled and non-controlled businesses." — 1987 Letter
+
+### GAAP Transparency Manifesto (1988)
+
+**[1988 Letter]** Buffett codifies the three questions financial statements should answer: "(1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? (3) How good a job are its managers doing, given the hand they have been dealt?" In most cases, GAAP presentations make these questions "somewhere between difficult and impossible" to answer.
+
+The cooperative accountant: "'How much,' says the client, 'is two plus two?' Replies the cooperative accountant, 'What number did you have in mind?'" Some managers stretch GAAP innocently; others use it "to deceive and defraud." "It has been far safer to steal large sums with a pen than small sums with a gun."
+
+Berkshire introduces a four-sector supplementary presentation (finance, insurance, manufacturing/retail, all-other) — "not within the purview of our auditors, who in no way bless it."
+
+### Look-Through Earnings Formalized (1989)
+
+**[1989 Letter]** Undistributed investee earnings quantified: Berkshire's share of retained earnings from five major investees totaled ~$212M in 1989 (not counting large capital gains at GEICO and Coca-Cola). If distributed, operating earnings would have been "close to $500 million rather than the $300 million shown."
+
+Buffett formally introduces the "look-through" approach: "In our view, Berkshire's fundamental earning power is best measured by a 'look-through' approach, in which we append our share of the operating earnings retained by our investees to our own reported operating earnings." For intrinsic value to grow at 15%, look-through earnings must grow at the same pace.
+
+### The EBDIT Critique and Zero-Coupon Takedown (1989)
+
+**[1989 Letter]** The owner-earnings framework extended to debt analysis. EBDIT (Earnings Before Depreciation, Interest and Taxes) is a "sawed-off yardstick" — ignoring depreciation "on the theory that it did not require a current cash outlay." But at 95% of businesses, capex approximating depreciation "is a necessity and is every bit as real an expense as labor or utility costs." Zero-coupon/PIK bonds let companies record "income" without expenditure — extending the bezzle concept: "With zeros, one party to a contract can experience 'income' without his opposite experiencing the pain of expenditure."
+
+### The Rip Van Winkle Tax Advantage (1989)
+
+**[1989 Letter]** A mathematical demonstration of why long-term holding compounds after-tax returns: $1 doubling annually for 20 years with annual tax = ~$25,250 after-tax; $1 invested once that doubles 20 times = ~$692,000 after-tax. The 27:1 difference arises solely from the timing of tax payments. The deferred tax liability on unrealized gains is effectively "an interest-free loan from the U.S. Treasury."
 
 ## Connections
 

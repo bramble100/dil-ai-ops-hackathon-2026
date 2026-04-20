@@ -24,6 +24,7 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1983  | Nebraska Furniture Mart (90%)                    | ~$55.35M              | $100M+ revenue single store; Mrs. B (Rose Blumkin) at 89                   | [NFM](entities/nebraska-furniture-mart.md)               |
 | 1985  | Scott & Fetzer                                   | ~$320M + ~$90M debt   | $700M revenue, 17 businesses; World Book #1 encyclopedia                   | [Scott & Fetzer](entities/scott-fetzer.md)               |
 | 1986  | Fechheimer Bros. (~84%)                          | ~$55M valuation       | Uniform mfg/distribution; Heldman family 3 generations; earnings up 1987   | [Fechheimer](entities/fechheimer.md)                     |
+| 1989  | Borsheim's (80%)                                 | Undisclosed           | Jewelry store; Friedman family (Mrs. B's relatives); no audit, one-page contract | [Borsheim's](entities/borsheims.md)                |
 
 ## Major Equity Investments (Non-Controlling)
 
@@ -46,6 +47,12 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1987    | Salomon Inc (convertible pfd)  | 700.0     | 686 (1987)        | 9% preferred, convertible at $38 after 3 years; trust in Gutfreund         | [Salomon Inc](entities/salomon-inc.md) |
 | 1987    | Texaco bonds                   | 104.0     | 119 (1987)        | Purchased after bankruptcy; worst-case capital preservation                 |
 | 1987    | Allegis (arbitrage)            | 76.0      | 78 (1987)         | Only $50M+ arbitrage position at yearend                                    |
+| 1988    | Coca-Cola (14.17M shares)      | 592.5     | 632.4 (1988)      | "Favorite holding period is forever"; increased to 23.35M shares in 1989    | [Coca-Cola](entities/coca-cola.md) |
+| 1988    | Freddie Mac (2.4M pfd)         | 71.7      | 121.2 (1988)      | Maximum allowed by law                                                       |
+| 1988    | RJR Nabisco (arbitrage)        | 281.8     | —                 | $64M pre-tax profit from LBO contest                                         |
+| 1989    | Gillette (convertible pfd)     | 600.0     | —                 | 8¾% dividend; convert at $50; Buffett joins board; "truly understand the economics" | [Gillette](entities/gillette.md) |
+| 1989    | USAir (convertible pfd)        | 358.0     | —                 | 9¼% dividend; convert at $60; "agnostic" about industry economics            |
+| 1989    | Champion Int'l (convertible pfd) | 300.0   | —                 | 9¼% dividend; convert at $38; "agnostic" about industry economics            |
 
 ## Connections
 

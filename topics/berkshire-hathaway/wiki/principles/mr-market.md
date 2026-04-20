@@ -1,7 +1,7 @@
 ---
 title: "Mr. Market"
 type: principle
-sources: [buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -52,6 +52,22 @@ The October 1987 crash illustrates Mr. Market's worst behavior — amplified by 
 
 The fear/greed formulation appears in the 1986 letter — Buffett's first explicit statement of the contrarian principle. The full Mr. Market parable follows in the 1987 letter, where it occupies the longest single section. Written just months after Black Monday, it carries the force of lived experience: the crash validates Graham's insight rather than refuting it.
 
+### EMT Demolition (1988)
+
+**[1988 Letter]** The most rigorous empirical attack on Efficient Market Theory. Buffett presents 63 years of documented arbitrage returns (Graham-Newman → Buffett Partnership → Berkshire), all averaging 20%+ annually. The cumulative arithmetic: $1,000 compounded at these rates would have grown to ~$97M, versus ~$405K at the market's 10%.
+
+> "Proponents of the theory have never seemed interested in discordant evidence of this type. True, they don't talk quite as much about their theory today as they used to." — 1988 Letter
+
+Buffett's position is nuanced: the market is "frequently efficient" but "not always efficient." The distinction matters: EMT proponents jumped from a correct premise (the market is often efficient) to an incorrect conclusion (it is always efficient). "Observing correctly that the market was frequently efficient, they went on to conclude incorrectly that it was always efficient."
+
+### The Double-Dip Ends (1989)
+
+**[1989 Letter]** An important market-level observation: for 25 years, Berkshire benefited from a "double-dip" — (1) investees grew intrinsic value well above market rates, plus (2) the market re-rated their stock prices upward as the businesses proved themselves. "Our 'catch-up' rewards have been realized, which means we'll have to settle for a single-dip in the future." Translating: Mr. Market will still set prices, but the easy gains from him recognizing already-proven business quality are behind Berkshire.
+
+### "Favorite Holding Period Is Forever" (1988-1989)
+
+**[1988-1989 Letters]** The operational response to Mr. Market: ignore him entirely on the sell side. Applied initially to Coca-Cola and Freddie Mac, then restated more broadly: "We would rather stay put, even if that means slightly lower returns... akin to marrying for money — a mistake under most circumstances, insanity if one is already rich." This permanently de-couples portfolio management from Mr. Market's daily quotations[^3].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -62,3 +78,5 @@ The fear/greed formulation appears in the 1986 letter — Buffett's first explic
 [^1]: [1987 Letter](../sources/buffett-letter-1987.md) — full Mr. Market parable
 
 [^2]: [1986 Letter](../sources/buffett-letter-1986.md) — "fearful when others are greedy"
+
+[^3]: [1988 Letter](../sources/buffett-letter-1988.md) & [1989 Letter](../sources/buffett-letter-1989.md) — EMT demolition; double-dip over; "favorite holding period is forever"

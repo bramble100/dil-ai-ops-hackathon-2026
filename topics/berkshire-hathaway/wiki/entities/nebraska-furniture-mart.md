@@ -2,7 +2,7 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -52,6 +52,12 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 
 **[1987 Letter]** Net sales $142.6M, up 8% from 1986. Agatha Christie anecdote introduces Mrs. B: "archaeologists... the older you become, the more interested they are in you." Mrs. B at 94, working seven days a week, "gathering speed and may well reach her full potential in another five or ten years." Board scraps "mandatory retirement-at-100 policy." Customers saved approximately $30M in 1987 by buying from NFM vs. elsewhere. Anonymous competitor letter complains NFM is "leaving 10% to 20% on the table" — NFM ignores, follows Mrs. B's maxim: "Sell cheap and tell the truth." Louie and grandsons Ron, Irv, Steve praised: "the business instincts, integrity and drive of Mrs. B."
 
+### 1988-1989 Performance
+
+**[1988 Letter]** "Dillard's, one of the most successful department store operations in the country, entered the Omaha market... [they] won't be taking on the Blumkins." Mrs. B at 95 continues on the sales floor. NFM's competitive dominance so complete that a major national chain's arrival generates no anxiety.
+
+**[1989 Letter]** Mrs. B, age 96, departs after a carpet department dispute with grandsons. She opens a competing store, Mrs. B's Warehouse, across the street. The carpet department under the Blumkin sons reaches 75.3% market share in Omaha — demonstrating that the NFM business model survives individual personalities, even one as formidable as Mrs. B. Buffett notes the departure with evident sadness but without rancor: the family dynamics illustrate both the strengths and tensions of multi-generational family businesses[^2].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — NFM as a wonderful business: cost advantage, volume dominance, pricing power through value
@@ -60,3 +66,5 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 - [See's Candies](sees-candies.md) — both are consumer franchises with pricing power
 
 [^1]: [1983 Letter](../sources/buffett-letter-1983.md) — NFM acquisition
+
+[^2]: [1989 Letter](../sources/buffett-letter-1989.md) — Mrs. B departure; carpet department 75.3% market share

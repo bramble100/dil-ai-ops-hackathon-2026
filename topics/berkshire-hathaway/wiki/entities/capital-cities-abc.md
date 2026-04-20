@@ -2,7 +2,7 @@
 title: "Capital Cities/ABC"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, media, 1985]
@@ -39,8 +39,16 @@ The deal also demonstrates the value of [Four Filters](../principles/four-filter
 
 **[1987 Letter]** Market value doubled to $1,035M on $517.5M cost — the first of Berkshire's three permanent holdings to achieve a 2x gain. Reaffirms permanence: "With Tom Murphy and Dan Burke at Cap Cities, Bill Snyder and Lou Simpson at GEICO, and Kay Graham and Dick Simmons at The Washington Post, we simply couldn't be in better hands."
 
+### 1988-1989 Performance
+
+**[1988 Letter]** Market value reaches $1,086.8M on $515.8M cost. Capital Cities remains one of three permanent holdings; Murphy and Burke continue to produce "truly extraordinary" management results[^4].
+
+**[1989 Letter]** Market value rises to $1,692.4M on $517.5M cost — a 3.3x return. Capital Cities is part of the "accounting schizophrenia" discussion: GAAP reports only dividends received from this <20% holding, radically understating Berkshire's economic interest in the company's earnings. Berkshire's share of Capital Cities' actual retained earnings dwarfs the reported dividend income[^5].
+
 ## Sources
 
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Capital Cities acquisition details, Murphy/Burke praise, voting arrangement
 [^2]: [1986 Letter](../sources/buffett-letter-1986.md) — Permanent holding designation, $801.7M market value, anti-restructuring philosophy
 [^3]: [1987 Letter](../sources/buffett-letter-1987.md) — $1,035M market value (2x cost), Murphy/Burke "couldn't be in better hands"
+[^4]: [1988 Letter](../sources/buffett-letter-1988.md) — $1,086.8M market value; management praise
+[^5]: [1989 Letter](../sources/buffett-letter-1989.md) — $1,692.4M market value; accounting schizophrenia

@@ -1,7 +1,7 @@
 ---
 title: "Economic Goodwill"
 type: principle
-sources: [buffett-letter-1983, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1983, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -98,6 +98,12 @@ The annual charges flowing from these write-ups ($11.6M) reduced reported GAAP e
 
 **[1987 Letter]** Seven non-financial units earned ~57% after-tax ROE on $175M of equity — carried on Berkshire's books at ~$222M above underlying assets. But the units should be judged on their returns on underlying (pre-premium) equity, not on what Berkshire paid.
 
+### Sainted Seven Plus One (1988-1989)
+
+**[1988 Letter]** The seven non-financial units raise their return to "about 67% on average equity capital" — again without meaningful leverage. The gap between book value and economic goodwill continues widening.
+
+**[1989 Letter]** Borsheim's joins the group, making it the "Sainted Seven Plus One." The combined economics: 57% return on average equity with no net leverage — cash equivalents matched funded debt. Buffett notes that unrecorded goodwill continues growing as these managers improve earnings "while, except in the case of insurance, utilizing little additional capital"[^4].
+
 ## Connections
 
 - [Business Quality](business-quality.md) — economic Goodwill is the quantification of what makes a business "wonderful"
@@ -113,3 +119,5 @@ The annual charges flowing from these write-ups ($11.6M) reduced reported GAAP e
 [^2]: [1985 Letter](../sources/buffett-letter-1985.md) — Three Very Good Businesses
 
 [^3]: [1986 Letter](../sources/buffett-letter-1986.md) — Appendix: Purchase-Price Accounting and the "Cash Flow" Fallacy
+
+[^4]: [1988 Letter](../sources/buffett-letter-1988.md) & [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One; unrecorded goodwill growing

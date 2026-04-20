@@ -1,7 +1,7 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -57,6 +57,8 @@ The college education analogy: identical spending on two children produces ident
 | 1985       | $1,643.71        | 23.2%          |
 | 1986       | $2,073.06        | 23.3%          |
 | 1987       | $2,477.47        | 23.1%          |
+| 1988       | $2,974.52        | 23.0%          |
+| 1989       | $4,296.01        | 23.8%          |
 
 **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 
@@ -66,11 +68,21 @@ The college education analogy: identical spending on two children produces ident
 
 **[1985 Letter]** "An iron law of business is that growth eventually dampens exceptional economics. Just look at the records of high-return companies once they have amassed even $1 billion of equity capital. None that I know of has managed subsequently, over a ten-year period, to keep on earning 20% or more on equity while reinvesting all or substantially all of its earnings." The comparable figure for the next decade is now $5.7B (up 48% from the prior year's $3.9B). The 48.2% gain in 1985 was extraordinary — "fitting that the visit of Halley's Comet coincided with this percentage gain: neither will be seen again in my lifetime."
 
-### The Sainted Seven Benchmark (1987)
+### The Sainted Seven Benchmark (1987-1988)
 
 **[1987 Letter]** Seven non-financial units earned $180M pre-tax on $175M equity — ~57% after-tax return on equity capital with essentially no leverage. Fortune benchmark: only 6 of 1,000 companies averaged >30% ROE over the prior decade. The best (Commerce Clearing House) achieved 40.2%. All 25 companies exceeding 20% ROE for a decade operated mundane, stable businesses.
 
+**[1988 Letter]** The Sainted Seven earned "about 67% on average equity capital" — up from 57% in 1987, again with no benefit from financial leverage.
+
 **[1986 Letter]** Business value premium over book value widening because key managers improved earnings "dramatically while, except in the case of insurance, utilizing little additional capital. This accomplishment builds economic value, or 'Goodwill,' that does not show up in the net worth figure."
+
+### The Scale Anchor and Double-Dip End (1988-1989)
+
+**[1988 Letter]** 15% annual return now requires $10.3B over the next decade (up from $3.9B four years ago). The baseball metaphor: "Anyone ignoring these differences makes the same mistake that a baseball manager would were he to judge the future prospects of a 42-year-old center fielder on the basis of his lifetime batting average."
+
+**[1989 Letter]** Carl Sagan bacteria analogy: exponential growth must self-destruct. "From Berkshire's present base of $4.9 billion in net worth, we will find it much more difficult to average 15% annual growth in book value than we did to average 23.8% from the $22 million we began with." Additionally, the "double-dip" is over: (1) exceptional intrinsic value gains from portfolio companies, plus (2) market re-rating their stock prices upward. "Our 'catch-up' rewards have been realized, which means we'll have to settle for a single-dip in the future."
+
+**[1989 Letter]** Sainted Seven Plus One (Borsheim's added): 57% return on average equity with no net leverage — cash equivalents matched funded debt.
 
 ## Connections
 

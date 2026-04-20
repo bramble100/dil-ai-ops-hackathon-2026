@@ -1,7 +1,7 @@
 ---
 title: "GEICO Investment"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -48,6 +48,14 @@ The market offered a 33% interest in a franchise with $20M earning power for $47
 
 > "GEICO represents the best of all investment worlds — the coupling of a very important and very hard to duplicate business advantage with an extraordinary management whose skills in operations are matched by skills in capital allocation." — 1980 Letter
 
+### 1988-1989: The Franchise Deepens
+
+**[1988 Letter]** Market value reaches $849.4M. California's Proposition 103 threatens GEICO's 10% California premium volume with a mandated 20% rate rollback — demonstrating the regulatory risk inherent in commodity products. Buffett uses the episode to contrast insurance (pure commodity, politically vulnerable) with branded consumer goods (insulated from political pricing interference)[^2].
+
+**[1989 Letter]** Market value hits $1,044.6M on $45.7M cost — a 23:1 return over approximately 13 years. Berkshire now owns ~44% of GEICO. The permanent holding status is absolute: GEICO exemplifies the "favorite holding period is forever" philosophy. Berkshire's share of GEICO's retained earnings represents a massive unreported economic value — among the largest components of the gap between reported and look-through earnings[^3].
+
+**Market value progression (extended):** ~$68M (1979) → $200M (1981) → $310M (1982) → $398M (1983) → $397M (1984) → $596M (1985) → $675M (1986) → $757M (1987) → $849M (1988) → $1,045M (1989)
+
 ## Lessons — What the Case Illustrates
 
 1. **Franchise value survives temporary crises** — distinguish "turnarounds" from great businesses with temporary problems
@@ -66,3 +74,7 @@ The market offered a 33% interest in a franchise with $20M earning power for $47
 - [Textile Operations](textile-operations.md) — the contrasting case: bad business at a bargain price
 
 [^1]: [1980 Letter](../sources/buffett-letter-1980.md) — GEICO analysis
+
+[^2]: [1988 Letter](../sources/buffett-letter-1988.md) — Prop 103 risk; commodity comparison
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — $1,044.6M value; 23:1 return; permanent holding

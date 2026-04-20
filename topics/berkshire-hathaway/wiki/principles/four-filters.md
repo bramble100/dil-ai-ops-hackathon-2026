@@ -1,7 +1,7 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -51,12 +51,58 @@ Stated explicitly in the 1977 letter and restated with slight variation in 1978.
 
 **[1986 Letter]** The five investment categories framework: (1) long-term common stocks, (2) medium-term fixed-income, (3) long-term fixed-income, (4) short-term cash equivalents, (5) arbitrage. "We have no particular bias when it comes to choosing from these categories. We just continuously search among them for the highest after-tax returns."
 
+### Arbitrage as a Complete Discipline (1988)
+
+**[1988 Letter]** The fifth investment category — arbitrage — receives its definitive treatment. Buffett has practiced arbitrage for 33 years, starting at age 24 with Rockwood & Co. (a cocoa-bean-for-stock exchange where his "only cost was subway tokens"). He provides a four-question evaluation framework:
+
+1. How likely is the announced event to occur?
+2. How long will your money be tied up?
+3. What chance is there that something better will come along — a competing bid?
+4. What happens if the event doesn't take place?
+
+The RJR Nabisco position ($281.8M) is the year's major arbitrage, producing $64M pre-tax. Buffett distinguishes his approach from the "leveraged deal-at-any-price" school: "We face the same sort of risk that others do. We just try to get the odds in our favor."
+
+> "Too much of a good thing can be wonderful." — Mae West, quoted in 1988 Letter (on concentrated investing)
+
+### EMT Demolition (1988)
+
+**[1988 Letter]** Efficient Market Theory receives its most devastating critique. Buffett presents 63 years of documented arbitrage returns (Graham-Newman → Buffett Partnership → Berkshire), all averaging 20%+ annually, in a field dependent entirely on "good business judgment" rather than beta or standard deviation.
+
+> "Proponents of the theory have never seemed interested in discordant evidence of this type. True, they don't talk quite as much about their theory today as they used to. But no one, to my knowledge, has ever said he was wrong, no matter how many thousands of students he has sent forth misinstructed." — 1988 Letter
+
+The compound arithmetic: $1,000 invested alongside these operations would have grown to ~$97M, vs. ~$405K at the market's 10%. "Quite clearly, our gang has simply been lucky... The game hasn't been 'won' because it can't be lost."
+
+### The Cigar Butt vs. Wonderful Company Formulation (1989)
+
+**[1989 Letter]** The "Mistakes of the First Twenty-five Years" section crystallizes a fundamental evolution in filter application:
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — 1989 Letter
+
+Filter (4) — attractive price — had been historically overweighted relative to filter (2) — favorable long-term prospects. The cigar butt approach: "buying a company whose price dictated that you were practically stealing it" delivers a "one puff" gain but decaying economics. Hochschild Kohn (department store) was the teaching case; buying Berkshire textile itself was the original sin.
+
+### One-Foot Hurdles (1989)
+
+**[1989 Letter]** The heuristic for applying the four filters in practice:
+
+> "Easy does it. After 25 years of buying and supervising a great variety of businesses, Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them." — 1989 Letter
+
+The operational lesson: "We have been successful because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers." This favors filter (1) — understandable business — as the primary screen.
+
+### Convertible Preferred Criteria (1989)
+
+**[1989 Letter]** A sixth investment category emerges: convertible preferred stock. The four 1989 preferreds (Salomon, Gillette, USAir, Champion) share a structure: significant current yield for downside protection, conversion option for upside, unrestricted voting. But Buffett draws sharp distinctions: Gillette passes all four equity filters; USAir and Champion pass only filters (1) and (3) — he is "agnostic" about their industry economics. The preferred structure compensates for incomplete conviction on filter (2)[^3].
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
 - [Owner Earnings](owner-earnings.md) — filter (3) matters enormously when earnings are retained by investee management
 - [Capital Allocation](capital-allocation.md) — filter (4) drives the discipline to wait for the right price
+- [Institutional Imperative](institutional-imperative.md) — the force that distorts filter application inside organizations
+- [Coca-Cola](../entities/coca-cola.md) — supreme example of all four filters satisfied
+- [Gillette](../entities/gillette.md) — convertible preferred when all four filters pass vs. USAir/Champion when filter (2) is uncertain
 
 [^1]: [1978 Letter](../sources/buffett-letter-1978.md) — concentration policy
 
 [^2]: [1977 Letter](../sources/buffett-letter-1977.md) — "pro-rata portions of truly outstanding businesses sometimes sell... at very large discounts"
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred strategy; Gillette vs. USAir distinction

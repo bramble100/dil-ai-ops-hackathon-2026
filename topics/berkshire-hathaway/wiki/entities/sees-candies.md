@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -54,6 +54,12 @@ See's is the primary example in Buffett's famous [Economic Goodwill](../principl
 
 The customer letter anecdote: two eliminated candy varieties triggered "hundreds of letters" — including threats of mandatory injunctions. Chuck Huggins reintroduced both pieces and sent gift certificates with "a complete and honest explanation."
 
+### 1988-1989 Performance
+
+**[1988 Letter]** Record poundage: 25.1M lbs. Approximately 90% of profit earned in December — extreme seasonal concentration. Chuck Huggins continues as manager. See's demonstrates the franchise power that Buffett now contrasts with commodity businesses: the brand commands a price premium independent of input costs[^2].
+
+**[1989 Letter]** Poundage increases another 8% over 1988's record. Part of the "Sainted Seven Plus One" group achieving 57% return on average equity. See's continues to generate cash far in excess of its reinvestment needs, funding Berkshire's acquisition and investment activities elsewhere[^3].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — archetype of a great business
@@ -63,3 +69,7 @@ The customer letter anecdote: two eliminated candy varieties triggered "hundreds
 - [Textile Operations](../case-studies/textile-operations.md) — the opposite case
 
 [^1]: [1977 Letter](../sources/buffett-letter-1977.md) — earnings growth from $4.2M to $12.6M
+
+[^2]: [1988 Letter](../sources/buffett-letter-1988.md) — record 25.1M lbs; 90% December profit
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — 8% poundage increase; Sainted Seven Plus One

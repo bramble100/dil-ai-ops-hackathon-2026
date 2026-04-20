@@ -2,7 +2,7 @@
 title: "Fechheimer Bros. Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -31,9 +31,19 @@ Fechheimer established the Berkshire "ad" acquisition pipeline. The pattern: fam
 
 One limitation: size. Utilizing only ~2% of Berkshire's net worth, Fechheimer was too small to materially affect overall returns.
 
+### 1988-1989 Performance
+
+**[1988 Letter]** A 1988 acquisition is integrated into Fechheimer — consistent with the Heldman family's operational capability. Five Heldmans now manage the combined enterprise. Buffett notes there's "a lot of heredity in this business"[^2].
+
+**[1989 Letter]** Part of the "Sainted Seven Plus One." The Heldman family continues building the uniform business. Fechheimer validates the Berkshire acquisition template: family management, no corporate interference, compounding returns within the subsidiary[^3].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — the annual-report acquisition ad in action
 - [Nebraska Furniture Mart](nebraska-furniture-mart.md) — identical acquisition pattern
 
 [^1]: [1986 Letter](../sources/buffett-letter-1986.md) — acquisition story and economics
+
+[^2]: [1988 Letter](../sources/buffett-letter-1988.md) — acquisition integrated; five Heldmans
+
+[^3]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member

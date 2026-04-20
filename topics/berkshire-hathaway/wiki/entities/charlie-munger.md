@@ -2,7 +2,7 @@
 title: "Charlie Munger"
 type: entity
 entity_kind: person
-sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -36,8 +36,18 @@ In these early letters, Munger appears primarily as a named partner rather than 
 
 **[1987 Letter]** "With managers like ours, my partner, Charlie Munger, and I have little to do with operations. In fact, it is probably fair to say that if we did more, less would be accomplished." The management philosophy: "informed applause" rather than directives.
 
+### 1988-1989 Contributions
+
+**[1988 Letter]** The 1927 Yankees comparison: "Put Charlie and me together and we have a combined age of 120... but those who think this age is a disadvantage fail to realize how hard it is to build up 120 years' worth of experience." Elsewhere: Berkshire's management team likened to "a lineup that no mba program could improve upon."
+
+**[1989 Letter]** Munger is prominently featured in the "Mistakes" retrospective as the intellectual partner who helped Buffett evolve beyond cigar-butt investing: "Charlie's most important architectural contribution has been the design of today's Berkshire. The blueprint he gave me was simple: forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices." Munger is also credited with the bacteria reproduction observation used to illustrate the impossibility of sustaining exponential growth at scale[^2].
+
+**[1989 Letter]** On the S&L crisis, Charlie authors his own letter to Wesco Financial shareholders — a "masterful analysis" recommended by Buffett for its candor about the regulatory and political failures enabling the debacle.
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — co-architect of Berkshire's allocation philosophy
 
 [^1]: [1981 Letter](../sources/buffett-letter-1981.md) — "Charlie and I work as partners"
+
+[^2]: [1989 Letter](../sources/buffett-letter-1989.md) — "wonderful businesses at fair prices" attribution; bacteria analogy; S&L crisis letter

@@ -2,7 +2,7 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -44,6 +44,12 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 - **[1986 Letter]** Lou Simpson's GEICO equity portfolio returned 23.7% to 45.8% annually (1980-86), crushing the S&P 500 in six of seven years. "Consistently invested in undervalued common stocks that, individually, were unlikely to present him with a permanent loss."
 - **[1987 Letter]** Formally designated as permanent holding. Cost: $45.7M; market value: $756.9M (16.5x return). Per-share operating earnings of $9.01 vs. $6.67 average purchase price — current earnings exceed purchase price by 35%.
 
+### 1988-1989 Performance
+
+**[1988 Letter]** Market value rises to $849.4M (cost $45.7M). GEICO is the primary entity threatened by California's Proposition 103, which mandates a 20% rate rollback on auto insurance. GEICO has ~10% of California premium volume. Buffett draws the cereal-vs.-insurance comparison to illustrate why the commodity nature of insurance makes it uniquely vulnerable to political interference[^3].
+
+**[1989 Letter]** Market value reaches $1,044.6M (cost $45.7M) — a 23:1 return. Berkshire owns approximately 44% of GEICO. The permanent holding status is reaffirmed with emphasis: GEICO exemplifies the "favorite holding period is forever" philosophy. The company's float-generation capacity and structural cost advantage continue to widen the gap between GEICO and conventional agency-system insurers[^4].
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -54,3 +60,7 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 [^1]: [1980 Letter](../sources/buffett-letter-1980.md) — "localized excisable cancer"
 
 [^2]: [1980 Letter](../sources/buffett-letter-1980.md) — replacement cost analysis
+
+[^3]: [1988 Letter](../sources/buffett-letter-1988.md) — Prop 103 threat; cereal-vs-insurance commodity comparison
+
+[^4]: [1989 Letter](../sources/buffett-letter-1989.md) — $1,044.6M market value; 44% ownership; permanent holding reaffirmed
