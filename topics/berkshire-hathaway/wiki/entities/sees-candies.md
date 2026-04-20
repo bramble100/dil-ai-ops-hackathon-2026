@@ -24,6 +24,7 @@ sources:
     buffett-letter-1994,
     buffett-letter-1999,
     buffett-letter-2005,
+    buffett-letter-2007,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -128,6 +129,23 @@ The 1999 result is particularly striking given that See's had pre-tax earnings o
 [^1]: [1977 Letter](../sources/buffett-letter-1977.md) — earnings growth from $4.2M to $12.6M
 
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — record 25.1M lbs; 90% December profit
+
+### 35-Year Retrospective (2007)
+
+**[2007 Letter]** The definitive See's case study in the "Great, Good, and Gruesome" essay:
+
+- **Purchased:** 1972 for $25M; $8M capital required; 60% pre-tax ROE; sales 16M lbs
+- **2007:** Sales $383M (31M lbs, 2% annual growth); pre-tax profits **$82M**; capital required **$40M**
+- **Reinvestment:** Only **$32M** reinvested since 1972 to handle physical and financial growth
+- **Cumulative pre-tax earnings:** **$1.35B** — all but $32M sent to Berkshire
+
+> "Just as Adam and Eve kick-started an activity that led to six billion humans, See's has given birth to multiple new streams of cash for us." — 2007 Letter
+
+The comparison with average businesses: a company growing from $5M to $82M typically requires ~$400M of capital investment. See's did it with $32M. "It's far better to have an ever-increasing stream of earnings with virtually no major capital requirements. Ask Microsoft or Google."
+
+Brad Kinstler now CEO (succeeding Chuck Huggins in 2005); profits increased more than 50% in his first two years[^9].
+
+[^9]: [2007 Letter](../sources/buffett-letter-2007.md) — 35-year retrospective; $1.35B cumulative; $32M reinvested; $82M pre-tax; Brad Kinstler +50% profits
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — 8% poundage increase; Sainted Seven Plus One
 

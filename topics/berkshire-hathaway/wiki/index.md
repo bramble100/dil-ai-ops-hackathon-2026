@@ -41,25 +41,27 @@ updated: 2026-04-20
 - [2004 Letter](sources/buffett-letter-2004.md) - Book value +10.5%, NICO 25-year portrait, GEICO ~6% share, $43B cash, trade deficit "Sharecropper's Society," Big Four equities, Lou Simpson 20.3% CAGR, Clayton/Oakwood synergy, stock-option expensing, governance (2004)
 - [2005 Letter](sources/buffett-letter-2005.md) - Book value +6.4%, Gotrocks parable, Fred Futile option math, $3.4B hurricane losses, float $49.3B costless, GEICO 6.1% share, Forest River/Business Wire acquired, PacifiCorp agreed, "widening the moat," Gen Re canary, succession first discussed (2005)
 - [2006 Letter](sources/buffett-letter-2006.md) - Record $16.9B gain, ISCAR $4B first international, Equitas $7.12B, float $50.9B, GEICO 8.1M policies, GenRe $526M best year, newspaper decline, Gotrocks 2-and-20 sequel, Walter Schloss, CIO succession, TTI before-lunch deal (2006)
+- [2007 Letter](sources/buffett-letter-2007.md) - Great/Good/Gruesome taxonomy, Marmon $4.5B, See's 35-year retrospective, PetroChina $4B sale, moat essay, pension assumption exposé, Dexter $3.5B revised cost, float $58.5B, GEICO 7.2% share, succession advanced (2007)
+- [2008 Letter](sources/buffett-letter-2008.md) - Financial crisis −9.6% (worst year), four goals, Black-Scholes critique, Goldman/GE/Wrigley $14.5B, BHAC $15.6B muni bonds, Clayton Lending 101, PE critique, derivatives four-category, "America's best days lie ahead" (2008)
 
 ## Principles
 
 - [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (20 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Two-table framework; derivatives canary; four-sector reporting; 22.2% tangible ROE (26 sources)
-- [Four Filters](principles/four-filters.md) - Forest River fax; Business Wire letter; ISCAR/TTI; "no exit strategy" (23 sources)
-- [Business Quality](principles/business-quality.md) - "Widening the moat" daily discipline; newspaper decline essay; 22.2% tangible ROE (27 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $50.9B; $3.838B record profit; Equitas $7.12B; Pascal's Wager mega-cat (30 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Two-yardstick reframed: investment deceleration / earnings acceleration; operating earnings cushion in crisis (27 sources)
+- [Four Filters](principles/four-filters.md) - Moat essay deepened; crisis as filter test; Goldman/GE at crisis terms; ConocoPhillips filter failure (23 sources)
+- [Business Quality](principles/business-quality.md) - Great/Good/Gruesome taxonomy; PE as anti-model; Clayton Lending 101 (29 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $58.5B; seven consecutive profitable years; BHAC monoline $15.6B; AAA advantage (30 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - "Sharecropper's Society" trade deficit essay; $21.4B foreign currency; misery index; tapeworm (10 sources)
-- [Capital Allocation](principles/capital-allocation.md) - CIO succession criteria; two-yardstick updated; "buyer of choice" goes global (30 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Four goals articulated; Marmon/PetroChina/Goldman/GE/Wrigley; ConocoPhillips mistake; PE critique (30 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Gotrocks sequel; 2-and-20 hedge fund math; Walter Schloss tribute; Dow 5.3% CAGR (20 sources)
+- [Mr. Market](principles/mr-market.md) - Black-Scholes critique; "beware geeks bearing formulas"; pension assumption gaming; Treasury bubble (20 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations; NICO as anti-imperative exemplar (2004) (2 sources)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - Market share growing; 8.1M policies; 47% productivity; $1,314M profit; Tony Nicely (30 sources)
+- [GEICO](entities/geico.md) - #3 auto insurer; 7.7% share; 439 policies/employee; crisis growth; Tony Nicely (30 sources)
 - [National Indemnity](entities/national-indemnity.md) - 40th anniversary (1967); float $17M→$50.9B; Jack Ringwalt; Don Wurster (29 sources)
-- [See's Candies](entities/sees-candies.md) - Chuck Huggins retires after 34 years (2005); Brad Kinstler succeeds (20 sources)
+- [See's Candies](entities/sees-candies.md) - 35-year retrospective: $1.35B cumulative on $25M; Adam & Eve; Brad Kinstler (21 sources)
 - [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; age 82 (2005); "thumb-sucking" critique; permanent two-person partnership (14 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Kansas City store: "country's largest-volume home-furnishings store" (2003); Mrs. B turns 100 (Dec 1993) (13 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - "Days of lush profits over"; newspaper decline essay (2006); Stan Lipsey (12 sources)
@@ -72,30 +74,31 @@ updated: 2026-04-20
 - [Wells Fargo](entities/wells-fargo.md) - 95M shares/$5,975M value (2005); Big Four member; Dick Kovacevich (6 sources)
 - [Borsheim's](entities/borsheims.md) - 18% sales growth (1990); ~#2 US fine jewelry by volume; 18% operating cost ratio (3 sources)
 - [H.H. Brown](entities/hh-brown.md) - Record profits up 35% (1993); Frank Rooney brokered Dexter introduction; Lowell Shoe acquired 1992 (3 sources)
-- [Dexter Shoe](entities/dexter-shoe.md) - Three-part confession 2001; Rooney/Issler turnaround; worst stock-for-stock deal (4 sources)
-- [FlightSafety International](entities/flightsafety.md) - Farnborough center; 42 learning centers; 288 simulators/$1.4B; Bruce Whitman (9 sources)
+- [Dexter Shoe](entities/dexter-shoe.md) - $3.5B revised cost (2007); worst stock-for-stock deal; 1.6% of Berkshire (5 sources)
+- [FlightSafety International](entities/flightsafety.md) - $270M pre-tax; 273 simulators/$1.635B; "Good Business" benchmark (10 sources)
 - [Helzberg's Diamond Shops](entities/helzbergs.md) - Acquired 1995 (stock); 134 stores, $282M sales; sidewalk encounter (1 source)
 - [R.C. Willey](entities/rc-willey.md) - Boise +21% (2005); Reno opened; Sacramento planned; Scott Hymas CEO (4 sources)
 - [American Express](entities/american-express.md) - 27.76M shares at $723.9M cost by yearend 1994; 40-year Buffett relationship (1 source)
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
-- [General Re](entities/general-re.md) - $526M best year (2006); Gen Re Securities wound down; "All's well that ends" (9 sources)
-- [Executive Jet Aviation](entities/executive-jet.md) - $143M worldwide profit (2006); European turnaround; Mark Booth (9 sources)
+- [General Re](entities/general-re.md) - $342M profit (2008); Tad Montross CEO; AAA backing; seven profitable years (11 sources)
+- [Executive Jet Aviation](entities/executive-jet.md) - 487 US + 135 European planes (2007); fleet dominance (10 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - $1.718B pre-tax; PacifiCorp first year; 86.6%; housing crisis foreshadowed (8 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - Record $2.2B pre-tax; #1 US regulated wind; Kern River #1 satisfaction (10 sources)
 - [Shaw Industries](entities/shaw-industries.md) - Bob Shaw retires at 75; Vance Bell succeeds; world's largest carpet maker (7 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
 - [Justin Industries](entities/justin-industries.md) - $570M cash; Acme Brick + Western boot brands; "clicks and bricks" joke; serendipitous fax (1 source)
-- [Clayton Homes](entities/clayton-homes.md) - $513M pre-tax; $10B portfolio; 14,787 employees; industry lowest since 1962 (4 sources)
+- [Clayton Homes](entities/clayton-homes.md) - Lending 101; FICO 644; canary-in-coal-mine; 34% market share; government guarantee critique (6 sources)
 - [McLane Company](entities/mclane.md) - $23B sales wholesale distribution; Wal-Mart sale in 29 days; no due diligence; Byron Trott (1 source)
 - [Fruit of the Loom](entities/fruit-of-the-loom.md) - Russell Corp acquired; VF intimate apparel agreed; 48.7% men's underwear share (5 sources)
 - [Lou Simpson](entities/lou-simpson.md) - GEICO CIO; 25-year track record 20.3% CAGR vs. S&P 13.5%; ~$2.5B portfolio (1 source)
 - [Forest River](entities/forest-river.md) - RV manufacturer; $1.6B revenue; Pete Liegl; two-page fax acquisition (2005) (1 source)
 - [Business Wire](entities/business-wire.md) - Press release distribution; Lorry Lokey; 25,000 clients; WSJ article triggered (2005) (1 source)
-- [ISCAR](entities/iscar.md) - $4B first international acquisition (80%); cutting tools; 61 countries; Eitan Wertheimer (1 source)
+- [ISCAR](entities/iscar.md) - $4B first international acquisition (80%); Dalian China; Tungaloy Japan; global platform (3 sources)
 - [TTI](entities/tti.md) - Electronic components distributor; Fort Worth; $1.3B revenue; deal before lunch (1 source)
+- [Marmon Group](entities/marmon-group.md) - $4.5B for 60%; 125 businesses; $7B revenue; Pritzker family; Byron Trott; Christmas Day 2007 (1 source)
 
 ## Case Studies
 
@@ -104,7 +107,7 @@ updated: 2026-04-20
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $70,281 (2006), 21.4% CAGR; record $16.9B gain; two-yardstick framework (30 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $70,530 (2008), 20.3% CAGR; −9.6% worst year; two-yardstick framework (32 sources)
 
 ## Standalone Pages
 

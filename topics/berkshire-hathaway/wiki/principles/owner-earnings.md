@@ -28,6 +28,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -298,3 +300,20 @@ Non-insurance operating earnings grew 38% YoY. "Large gains from here on in, tho
 **Manufacturing/service/retail sector:** $52.66B revenue, $3.526B pre-tax, 25% on average tangible net worth (10.8% on carrying value including goodwill)[^16].
 
 [^16]: [2006 Letter](../sources/buffett-letter-2006.md) — two-yardstick 2006 update; DCRA retroactive reinsurance accounting; Gen Re Securities final chapter; 25% tangible ROE on $52.66B revenue
+
+### Two-Yardstick Reframed: Investment vs. Earnings Divergence (2007-2008)
+
+**[2007 Letter]** The two-yardstick framework gets its sharpest articulation:
+
+| Metric                     | Per-Share Value | Growth Pattern              |
+| -------------------------- | --------------- | --------------------------- |
+| Investments (ex-finance)   | $90,343         | Decelerating (27.5% → ~12%) |
+| Pre-tax operating earnings | $4,093          | Accelerating (17.9% → ~32%) |
+
+The divergence tells the whole Berkshire story: as the company grows, the investment portfolio naturally becomes a smaller share of total value while operating earnings compound faster. Buffett: "Large future gains will come from operating earnings." The yardstick explicitly acknowledges that Berkshire is no longer primarily an investment vehicle — it's an operating conglomerate that happens to own a large portfolio.
+
+**[2008 Letter]** Despite the worst year in company history (−9.6%), Buffett holds to the two-yardstick framework. Per-share investments decline (market losses) while operating earnings power remains intact. The framework proves its worth precisely in a crisis: book value fell only 9.6% vs. the S&P's 37% decline because operating earnings cushioned portfolio losses.
+
+Operating earnings power: manufacturing/service/retail generated $5.6B pre-tax; utilities $2.2B; finance $1.2B — this recurring stream explains why a 37% stock market decline translates to only a 9.6% book value decline[^17].
+
+[^17]: [2007 Letter](../sources/buffett-letter-2007.md) & [2008 Letter](../sources/buffett-letter-2008.md) — two-yardstick sharpened; investment deceleration / earnings acceleration; operating earnings cushion in crisis; −9.6% vs. S&P −37%

@@ -8,6 +8,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2002,
+    buffett-letter-2007,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -59,6 +60,12 @@ Shoe operations lost $46.2M pre-tax in 2001. Dexter placed under management of F
 **[2002 Letter]** Under Frank Rooney and Jim Issler's management, the shoe operations show improvement. Dexter's domestic manufacturing has been restructured with production increasingly moved offshore. Buffett notes the turnaround is proceeding but the original acquisition remains his worst stock-for-stock deal. [^4]
 
 [^4]: [2002 Letter](../sources/buffett-letter-2002.md) — Rooney/Issler management producing improvement
+
+### 2007: The $3.5 Billion Revised Cost
+
+**[2007 Letter]** Buffett updates the Dexter Shoe damage assessment with a decade of hindsight. The 25,203 Berkshire shares used to buy Dexter — now worth **$3.5 billion** — make it by far the costliest acquisition mistake in Berkshire history. Buffett: "To date, Dexter is the worst deal that I've made." The lesson is not just about Dexter's competitive deterioration but about **paying with stock for any acquisition**: when Berkshire shares compound at 20%+ annually, the real cost of stock-based payments escalates relentlessly. The 2007 confession quantifies the opportunity cost more precisely than the 2000-2001 confessions — the mistake now consumes **1.6% of Berkshire's entire market value**[^5].
+
+[^5]: [2007 Letter](../sources/buffett-letter-2007.md) — $3.5B revised cost; 25,203 shares; "worst deal I've made"; 1.6% of Berkshire's value
 
 ## Connections
 

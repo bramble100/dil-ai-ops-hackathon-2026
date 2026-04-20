@@ -31,6 +31,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -584,3 +586,42 @@ The investment column's CAGR deceleration (27.5% → 12.6%) and operating earnin
 **Succession plan advanced:** Three CEO candidates confirmed (all much younger); formal plan to hire a younger CIO because Lou Simpson (6 years younger than Buffett) won't serve long-term. CIO requirements: genetically programmed risk avoidance, emotional stability, independent thinking, understanding of institutional behavior[^16].
 
 [^16]: [2006 Letter](../sources/buffett-letter-2006.md) — two-yardstick framework; ISCAR $4B first international; TTI deal-before-lunch; comp philosophy; CIO search criteria; Ratchet Ratchet and Bingo
+
+### Marmon, PetroChina, and "Buyer of Choice" (2007)
+
+**[2007 Letter]** Three major capital allocation moves:
+
+1. **Marmon $4.5B (60%)** — 125 businesses, $7B revenue, acquired Christmas Day 2007 via Byron Trott. Pritzker family sells; Frank Ptak CEO. Berkshire to buy remaining 40% over 5-6 years at fair value formulas. The Pritzkers chose Berkshire because they "wanted a single, minority buyer" who would leave the culture intact.
+2. **PetroChina sold for $4B** — purchased for $488M in 2002-03; Buffett's thesis was simple oil-price math, not geological expertise. "We have realized about $3.5 billion in profit." No inside information — all from the Annual Report.
+3. **Three CEO candidates + four investment manager candidates** identified; Tod Combs and Ted Weschler not yet named but the "next generation" is being formed.
+
+**Buyer of choice** extends: "Over the years, some very large acquisitions have come our way that would not have been offered to us absent our reputation." Byron Trott's role formalized — "the only investment banker I would recommend to Berkshire shareholders."
+
+**Dexter revised cost:** The 25,203 shares used to buy Dexter are now worth $3.5B — **the worst deal by dollar cost** in Berkshire history, "1.6% of our present value." The lesson is permanent: never pay with stock[^17].
+
+### Four Goals and Crisis Investments (2008)
+
+**[2008 Letter]** The worst year in Berkshire history (−9.6% book value) produces some of the best allocation thinking:
+
+**Four goals articulated:**
+
+1. Maintain Gibraltar financial position (massive cash, no risky debt)
+2. Widen moats around operating businesses
+3. Acquire and develop new diverse earnings streams
+4. Expand and nurture management talent
+
+**Crisis investments — $14.5B deployed:**
+
+- **Goldman Sachs** $5B perpetual preferred (10% dividend) + warrants for $5B common at $115
+- **GE** $3B perpetual preferred (10% dividend) + warrants for $3B common at $22.25
+- **Wrigley/Mars** $6.5B subordinated notes (11.45%) financing the $23B LBO
+
+**Private equity critique:** Buffett attacks the PE model — leveraged deals require "everything going right," pay enormous fees, and depend on debt markets remaining open. "If capital requirements increase, the Loss will bring Berkshire large opportunities." Berkshire's advantages: permanent capital, no quarterly reporting pressure, zero leverage at the parent level.
+
+**ConocoPhillips mistake:** $7B position taken near oil's peak; Buffett calls it his error — not the business quality, but the price paid. "I didn't even have the phone number of a drilling consultant." The contrast with PetroChina's disciplined exit a year earlier is stark.
+
+**"America's best days lie ahead":** Despite the crisis, Buffett closes with a ringing endorsement of American economic dynamism, explicitly framing the crisis as an opportunity for patient capital[^18].
+
+[^17]: [2007 Letter](../sources/buffett-letter-2007.md) — Marmon $4.5B; PetroChina $4B sale; Dexter $3.5B revised cost; buyer of choice; Byron Trott; three CEO + four CIO candidates
+
+[^18]: [2008 Letter](../sources/buffett-letter-2008.md) — four goals; Goldman/GE/Wrigley $14.5B crisis investments; PE critique; ConocoPhillips mistake; "America's best days lie ahead"

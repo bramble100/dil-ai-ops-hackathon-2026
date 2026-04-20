@@ -79,6 +79,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 2004     | $55,824.00       | 10.5%      | 21.9%                     |
 | 2005     | $59,377.00       | 6.4%       | 21.5%                     |
 | 2006     | $70,281.00       | 18.4%      | 21.4%                     |
+| 2007     | $78,008.00       | 11.0%      | 21.1%                     |
+| 2008     | $70,530.00       | -9.6%      | 20.3%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
@@ -134,6 +136,10 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 - **[2005 Letter]** Net worth gain $5.6B (+6.4%); per-share book value $59,377; 41-year CAGR 21.5%. S&P rose 4.9% — Berkshire outperformed by 1.5pp. Two-table framework: per-share investments $74,129 (28% CAGR from 1965's $4); per-share pre-tax earnings from non-insurance $2,441 (17.2% CAGR from 1965's $4). Combined look-through value substantially exceeds book value. P&G/Gillette merger generated $5.0B "meaningless" GAAP gain. Hurricane losses $3.4B offset by GEICO's $1.2B profit. Float $49.3B costless. Foreign currency: $955M loss on direct positions; shift from currency contracts to foreign equities.
 
 - **[2006 Letter]** Record $16.9B net worth gain (+18.4%); per-share book value $70,281; 42-year CAGR 21.4%. S&P rose 15.8% — Berkshire outperformed by 2.6pp. "We believe that $16.9 billion is a record for a one-year gain in net worth — more than has ever been booked by any American business, leaving aside boosts that have occurred because of mergers." Aided by benign hurricane season. Two-yardstick updated: per-share investments $80,636 (CAGR 27.5% overall, decelerating to 12.6% over 11 years) vs. per-share operating earnings $3,625 (17.9% overall, accelerating to 31.7% over 11 years). Overall gain 1964-2006: 361,156% vs. S&P 6,479%. Portfolio: $61.5B market value on $23.0B cost. Non-insurance operating earnings grew 38% YoY.
+
+- **[2007 Letter]** Net worth gain $11.0B (+11.0%); per-share book value $78,008; 43-year CAGR 21.1%. S&P rose 5.5% — Berkshire outperformed by 5.5pp. Two-yardstick: per-share investments $90,343 (decelerating) vs. per-share pre-tax operating earnings $4,093 (accelerating). The 2007 letter emphasizes that "large future gains will come only if we are able to make major, and sensible, acquisitions." Marmon ($4.5B) was the year's big deal; PetroChina sold for $4B ($3.5B profit). Float $58.5B with $3.374B underwriting profit. Non-insurance operating earnings strong across MidAmerican ($2.09B), manufacturing/service/retail, and Clayton ($526M). Overall gain 1964-2007: 400,863% vs. S&P 6,840%.
+
+- **[2008 Letter]** Net worth loss $11.5B (−9.6%); per-share book value $70,530; 44-year CAGR 20.3%. **Worst year in company history.** S&P fell 37% — Berkshire outperformed by 27.4pp, but absolute performance was deeply negative. The −9.6% decline was only the second negative year since 1964 (after 2001's −6.2%). "This table, however, is not the scorecard by which we measure our performance." Operating earnings cushioned the blow: manufacturing/service/retail $5.6B, utilities $2.2B, finance $1.2B. The crisis produced $14.5B in crisis investments (Goldman/GE/Wrigley). Float remained stable at $58.5B with $2.792B underwriting profit. Book value dropped from $78,008 to $70,530 — but the majority of the decline was unrealized equity losses, not operating deterioration. "America's best days lie ahead." Overall gain 1964-2008: 362,319% vs. S&P 4,276%.
 
 ## The Inflation Caveat
 

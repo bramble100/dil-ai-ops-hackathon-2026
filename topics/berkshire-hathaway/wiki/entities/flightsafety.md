@@ -11,6 +11,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2007,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -86,6 +87,21 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 **[2005 Letter]** FlightSafety opens a major new training center in **Farnborough, England** ($100M+ investment) — now operates **42 learning centers** worldwide with 288 simulators worth $1.4B. Bruce Whitman leads the company following Al Ueltschi's CEO transition. "In the field of aviation training, FlightSafety dominates" [^8].
 
 [^8]: [2005 Letter](../sources/buffett-letter-2005.md) — Farnborough England center; 42 learning centers; 288 simulators/$1.4B; Bruce Whitman
+
+### 2007: The "Good Business" Benchmark
+
+**[2007 Letter]** FlightSafety serves as the archetype of the "Good" business in Buffett's Great/Good/Gruesome taxonomy. Record year: pre-tax earnings **$270M** (up $159M from $111M at 1996 acquisition). But the capital requirements are substantial:
+
+- **Cumulative capex since purchase:** $1.635B (vs. $923M depreciation)
+- **Net fixed assets:** $1.079B (up from $570M)
+- **Incremental investment:** $509M to generate $159M of additional earnings
+- **Simulators:** 273 units (up from 175), costing $12M+ each for new models
+
+"Consequently, if measured only by economic returns, FlightSafety is an excellent but not extraordinary business. Its put-up-more-to-earn-more experience is that faced by most corporations."
+
+Flight services overall set a record with $547M pre-tax earnings (+49%); FlightSafety trains ~58% of US corporate pilots. Bruce Whitman continues as CEO[^9].
+
+[^9]: [2007 Letter](../sources/buffett-letter-2007.md) — $270M pre-tax; $1.635B cumulative capex; 273 simulators; "Good" business archetype; 58% US corporate pilots; $547M combined flight services
 
 ## Connections
 

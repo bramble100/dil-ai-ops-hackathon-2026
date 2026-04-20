@@ -991,3 +991,67 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Good until reached for." — Charlie Munger, quoted in 2006 Letter
 >
 > Context: Munger's label for the Gen Re Securities $409M loss that was latent on the 2001 balance sheet. → [Charlie Munger](entities/charlie-munger.md)
+
+> "Beware of geeks bearing formulas." — 2008 Letter
+>
+> Context: On the quantitative models that failed during the financial crisis — they could measure 50-70 years of history but not tail risks. → [Mr. Market](principles/mr-market.md)
+
+> "In the insurance business, there is no finish line." — 2008 Letter
+>
+> Context: Explaining why General Re's AAA backing from Berkshire matters — reinsurance involves promises stretching fifty years or more. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Business Quality & Moats (2007-2008)
+
+> "A truly great business must have an enduring 'moat' that protects excellent returns on invested capital." — 2007 Letter
+>
+> Context: The 2007 moat essay — Buffett's most concentrated discussion of competitive advantage since 1993. → [Four Filters](principles/four-filters.md)
+
+> "A moat that must be continuously rebuilt will eventually be no moat at all." — 2007 Letter
+>
+> Context: Distinguishing durable moats (GEICO, Coca-Cola) from temporary advantages. → [Business Quality](principles/business-quality.md)
+
+> "In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor." — 2007 Letter
+>
+> Context: On the Great/Good/Gruesome taxonomy — explaining why "Gruesome" commodity businesses destroy capital. → [Business Quality](principles/business-quality.md)
+
+> "Long ago, Ben Graham taught me that 'Price is what you pay; value is what you get.' Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down." — 2008 Letter
+>
+> Context: During the financial crisis, explaining why falling prices create opportunities for long-term investors. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation (2007-2008)
+
+> "We are the buyer of choice for a number of sellers." — 2007 Letter
+>
+> Context: Explaining how Berkshire's reputation brings deal flow that competitors can't access. → [Capital Allocation](principles/capital-allocation.md)
+
+> "It is much better to be a financial cripple with a government guarantee than a Gibraltar without one." — 2008 Letter
+>
+> Context: Clayton Homes facing unfair competition from FDIC-insured banks and Fed-backed issuers during the credit crisis. → [Clayton Homes](entities/clayton-homes.md)
+
+> "We have, and will continue to have, parsing problems when we attempt to determine what is 'ichiban' — Loss or Gain." — 2008 Letter
+>
+> Context: On the difficulty of classifying derivative positions as gains or losses; honest ambiguity. → [Capital Allocation](principles/capital-allocation.md)
+
+### Humor & Self-Deprecation (2007-2008)
+
+> "It's only when the tide goes out that you learn who's been swimming naked." — 2007 Letter (requoted)
+>
+> Context: Originally from the 2001 letter, vindicated by the emerging subprime crisis. → [Mr. Market](principles/mr-market.md)
+
+> "You only find out who is swimming naked when the tide goes out. We have found it's been a whopper of a low tide." — 2008 Letter
+>
+> Context: The 2008 financial crisis as the ultimate stress test. → [Mr. Market](principles/mr-market.md)
+
+> "As one investor said in 2008: 'This is worse than divorce. I've lost half my net worth — and I still have my wife.'" — 2008 Letter
+>
+> Context: On the market's 37% decline; Buffett's humor in crisis. → [Mr. Market](principles/mr-market.md)
+
+### Optimism & America (2008)
+
+> "America's best days lie ahead." — 2008 Letter
+>
+> Context: Closing the worst year in Berkshire history with a ringing endorsement of American economic dynamism. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Though the3path has not been smooth, our economic system has worked extraordinarily well over time. It has unleashed human potential as no other system has, and it will continue to do so." — 2008 Letter
+>
+> Context: Buffett's patriotic case for long-term investment even amid crisis. → [Capital Allocation](principles/capital-allocation.md)

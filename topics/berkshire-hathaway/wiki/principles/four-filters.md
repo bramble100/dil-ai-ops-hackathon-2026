@@ -24,6 +24,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -241,3 +243,24 @@ This sharpens filter (1) (understandable business): understanding a business mea
 **CIO hiring criteria** apply the four filters to people: "genetically programmed to recognize and avoid serious risks, including those never before encountered." Temperament over intelligence: "Independent thinking, emotional stability, and a keen understanding of both human and institutional behavior." The models commonly employed by financial institutions cannot spot certain perils[^11].
 
 [^11]: [2006 Letter](../sources/buffett-letter-2006.md) — ISCAR letter-to-deal; TTI morning acquisition; CIO temperament criteria; risk-avoidance "genetic programming"
+
+### Moat Essay and "Buyer of Choice" Deepened (2007)
+
+**[2007 Letter]** The 2007 letter contains Buffett's most concentrated moat discussion since 1993:
+
+- **"A truly great business must have an enduring 'moat'"** — protection against competition. The moat can be low-cost production (GEICO, Costco), a powerful brand (Coca-Cola, Gillette, American Express), or product utility that customers value highly.
+- **Moat widening is the test:** "A moat that must be continuously rebuilt will eventually be no moat at all." Filter (2) — durable competitive advantage — requires that the moat be widening, not merely present.
+- **Buyer of choice validated:** Byron Trott brings Marmon ($4.5B); the Pritzkers choose Berkshire because "we are the buyer of choice for a number of sellers." Filter (3) — management quality — extends to the seller's judgment of Berkshire's stewardship. The filters now work bilaterally: Berkshire evaluates the business, and the seller evaluates Berkshire.
+- **Anti-model:** Private equity represents the opposite of filter (4) — their financial engineering requires everything to go right, they flip rather than hold, and they burden businesses with debt rather than freeing them. "Our approach is the opposite"[^12].
+
+### Crisis as Filter: Goldman, GE, Wrigley (2008)
+
+**[2008 Letter]** The 2008 financial crisis becomes the ultimate stress-test of the four filters:
+
+- **Goldman Sachs and GE:** Berkshire deploys $8B into two iconic companies at terms that only a "Gibraltar" balance sheet can command — 10% perpetual preferreds with warrants. Filter (1) straightforward, (2) durable franchises, (3) management Buffett trusts, (4) crisis pricing. These deals are only possible because Berkshire passed all four filters from the other direction — Goldman and GE chose Berkshire because they needed a partner whose promise would be believed.
+- **Wrigley/Mars $6.5B:** Financing Mars's $23B LBO with subordinated notes at 11.45%. Filter (1) simple consumer business, (2) Wrigley's brand moat is self-evident, (3) Mars family management, (4) attractive terms.
+- **The negative filter:** ConocoPhillips fails filter (4) — Buffett bought near oil's peak. "I didn't even have the phone number of a drilling consultant." This is the self-correcting mechanism: publicly acknowledging filter failures keeps the framework honest[^13].
+
+[^12]: [2007 Letter](../sources/buffett-letter-2007.md) — moat essay; widening moats; buyer of choice; Marmon via Trott; anti-PE model
+
+[^13]: [2008 Letter](../sources/buffett-letter-2008.md) — crisis as filter test; Goldman/GE/Wrigley at crisis terms; ConocoPhillips filter (4) failure; Gibraltar advantage

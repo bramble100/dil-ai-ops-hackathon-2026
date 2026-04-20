@@ -21,6 +21,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -293,3 +295,30 @@ Pension fund delusions compound the problem: private plans overstate earnings an
 **Walter Schloss tribute:** 47-year partnership (1956-2002), no college, one file cabinet → four, no secretary, no inside information. "We try to buy stocks cheap" was Edwin Schloss's entire investment philosophy. Schloss's documented EMT refutation extended: "If you are in the shipping business, it's helpful to have all of your potential competitors be taught that the earth is flat." Business schools ignored the evidence: "Rather than opening their minds, they closed their eyes." A finance instructor questioning EMT had "about as much chance of major promotion as Galileo had of being named Pope"[^17].
 
 [^17]: [2006 Letter](../sources/buffett-letter-2006.md) — 2-and-20 hedge fund math ($108M on $3B); Walter Schloss tribute; EMT academic blindness; pension fund delusions
+
+### Pension Assumptions and CEO Gaming (2007)
+
+**[2007 Letter]** Buffett devotes significant space to pension fund accounting manipulation:
+
+- **Expected return assumptions** are chosen by CEOs, not actuaries — and directly affect reported earnings. Raise the assumption from 6.5% to 8%, and earnings jump with zero economic change.
+- The S&P 500 companies assume an average 8% return while the risk-free rate is ~4.7%. This implies "stocks will return 12.8% annually" — a heroic assumption.
+- Buffett's test: "How many investment managers, if compensated based on performance, would agree to 8%+ as a minimum return?" The answer: very few. Yet corporate America bakes it into earnings.
+- This is the Mr. Market principle inverted: rather than exploiting market mispricing, corporate managers exploit accounting flexibility to manufacture earnings[^18].
+
+### Black-Scholes Critique and "Beware Geeks Bearing Formulas" (2008)
+
+**[2008 Letter]** The financial crisis produces Buffett's most sustained attack on quantitative finance:
+
+**Black-Scholes thought experiment:** Consider a 100-year put on the S&P 500 at the index's current level. Black-Scholes would price it high (because volatility × time = large value). But Buffett argues any rational person would bet that the S&P will be higher in 100 years — meaning the put's true expected value approaches zero. "The Black-Scholes formula has approached the status of holy writ in finance… If the formula is applied to extended time periods, however, it can produce absurd results."
+
+**"Beware of geeks bearing formulas":** Buffett's devastating one-liner encapsulates the 2008 crisis. The models that banks, rating agencies, and regulators used "could tell you a lot about risk if you used, say, 50 or even 70 years of data." But they could not tell you "the probability of earthquakes" — tail risks that are real but unmeasurable.
+
+**Derivatives four-category disclosure:** Berkshire holds $37.1B notional in equity index puts, but Buffett details exactly what they are, why they were written, and why they carry minimal near-term risk. Berkshire received $4.9B in premiums up front and can invest them. The puts don't require collateral posting — a critical structural advantage over AIG and other derivatives-laden firms.
+
+**Treasury bubble warning:** Buffett notes that the flight-to-safety into US Treasuries has created "the most dangerous bubble of all" — investors piling into 2.5% 30-day T-bills when inflation runs 2-3%. "They have gone from 'weights' to 'certificates of confiscation.'"
+
+**"Swimming naked" vindicated:** "You only find out who is swimming naked when the tide goes out" (from the 2001 letter) — the 2008 crisis reveals exactly who had no margin of safety[^19].
+
+[^18]: [2007 Letter](../sources/buffett-letter-2007.md) — pension assumption gaming; 8% expected return delusion; CEO manipulation of reported earnings
+
+[^19]: [2008 Letter](../sources/buffett-letter-2008.md) — Black-Scholes 100-year put critique; "beware geeks bearing formulas"; derivatives four-category disclosure; Treasury bubble; swimming naked vindicated

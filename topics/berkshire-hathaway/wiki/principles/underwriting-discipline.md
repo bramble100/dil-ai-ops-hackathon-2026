@@ -31,6 +31,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -419,22 +421,25 @@ The switchblade-fight metaphor on loss reserves: an insurer whose throat has bee
 
 [^15]: [2005 Letter](../sources/buffett-letter-2005.md) — float $49.3B costless; $3.4B hurricane losses; Pascal's Wager for mega-cat pricing; MedPro $125M reserve strengthening; switchblade-fight metaphor
 
-### Float $49.3B Costless Despite $3.4B Hurricane Losses (2005)
+### Float $58.7B and Six Consecutive Profitable Years (2007-2008)
 
-**[2005 Letter]** Total float reaches **$49.3B** — costless despite record hurricane losses:
+**[2007 Letter]** Float reaches **$58.5B** — up from $49.3B in 2005 — with an underwriting profit of **$3.374B**. Six years in a row of underwriting profits. The key insurance carriers:
 
-| Segment         | Underwriting | Float        |
-| --------------- | ------------ | ------------ |
-| General Re      | $(334)M      | $22,920M     |
-| B-H Reinsurance | $(1,069)M    | $16,233M     |
-| GEICO           | $1,221M      | $6,692M      |
-| Other Primary   | $235M        | $3,442M      |
-| **Total**       | **$53M**     | **$49,287M** |
+| Entity         | Underwriting Profit | Float    |
+| -------------- | ------------------- | -------- |
+| General Re     | $555M               | $23,009M |
+| BH Reinsurance | $1,427M             | $23,692M |
+| GEICO          | $1,113M             | $7,768M  |
+| Other Primary  | $279M               | $4,014M  |
 
-Hurricane Katrina ($2.5B), Rita, and Wilma ($0.9B) inflicted $3.4B in total losses — yet GEICO's $1,221M profit and the primary insurers' $235M profit offset the reinsurance losses. Float remained costless for the third consecutive year.
+Buffett warns: "Our managers must be vigilant" — the industry is swimming toward a "sea change" as years without mega-catastrophes encourage looser pricing[^16].
 
-**Pascal's Wager applied to mega-cat pricing:** Buffett, Joe Brandon, and Ajit Jain conclude they don't know whether climate changes are producing permanently more intense hurricanes. Following Pascal's logic: "Since he didn't know the answer, his personal gain/loss ratio dictated an affirmative conclusion." Berkshire will write mega-cat only at "prices far higher than prevailed last year — and then only with an aggregate exposure that would not cause us distress."
+**[2008 Letter]** Float: **$58.5B** (stable). Underwriting profit: **$2.792B** despite a crisis year. Seven consecutive years of underwriting profit.
 
-The switchblade-fight metaphor on loss reserves: an insurer whose throat has been cut proclaims "You never touched me." The adversary: "Just wait until you try to shake your head." MedPro reserves strengthened by $125M immediately upon purchase — illustrating the Berkshire approach of reserving aggressively rather than optimistically[^15].
+**BHAC (Berkshire Hathaway Assurance Corporation):** Created in December 2007 to enter the monoline municipal bond insurance market. By year-end 2008, BHAC has guaranteed **$15.6B** of tax-exempt bonds and earned **$400M** in premiums. Buffett sees a permanent advantage: when financial guarantors are downgraded, municipalities need AAA-rated backup. Only Berkshire can credibly offer it.
 
-[^15]: [2005 Letter](../sources/buffett-letter-2005.md) — float $49.3B costless; $3.4B hurricane losses; Pascal's Wager for mega-cat pricing; MedPro $125M reserve strengthening; switchblade-fight metaphor
+**The AAA advantage:** "A promise is no better than the person or institution making it." During the crisis, General Re's value proposition is validated — it's the only reinsurer backed by an AAA corporation. Similarly, BHAC is the only monoline backed by true AAA financial strength. Float is now a "Gibraltar" — massive, costless, and growing[^17].
+
+[^16]: [2007 Letter](../sources/buffett-letter-2007.md) — float $58.5B; $3.374B underwriting profit; six consecutive years; sea change warning
+
+[^17]: [2008 Letter](../sources/buffett-letter-2008.md) — float $58.5B; $2.792B profit; BHAC $15.6B muni bonds; $400M premiums; AAA advantage; seven consecutive years

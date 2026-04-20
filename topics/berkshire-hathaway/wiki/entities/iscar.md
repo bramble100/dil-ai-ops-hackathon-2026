@@ -2,7 +2,7 @@
 title: "ISCAR Metalworking"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2006]
+sources: [buffett-letter-2006, buffett-letter-2007, buffett-letter-2008]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -43,3 +43,15 @@ Buffett and five Berkshire associates visited ISCAR in Israel in September 2006 
 ## Sources
 
 [^1]: [2006 Letter](../sources/buffett-letter-2006.md) — $4B for 80%; Eitan Wertheimer letter; first international acquisition; September Israel visit; cutting tools in 61 countries
+
+## 2007: Global Expansion — Dalian and Korea
+
+**[2007 Letter]** ISCAR continues rapid international growth. A new plant opens in **Dalian, China** — extending the manufacturing footprint into Asia. The company visits **Korea** to explore further expansion. Under Eitan Wertheimer and Jacob Harpaz, the operating model of consumable cutting tools proves highly adaptable across geographies. Buffett continues to marvel at the management quality: "meeting the Wertheimer family and learning about ISCAR" was a 2006 highlight that keeps paying dividends[^2].
+
+## 2008: Tungaloy Acquisition
+
+**[2008 Letter]** ISCAR acquires **Tungaloy**, a Japanese cutting-tool manufacturer, extending its Asian presence significantly. The acquisition fits the ISCAR model: small consumable tools, global distribution, recurring demand. With operations now spanning Israel, China, Japan, Korea, and dozens of other countries, ISCAR's global platform is among the most diversified in Berkshire's portfolio[^3].
+
+[^2]: [2007 Letter](../sources/buffett-letter-2007.md) — Dalian China plant; Korea visit; continued global expansion
+
+[^3]: [2008 Letter](../sources/buffett-letter-2008.md) — Tungaloy acquisition; Japanese expansion; global cutting-tool platform
