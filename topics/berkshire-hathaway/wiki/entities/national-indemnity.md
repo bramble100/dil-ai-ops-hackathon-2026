@@ -25,6 +25,8 @@ sources:
     buffett-letter-1997,
     buffett-letter-1998,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -85,6 +87,26 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 
 **[1999 Letter]** Ajit Jain milestone: his book of business now generates **$6.3B in float** — built entirely from scratch over approximately a decade, using no organizational hierarchy, no infrastructure, and no template. "In Ajit, we have a combination of talent and integrity that is unmatched." Total Berkshire float $25.3B, of which NICO and affiliates (Ajit's universe) account for $6.3B[^10].
 
+### 2000-2001: Retroactive Reinsurance and Post-9/11 Mega-Policies
+
+**[2000 Letter]** Ajit Jain executes what may be the largest single reinsurance premium in history: $2.4B retroactive premium from a major UK company. Also writes the Texas Rangers/Alex Rodriguez disability policy ($252M contract) and insures a $1B prize for Grab.com internet promotion. These transactions exemplify "retroactive reinsurance" — Berkshire assumes past losses of companies wanting to move on; GAAP-neutral (deferred charge amortized for decades); float generated immediately.
+
+"It is impossible to overstate how valuable Ajit is to Berkshire. Don't worry about my health; worry about his." [^11]
+
+**[2001 Letter]** After September 11, Ajit Jain becomes the most active high-limit underwriter in the world. Selected 2001 policies (all retained entirely for own account):
+
+- $578M property coverage on a South American refinery above $1B threshold
+- $1B non-cancelable third-party liability for international airline terrorism losses
+- £500M property coverage on North Sea oil platform for terrorism/sabotage above £600M
+- Significant coverage on the Sears Tower including terrorism above $500M threshold
+- World Cup Soccer and 2002 Winter Olympics
+
+Total Berkshire float: $35.5B (GEICO $4.25B, General Re $19.3B, NICO and affiliates $11.3B, Other Primary $685M)
+
+"At Berkshire, we retain our risks and depend on no one. And whatever the world's problems, our checks will clear." [^12]
+
+Other Primary managers (2001): Rod Eldred, John Kizer, Tom Nerney, Michael Stearns, Don Towle, Don Wurster — combined premium volume $579M (up 40% over 2000), float +14.5% to $685M, underwriting profit $30M.
+
 ## Connections
 
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — National Indemnity is the living example
@@ -111,3 +133,7 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 [^9]: [1998 Letter](../sources/buffett-letter-1998.md) — Ajit Jain super-cat $154.6M; NICO+affiliates $4.3B of $22.7B total float
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — Ajit Jain $6.3B float built from scratch; total Berkshire float $25.3B
+
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Ajit Jain $2.4B retroactive premium; A-Rod disability policy; Grab.com $1B prize policy; retroactive reinsurance mechanics explained
+
+[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — post-9/11 mega-policies (South American refinery, airlines, North Sea oil platform, Sears Tower, World Cup, Winter Olympics); float $35.5B total; Other Primary $579M premium +40%; $685M float

@@ -26,6 +26,8 @@ sources:
     buffett-letter-1997,
     buffett-letter-1998,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -333,6 +335,46 @@ The principle: repurchasing undervalued shares is the ultimate aligned-owner cap
 
 His preferred approach: impairment-only — only charge goodwill when it actually declines. "Economic goodwill generally rises over time; the FASB rule destroys the very metric it intends to track." This debate would eventually resolve in Berkshire's favor: SFAS 142 (2001) eliminated mandatory amortization and replaced it with an annual impairment test.[^10]
 
+### Aesop as Universal Valuation Rule (2000)
+
+**[2000 Letter]** Buffett unifies owner earnings, DCF, and capital allocation discipline into a single framework — Aesop's "birds in the bush":
+
+> "The formula for valuing all assets that are purchased for financial gain has been unchanged since it was first laid out by a very smart man in about 600 B.C." — 2000 Letter
+
+Growth only creates value when the capital required earns more than its cost: "growth can destroy value if it requires cash inputs in the early years of a project or enterprise that exceed the discounted value of the cash that those assets will generate in later years."
+
+**[2000 Letter]** The 80%-or-more tax advantage: when Berkshire owns ≥80% of a subsidiary, earnings can be upstreamed with no additional dividend tax (0%) and, if retained, capital gains upon sale are also sheltered. When owning <80%, dividends carry 14% federal tax and realized capital gains 35%+. "In effect, the government is our 'partner' twice when we own part of a business through a stock investment, but only once when we own at least 80%." This reinforces the preference for whole-business acquisition over stock positions.[^11]
+
+### Eight Acquisitions at $8B — All Cash (2000)
+
+**[2000 Letter]** Berkshire's most acquisition-intensive year: eight deals, ~$8B, 97% cash. The capital allocation rationale is unchanged — great businesses with great managers at sensible prices. Notable principles illustrated:
+
+- LBO operators disadvantaged when junk bond markets dry up; Berkshire evaluates "on an all-equity basis" and its evaluations don't change with credit conditions
+- "Financial owners" dress up businesses for auction; family/owner sellers are the preferred counterparts
+- "The 'painter' of a business Rembrandt should personally select its permanent home" — Berkshire provides a uniquely credible home because ownership structure prevents future sale
+
+### CEO Growth Predictions (2000)
+
+**[2000 Letter]** Buffett's sharpest articulation of why public earnings guidance is dangerous:
+
+> "More money, it has been noted, has been stolen with the point of a pen than at the point of a gun." — 2000 Letter
+
+The mechanism: a CEO commits to 15% annual EPS growth → fails operationally → resorts to accounting maneuvers → "once a company moves earnings from one period to another, operating shortfalls require it to engage in further accounting maneuvers that must be even more 'heroic' — these can turn fudging into fraud." Berkshire's response: never provide specific growth targets.
+
+### The Fat Wallet Problem Escalated (2001)
+
+**[2001 Letter]** The scale problem reaches a new threshold:
+
+> "Some years back, a good $10 million idea could do wonders for us (witness our investment in Washington Post in 1973 or GEICO in 1976). Today, the combination of ten such ideas and a triple in the value of each would increase the net worth of Berkshire by only ¼ of 1%. We need 'elephants' to make significant gains now — and they are hard to find." — 2001 Letter
+
+### MiTek Ownership Structure (2001)
+
+**[2001 Letter]** MiTek's 55 managers bought 10% of the company with their own cash (minimum $100K, many borrowed): "all of these managers are true owners. They face the downside of decisions as well as the upside. They incur a cost of capital. And they can't 'reprice' their stakes: What they paid is what they live with." — the gold standard against options-based compensation.[^12]
+
+### SFAS 142 — Goodwill Impairment Wins (2001)
+
+**[2001 Letter]** FASB adopted the approach Buffett advocated since the 1999 FASB goodwill debate: impairment-only testing for goodwill, eliminating mandatory amortization. "Consequently, our reported earnings will more closely reflect economic reality." Berkshire's annual goodwill amortization charge disappears under the new rules, increasing reported earnings (though not true economic earnings).
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -366,3 +408,7 @@ His preferred approach: impairment-only — only charge goodwill when it actuall
 [^9]: [1997 Letter](../sources/buffett-letter-1997.md) & [1998 Letter](../sources/buffett-letter-1998.md) — stock-for-stock confession; Ted Williams batting zone; CEO mission statement; restructuring charges golf analogy; Son of Gresham; stock-option Alice in Wonderland
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — share repurchase extended framework; FASB goodwill debate; impairment-only proposal; capital allocation grade D
+
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop as universal valuation; 80%+ ownership tax advantage; eight acquisitions $8B 97% cash; CEO growth predictions danger; EBITDA tooth-fairy critique
+
+[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — fat wallet problem escalated ("elephants needed"); MiTek ownership model; SFAS 142 goodwill impairment victory; six acquisitions all cash

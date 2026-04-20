@@ -2,7 +2,7 @@
 title: "Dexter Shoe Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1993]
+sources: [buffett-letter-1993, buffett-letter-2000, buffett-letter-2001]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -33,6 +33,20 @@ Harold Alfond started working in a shoe factory at 25 cents an hour at age 20. F
 The Dexter acquisition created a shoe group with 7,200 employees: H.H. Brown (work shoes), Lowell Shoe (women's/nurses' shoes, acquired end-1992), and Dexter (popular-priced men's and women's). Frank Rooney oversees the combined operation.
 
 However, the payment method — Berkshire stock — later proved to be Buffett's worst investment decision on a stock basis. Berkshire shares compounded enormously in subsequent decades, meaning the effective cost of Dexter rose far above the intrinsic value received. Dexter later struggled against Chinese competition and was written off. But in 1993, the transaction appears only as a success.
+
+## Buffett's Confessions (2000-2001)
+
+**[2000 Letter]** Dexter's shoe operations were the only significant exception to an otherwise excellent manufacturing year. Attempting to keep production in domestic factories "has cost us dearly." All remaining accounting goodwill from the Dexter transaction written off. "I clearly made a mistake in paying what I did for Dexter in 1993. Furthermore, I compounded that mistake in a huge way by using Berkshire shares in payment."
+
+**[2001 Letter]** Three-part confession explicitly stated:
+
+> "I've made three decisions relating to Dexter that have hurt you in a major way: (1) buying it in the first place; (2) paying for it with stock and (3) procrastinating when the need for changes in its operations was obvious. I would like to lay these mistakes on Charlie (or anyone else, for that matter) but they were mine." — 2001 Letter
+
+Shoe operations lost $46.2M pre-tax in 2001. Dexter placed under management of Frank Rooney and Jim Issler (H.H. Brown). Buffett's prognosis: shoe business will be "reasonably profitable" after working through 2002 unprofitable sales commitments.
+
+[^2]: [2000 Letter](../sources/buffett-letter-2000.md) — goodwill written off; domestic production error; "compounded mistake by using stock"
+
+[^3]: [2001 Letter](../sources/buffett-letter-2001.md) — three-part confession; $46.2M pre-tax loss; placed under Rooney/Issler management
 
 ## Connections
 

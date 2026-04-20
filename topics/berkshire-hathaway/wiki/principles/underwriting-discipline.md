@@ -26,6 +26,8 @@ sources:
     buffett-letter-1997,
     buffett-letter-1998,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -253,10 +255,75 @@ Ajit Jain milestone: his book of business generates **$6.3B in float** — built
 
 GEICO's spectacular 1999: market share 2.7%→4.1% (fastest annual gain in company history). Profit-sharing 28.4% ($113.3M). Marketing $242M. The GEICO float continues to grow even as General Re faces reserve rehabilitation.[^9]
 
+### Float Surges; Costs Remain High (2000)
+
+**[2000 Letter]** Float reaches $27.9B (GEICO $3.9B, General Re $15.5B, Other Reinsurance $7.8B, Other Primary $598M). Underwriting loss $1.6B; float cost 6% — Buffett's clearest explanation of retroactive reinsurance as a legitimate strategy:
+
+> "We accept large first-year losses in exchange for long-duration float; after the loss we incur in the first year of the policy, there are no further costs attached to this business." — 2000 Letter
+
+Two unusual items inflate the underwriting loss: (1) "retroactive" reinsurance (Berkshire assumes past losses of companies wanting to put troubles behind them — GAAP neutral; float received now, losses amortized for decades); (2) "pain-today, gain-tomorrow" policies — huge first-year losses but no ongoing cost. Both reduce earnings but create durable float. Ajit Jain executed a $2.4B single retroactive premium (possibly the largest in history), the Alex Rodriguez disability policy, and the Grab.com $1B prize policy.
+
+General Re repricing is underway; Joe Brandon and Tad Montross "stepped up to tough decisions." [^10]
+
+### Three Principles of Underwriting — Canonical Statement (2001)
+
+**[2001 Letter]** The most explicit statement of underwriting principles anywhere in the letter corpus:
+
+1. Accept only risks within your circle of competence that, after evaluating all relevant factors including remote loss scenarios, carry an expectancy of profit. Ignore market share
+2. Limit business to guarantee no aggregation of losses from a single event that threatens solvency. "Ceaselessly search for possible correlation among seemingly-unrelated risks"
+3. Avoid moral risk: "No matter what the rate, trying to write good contracts with bad people doesn't work"
+
+"The winners [in insurance] are those that unfailingly stick to these three key principles." — 2001 Letter
+
+### Experience vs. Exposure — The 9/11 Framework (2001)
+
+**[2001 Letter]** The most important underwriting concept introduced after Hurricane Andrew:
+
+> "We made a fundamental underwriting mistake by focusing on experience, rather than exposure, thereby assuming a huge terrorism risk for which we received no premium." — 2001 Letter
+
+Experience is a useful starting point — California earthquake frequency data has utility for statewide policy pricing. But experience is "not only useless, but actually dangerous" when:
+
+- A new class of risk has no loss history (terrorism, 2001)
+- Exposure is expanding in a way not yet captured in past claims (D&O at market peaks — few suits when stocks rise, but exposure exploding through accounting fraud)
+- Correlated losses could cascade across seemingly-unrelated lines
+
+The correct discipline: assess exposure directly rather than extrapolating from a database that contains no relevant history.
+
+### The Noah Rule (2001)
+
+> "Predicting rain doesn't count; building arks does." — 2001 Letter
+
+Buffett acknowledged that he understood the terrorism risk conceptually before September 11 but failed to act. The Noah Rule is the principled conclusion: intellectual recognition of risk only counts if converted into underwriting action. Thinking without doing is insurance suicide.
+
+### Loss Development Redefined (2001)
+
+**[2001 Letter]** "Loss development" is a misleading term:
+
+> "The losses didn't 'develop' — they were there all along. What developed was management's understanding of the losses (or, in the instances of chicanery, management's willingness to finally fess up)." — 2001 Letter
+
+Recommended replacement: "loss costs we failed to recognize when they occurred." Insurance accounting is "a self-graded exam" — auditors certify numbers they know may differ dramatically from true earnings. General Re's $800M catch-up: honest mistake, but caused woefully inadequate pricing for years and led to premature incentive compensation and taxes.
+
+Reserve discounting opposed: "Discounting might be acceptable if reserves could be precisely established. They can't."
+
+### Ajit Jain — Post-9/11 Mega-Policies (2001)
+
+**[2001 Letter]** After September 11, Ajit Jain was the most active underwriter in the world at the highest limit level. Selected 2001 policies retained entirely for own account:
+
+- $578M property coverage for South American refinery above $1B threshold
+- $1B non-cancelable third-party liability for international airline terrorism losses
+- £500M property coverage on North Sea oil platform for terrorism/sabotage above £600M
+- Significant Sears Tower coverage including terrorism above $500M
+
+"At Berkshire, we retain our risks and depend on no one. And whatever the world's problems, our checks will clear." Float reaches $35.5B; GEICO $4.25B, General Re $19.3B, Other Reinsurance $11.3B, Other Primary $685M.[^11]
+
+### GEICO 2001 Recovery (2001)
+
+**[2001 Letter]** After 2000's advertising disappointment, GEICO recovered profitability in 2001: premium volume +6.6%, float +$308M to $4.25B, underwriting profit $221M. "This means we were actually paid that amount to hold the float." Preferred customers +1.6% but standard/non-standard -10.1% (overall policies -0.8%). Tony Nicely: "an owner's dream."
+
 ## Connections
 
-- [National Indemnity](../entities/national-indemnity.md) — the operational embodiment
-- [General Re](../entities/general-re.md) — 1998 acquisition; float surge to $22.7B; 1999 underwriting crisis
+- [National Indemnity](../entities/national-indemnity.md) — the operational embodiment; Ajit Jain post-9/11
+- [General Re](../entities/general-re.md) — 1998 acquisition; 1999 and 2001 crises; Joe Brandon rehabilitation
 - [Business Quality](business-quality.md) — insurance can be a great business _if_ run with discipline
 - [Capital Allocation](capital-allocation.md) — financial strength enables discipline; weak balance sheets force bad underwriting
 
@@ -277,3 +344,7 @@ GEICO's spectacular 1999: market share 2.7%→4.1% (fastest annual gain in compa
 [^8]: [1997 Letter](../sources/buffett-letter-1997.md) & [1998 Letter](../sources/buffett-letter-1998.md) — float $7.1B → $22.7B; General Re acquisition rationale; catastrophe bonds critique; Ajit Jain $154.6M; NICO aggregate 15.0%; GEICO 16% growth; 5 consecutive years negative cost
 
 [^9]: [1999 Letter](../sources/buffett-letter-1999.md) — General Re $1.4B underwriting loss; Buffett apology; float $25.3B; Ajit Jain $6.3B built from scratch; GEICO market share 4.1%; Lorimer Davidson death
+
+[^10]: [2000 Letter](../sources/buffett-letter-2000.md) — float $27.9B; float cost 6%; retroactive reinsurance explained; Ajit Jain $2.4B premium; General Re repricing underway; Joe Brandon/Tad Montross
+
+[^11]: [2001 Letter](../sources/buffett-letter-2001.md) — three underwriting principles canonical statement; experience vs. exposure; Noah rule; loss development redefined; General Re $800M catch-up; Ajit Jain post-9/11 mega-policies; float $35.5B; GEICO $221M underwriting profit

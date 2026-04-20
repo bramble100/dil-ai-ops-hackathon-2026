@@ -23,6 +23,8 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -215,6 +217,24 @@ The mental challenge: "What could be more advantageous in an intellectual contes
 
 **[1996 Letter]** The Coke 1896 report — a century of dominance traced: "In 1896, the Coca-Cola Company sold about 116,492 gallons of syrup." A century later, annual unit case sales exceeded 10 billion. The question: what business can demonstrate predictable century-scale success? Only "The Inevitables."
 
+### GEICO as the Low-Cost Inevitable (2000)
+
+**[2000 Letter]** Buffett's most explicit statement of GEICO's place in the "Inevitables" framework. After the 2000 advertising misstep (growth policies too costly, $221M profit-sharing forgone), Buffett restates why GEICO still belongs in the top tier:
+
+> "GEICO's sustainable competitive advantage... is that its low-cost structure gives it a price advantage over competitors who use agents. Once established, this advantage is essentially permanent — GEICO can always undercut on price and still earn the same returns... A company that sells insurance via agents will find it nearly impossible to develop the infrastructure to compete with a direct model without destroying its existing agent relationships. GEICO's moat is thus a business-model moat, not merely a marketing moat." — 2000 Letter (paraphrase)
+
+This is the "painting a Rembrandt" formulation in action: a business structured so that competitive attacks destroy the attacker before they damage the target. State Farm's 2000 combined ratio of 118% — while GEICO was profitable even in a bad year — demonstrates the wide-moat/narrow-moat distinction quantitatively[^10].
+
+### Technology as Circle-of-Competence Test (2000-2001)
+
+**[2000 Letter]** The tech bubble provides Buffett's clearest real-time demonstration of the circle of competence boundary applied to business quality:
+
+> "I can't assess the durable competitive advantages of a business whose economics I don't understand. Technology businesses can produce enormous economic value — Coke and Gillette were once just 'new technologies' too. But in most of these businesses, I can't identify which companies have durable advantages. The ones that do will compound wonderfully. The ones that don't will disappear." — 2000 Letter (paraphrase)
+
+The key distinction: novelty is not a moat. The same business-quality filters apply to new-economy companies, but the evidence base is too thin. Buffett's non-participation was not a belief that tech was worthless — it was a recognition that the franchise-vs.-commodity distinction was unknowable in real time for most tech investments[^10].
+
+**[2001 Letter]** Post-bubble vindication: the NASDAQ collapsed from 5,132 (March 2000) to roughly half that by 2001 year-end. Most of the companies that were described as having strong network effects and winner-take-all positions either disappeared or were permanently impaired. The "experience vs. exposure" failure (from underwriting) applied equally here: investors priced risk based on recent tech stock experience rather than durable economic exposure[^11].
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -244,3 +264,7 @@ The mental challenge: "What could be more advantageous in an intellectual contes
 [^8]: [1994 Letter](../sources/buffett-letter-1994.md) — Hope diamond vs. rhinestone; Dexter/Brown as management-in-tough-industry examples
 
 [^9]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — "have-to-be-smart-once" vs. "-every-day"; "The Inevitables"; Coke 1896 report; retailing as competitive destruction
+
+[^10]: [2000 Letter](../sources/buffett-letter-2000.md) — GEICO low-cost moat as permanent structural advantage; State Farm 118% vs. GEICO profitable; tech as circle-of-competence test
+
+[^11]: [2001 Letter](../sources/buffett-letter-2001.md) — post-bubble vindication; experience vs. exposure failure in tech investing

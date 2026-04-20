@@ -202,3 +202,30 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 1999 | Market overvaluation warning: "equity investors wildly optimistic"; estimate 10-yr real return 4-6%   | Principles  | [Mr. Market](principles/mr-market.md)                              |
 | 1999 | FASB goodwill debate: impairment-only proposal (anticipates SFAS 142, 2001)                           | Regulatory  | [Owner Earnings](principles/owner-earnings.md)                     |
 | 1999 | Book value $37,987/share (0.5% YoY — worst absolute and relative performance ever; capital allocation grade D) | Financial | [Book Value](financials/book-value-per-share.md) |
+| 2000 | Justin Industries acquired (~$570M cash): Acme Brick + Western boot brands (Justin, Tony Lama, Nocona, Chippewa) | Acquisition | [Justin Industries](entities/justin-industries.md) |
+| 2000 | Shaw Industries acquired (87.3%, ~$4B sales): world's largest carpet maker; Bob Shaw + Julian Saul             | Acquisition | [Shaw Industries](entities/shaw-industries.md)     |
+| 2000 | Benjamin Moore acquired ($1B cash): 117-year paint maker; thousands of independent dealers                      | Acquisition | [Benjamin Moore](entities/benjamin-moore.md)       |
+| 2000 | Johns Manville agreed ($1.8B cash, closed Feb 2001): LBO fell Dec 8; Berkshire called Dec 11                   | Acquisition | [Johns Manville](entities/johns-manville.md)       |
+| 2000 | CORT Business Services (Wesco subsidiary), US Liability, Ben Bridge Jeweler, XTRA, Larson-Juhl also acquired    | Acquisition |                                                    |
+| 2000 | Fruit of the Loom acquisition agreed (pending at letter date)                                                   | Acquisition |                                                    |
+| 2000 | Ralph Schey retires from Scott Fetzer: $1.03B cumulative distributions vs. $230M net purchase price             | People      | [Scott & Fetzer](entities/scott-fetzer.md)         |
+| 2000 | GEICO advertising overspend: $221M profit-sharing forgone; four-cause analysis; State Farm 118% CR              | Insurance   | [GEICO](entities/geico.md)                         |
+| 2000 | Aesop valuation framework published ("birds in the bush = DCF = owner earnings")                                | Principles  | [Owner Earnings](principles/owner-earnings.md)     |
+| 2000 | EBITDA "tooth fairy" critique — depreciation is a real cost, not a free addback                                 | Principles  | [Owner Earnings](principles/owner-earnings.md)     |
+| 2000 | Dexter Shoe goodwill fully written off; "compounded mistake by paying with stock"                               | Mistakes    | [Dexter Shoe](entities/dexter-shoe.md)             |
+| 2000 | Float $27.9B; cost 6% (underwriting loss $1.6B) — General Re repricing underway                                 | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2000 | NASDAQ hits 5,132 (March 10) — same day BRK hits $40,800 low; Cinderella/clocks parable                        | Market      | [Mr. Market](principles/mr-market.md)              |
+| 2000 | Book value $40,442/share (6.5% YoY; 23.6% CAGR); eight acquisitions ~$8B 97% cash                              | Financial   | [Book Value](financials/book-value-per-share.md)   |
+| 2001 | September 11 attacks: Berkshire $2.275B+ loss (largest single event in insurance history to that point)         | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2001 | General Re: $4.3B pre-tax underwriting loss ($800M reserve catch-up + ~$1.7B 9/11 + prior underwriting) — Joe Brandon becomes CEO | Insurance | [General Re](entities/general-re.md) |
+| 2001 | GEICO recovers: $221M underwriting profit; float $4.25B; policies −0.8% but margin restored                    | Insurance   | [GEICO](entities/geico.md)                         |
+| 2001 | Ajit Jain writes four mega-policies post-9/11: South American refinery ($578M premium), airlines ($1B coverage), North Sea platforms (£500M), Sears Tower | Insurance | [National Indemnity](entities/national-indemnity.md) |
+| 2001 | Three underwriting principles canonically stated: circle of competence + profit expectancy; aggregation limits; moral hazard avoidance | Principles | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2001 | Noah Rule: "predicting rain doesn't count; building arks does" — Buffett's insurance philosophy restated        | Principles  | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2001 | SFAS 142 adopted: goodwill impairment replaces mandatory amortization — Buffett's 1999 proposal enacted         | Regulatory  | [Owner Earnings](principles/owner-earnings.md)     |
+| 2001 | MiTek acquired: Berkshire buys then offers 55 managers re-purchase — partner ownership model                    | Acquisition |                                                    |
+| 2001 | R.C. Willey Las Vegas store opens: outsells all others at 2x Buffett's expectations; Boise also opened          | Business    | [R.C. Willey](entities/rc-willey.md)               |
+| 2001 | Yorkshire Electric (MidAmerican): 3.6M UK customers; #2 UK electric utility                                    | Business    | [MidAmerican Energy](entities/midamerican-energy.md) |
+| 2001 | Dexter three-part confession: "buying it; paying with stock; procrastinating on response"                       | Mistakes    | [Dexter Shoe](entities/dexter-shoe.md)             |
+| 2001 | Fat wallet escalated: $10M idea moves needle <¼ of 1%; "need elephants"                                        | Principles  | [Capital Allocation](principles/capital-allocation.md) |
+| 2001 | Book value $37,920/share (−6.2% YoY; 22.6% CAGR from 1964) — second decline in three years                    | Financial   | [Book Value](financials/book-value-per-share.md)   |

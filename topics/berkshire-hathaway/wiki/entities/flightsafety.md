@@ -2,7 +2,7 @@
 title: "FlightSafety International"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1996, buffett-letter-1998, buffett-letter-1999]
+sources: [buffett-letter-1996, buffett-letter-1998, buffett-letter-1999, buffett-letter-2000, buffett-letter-2001]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -38,6 +38,16 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 **[1998 Letter]** First full year (post-Dec 1996 acquisition): $169.7M operating earnings. The capex-intensive nature of the business is confirmed — building and maintaining simulators requires massive ongoing investment, but the returns are excellent because simulator costs create an effective entry barrier for new competitors.
 
 **[1999 Letter]** FlightSafety and Boeing form a **50/50 joint venture** — FlightSafety Boeing — to provide training for Boeing airliner types. The venture operates **222 simulators** (up from 175 at acquisition) with **$215M in capex** invested in 1999 alone. FlightSafety also becomes the exclusive pilot training provider for EJA/NetJets — an intra-Berkshire operational linkage[^2].
+
+## 2000-2001 Performance
+
+**[2000 Letter]** FlightSafety spent $272M on simulators in 2000 — "We spent amounts equal to our depreciation charge simply to stay in the same economic place — and then spend additional sums to grow." Buffett uses FSI to demolish any confusion about depreciation: "Anyone who thinks that the annual charges for depreciation don't reflect a real cost — every bit as real as payroll or raw materials — should get an internship at a simulator company." Al Ueltschi is now 83; Buffett jokes he plans to "split Al's age 2-for-1 when he hits 100." [^3]
+
+**[2001 Letter]** After September 11, commercial airline training fell and remains depressed. Business and general aviation training (main activity) remains near-normal and is expected to grow. Pre-tax earnings: $186M (2001), up 2.5% — all of the Flight Services segment income came from FlightSafety. Capital investment continues: $258M in simulators in 2001; expected $162M for 27 simulators in 2002. Annual depreciation: ~$95M — far below the capital investment required. [^4]
+
+[^3]: [2000 Letter](../sources/buffett-letter-2000.md) — $272M capex; depreciation as real cost; Al Ueltschi age 83
+
+[^4]: [2001 Letter](../sources/buffett-letter-2001.md) — $186M pre-tax earnings; post-9/11 commercial training depressed; business/general aviation near-normal; $258M capex 2001; $162M planned 2002
 
 ## Connections
 

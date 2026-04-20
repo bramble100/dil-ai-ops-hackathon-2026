@@ -26,6 +26,8 @@ sources:
     buffett-letter-1997,
     buffett-letter-1998,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -65,6 +67,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1997     | $25,488.00       | 34.1%      | 24.1%                     |
 | 1998     | $37,801.00       | 48.3%      | 24.7%                     |
 | 1999     | $37,987.00       | 0.5%       | 24.0%                     |
+| 2000     | $40,442.00       | 6.5%       | 23.6%                     |
+| 2001     | $37,920.00       | -6.2%      | 22.6%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
@@ -104,6 +108,10 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1998 Letter]** Per-share book value grew 48.3% to $37,801; 34-year CAGR 24.7%. **"Not as good as it looks"** — the gain was inflated by issuance of Berkshire shares to acquire General Re (Dec 21). Per-share intrinsic value grew meaningfully less than 48.3% because shareholders received less value per share than the $37,801 implies. General Re brought float from $7B to $22.7B overnight; Berkshire is now the largest P&C insurer in the US by float. Operating earnings $1,899M.
 
 - **[1999 Letter]** Per-share book value grew only 0.5% to $37,987; 35-year CAGR 24.0%. "Worst absolute and relative performance in our history." S&P rose 21% that year. Capital allocation grade: D. General Re's $1.4B underwriting loss absorbed most of the year's operating earnings ($1,085M). GEICO spectacularly good; General Re spectacularly bad. The 0.5% gain is the lowest in the 35-year series.
+
+- **[2000 Letter]** Net worth gain $3.96B (+6.5%); per-share book value $40,442; 36-year CAGR 23.6%. "Intrinsic value moderately exceeded its gain in book value." Eight acquisitions totaling ~$8B (97% cash) added 58,000 employees. Look-through earnings: $2,415M. Float $27.9B but cost jumped to 6% (underwriting loss $1.6B). S&P fell 9.1% — Berkshire outpaced. GEICO advertising mistake acknowledged; Dexter goodwill written off completely.
+
+- **[2001 Letter]** Net worth loss $3.77B (−6.2%); per-share book value $37,920; 37-year CAGR 22.6%. Second decline in three years — General Re's catastrophic 2001 ($4.3B underwriting loss pre-tax including 9/11 and $800M prior-year reserve catch-up) offsets strong non-insurance results. S&P also fell (−11.9%); Berkshire's relative advantage was +5.7pp. Six acquisitions all in cash. Buffett: "In the future we won't come close to replicating our past record... We need 'elephants' to make significant gains now — and they are hard to find."
 
 _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value growth because General Re was acquired for Berkshire stock. "Those of you who follow our quarterly reports will notice that our per-share book value isn't as good as it looks — we issued a lot of shares." This is the stock-for-stock confession from 1997 letter materialized at scale.
 

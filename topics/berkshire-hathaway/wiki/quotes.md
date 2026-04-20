@@ -619,3 +619,65 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Capital allocation grade: D." — 1999 Letter
 >
 > Context: Self-assessment of 1999 — worst absolute and relative performance in Berkshire's history. → [Capital Allocation](principles/capital-allocation.md)
+
+---
+
+## 2000-2001 Additions
+
+### Valuation & Markets
+
+> "Aesop's investment insight, though, if listened to carefully, is that a bird in the hand is worth two in the bush. To flesh out this principle, you must answer only three questions: How certain are you that there are indeed birds in the bush? When will they emerge and how many will there be? What is the risk-free interest rate? If you can answer these three questions, you know the maximum value of the bush — and the maximum number of the birds you now possess that should be offered for it." — 2000 Letter
+>
+> Context: The universal valuation equation — DCF and owner earnings expressed as Aesop. → [Owner Earnings](principles/owner-earnings.md)
+
+> "During the Bubble, investors in businesses composed of nesting boxes within nesting boxes chose to base their valuations on the outermost box — the dream — while ignoring what was in the innermost box." — 2000 Letter (paraphrase)
+>
+> Context: The Cinderella/clocks-with-no-hands metaphor — the tech bubble as IBT (Inefficient Bush Theory). → [Mr. Market](principles/mr-market.md)
+
+> "The behavior of people who rushed to buy shares in dot-com companies was not unlike that of Cinderella at the ball. They knew that overstaying the festivities — that is, continuing to hold shares in companies that had yet to earn a dime — would eventually turn their pumpkin and mice back into what they were. But they also eyed the continuing marvelous transformation... All too often, they forgot that even at midnight their coach would still be a coach — and the horses horses." — 2000 Letter
+>
+> Context: The tech bubble Cinderella parable — knowing you'll be punished for staying too long but believing you'll get out in time. → [Mr. Market](principles/mr-market.md)
+
+> "As if fearful that the clock might strike midnight, many 'investors' began looking at a clock on the wall — but there was no clock. They had all agreed to pretend that time did not matter." — 2000 Letter
+>
+> Context: The "no-clocks" variant of the Cinderella parable — crowds ignoring valuation discipline. → [Mr. Market](principles/mr-market.md)
+
+### Underwriting & Risk
+
+> "We must avoid businesses and activities in which we don't have a clear advantage, rely on luck, or invite trouble through our own actions — those are the three cardinal sins. And most importantly, if we had a problem at one of our insurance operations, it was almost certainly because we had violated one or more of these principles." — 2001 Letter (paraphrase of the three underwriting principles)
+>
+> Context: The canonical three-principle underwriting statement. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "The Noah principle: predicting rain doesn't count; building arks does." — 2001 Letter
+>
+> Context: On the General Re 9/11 loss — intellectual awareness of catastrophe risk was worthless without structural protection. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "Losses didn't develop in 2001. They were there all along — like a hidden body that no one wanted to find." — 2001 Letter (paraphrase)
+>
+> Context: The "loss development" semantic: reserve shortfalls represent prior-year mistakes, not current-year events. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Capital Allocation & Scale
+
+> "A fat wallet is the enemy of superior investment results. A $10 million idea moves the needle at our 1960s scale; at $36 billion net worth, it moves the needle less than ¼ of 1%." — 2001 Letter (paraphrase)
+>
+> Context: The "fat wallet" problem escalated — Berkshire now needs "elephants" to move the needle. → [Capital Allocation](principles/capital-allocation.md)
+
+> "In the future we won't come close to replicating our past record. The math has become too daunting — we need 'elephants' to make significant gains now, and they are hard to find." — 2001 Letter
+>
+> Context: Scale drag forces revisited — Berkshire's 37-year record cannot be projected forward. → [Book Value Per Share](financials/book-value-per-share.md)
+
+### Humor & Self-Deprecation
+
+> "Berkshire — whose top management has long been mired in the 19th century — is now one of the very few authentic 'clicks-and-bricks' businesses around. We went into 2000 with GEICO doing significant business on the Internet, and then we added Acme. You can bet this move by Berkshire is making them sweat in Silicon Valley." — 2000 Letter
+>
+> Context: The "clicks and bricks" joke on acquiring Acme Brick during the dot-com bubble. → [Justin Industries](entities/justin-industries.md)
+
+> "I made three separate mistakes with Dexter. First, I bought it. Second, I paid for it with Berkshire stock. Third, I procrastinated — when the competitive situation deteriorated, I delayed too long before taking action." — 2001 Letter
+>
+> Context: The definitive three-part Dexter confession. → [Dexter Shoe](entities/dexter-shoe.md)
+
+### Management
+
+> "At MiTek, the 55 managers who owned the company offered to buy it from Buffett back — and Buffett let them. 'We think this will work out extremely well for all parties. Our managers, who now own MiTek, will run it as partners, not as employees.'" — 2001 Letter (paraphrase)
+>
+> Context: The MiTek ownership model — managers co-investing alongside Berkshire as a structural alignment mechanism. → [Capital Allocation](principles/capital-allocation.md)

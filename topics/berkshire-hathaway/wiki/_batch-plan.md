@@ -60,8 +60,8 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 10 — 2000-2001 (~2,520 lines)
 
-- [ ] buffett-letter-2000.md
-- [ ] buffett-letter-2001.md
+- [x] buffett-letter-2000.md
+- [x] buffett-letter-2001.md
 
 ### Batch 11 — 2002-2003 (~3,000 lines)
 

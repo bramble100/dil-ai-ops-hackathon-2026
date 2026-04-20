@@ -27,6 +27,8 @@ sources:
     buffett-letter-1997,
     buffett-letter-1998,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -116,6 +118,24 @@ Float from GEICO operations alone: $2.9B. Combined ratio: substantially below 10
 
 Lorimer Davidson, who taught a 20-year-old Buffett insurance on a January Saturday in 1951, died at age 97. "It makes me sad that Lorimer is gone, but his influence on Berkshire is with us still." The original GEICO connection — Buffett's cold-call to GEICO's Washington DC office in 1951 — is now bookended: from first visit to Davidson's death, the 48-year arc is complete[^11].
 
+### 2000: Advertising Miss and State Farm Dynamics
+
+**[2000 Letter]** GEICO's advertising program failed to produce commensurate results: extra spending did not generate more inquiries; conversion rate fell for the first time in many years; per-policy acquisition cost surged. Four causes: (1) advertising frequency overdone in certain media; (2) early adopters already converted (low-hanging fruit picked); (3) stricter underwriting required (rates up, conversion down); (4) State Farm pricing aggression — State Farm ran an 18% underwriting loss on auto (vs. 4% at GEICO) to hold market share, making price competition difficult.
+
+State Farm analysis: "I've urged that the company be studied at business schools... It has achieved fabulous success while following a path that in many ways defies the dogma of those institutions." State Farm was founded in 1922 by a 45-year-old farmer with no capital market access, no stock options, no owner-managers — yet surpassed all legacy insurers with vastly superior capital and distribution.
+
+Despite the headwinds: GEICO's low-cost model makes it "inevitable" over time — "over time it will inevitably increase its market share significantly while simultaneously achieving excellent profits."
+
+Profit-sharing: 8.8% ($40.7M). Policies in force: 4,696,842. [^12]
+
+### 2001: Return to Profitability
+
+**[2001 Letter]** GEICO recovered to underwriting profitability: premium volume +6.6%, float +$308M to $4.25B, underwriting profit $221M. "This means we were actually paid that amount to hold the $4.25 billion in float."
+
+Preferred customers +1.6%; standard/non-standard -10.1%; total policies in force -0.8%. New business improving in late 2001.
+
+Tony Nicely: "an owner's dream... Everything he does makes sense. He never engages in wishful thinking or otherwise distorts reality." [^13]
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -144,3 +164,7 @@ Lorimer Davidson, who taught a 20-year-old Buffett insurance on a January Saturd
 [^10]: [1998 Letter](../sources/buffett-letter-1998.md) — market share 3.0→3.5%; 32.3% profit-sharing $103M; $143M marketing
 
 [^11]: [1999 Letter](../sources/buffett-letter-1999.md) — market share 4.1%; 28.4% profit-sharing $113.3M; $242M marketing; Lorimer Davidson dies age 97
+
+[^12]: [2000 Letter](../sources/buffett-letter-2000.md) — advertising miss; four causes of cost increase; State Farm 18% underwriting loss; low-cost model still "inevitable"; profit-sharing 8.8% $40.7M; 4,696,842 policies in force
+
+[^13]: [2001 Letter](../sources/buffett-letter-2001.md) — underwriting profit $221M; float $4.25B; premium +6.6%; overall policies -0.8%; Tony Nicely praised as "owner's dream"

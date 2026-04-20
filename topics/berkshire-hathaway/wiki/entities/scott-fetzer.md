@@ -2,7 +2,21 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994, buffett-letter-1998]
+sources:
+  [
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1998,
+    buffett-letter-2000,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -61,7 +75,7 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 - Purchase price: $315.2M for $172.6M book ($142.6M premium)
 - 1994 earnings: $79.3M (up from $40.3M at acquisition) — a near-doubling in nine years
-- 1994 book value: $94.0M — *lower* than at acquisition ($172.6M) because of massive distributions and amortization
+- 1994 book value: $94.0M — _lower_ than at acquisition ($172.6M) because of massive distributions and amortization
 - Purchase premium remaining: $54.2M (down from $142.6M); when added to $94M book = $148.2M carrying value on Berkshire's books — less than half of acquisition price, yet earning twice as much
 - Return on carrying value: ~54% — and would rank 4th in Fortune 500 (1st if excluding bankruptcy-fresh-start anomalies)
 - SF would have ranked #1 in Fortune 500 ROE, "well ahead of number two," with ROE double the company ranking 10th
@@ -72,6 +86,16 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 **[1998 Letter]** Scott Fetzer achieves its best year: **$96.5M after-tax earnings on $112M net worth** — an 86% after-tax ROE. "One of the most undervalued companies in the country when we bought it in 1986." Ralph Schey continues to manage 19 businesses with minimal interference from headquarters. The 1998 result confirms that the 1994 nine-year retrospective was not a peak: the business continues to generate near-100% returns on its tangible asset base[^9].
 
+## Ralph Schey Retires (2000)
+
+**[2000 Letter]** Ralph Schey retires at end of 2000 after 15 years running Scott Fetzer (and nine at Berkshire). His cumulative contribution:
+
+- Total distributions to Berkshire during his tenure: **$1.03 billion** against a net purchase price of $230M
+- Those funds were reinvested into other Berkshire acquisitions, compounding their value further
+- "As a manager, Ralph belongs in Berkshire's Hall of Fame."
+
+Buffett notes that at most large companies, "truly talented divisional managers" yearn to become CEOs and feel like failures if they don't. "At Berkshire, our all-stars have exactly the jobs they want, ones that they hope and expect to keep throughout their business lifetimes." Schey's 15-year tenure exemplifies this — "we've never had a manager of a significant subsidiary voluntarily leave to join another business." [^10]
+
 ## Connections
 
 - [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
@@ -81,13 +105,21 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 ## Sources
 
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Acquisition details, Schey praise, World Book position
+
 [^2]: [1986 Letter](../sources/buffett-letter-1986.md) — First-year operations, owner earnings appendix (Company O vs N)
+
 [^3]: [1987 Letter](../sources/buffett-letter-1987.md) — Sainted Seven member, 10% earnings growth, World Book revised edition
+
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — Campbell Hausfeld doubled; Kirby exports doubled; World Book in Soviet Union
+
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One; Ralph Schey praise
+
 [^6]: [1990 Letter](../sources/buffett-letter-1990.md) — record finance earnings; Generation 3 Kirby; Campbell Hausfeld record sales
+
 [^7]: [1992 Letter](../sources/buffett-letter-1992.md) — $110M pre-tax on $116M equity; distributed >100% of earnings since 1986
 
 [^8]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — 1993: $77.5M pre-tax on $111.2M book; 1994 full nine-year retrospective: $79.3M earnings, $94.0M book, would rank #1 Fortune 500 ROE
 
 [^9]: [1998 Letter](../sources/buffett-letter-1998.md) — record $96.5M after-tax on $112M net worth (86% ROE); "most undervalued company when we bought it"
+
+[^10]: [2000 Letter](../sources/buffett-letter-2000.md) — Ralph Schey retires; $1.03B cumulative distributions vs. $230M net purchase price; Berkshire Hall of Fame

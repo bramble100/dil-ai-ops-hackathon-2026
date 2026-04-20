@@ -23,6 +23,8 @@ sources:
     buffett-letter-1996,
     buffett-letter-1997,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -179,6 +181,30 @@ The teaching: investors can independently value Berkshire by valuing each column
 
 Preferred approach: record the goodwill asset at cost, test it annually for impairment, and amortize only when actual evidence of value decline exists. This "impairment-only" approach preserves the owner-earnings principle: only charge real economic costs. "Economic goodwill generally rises over time; the FASB rule destroys the very metric it intends to track." This FASB reform ultimately passed as SFAS 142 in 2001[^10].
 
+### Aesop Restated: The Universal Valuation Equation (2000)
+
+**[2000 Letter]** Buffett provides the most elegant restatement of the owner-earnings/DCF framework in the entire corpus. Aesop's maxim — "a bird in the hand is worth two in the bush" — is simply the universal valuation equation expressed in 600 B.C.:
+
+> "To flesh out this principle, you must answer only three questions: How certain are you that there are indeed birds in the bush? When will they emerge and how many will there be? What is the risk-free interest rate? If you can answer these three questions, you know the maximum value of the bush — and the maximum number of the birds you now possess that should be offered for it. And, of course, don't literally think birds. Think dollars." — 2000 Letter
+
+This connects directly to the 1992 DCF framework and the look-through earnings methodology: the "birds in the bush" are the future owner earnings; the discount rate is the risk-free rate; the task is assessing certainty and timing. Buffett adds an "IBT" corollary: just as investors distort Efficient Market Theory by taking it too far, the tech bubble produced Inefficient Bush Theory — irrational willingness to trade birds-in-hand for implausible flocks in the bush.
+
+**[2000 Letter]** Look-through earnings: $2,415M (up from $1,926M in 1999). Despite the year's underwriting losses, the operating businesses produced record earnings. Buffett emphasizes that Berkshire's 80%+ tax advantage on equity income (dividends from US corporations taxed at ~14% for corporations vs. ~35% for individuals) makes equity ownership structurally more valuable than it appears on post-tax comparisons[^11].
+
+### EBITDA as Tooth Fairy Math (2000)
+
+**[2000 Letter]** Buffett's most pointed attack on EBITDA as a valuation metric, extending the 1989 "sawed-off yardstick" critique:
+
+> "When companies are sold by investment bankers and when CEOs address their boards about acquisitions, EBITDA multiples are the coin of the realm. But we think these multiples are a very flawed approach to valuation... Depreciation is a particularly pernicious form of deception. Managers who tell you that they run their businesses just like owners will sometimes be observed praising EBITDA — and they mean it." — 2000 Letter (paraphrase)
+
+The logic: depreciation represents the real cost of assets used up in the business. Treating it as a non-cash addback implies the assets depreciate for accounting purposes but not in reality — a physical impossibility for most assets. The "cash flow" metric that adds back depreciation without subtracting maintenance capex is tooth-fairy accounting: the deductions on the income statement are pretend, but the asset deterioration is real[^11].
+
+### SFAS 142 Vindicated (2001)
+
+**[2001 Letter]** The FASB adopted SFAS 142 effective 2002, implementing exactly the impairment-only goodwill approach Buffett had advocated since 1999. Under SFAS 142, goodwill is no longer amortized on a straight-line schedule — instead it is tested annually for impairment and written down only if the carrying value exceeds recoverable amount.
+
+For Berkshire, this eliminated approximately $500M+ in annual phantom goodwill amortization charges — charges that reduced reported earnings without representing any real economic cost. MidAmerican Energy was the largest beneficiary: its $1.9B goodwill (from the 1999 acquisition) had been generating ~$55M per year in amortization under the old rules. "Under SFAS 142, Berkshire's reported earnings increase substantially — and reported earnings now reflect reality more closely." The validation of the look-through framework: owner earnings were never affected by these phantom charges; now GAAP earnings will also be clean[^12].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — owner earnings reveal what ROE calculations miss
@@ -205,3 +231,7 @@ Preferred approach: record the goodwill asset at cost, test it annually for impa
 [^9]: [1997 Letter](../sources/buffett-letter-1997.md) & [1999 Letter](../sources/buffett-letter-1999.md) — look-through $1,930M (1997) and $1,926M (1999); 1998 suspended for General Re timing; investee tables; stock-option cost adjustment methodology
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — pooling vs. purchase debate; impairment-only goodwill proposal; SFAS 142 anticipation
+
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop/IBT framework; look-through $2,415M; 80%+ tax advantage; EBITDA tooth-fairy critique
+
+[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — SFAS 142 adopted; goodwill amortization eliminated; owner earnings and GAAP converge

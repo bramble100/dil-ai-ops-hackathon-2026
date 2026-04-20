@@ -1,0 +1,40 @@
+---
+title: Shaw Industries
+type: entity
+entity_kind: company
+sources: [buffett-letter-2000, buffett-letter-2001]
+created: 2026-04-20
+updated: 2026-04-20
+status: draft
+tags: [acquisition, manufacturing, mega-cap-era]
+---
+
+## Overview
+
+The world's largest carpet manufacturer, acquired by Berkshire in mid-2000 for an initial 87.3% stake (~$4B annual sales). Bob Shaw and Julian Saul had each built large successful carpet businesses before merging in 1998, giving Berkshire a business led by seasoned, proven operators. After the first full year (2001), Berkshire purchased the remaining 12.7% minority interest for 4,740 BRK A shares (or B equivalents), making Shaw 100% owned.
+
+## Key Facts
+
+- **Acquired:** January 8, 2001 (closed; agreed mid-2000)
+- **Initial stake:** 87.3%
+- **Annual sales:** ~$4B
+- **CEO founders:** Bob Shaw and Julian Saul (each built large carpet businesses independently before 1998 merger)
+- **Berkshire minority buyout:** 4,740 BRK A shares for 12.7% (early 2001)
+- **Status:** Now Berkshire's largest non-insurance operation
+
+## Acquisition Story
+
+Bob Shaw visited Buffett in June 2000 to discuss a potential merger with another carpet company that had asbestos liabilities. Berkshire declined to write an uncapped asbestos policy. Shaw and Saul decided that "if we didn't want to bet the ranch... neither did they." The deal died — but Buffett's interest in Shaw was sparked. A few months later he made a direct acquisition offer, with the key feature being that Bob and Julian retain at least 5% ownership, aligning their interests with Berkshire's.
+
+## First Year Results (2001)
+
+Pre-tax earnings: $292M in 2001 (first year of full consolidation; partial year figures appear in 2000). Together with Johns Manville and Benjamin Moore, the three large acquisitions initiated in late 2000 earned about $659M pre-tax combined.
+
+## Significance
+
+Shaw illustrates Berkshire's acquisition model in manufacturing: identify the industry leader, find operators who both built and own the business, acquire with a structure that retains their economic stake. "We know we are in good hands." Shaw's scale (largest carpet company in the world) and Bob Shaw's operational track record satisfy the four filters.
+
+## Connections
+
+- [Capital Allocation](../principles/capital-allocation.md) — asbestos policy refusal as disciplined underwriting; acquisition structure retaining founder stake
+- [Underwriting Discipline](../principles/underwriting-discipline.md) — refused uncapped asbestos liability policy that led to the relationship

@@ -16,6 +16,8 @@ sources:
     buffett-letter-1996,
     buffett-letter-1997,
     buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -147,12 +149,34 @@ The "enchanted market" frame: investors had extrapolated a unique period (rising
 
 **[1999 Letter]** On share repurchases: Berkshire would exploit Mr. Market on the buy side via repurchases if shares traded at a material discount to intrinsic value — provided no better alternative existed. This is Mr. Market's contrarian framework applied to Berkshire's own stock: management acting as the disciplined buyer when Mr. Market is the panicking seller.[^10]
 
+### Aesop's Valuation Axiom (2000)
+
+**[2000 Letter]** Buffett provides his most complete statement of why market prices are irrelevant to valuation:
+
+> "The formula for valuing all assets that are purchased for financial gain has been unchanged since it was first laid out by a very smart man in about 600 B.C. ... The oracle was Aesop and his enduring, though somewhat incomplete, investment insight was 'a bird in the hand is worth two in the bush.'" — 2000 Letter
+
+Three questions sufficient to value any asset: (1) How certain that birds are in the bush? (2) When will they emerge and how many? (3) What is the risk-free interest rate? This formulation — identical to DCF — applies equally to farms, bonds, stocks, lottery tickets, and manufacturing plants. Growth is neither inherently good nor bad; it creates value only when the capital invested earns more than the cost of capital.
+
+**[2000 Letter]** The "IBT — Inefficient Bush Theory": occasionally even conservative estimates reveal price is startlingly low relative to value. "An investor does not need brilliance nor blinding insights" — just the ability to think independently and a basic understanding of business economics.
+
+**[2000 Letter]** Tech bubble as extreme Mr. Market pathology: "Nothing sedates rationality like large doses of effortless money... they are dancing in a room in which the clocks have no hands." Speculation (focused on what the next fellow will pay, not what the asset produces) is neither illegal nor immoral — "but it is not a game in which Charlie and I wish to play. We bring nothing to the party, so why should we expect to take anything home?"[^11]
+
+### The Great Bubble Endpoint (2001)
+
+**[2001 Letter]** An odd coincidence:
+
+> "The Great Bubble ended on March 10, 2000 (though we didn't realize that fact until some months later). On that day, the NASDAQ hit its all-time high of 5,132. That same day, Berkshire shares traded at $40,800, their lowest price since mid-1997." — 2001 Letter
+
+The juxtaposition: the most speculative market peak in American history coincided precisely with Berkshire — the anti-speculation vehicle — hitting a multi-year low. Mr. Market's divergence from business reality had never been more pronounced.
+
+**[2001 Letter]** Equity return expectations remain muted: "Charlie and I believe that American business will do fine over time but think that today's equity prices presage only moderate returns for investors. The market outperformed business for a very long period, and that phenomenon had to end." [^12]
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
 - [Business Quality](business-quality.md) — you must understand the business to know when Mr. Market is wrong
 - [Capital Allocation](capital-allocation.md) — permanent holdings philosophy flows from ignoring Mr. Market's daily quotations
-- [Owner Earnings](owner-earnings.md) — "let our equities tell us by their operating results — not by their daily, or even yearly, price quotations"
+- [Owner Earnings](owner-earnings.md) — Aesop's "birds in the bush" = DCF = owner earnings — same formula, different words
 
 [^1]: [1987 Letter](../sources/buffett-letter-1987.md) — full Mr. Market parable
 
@@ -173,3 +197,7 @@ The "enchanted market" frame: investors had extrapolated a unique period (rising
 [^9]: [1997 Letter](../sources/buffett-letter-1997.md) — hamburger analogy; ongoing-buyer logic; margin of safety warning at Dow 7,071
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — "enchanted market"; equity investors "wildly optimistic"; 10-year real return estimate 4-6%; share repurchase as Mr. Market exploitation
+
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
+
+[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble ended March 10, 2000 (NASDAQ 5,132 = day BRK hit $40,800 low); equity prices presage only moderate returns
