@@ -205,6 +205,20 @@ The logic: depreciation represents the real cost of assets used up in the busine
 
 For Berkshire, this eliminated approximately $500M+ in annual phantom goodwill amortization charges — charges that reduced reported earnings without representing any real economic cost. MidAmerican Energy was the largest beneficiary: its $1.9B goodwill (from the 1999 acquisition) had been generating ~$55M per year in amortization under the old rules. "Under SFAS 142, Berkshire's reported earnings increase substantially — and reported earnings now reflect reality more closely." The validation of the look-through framework: owner earnings were never affected by these phantom charges; now GAAP earnings will also be clean[^12].
 
+### EBITDA Critique Deepened (2002)
+
+**[2002 Letter]** Buffett returns to the EBITDA attack with his most memorable formulation: "Trumpeting EBITDA is a particularly pernicious practice." The logic is sharpened: depreciation is paid up front (when the asset is acquired), making it worse than a typical cash expense that flows in real time. "People who use EBITDA are either trying to con you or they've conned themselves."
+
+The pro-forma irony: Berkshire's own "pro-forma" earnings were actually _lower_ than reported — no mega-catastrophe losses plus favorable bond strategies inflated GAAP results. "The first time in history" that a company's pro-forma earnings were less flattering than reported earnings.
+
+### Mark-to-Model and Derivatives Accounting (2002)
+
+**[2002 Letter]** The derivatives essay extends the owner-earnings framework to financial reporting: mark-to-model degenerates into "mark-to-myth" when derivatives contracts have no observable market price. Both counterparties can simultaneously report profits using different model assumptions. The Gen Re Securities wind-down ($173M loss, 14,384 remaining contracts) illustrates how derivatives create phantom earnings that distort owner earnings. "Charlie and I think you should be very wary of claims by financial institutions about the 'fair value' of their derivatives."
+
+### Operating Earnings Per-Share Growth Table (2003)
+
+**[2003 Letter]** Buffett provides a 35-year operating earnings compounded growth table (1968-2003) showing per-share operating earnings growing from $2.69 to $3,531.32 — a 22.8% CAGR. This table, unlike look-through earnings, captures only subsidiary and operating earnings, excluding investment gains. It demonstrates that Berkshire's value creation is rooted in real business operations, not securities trading[^13].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — owner earnings reveal what ROE calculations miss
@@ -235,3 +249,5 @@ For Berkshire, this eliminated approximately $500M+ in annual phantom goodwill a
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop/IBT framework; look-through $2,415M; 80%+ tax advantage; EBITDA tooth-fairy critique
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — SFAS 142 adopted; goodwill amortization eliminated; owner earnings and GAAP converge
+
+[^13]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — EBITDA critique deepened; pro-forma irony; mark-to-model/myth derivatives accounting; Gen Re Securities; operating earnings per-share growth table 1968-2003

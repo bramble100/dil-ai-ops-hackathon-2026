@@ -171,6 +171,22 @@ The juxtaposition: the most speculative market peak in American history coincide
 
 **[2001 Letter]** Equity return expectations remain muted: "Charlie and I believe that American business will do fine over time but think that today's equity prices presage only moderate returns for investors. The market outperformed business for a very long period, and that phenomenon had to end." [^12]
 
+### Great Bubble Hangover (2002)
+
+**[2002 Letter]** Mr. Market's hangover "was proportional to the binge." With the S&P down 22.1%, investors who chased the bubble now face its consequences. Buffett offers three investor suggestions for navigating Mr. Market's mood swings: (1) beware weak accounting (the cockroach theory — "you rarely find just one in the kitchen"); (2) unintelligible footnotes signal untrustworthy management; (3) distrust companies that trumpet earnings projections and growth targets — they invite fabrication.
+
+The 10% pre-tax return threshold: "we suspect that we will get decent results in equities over the next ten years... we cannot be sure, we can hope." The junk bond opportunity illustrates contrarian positioning: $8.3B deployed when Mr. Market was indiscriminately punishing all credit risk. "We made large purchases: 100:1 gain/loss ratio on equities over 38 years."[^13]
+
+### Foreign Currency and Dollar Skepticism (2003)
+
+**[2003 Letter]** Buffett's first-ever macro bet: $12B in foreign currency positions across five currencies. The rationale is not Mr. Market speculation but a trade-deficit analysis: "Our trade deficit has greatly worsened, to the point that our country's 'ichiban' status is at risk."
+
+The humility caveat: "The cemetery for seers has a huge section set aside for macro forecasters." This is Mr. Market logic applied at the currency level — when fundamental imbalances become severe enough, the investor can act, but always with awareness that timing is unknowable.
+
+### "Yesterday's Weeds Priced as Flowers" (2003)
+
+**[2003 Letter]** Mr. Market's mood has swung: junk bonds purchased at distressed prices in 2002 ($8B) have repriced upward. "Yesterday's weeds are today being priced as flowers." The contrarian who bought when Mr. Market was despondent is rewarded when Mr. Market's enthusiasm returns — the pattern repeating the Wells Fargo (1990), Coca-Cola (1988), and Washington Post (1973) purchases at earlier market lows.[^14]
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -197,6 +213,14 @@ The juxtaposition: the most speculative market peak in American history coincide
 [^9]: [1997 Letter](../sources/buffett-letter-1997.md) — hamburger analogy; ongoing-buyer logic; margin of safety warning at Dow 7,071
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — "enchanted market"; equity investors "wildly optimistic"; 10-year real return estimate 4-6%; share repurchase as Mr. Market exploitation
+
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's axiom; IBT theory; tech bubble as pathology; "dancing in a room with no clocks"
+
+[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble endpoint March 10, 2000; NASDAQ 5,132 = BRK low; moderate equity return expectations
+
+[^13]: [2002 Letter](../sources/buffett-letter-2002.md) — Great Bubble hangover; three investor suggestions; junk bonds $8.3B; 10% pre-tax return threshold
+
+[^14]: [2003 Letter](../sources/buffett-letter-2003.md) — foreign currency $12B first-ever macro bet; "yesterday's weeds priced as flowers"; trade deficit warning
 
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
 

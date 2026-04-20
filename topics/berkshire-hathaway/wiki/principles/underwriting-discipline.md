@@ -237,7 +237,7 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 
 ### Float Surge: General Re Acquisition (1997-1998)
 
-**[1997 Letter]** Float reaches $7,093.1M — fifth consecutive year at negative cost (underwriting profit). NICO and other primaries aggregate 15.0% underwriting profit; GEICO 8.1% (too high — goal is 4%; rates reduced 3.3%). Catastrophe bonds critique: Buffett calls them "an Orwellian misnomer." A true bond obligates the issuer to pay; these instruments transfer the payment obligation to the *buyer* when a disaster occurs. Promoters structured them to circumvent state licensing laws, then labeled them "bonds" to create a false sense of safety. Mispriced risk may go undetected for years — a 75.4% probability exists of rolling no 12 on a pair of dice across 10 annual rolls.
+**[1997 Letter]** Float reaches $7,093.1M — fifth consecutive year at negative cost (underwriting profit). NICO and other primaries aggregate 15.0% underwriting profit; GEICO 8.1% (too high — goal is 4%; rates reduced 3.3%). Catastrophe bonds critique: Buffett calls them "an Orwellian misnomer." A true bond obligates the issuer to pay; these instruments transfer the payment obligation to the _buyer_ when a disaster occurs. Promoters structured them to circumvent state licensing laws, then labeled them "bonds" to create a false sense of safety. Mispriced risk may go undetected for years — a 75.4% probability exists of rolling no 12 on a pair of dice across 10 annual rolls.
 
 > "These instruments have been cleverly designed to circumvent state licensing laws and to give naive buyers the impression that they are buying something with the safety of bonds. They are not." — 1997 Letter
 
@@ -320,6 +320,34 @@ Reserve discounting opposed: "Discounting might be acceptable if reserves could 
 
 **[2001 Letter]** After 2000's advertising disappointment, GEICO recovered profitability in 2001: premium volume +6.6%, float +$308M to $4.25B, underwriting profit $221M. "This means we were actually paid that amount to hold the float." Preferred customers +1.6% but standard/non-standard -10.1% (overall policies -0.8%). Tony Nicely: "an owner's dream."
 
+### Float $41.2B at 1% Cost — General Re Turnaround Begins (2002)
+
+**[2002 Letter]** Total float reaches **$41.2B** at only 1% cost (down from 12.8% in 2001). The composition:
+
+| Segment                       | Float  | Key Development                                                              |
+| ----------------------------- | ------ | ---------------------------------------------------------------------------- |
+| GEICO                         | $4.7B  | $6.9B premiums; $416M underwriting profit; internet +75%                     |
+| General Re                    | $22.2B | $1.31B additional prior-year charge; NCB risk eliminated; sole AAA reinsurer |
+| Other Reinsurance (Ajit Jain) | $13.4B | $534M underwriting profit; 20-person workforce                               |
+| Other Primary                 | $943M  | +38% float; $32M underwriting profit                                         |
+
+The three underwriting principles from 2001 are restated. General Re takes an additional $1.31B charge for prior-year reserving errors but the operational turnaround is underway under Joe Brandon and Tad Montross.
+
+GEICO's 1981-83 umbrella/product liability venture serves as a cautionary tale: $72K in retained premium generated $94.1M in losses, with $90.3M from deadbeat reinsurers. "So much for 'cheap' reinsurance."[^12]
+
+### Float $44.2B at Zero Cost — The Perfect Year (2003)
+
+**[2003 Letter]** Total float reaches **$44.2B at zero cost** — Berkshire is paid $1.7B in underwriting profit to hold $44.2B. All four insurance segments profitable:
+
+| Segment                       | Float  | Underwriting Result                                     |
+| ----------------------------- | ------ | ------------------------------------------------------- |
+| GEICO                         | $5.3B  | Market share 5.0% (from 2.1% in 1992); $8.1B premiums   |
+| General Re                    | $23.7B | **FIXED:** $145M profit (from −$4.3B in 2001)           |
+| Other Reinsurance (Ajit Jain) | $13.9B | PepsiCo $1B prize policy; $1.4B profit (ex-retroactive) |
+| Other Primary                 | $1.3B  | $47M underwriting profit                                |
+
+This represents a $5.7B swing in two years — from $4.0B underwriting loss (2001) to $1.7B underwriting profit (2003). The turnaround validates Buffett's conviction that the three principles, consistently applied, inevitably produce superior results.[^13]
+
 ## Connections
 
 - [National Indemnity](../entities/national-indemnity.md) — the operational embodiment; Ajit Jain post-9/11
@@ -348,3 +376,7 @@ Reserve discounting opposed: "Discounting might be acceptable if reserves could 
 [^10]: [2000 Letter](../sources/buffett-letter-2000.md) — float $27.9B; float cost 6%; retroactive reinsurance explained; Ajit Jain $2.4B premium; General Re repricing underway; Joe Brandon/Tad Montross
 
 [^11]: [2001 Letter](../sources/buffett-letter-2001.md) — three underwriting principles canonical statement; experience vs. exposure; Noah rule; loss development redefined; General Re $800M catch-up; Ajit Jain post-9/11 mega-policies; float $35.5B; GEICO $221M underwriting profit
+
+[^12]: [2002 Letter](../sources/buffett-letter-2002.md) — float $41.2B at 1% cost; General Re $1.31B additional charge; Ajit $13.4B float; GEICO $6.9B/$416M; deadbeat reinsurer cautionary tale ($72K→$94.1M)
+
+[^13]: [2003 Letter](../sources/buffett-letter-2003.md) — float $44.2B at zero cost; $1.7B underwriting profit; General Re FIXED ($145M profit); GEICO 5.0% share; Ajit PepsiCo $1B; all segments profitable

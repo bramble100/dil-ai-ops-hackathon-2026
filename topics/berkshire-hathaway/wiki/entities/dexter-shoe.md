@@ -2,7 +2,13 @@
 title: "Dexter Shoe Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1993, buffett-letter-2000, buffett-letter-2001]
+sources:
+  [
+    buffett-letter-1993,
+    buffett-letter-2000,
+    buffett-letter-2001,
+    buffett-letter-2002,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -47,6 +53,12 @@ Shoe operations lost $46.2M pre-tax in 2001. Dexter placed under management of F
 [^2]: [2000 Letter](../sources/buffett-letter-2000.md) — goodwill written off; domestic production error; "compounded mistake by using stock"
 
 [^3]: [2001 Letter](../sources/buffett-letter-2001.md) — three-part confession; $46.2M pre-tax loss; placed under Rooney/Issler management
+
+### 2002: Turnaround Progress
+
+**[2002 Letter]** Under Frank Rooney and Jim Issler's management, the shoe operations show improvement. Dexter's domestic manufacturing has been restructured with production increasingly moved offshore. Buffett notes the turnaround is proceeding but the original acquisition remains his worst stock-for-stock deal. [^4]
+
+[^4]: [2002 Letter](../sources/buffett-letter-2002.md) — Rooney/Issler management producing improvement
 
 ## Connections
 

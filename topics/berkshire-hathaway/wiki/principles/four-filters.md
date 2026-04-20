@@ -161,9 +161,24 @@ Is it "really so difficult to conclude that Coca-Cola and Gillette possess far l
 
 > "I don't own technology stocks not because of past success or failure with them, but because I can't assess with reasonable confidence the durability of competitive advantage in these businesses. Intelligent people disagree with me. But I would rather accept the uncertainty of missing the opportunity than invest without the required understanding." — 1999 Letter
 
-The distinction is critical: Buffett doesn't claim tech stocks are overpriced. He claims he lacks the analytical tools to judge them, which is a circle-of-competence problem, not a valuation problem. His edge (35+ years of business analysis) doesn't transfer to businesses where today's dominant firm might be displaced by tomorrow's startup. This restates the filter (1)/(2) combined requirement: you need to understand the business (filter 1) *and* have confidence it will remain competitive (filter 2).
+The distinction is critical: Buffett doesn't claim tech stocks are overpriced. He claims he lacks the analytical tools to judge them, which is a circle-of-competence problem, not a valuation problem. His edge (35+ years of business analysis) doesn't transfer to businesses where today's dominant firm might be displaced by tomorrow's startup. This restates the filter (1)/(2) combined requirement: you need to understand the business (filter 1) _and_ have confidence it will remain competitive (filter 2).
 
 "Comfortable business at comfortable price" is the formulation: if you need a precise answer, the business probably fails filter (1). The best investments require only a rough approximation of value — a "fat pitch." Tech stocks in 1999 don't even clear filter (1) for Buffett, let alone filter (4).[^8]
+
+### Three Investor Suggestions (2002)
+
+**[2002 Letter]** Buffett distills his evaluation filters into three investor red flags:
+
+1. **Weak accounting cockroach:** "There is seldom just one cockroach in the kitchen" — when a company's accounting is aggressive in one area, the rot is likely pervasive. This is filter (3) applied pre-investment: management character is revealed by accounting choices.
+2. **Unintelligible footnotes:** If management cannot explain financial statements in plain English, they either don't understand their own business or are deliberately obscuring it. Either way, filter (3) fails.
+3. **Earnings projections and growth targets:** Companies that trumpet specific EPS targets create institutional pressure to fabricate results. "We are suspicious of CEOs who regularly claim they do know the future — and we become downright incredulous if they consistently reach their declared targets."
+
+### Clayton and McLane — Filter Application at Speed (2003)
+
+**[2003 Letter]** Two acquisitions demonstrate the four filters applied rapidly:
+
+- **Clayton Homes:** Buffett read Jim Clayton's autobiography (gifted by Tennessee students), evaluated Kevin Clayton, reviewed public financials, and called with an offer. Filter (1): understood manufactured housing from Oakwood experience; Filter (2): industry survivor with disciplined lending; Filter (3): Jim Clayton's character evident from his book; Filter (4): public company priced by a distressed market.
+- **McLane ($23B sales):** 2-hour meeting, handshake, 29 days to close, no due diligence. Filter (3) satisfied by Wal-Mart's reputation: "We knew everything would be exactly as Wal-Mart said it would be." Speed is possible precisely because the filters are internalized[^9].
 
 ## Connections
 
@@ -189,3 +204,5 @@ The distinction is critical: Buffett doesn't claim tech stocks are overpriced. H
 [^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — no-strategic-plan advantage; circle of competence; index fund endorsement; inactivity as intelligent behavior
 
 [^8]: [1999 Letter](../sources/buffett-letter-1999.md) — tech-stock circle of competence; "comfortable business at comfortable price"; durability of competitive advantage test
+
+[^9]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — three investor suggestions (cockroach accounting, unintelligible footnotes, earnings projections); Clayton acquisition from book-reading; McLane no-due-diligence speed

@@ -1,8 +1,16 @@
 ---
 title: Executive Jet Aviation (NetJets)
 type: entity
-sources: [buffett-letter-1998, buffett-letter-1999, buffett-letter-2000, buffett-letter-2001]
-source_count: 4
+sources:
+  [
+    buffett-letter-1998,
+    buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
+    buffett-letter-2002,
+    buffett-letter-2003,
+  ]
+source_count: 6
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, aviation, acquisition]
@@ -41,3 +49,11 @@ EJA represents a capital-intensive but economically attractive business: custome
 - [1999 Letter](../sources/buffett-letter-1999.md) — supply-constrained; recurring revenues +46%; FlightSafety as exclusive training provider
 - [2000 Letter](../sources/buffett-letter-2000.md) — recurring revenue +49%; European expansion drag; Buffett family as extensive NetJets users; safety culture
 - [2001 Letter](../sources/buffett-letter-2001.md) — record planes sold; service income +21.9%; small loss; European losses offset US profits; ~50% industry share; post-9/11 demand spike then normalization
+
+### 2002-2003 Performance
+
+**[2002 Letter]** NetJets maintains ~75% industry share (by value of planes under management). Operations span 132.7 million nautical miles across 130 countries. European operations continue to lose money. Rich Santulli praised as a visionary operator.
+
+**[2003 Letter]** Pre-tax loss **$41M** plus $32M aircraft inventory writedown. Industry share slips to 70% (by net sales value) but still dominant. European losses continue — the primary drag on profitability. Mayo Clinic Executive Travel Response program launched. Despite the losses, Buffett praises Santulli and remains committed: the competitive moat is widening even as short-term losses persist. [^5]
+
+[^5]: [2003 Letter](../sources/buffett-letter-2003.md) — $41M loss; $32M inventory writedown; 70% industry share; European losses; Mayo Clinic program

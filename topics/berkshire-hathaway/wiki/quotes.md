@@ -681,3 +681,85 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "At MiTek, the 55 managers who owned the company offered to buy it from Buffett back — and Buffett let them. 'We think this will work out extremely well for all parties. Our managers, who now own MiTek, will run it as partners, not as employees.'" — 2001 Letter (paraphrase)
 >
 > Context: The MiTek ownership model — managers co-investing alongside Berkshire as a structural alignment mechanism. → [Capital Allocation](principles/capital-allocation.md)
+
+---
+
+## 2002-2003 Letters
+
+### Derivatives & Risk
+
+> "Derivatives are financial weapons of mass destruction, carrying dangers that, while now latent, are potentially lethal." — 2002 Letter
+>
+> Context: The most quoted sentence in the entire letter corpus — on systemic risk from derivatives. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Like Hell, both [derivatives and reinsurance] are easy to enter and almost impossible to exit." — 2002 Letter
+>
+> Context: On the difficulty of unwinding Gen Re Securities' derivatives book. → [General Re](entities/general-re.md)
+
+> "Mark-to-model degenerates into mark-to-myth." — 2002 Letter
+>
+> Context: Both counterparties can simultaneously report profits using fanciful model assumptions. → [Owner Earnings](principles/owner-earnings.md)
+
+### Accounting & Corporate Governance
+
+> "Trumpeting EBITDA is a particularly pernicious practice." — 2002 Letter
+>
+> Context: Depreciation is paid up front, making it worse than a typical cash expense. → [Owner Earnings](principles/owner-earnings.md)
+
+> "There is seldom just one cockroach in the kitchen." — 2002 Letter
+>
+> Context: Weak accounting in one area signals management weakness everywhere. → [Four Filters](principles/four-filters.md)
+
+> "If the audit committee doesn't ask the right questions, it doesn't matter how many millions the company spends on outside auditors." — 2002 Letter (paraphrase)
+>
+> Context: The four audit committee questions that would transform corporate governance. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Who ever washes a rental car?" — 2003 Letter
+>
+> Context: On why directors must own significant personal stakes — not options or restricted stock. → [Capital Allocation](principles/capital-allocation.md)
+
+### Business Quality & Acquisitions
+
+> "To be a winner, work with winners." — 2002 Letter
+>
+> Context: The Eddie Bennett batboy metaphor — own great businesses rather than trying to fix mediocre ones. → [Business Quality](principles/business-quality.md)
+
+> "We knew everything would be exactly as Wal-Mart said it would be — and it was." — 2003 Letter
+>
+> Context: The McLane acquisition — $23B sales business acquired in 29 days with no due diligence. → [McLane](entities/mclane.md)
+
+> "If you have the lowest price, customers will find you at the bottom of a river." — Mrs. B, quoted in 2003 Letter
+>
+> Context: Nebraska Furniture Mart's Kansas City store becomes the country's largest-volume home-furnishings store. → [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md)
+
+> "The cemetery for seers has a huge section set aside for macro forecasters." — 2003 Letter
+>
+> Context: On Buffett's first-ever foreign currency positions ($12B) — acknowledging the risks of macro bets. → [Mr. Market](principles/mr-market.md)
+
+### Insurance
+
+> "Gen Re is fixed. Thank Joe Brandon." — 2003 Letter
+>
+> Context: General Re reports $145M underwriting profit after $4.3B loss in 2001. → [General Re](entities/general-re.md)
+
+> "We would rather earn a lumpy 15% over time than a smooth 12%." — 2002 Letter
+>
+> Context: On Ajit Jain's volatile but superior reinsurance results. → [National Indemnity](entities/national-indemnity.md)
+
+> "So much for 'cheap' reinsurance." — 2002 Letter
+>
+> Context: GEICO's 1981-83 umbrella venture: $72K net premium retained → $94.1M in losses from deadbeat reinsurers. → [GEICO](entities/geico.md)
+
+### Humor & Self-Deprecation
+
+> "I'm sure I could have saved you $100 million or so, pre-tax, if I had acted more promptly to shut down Gen Re Securities." — 2003 Letter
+>
+> Context: Buffett confesses to procrastination — Charlie "would have moved swiftly to close" the derivatives operation. → [General Re](entities/general-re.md)
+
+> "About as far as we will go down that path is to occasionally eat cottage cheese a day after the expiration date on the carton." — 2003 Letter
+>
+> Context: On Berkshire's credit risk tolerance. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "If only 540 taxpayers paid the amount Berkshire will pay, no other individual or corporation would have to pay anything to Uncle Sam." — 2003 Letter
+>
+> Context: Berkshire paid $3.3B in 2003 taxes — top-10 US taxpayer. The 2002 return was 8,905 pages, seven feet tall.

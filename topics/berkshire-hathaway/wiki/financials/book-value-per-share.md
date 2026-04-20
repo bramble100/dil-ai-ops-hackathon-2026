@@ -28,6 +28,8 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2002,
+    buffett-letter-2003,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -69,6 +71,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1999     | $37,987.00       | 0.5%       | 24.0%                     |
 | 2000     | $40,442.00       | 6.5%       | 23.6%                     |
 | 2001     | $37,920.00       | -6.2%      | 22.6%                     |
+| 2002     | $41,727.00       | 10.0%      | 22.2%                     |
+| 2003     | $50,498.00       | 21.0%      | 22.2%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
@@ -114,6 +118,10 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[2001 Letter]** Net worth loss $3.77B (−6.2%); per-share book value $37,920; 37-year CAGR 22.6%. Second decline in three years — General Re's catastrophic 2001 ($4.3B underwriting loss pre-tax including 9/11 and $800M prior-year reserve catch-up) offsets strong non-insurance results. S&P also fell (−11.9%); Berkshire's relative advantage was +5.7pp. Six acquisitions all in cash. Buffett: "In the future we won't come close to replicating our past record... We need 'elephants' to make significant gains now — and they are hard to find."
 
 _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value growth because General Re was acquired for Berkshire stock. "Those of you who follow our quarterly reports will notice that our per-share book value isn't as good as it looks — we issued a lot of shares." This is the stock-for-stock confession from 1997 letter materialized at scale.
+
+- **[2002 Letter]** Net worth gain $6.1B (+10.0%); per-share book value $41,727; 38-year CAGR 22.2%. S&P fell 22.1% — a 32.1 percentage point outperformance, the widest gap in the series. "Our gain in net worth during 2002 was $6.1 billion, which increased the per-share book value of both our Class A and Class B stock by 10.0%." Non-insurance businesses now earn $272M monthly — up from $272M annually a decade earlier. Float $41.2B at 1% cost.
+
+- **[2003 Letter]** Net worth gain $13.6B (+21.0%); per-share book value $50,498; 39-year CAGR 22.2%. S&P rose 28.7% — Berkshire underperformed by 7.7pp, but Buffett notes intrinsic value "somewhat exceeded" the 22.2% CAGR because the business mix has shifted from "a struggling northern textile business" to "a widely diversified enterprise worth far more than book." Operating earnings per share grew from $2.69 (1968) to $3,531.32 (2003) — 22.8% CAGR. Float $44.2B at zero cost with $1.7B underwriting profit.
 
 ## The Inflation Caveat
 

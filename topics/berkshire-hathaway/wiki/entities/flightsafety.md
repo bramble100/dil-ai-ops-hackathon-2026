@@ -2,7 +2,14 @@
 title: "FlightSafety International"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1996, buffett-letter-1998, buffett-letter-1999, buffett-letter-2000, buffett-letter-2001]
+sources:
+  [
+    buffett-letter-1996,
+    buffett-letter-1998,
+    buffett-letter-1999,
+    buffett-letter-2000,
+    buffett-letter-2001,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -48,6 +55,16 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 [^3]: [2000 Letter](../sources/buffett-letter-2000.md) — $272M capex; depreciation as real cost; Al Ueltschi age 83
 
 [^4]: [2001 Letter](../sources/buffett-letter-2001.md) — $186M pre-tax earnings; post-9/11 commercial training depressed; business/general aviation near-normal; $258M capex 2001; $162M planned 2002
+
+### 2002-2003 Performance
+
+**[2002 Letter]** Earnings decline to $225M pre-tax, but this includes a $60M gain from the sale of FlightSafety Boeing (the 50/50 Boeing JV). Underlying earnings closer to $165M — reflecting continued corporate aviation slowdown. Al Ueltschi continues running operations with legendary energy. [^5]
+
+**[2003 Letter]** Pre-tax earnings fall to **$72M** after a **$37M simulator obsolescence charge** (technology advances rendered some older simulators uneconomic). "Normal" operating earnings approximately $150M. Total simulator investment: $1.2B (3x the nearest competitor's). The obsolescence charge illustrates Buffett's point about depreciation being a real cost — and sometimes an understated one. Business aviation slowdown persists. [^6]
+
+[^5]: [2002 Letter](../sources/buffett-letter-2002.md) — $225M pre-tax including $60M FSB sale gain; corporate aviation slowdown
+
+[^6]: [2003 Letter](../sources/buffett-letter-2003.md) — $72M reported ($150M "normal"); $37M simulator obsolescence; $1.2B total simulators (3x nearest competitor)
 
 ## Connections
 

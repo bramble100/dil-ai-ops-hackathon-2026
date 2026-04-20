@@ -2,7 +2,13 @@
 title: Shaw Industries
 type: entity
 entity_kind: company
-sources: [buffett-letter-2000, buffett-letter-2001]
+sources:
+  [
+    buffett-letter-2000,
+    buffett-letter-2001,
+    buffett-letter-2002,
+    buffett-letter-2003,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -29,6 +35,12 @@ Bob Shaw visited Buffett in June 2000 to discuss a potential merger with another
 ## First Year Results (2001)
 
 Pre-tax earnings: $292M in 2001 (first year of full consolidation; partial year figures appear in 2000). Together with Johns Manville and Benjamin Moore, the three large acquisitions initiated in late 2000 earned about $659M pre-tax combined.
+
+## 2002-2003: Record Performance
+
+**[2002 Letter]** Pre-tax earnings surge to **$424M** (up from $292M in 2001). Bob Shaw and Julian Saul are "terrific operators." Shaw is now Berkshire's largest non-insurance subsidiary by earnings.
+
+**[2003 Letter]** Record pre-tax earnings of **$436M**. Shaw acquires the **Dixie Group** (adding ~$240M in sales), pushing total revenues toward **~$5B** — cementing Shaw as the world's dominant carpet manufacturer. Manufacturing/services segment overall earns 20.7% on average tangible net worth.
 
 ## Significance
 

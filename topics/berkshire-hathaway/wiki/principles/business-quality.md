@@ -235,6 +235,18 @@ The key distinction: novelty is not a moat. The same business-quality filters ap
 
 **[2001 Letter]** Post-bubble vindication: the NASDAQ collapsed from 5,132 (March 2000) to roughly half that by 2001 year-end. Most of the companies that were described as having strong network effects and winner-take-all positions either disappeared or were permanently impaired. The "experience vs. exposure" failure (from underwriting) applied equally here: investors priced risk based on recent tech stock experience rather than durable economic exposure[^11].
 
+### Non-Insurance Earnings Machine (2002)
+
+**[2002 Letter]** Non-insurance pre-tax earnings now reach **$272M monthly** — up from $272M _annually_ a decade earlier. This 12x growth, achieved through acquisitions and organic improvement, demonstrates the compounding power of assembling quality businesses under permanent ownership.
+
+The Eddie Bennett batboy metaphor: Bennett started as a 19-year-old batboy for the 1919 White Sox, moved to the Brooklyn Dodgers, then to the Yankees. He won five World Series rings — not through personal excellence but through "working with winners." The message to investors: "to be a winner, work with winners" — own great businesses rather than trying to improve mediocre ones.
+
+### Manufactured Housing: Industry Destruction Through Bad Finance (2003)
+
+**[2003 Letter]** Clayton Homes acquisition provides a case study in how financial engineering can destroy an entire industry. Manufactured housing had been devastated by overlending: lenders securitized loans and walked away from credit risk, creating incentives to originate poor-quality loans. "The industry's problems paralleled those of the junk-bond market in the 1980s."
+
+Clayton survived as the "class act" because it retained its lending risk ("every tub on its own bottom") — the business-quality principle applied to financial operations. Conseco, the largest player, went bankrupt. The parallel to GEICO is explicit: structural cost/quality advantages produce inevitable winners in industries plagued by undisciplined competitors[^12].
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -268,3 +280,5 @@ The key distinction: novelty is not a moat. The same business-quality filters ap
 [^10]: [2000 Letter](../sources/buffett-letter-2000.md) — GEICO low-cost moat as permanent structural advantage; State Farm 118% vs. GEICO profitable; tech as circle-of-competence test
 
 [^11]: [2001 Letter](../sources/buffett-letter-2001.md) — post-bubble vindication; experience vs. exposure failure in tech investing
+
+[^12]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — non-insurance $272M/month; Eddie Bennett batboy metaphor; manufactured housing industry destruction; Clayton Homes as quality survivor; "every tub on its own bottom"

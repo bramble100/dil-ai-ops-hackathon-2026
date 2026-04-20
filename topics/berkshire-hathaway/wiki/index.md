@@ -36,27 +36,29 @@ updated: 2026-04-20
 - [1999 Letter](sources/buffett-letter-1999.md) - General Re $1.4B loss, GEICO 4.1% market share, Jordan's Furniture/MidAmerican acquired, tech-stock circle of competence, market overvaluation warning, capital allocation grade D (1999)
 - [2000 Letter](sources/buffett-letter-2000.md) - Book value +6.5%, eight acquisitions ~$8B 97% cash, float $27.9B at 6% cost, GEICO ad miss, Aesop/IBT framework, Cinderella/clocks parable, Ralph Schey retires, 80%+ tax advantage (2000)
 - [2001 Letter](sources/buffett-letter-2001.md) - Book value −6.2%, 9/11 $2B+ loss, three underwriting principles canonical, Noah Rule, General Re $4.3B loss, GEICO recovery $221M, SFAS 142, Dexter three-confession, fat wallet escalated (2001)
+- [2002 Letter](sources/buffett-letter-2002.md) - Book value +10.0% (S&P −22.1%), "derivatives are WMD," corporate governance, General Re turnaround, float $41.2B at 1%, GEICO $6.9B, Ajit $13.4B float, EBITDA critique deepened, junk bonds $8.3B (2002)
+- [2003 Letter](sources/buffett-letter-2003.md) - Book value +21.0%, General Re FIXED, Clayton Homes/McLane acquired, float $44.2B at zero cost, GEICO 5.0% share, owner-capitalism, foreign currency $12B, operating earnings per-share table (2003)
 
 ## Principles
 
 - [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (20 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Look-through $2,415M (2000); Aesop/IBT universal valuation; EBITDA tooth-fairy critique; SFAS 142 vindicated (21 sources)
-- [Four Filters](principles/four-filters.md) - Tech-stock circle of competence; "comfortable business at comfortable price"; index fund endorsement; EMT demolition (18 sources)
-- [Business Quality](principles/business-quality.md) - "The Inevitables"; GEICO low-cost as permanent moat; tech bubble as circle-of-competence test (22 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Three underwriting principles canonical (2001); Noah Rule; float $35.5B; General Re $4.3B loss; Ajit post-9/11 mega-policies (25 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Look-through $2,415M (2000); EBITDA critique deepened (2002); mark-to-myth derivatives; operating earnings per-share table 1968-2003 (23 sources)
+- [Four Filters](principles/four-filters.md) - Three investor suggestions (cockroach/footnotes/projections); Clayton/McLane filter application at speed (20 sources)
+- [Business Quality](principles/business-quality.md) - Non-insurance $272M/month; Eddie Bennett batboy; manufactured housing industry destruction; Clayton as quality survivor (24 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $44.2B at zero cost; General Re FIXED ($145M profit); Ajit $13.4B; GEICO 5.0% share; all segments profitable (27 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - Misery index, tapeworm, Rip Van Winkle tax advantage, trade deficit, fiscal policy (9 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Fat wallet escalated (elephants needed); Aesop/IBT; 80%+ tax advantage; MiTek ownership model (25 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Derivatives WMD essay; corporate governance/boardroom critique; owner-capitalism; Clayton/McLane speed; Designated Gifts terminated (27 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Cinderella/clocks-with-no-hands tech bubble; IBT (Inefficient Bush Theory); Great Bubble endpoint NASDAQ 5,132 (15 sources)
+- [Mr. Market](principles/mr-market.md) - Great Bubble hangover; junk bonds $8.3B; foreign currency $12B first-ever macro bet; "yesterday's weeds priced as flowers" (17 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations: inertia, project absorption, leader ratification, peer imitation (1 source)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - 2000 ad miss (four causes); $221M underwriting profit 2001; float $4.25B; State Farm 118% CR comparison (25 sources)
-- [National Indemnity](entities/national-indemnity.md) - Post-9/11 mega-policies (Ajit); retroactive reinsurance; float $35.5B; Other Primary $579M +40% (25 sources)
+- [GEICO](entities/geico.md) - Market share 5.0% (2003); $8.1B premiums; Buffalo expansion; internet +75% (2002); Tony Nicely 41-year devotion (27 sources)
+- [National Indemnity](entities/national-indemnity.md) - Ajit $13.4B float (2002); PepsiCo $1B prize (2003); float $44.2B total at zero cost; all segments profitable (27 sources)
 - [See's Candies](entities/sees-candies.md) - Record 24% margin (1999); $857M cumulative pre-tax profits (34x purchase price) (19 sources)
 - [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; "wonderful businesses at fair prices" attribution; permanent two-person partnership (13 sources)
-- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Mrs. B turns 100 (Dec 1993); ~$200M sales; non-compete at 99 (11 sources)
+- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Kansas City store: "country's largest-volume home-furnishings store" (2003); Mrs. B turns 100 (Dec 1993) (13 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - Media franchise erosion; $47.9M pre-tax (1992); Stan Lipsey outperforms industry (11 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
 - [Scott & Fetzer](entities/scott-fetzer.md) - Ralph Schey retires 2000; $1.03B cumulative distributions vs. $230M net purchase price; 86% ROE record (12 sources)
@@ -67,22 +69,25 @@ updated: 2026-04-20
 - [Wells Fargo](entities/wells-fargo.md) - $985M market value (1994); 13.3% ownership; Carl Reichardt retires 1994 (5 sources)
 - [Borsheim's](entities/borsheims.md) - 18% sales growth (1990); ~#2 US fine jewelry by volume; 18% operating cost ratio (3 sources)
 - [H.H. Brown](entities/hh-brown.md) - Record profits up 35% (1993); Frank Rooney brokered Dexter introduction; Lowell Shoe acquired 1992 (3 sources)
-- [Dexter Shoe](entities/dexter-shoe.md) - Three-part confession 2001; goodwill written off 2000; $46.2M pre-tax loss; placed under Rooney/Issler (3 sources)
-- [FlightSafety International](entities/flightsafety.md) - $272M simulators 2000; $186M pre-tax 2001 (post-9/11 commercial depression); $258M capex 2001 (5 sources)
+- [Dexter Shoe](entities/dexter-shoe.md) - Three-part confession 2001; Rooney/Issler turnaround; worst stock-for-stock deal (4 sources)
+- [FlightSafety International](entities/flightsafety.md) - $150M "normal" earnings 2003; $37M simulator obsolescence; $1.2B simulators (3x nearest competitor) (7 sources)
 - [Helzberg's Diamond Shops](entities/helzbergs.md) - Acquired 1995 (stock); 134 stores, $282M sales; sidewalk encounter (1 source)
 - [R.C. Willey](entities/rc-willey.md) - Las Vegas 2001: outsells all at 2x projections; Boise self-funded by Bill Child (2 sources)
 - [American Express](entities/american-express.md) - 27.76M shares at $723.9M cost by yearend 1994; 40-year Buffett relationship (1 source)
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
-- [General Re](entities/general-re.md) - $4.3B pre-tax loss 2001 ($800M reserve catch-up + 9/11); Joe Brandon CEO; float $19.3B; three principles violated (4 sources)
-- [Executive Jet Aviation](entities/executive-jet.md) - Recurring revenue +49% (2000); ~50% industry share; European losses 2001; scale advantages (4 sources)
+- [General Re](entities/general-re.md) - FIXED: $145M profit 2003 (from −$4.3B in 2001); sole AAA reinsurer; Gen Re Securities wind-down; Joe Brandon/Tad Montross (6 sources)
+- [Executive Jet Aviation](entities/executive-jet.md) - 70% industry share (2003); $41M loss; European losses; $32M inventory writedown; Mayo Clinic program (6 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - $600M pre-tax 2001; Yorkshire Electric 3.6M UK customers (#2 UK electric utility); SFAS 142 goodwill benefit (3 sources)
-- [Shaw Industries](entities/shaw-industries.md) - World's largest carpet maker; $292M pre-tax 2001; Bob Shaw + Julian Saul; asbestos refusal backstory (2 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - $1.076B pre-tax 2003; pipelines 7.8% US gas; UK 3.7M customers; HomeServices $48.6B; Dave Sokol/Greg Abel (5 sources)
+- [Shaw Industries](entities/shaw-industries.md) - Record $436M pre-tax 2003; Dixie Group acquisition → ~$5B; world's largest carpet maker (4 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
 - [Justin Industries](entities/justin-industries.md) - $570M cash; Acme Brick + Western boot brands; "clicks and bricks" joke; serendipitous fax (1 source)
+- [Clayton Homes](entities/clayton-homes.md) - Manufactured housing builder/financer; Kevin Clayton CEO; "every tub on its own bottom"; Tennessee students' book gift (1 source)
+- [McLane Company](entities/mclane.md) - $23B sales wholesale distribution; Wal-Mart sale in 29 days; no due diligence; Byron Trott (1 source)
+- [Fruit of the Loom](entities/fruit-of-the-loom.md) - 42.3% men's/boys' underwear at mass marketers; acquired from bankruptcy; John Holland CEO (2 sources)
 
 ## Case Studies
 
@@ -91,7 +96,7 @@ updated: 2026-04-20
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $37,920 (2001), 22.6% CAGR; General Re $4.3B loss; second decline in three years; "need elephants" (25 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $50,498 (2003), 22.2% CAGR; General Re turnaround; operating earnings $2.69→$3,531.32/share (27 sources)
 
 ## Standalone Pages
 

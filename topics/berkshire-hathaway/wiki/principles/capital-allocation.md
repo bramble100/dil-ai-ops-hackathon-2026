@@ -283,6 +283,7 @@ On stock options: "combination of ten-year option, low dividend payout, and comp
 ### Incentive Compensation Principles (1996)
 
 **[1996 Letter]** Three principles for rational incentive pay:
+
 1. Goals tailored to the economics of the specific operating business (not consolidated Berkshire results)
 2. Simple — "my experience indicates that complexity in compensation more often benefits the designer than the owner"
 3. Tied to things the employee can influence through daily activity
@@ -375,6 +376,42 @@ The mechanism: a CEO commits to 15% annual EPS growth → fails operationally �
 
 **[2001 Letter]** FASB adopted the approach Buffett advocated since the 1999 FASB goodwill debate: impairment-only testing for goodwill, eliminating mandatory amortization. "Consequently, our reported earnings will more closely reflect economic reality." Berkshire's annual goodwill amortization charge disappears under the new rules, increasing reported earnings (though not true economic earnings).
 
+### Derivatives as Financial Weapons of Mass Destruction (2002)
+
+**[2002 Letter]** The most quoted passage in the entire letter corpus: "Derivatives are financial weapons of mass destruction, carrying dangers that, while now latent, are potentially lethal." Buffett draws on Berkshire's direct experience unwinding Gen Re Securities (23,218 contracts → 14,384; $173M loss in 2002 alone) to argue:
+
+- **Mark-to-myth accounting:** Both counterparties can simultaneously report profits using "fanciful assumptions." "Large amounts of risk have become concentrated in the hands of relatively few derivatives dealers... the troubles of one could quickly infect the others."
+- **Daisy-chain systemic risk:** Derivatives create linkages between institutions similar to pre-Federal Reserve banking. "There is no central bank assigned to the job of preventing dominoes toppling in insurance or derivatives."
+- **LTCM precedent:** A single firm with a few hundred employees "could well have posed a serious threat to the stability of American markets" — and derivatives concentration has grown since.
+
+This essay, written in 2002, would prove prescient — almost exactly describing the mechanisms of the 2008 financial crisis six years later[^13].
+
+### Corporate Governance: The Boardroom Problem (2002)
+
+**[2002 Letter]** The most comprehensive treatment of governance failure across all letters. Key arguments:
+
+- **Boardroom atmosphere** sedates the "fiduciary gene" — directors too collegial to challenge CEO pay or foolish acquisitions
+- **Four audit committee questions** that would transform governance: (1) If the auditor were solely responsible, how would financial statements differ? (2) If the auditor were an investor, would they have the information needed to understand financial performance? (3) Is the company following the same internal audit procedures the auditor would choose? (4) Are any policies helping the company meet earnings targets that the auditor would reverse if given full control?
+- **Stock-option expensing history:** FASB voted 7-0 to expense options; the US Senate voted 88-9 to oppose the rule. "So much for independence"
+
+### Owner-Capitalism (2003)
+
+**[2003 Letter]** Berkshire's governance model formalized as "owner-capitalism": 11 directors each own $4M+ in Berkshire stock (family holdings); no stock options, no restricted shares, no D&O liability insurance. Four new directors: David Gottesman, Charlotte Guyman, Don Keough, Tom Murphy.
+
+"Who ever washes a rental car?" — directors with their own wealth at risk govern differently from those playing with other people's money. Primary board responsibility: select Buffett's successor from four internal candidates.
+
+### Clayton/McLane — Acquisition Speed Advantage (2003)
+
+**[2003 Letter]** Two acquisitions illustrate Berkshire's capital allocation advantages:
+
+- **Clayton Homes:** Originated from reading Jim Clayton's autobiography (gifted by Tennessee students). Kevin Clayton called; Buffett made an offer "based solely on Jim's book, my evaluation of Kevin, the public financials of Clayton and what I had learned from the Oakwood experience." No investment bankers, no due diligence team.
+- **McLane ($23B sales):** Single 2-hour meeting with Wal-Mart CFO, handshake, money wired in 29 days, no due diligence. "We knew everything would be exactly as Wal-Mart said it would be — and it was."
+- **Byron Trott** (Goldman Sachs) now instrumental in three Berkshire acquisitions — the only Wall Street intermediary Buffett trusts[^14].
+
+### Designated Gifts Program Terminated (2003)
+
+**[2003 Letter]** The shareholder-designated charitable contributions program (launched in 1981, Munger's idea) is terminated — abortion-related boycotts were hurting Pampered Chef's independent kitchen consultants. "We see nothing charitable in harming decent, hard-working people just so we and other shareholders can gain some minor tax efficiencies." Capital allocation principle: subsidiary welfare trumps parent-level tax optimization.
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -412,3 +449,7 @@ The mechanism: a CEO commits to 15% annual EPS growth → fails operationally �
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop as universal valuation; 80%+ ownership tax advantage; eight acquisitions $8B 97% cash; CEO growth predictions danger; EBITDA tooth-fairy critique
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — fat wallet problem escalated ("elephants needed"); MiTek ownership model; SFAS 142 goodwill impairment victory; six acquisitions all cash
+
+[^13]: [2002 Letter](../sources/buffett-letter-2002.md) — derivatives WMD essay; mark-to-myth accounting; Gen Re Securities wind-down; boardroom governance; four audit committee questions; stock-option expensing FASB/Senate history; corporate governance
+
+[^14]: [2003 Letter](../sources/buffett-letter-2003.md) — owner-capitalism governance; Clayton/McLane acquisition speed; Byron Trott; Designated Gifts termination; successor planning; four internal candidates

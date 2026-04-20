@@ -29,6 +29,8 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2002,
+    buffett-letter-2003,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -136,6 +138,16 @@ Preferred customers +1.6%; standard/non-standard -10.1%; total policies in force
 
 Tony Nicely: "an owner's dream... Everything he does makes sense. He never engages in wishful thinking or otherwise distorts reality." [^13]
 
+### 2002: Spectacular Year
+
+**[2002 Letter]** Premiums surge to $6.9B (from $2.9B in 1996); underwriting profit $416M; float $4.7B. Internet new business +75%. Tony Nicely praised for 41-year devotion. 19,162 associates received profit-sharing at 19% of salary.
+
+A cautionary anecdote: GEICO's 1981-83 umbrella/product liability venture retained only $72K in net premium but generated $94.1M in losses (a 130,000% loss ratio). $90.3M came from deadbeat reinsurers who couldn't pay. "So much for 'cheap' reinsurance." [^14]
+
+### 2003: 5% Market Share
+
+**[2003 Letter]** Market share reaches **5.0%** (from 2.1% when Tony Nicely took over in 1992). Premiums $8.1B (from $2.2B in 1992). Preferred policyholders +8.2%, standard/non-standard +21.4%. Buffalo customer service center announced — 2,500 new jobs, Governor Pataki instrumental. Tony Nicely has tripled GEICO's market share in 11 years while maintaining underwriting profitability. [^15]
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -168,3 +180,7 @@ Tony Nicely: "an owner's dream... Everything he does makes sense. He never engag
 [^12]: [2000 Letter](../sources/buffett-letter-2000.md) — advertising miss; four causes of cost increase; State Farm 18% underwriting loss; low-cost model still "inevitable"; profit-sharing 8.8% $40.7M; 4,696,842 policies in force
 
 [^13]: [2001 Letter](../sources/buffett-letter-2001.md) — underwriting profit $221M; float $4.25B; premium +6.6%; overall policies -0.8%; Tony Nicely praised as "owner's dream"
+
+[^14]: [2002 Letter](../sources/buffett-letter-2002.md) — $6.9B premiums; $416M underwriting profit; internet +75%; 19,162 associates; 19% profit-sharing; $72K→$94.1M loss anecdote
+
+[^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation

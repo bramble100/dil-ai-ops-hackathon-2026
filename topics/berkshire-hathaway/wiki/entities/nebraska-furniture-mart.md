@@ -2,7 +2,22 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993]
+sources:
+  [
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-2002,
+    buffett-letter-2003,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -74,6 +89,12 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 
 **[1993 Letter]** Sales reach approximately $200M. Mrs. B turns 100 in December 1993 — still working, still "mentally sharp as ever." Buffett notes the milestone in the letter with characteristic warmth. The NFM-Mrs. B reunion (her return to the fold in 1992) and her centennial represent the human dimension of the Berkshire acquisition model: character-based businesses and character-based management, measured in decades not quarters.[^5]
 
+### 2002-2003: Kansas City Expansion
+
+**[2002 Letter]** NFM opens a massive new store in Kansas City — an expansion beyond the Omaha home market that tests whether the NFM model travels.
+
+**[2003 Letter]** The Kansas City store becomes the **"country's largest-volume home-furnishings store"** with 25+ acres of parking. The success is so prominent that President Bush claims "paternity" during a visit. Mrs. B's philosophy endures: "If you have the lowest price, customers will find you at the bottom of a river." [^6]
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — NFM as a wonderful business: cost advantage, volume dominance, pricing power through value
@@ -90,3 +111,5 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — Mrs. B returns; non-compete at 99
 
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) — ~$200M sales; Mrs. B turns 100
+
+[^6]: [2003 Letter](../sources/buffett-letter-2003.md) — Kansas City store — country's largest-volume home-furnishings store; President Bush visit; Mrs. B quote

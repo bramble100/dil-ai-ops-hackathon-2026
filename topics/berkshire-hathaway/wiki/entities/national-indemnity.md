@@ -27,6 +27,8 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2002,
+    buffett-letter-2003,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -137,3 +139,17 @@ Other Primary managers (2001): Rod Eldred, John Kizer, Tom Nerney, Michael Stear
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Ajit Jain $2.4B retroactive premium; A-Rod disability policy; Grab.com $1B prize policy; retroactive reinsurance mechanics explained
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — post-9/11 mega-policies (South American refinery, airlines, North Sea oil platform, Sears Tower, World Cup, Winter Olympics); float $35.5B total; Other Primary $579M premium +40%; $685M float
+
+### 2002-2003: Ajit's Empire
+
+**[2002 Letter]** Ajit Jain's operation now holds **$13.4B in float** — built from a standing start in 1986 with a workforce of only 20 people. Underwriting profit $534M after absorbing a $428M retroactive insurance charge. "We would rather earn a lumpy 15% over time than a smooth 12%." Berkshire's total float: $41.2B at 1% cost.
+
+Smaller primary insurers (Rod Eldred, John Kizer, Tom Nerney, Don Towle, Don Wurster) collectively: float up 38% to $943M with $32M underwriting profit. [^13]
+
+**[2003 Letter]** Ajit writes a PepsiCo $1 billion prize policy (contestants' chance at winning would trigger a payment of up to $1B — Berkshire accepts $250M present-value exposure). Underwriting profit: $1.4B (ex-retroactive). Total float: $44.2B at zero cost. All four insurance segments profitable.
+
+Smaller primary insurers: float $1.3B, underwriting profit $47M. "Berkshire has the best collection of managers, the most capital, the lowest costs and the greatest willingness to accept large, unusual risks." [^14]
+
+[^13]: [2002 Letter](../sources/buffett-letter-2002.md) — Ajit $13.4B float, 20-person staff, $534M profit, $428M retroactive charge; smaller primaries float $943M +38%
+
+[^14]: [2003 Letter](../sources/buffett-letter-2003.md) — PepsiCo $1B prize policy; $1.4B underwriting profit; total float $44.2B at zero cost; smaller primaries $1.3B float
