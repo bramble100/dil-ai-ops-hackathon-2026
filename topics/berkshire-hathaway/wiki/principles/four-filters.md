@@ -20,6 +20,7 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -154,6 +155,16 @@ Is it "really so difficult to conclude that Coca-Cola and Gillette possess far l
 
 **[1996 Letter]** Inactivity as intelligent behavior: "We make more money when snoring than when active... inactivity strikes us as intelligent behavior." And: "Lethargy bordering on sloth remains the cornerstone of our investment style." Both restate that the filters, properly applied, produce very few actionable ideas — and acting without filter satisfaction is the primary source of permanent loss.
 
+### Tech Stocks and Circle of Competence (1999)
+
+**[1999 Letter]** The most explicit statement of Buffett's technology stock refusal — not as a value judgment on the industry, but as a disciplined application of filter (1):
+
+> "I don't own technology stocks not because of past success or failure with them, but because I can't assess with reasonable confidence the durability of competitive advantage in these businesses. Intelligent people disagree with me. But I would rather accept the uncertainty of missing the opportunity than invest without the required understanding." — 1999 Letter
+
+The distinction is critical: Buffett doesn't claim tech stocks are overpriced. He claims he lacks the analytical tools to judge them, which is a circle-of-competence problem, not a valuation problem. His edge (35+ years of business analysis) doesn't transfer to businesses where today's dominant firm might be displaced by tomorrow's startup. This restates the filter (1)/(2) combined requirement: you need to understand the business (filter 1) *and* have confidence it will remain competitive (filter 2).
+
+"Comfortable business at comfortable price" is the formulation: if you need a precise answer, the business probably fails filter (1). The best investments require only a rough approximation of value — a "fat pitch." Tech stocks in 1999 don't even clear filter (1) for Buffett, let alone filter (4).[^8]
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
@@ -176,3 +187,5 @@ Is it "really so difficult to conclude that Coca-Cola and Gillette possess far l
 [^6]: [1994 Letter](../sources/buffett-letter-1994.md) — patience as scarce resource; degree-of-difficulty doesn't count
 
 [^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — no-strategic-plan advantage; circle of competence; index fund endorsement; inactivity as intelligent behavior
+
+[^8]: [1999 Letter](../sources/buffett-letter-1999.md) — tech-stock circle of competence; "comfortable business at comfortable price"; durability of competitive advantage test

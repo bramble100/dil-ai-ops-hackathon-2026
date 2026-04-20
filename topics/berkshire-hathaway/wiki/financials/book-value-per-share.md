@@ -23,6 +23,9 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1998,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -59,6 +62,9 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1994     | $10,083.00       | 13.9%      | 23.0%                     |
 | 1995     | $14,426.00       | 43.1%      | 23.6%                     |
 | 1996     | $19,011.00       | 31.8%      | 23.8%                     |
+| 1997     | $25,488.00       | 34.1%      | 24.1%                     |
+| 1998     | $37,801.00       | 48.3%      | 24.7%                     |
+| 1999     | $37,987.00       | 0.5%       | 24.0%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
@@ -92,6 +98,14 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1995 Letter]** Net worth gain $5.3B (45.0%); per-share book value grew 43.1% to $14,426 — the second-highest percentage gain ever (after 1985's 48.2%). 31-year CAGR: 23.6%. Three acquisitions doubled revenues: Helzberg's, R.C. Willey, and GEICO (100%). But Buffett warns the stock has outpaced intrinsic value: "at a price at which Charlie and I would not consider buying it." "Rising tide lifts all yachts." Shares outstanding rose from stock-for-acquisition issuances.
 
 - **[1996 Letter]** Net worth gain $6.2B (36.1%); per-share book value grew 31.8% to $19,011; 32-year CAGR 23.8%. Class B shares offered publicly ($100M+ IPO); FlightSafety acquired for cash + fractional BRK shares. GEICO consolidation required a $478.4M step-acquisition writedown (purchase price exceeding prior carrying value of the 50.2% tranche at cost). Look-through earnings: $1,522M. Two-column intrinsic value framework introduced: $28,500/share investments + $421/share pre-tax operating earnings.
+
+- **[1997 Letter]** Per-share book value grew 34.1% to $25,488; 33-year CAGR 24.1%. "Duck rating: Quack" — passive S&P investors rose almost as fast, and the index bears no tax costs. Float: $7,093.1M (5th consecutive year at negative cost). Operating earnings $1,715.7M pre-tax. Unconventional investments (silver 111.2M oz, zero-coupon Treasuries $4.6B) contributed unrealized gains. Margin of safety warning: prices have "materially eroded the margin of safety" (Dow 7,071, T-bond 5.92%).
+
+- **[1998 Letter]** Per-share book value grew 48.3% to $37,801; 34-year CAGR 24.7%. **"Not as good as it looks"** — the gain was inflated by issuance of Berkshire shares to acquire General Re (Dec 21). Per-share intrinsic value grew meaningfully less than 48.3% because shareholders received less value per share than the $37,801 implies. General Re brought float from $7B to $22.7B overnight; Berkshire is now the largest P&C insurer in the US by float. Operating earnings $1,899M.
+
+- **[1999 Letter]** Per-share book value grew only 0.5% to $37,987; 35-year CAGR 24.0%. "Worst absolute and relative performance in our history." S&P rose 21% that year. Capital allocation grade: D. General Re's $1.4B underwriting loss absorbed most of the year's operating earnings ($1,085M). GEICO spectacularly good; General Re spectacularly bad. The 0.5% gain is the lowest in the 35-year series.
+
+_Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value growth because General Re was acquired for Berkshire stock. "Those of you who follow our quarterly reports will notice that our per-share book value isn't as good as it looks — we issued a lot of shares." This is the stock-for-stock confession from 1997 letter materialized at scale.
 
 ## The Inflation Caveat
 

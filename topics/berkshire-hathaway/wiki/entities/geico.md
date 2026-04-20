@@ -24,6 +24,9 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1998,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -103,6 +106,16 @@ Float from GEICO operations alone: $2.9B. Combined ratio: substantially below 10
 - **Tony Nicely** — CEO of insurance operations; 34-year GEICO veteran; grew policies at 2x industry rate
 - **Lou Simpson** — Chief Investment Officer; 22.8% CAGR (1980-1995) vs. 15.7% S&P 500; manages $4.5B equity portfolio independently[^8]
 
+### 1997-1999: Spectacular Growth Phase
+
+**[1997 Letter]** Policy growth accelerates to 16% — 913,176 new policies written; 2,949,439 in-force. "Then in 1997, growth jumped to 16%." Underwriting profit 8.1% — too high; goal is 4%; rates voluntarily reduced 3.3% in 1997 to pass savings to policyholders. Profit-sharing: **26.9% of salary** ($71M to associates). Marketing budget raised to $100M+ for 1998. Lorimer Davidson, GEICO's former CEO who taught Buffett insurance for four hours in January 1951, turns 95. Tony Nicely celebrates his best year at age 54, after 36 years at GEICO[^9].
+
+**[1998 Letter]** Market share grows from 3.0% to 3.5% of US auto insurance — gaining half a point in a single year. Profit-sharing: **32.3% of salary** ($103M to 9,313 associates — an all-company record). Marketing budget: $143M. "The more we see of GEICO, the more we admire it." Tony Nicely achieves singular focus: every operational decision evaluated through the lens of long-term policy growth at adequate profitability[^10].
+
+**[1999 Letter]** GEICO's most spectacular year: market share jumps from 2.7% to **4.1%** — a 1.4-percentage-point gain in a single year, the fastest annual gain in company history. Profit-sharing: **28.4% of salary** ($113.3M to 8,874 associates, avg ~$12,800/associate). Marketing budget: **$242M** — nearly double the prior year. Tony Nicely continues as the best auto insurer operator in the country.
+
+Lorimer Davidson, who taught a 20-year-old Buffett insurance on a January Saturday in 1951, died at age 97. "It makes me sad that Lorimer is gone, but his influence on Berkshire is with us still." The original GEICO connection — Buffett's cold-call to GEICO's Washington DC office in 1951 — is now bookended: from first visit to Davidson's death, the 48-year arc is complete[^11].
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -125,3 +138,9 @@ Float from GEICO operations alone: $2.9B. Combined ratio: substantially below 10
 [^7]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,760M → $1,678M market value; 48.4% → 50.2% ownership (via GEICO buybacks); negative-cost float
 
 [^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 100% acquisition for $2.3B; Lorimer Davidson origin story; Tony Nicely 10% policy growth; Lou Simpson 22.8% CAGR; float $2.9B; incentive comp 16.9%
+
+[^9]: [1997 Letter](../sources/buffett-letter-1997.md) — 16% policy growth; 26.9% profit-sharing $71M; $100M+ marketing; rates reduced 3.3%; Lorimer Davidson turns 95
+
+[^10]: [1998 Letter](../sources/buffett-letter-1998.md) — market share 3.0→3.5%; 32.3% profit-sharing $103M; $143M marketing
+
+[^11]: [1999 Letter](../sources/buffett-letter-1999.md) — market share 4.1%; 28.4% profit-sharing $113.3M; $242M marketing; Lorimer Davidson dies age 97

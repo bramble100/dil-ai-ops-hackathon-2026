@@ -23,6 +23,9 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1998,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -288,6 +291,48 @@ GEICO's plan is the exemplar: twin metrics of (a) voluntary policy growth and (b
 
 **[1996 Letter]** FlightSafety International acquired for ~$1.5B in cash plus fractional Berkshire shares. Al Ueltschi (age 79, founded 1951) came to Buffett after an NYSE seatmate mentioned Berkshire. The deal illustrates three capital allocation principles: (1) cold-call deal flow from reputation alone; (2) cash-heavy structure to minimize dilution; (3) purchasing a business Buffett admires but doesn't need to understand at a technical level — the four filters are met by the economics and management, not by simulator expertise[^8].
 
+### Stock-for-Stock Confession (1997)
+
+**[1997 Letter]** After reviewing the aggregate results of all Berkshire stock-only mergers (excluding affiliated transactions), Buffett concludes shareholders are "slightly worse off" in each case. The core problem: Berkshire's existing businesses are batting .380 hitters. Acquiring a .350 hitter by trading a .380 hitter makes no mathematical sense, no matter how attractive the acquiree is in absolute terms.
+
+> "When I've issued stock, I've cost you money." — 1997 Letter
+
+The stock-for-stock discipline is hereby hardened: Berkshire will continue to issue stock when required for deal flow, but only reluctantly and only when consideration can be tilted toward cash (as in the IDQ deal, where Buffett offered cash-weighted consideration).
+
+### Ted Williams Batting Zone (1997)
+
+**[1997 Letter]** Buffett introduces the Ted Williams batting zone as a capital allocation framework. Williams identified 77 zones in the strike zone and calculated that swinging only at balls in his "best" cell (high-inside fastball) would allow him to bat .400; reaching for balls in his "worst" spot (low-outside corner) would reduce him to .230.
+
+> "Berkshire is swinging at balls just catching the lower outside corner — we will accept lower returns rather than stretch into bad territory." — 1997 Letter
+
+The lesson: discipline about staying in your zone is more important than activity. Berkshire will accept short-term underperformance (holding cash or near-zero-yield investments) rather than deploy capital at inadequate returns.
+
+### CEO Mission Statement (1998)
+
+**[1998 Letter]** The 1998 letter contains the most explicit statement of Berkshire's CEO mission:
+
+> "Charlie's and my first priority will be to protect this extraordinary collection of businesses and the wonderful managers who operate them. Our second priority is to add new businesses similar in character to those we already have. Third is to increase our per-share intrinsic value at a rate beyond that achieved by the typical large American corporation." — 1998 Letter
+
+The emphasis on protection first distinguishes Berkshire from typical growth-oriented companies. The order matters: protecting existing value is harder than creating new value and deserves first billing.
+
+### Restructuring Charges Golf-Score Analogy (1998)
+
+**[1998 Letter]** One of the most withering accounting critiques: "Like the golfer who reports his handicap by excluding 'bad' weeks," CEOs recategorize recurring costs as non-recurring "restructuring" charges to inflate "normalized" earnings. The resulting "earnings before restructuring charges" become the baseline for option grants and bonus targets. "The biggest restructuring charge in recent memory was a $1.7B write-off at a major company — and in the following year they announced another $1.4B restructuring."
+
+The systemic effect: "Son of Gresham" — bad accounting drives out good. Honest companies that don't play these games look worse by GAAP comparison and face capital market disadvantages relative to competitors who manage appearances aggressively.[^9]
+
+### Share Repurchase Extended Framework (1999)
+
+**[1999 Letter]** Buffett extends the share repurchase framework with a more explicit articulation: Berkshire would repurchase shares if they trade at a significant discount to intrinsic value AND there are no better uses for the capital. The hurdle is steep: the discount must be "material and demonstrable" — not merely "stocks are cheaper than they were." And the opportunity cost must be clear. This is not a programmatic buyback policy but a commitment to act when the math is compelling.
+
+The principle: repurchasing undervalued shares is the ultimate aligned-owner capital allocation move. "It is our policy to repurchase Berkshire shares if they are trading at a substantial discount to our estimate of intrinsic value."[^10]
+
+### FASB Goodwill Debate (1999)
+
+**[1999 Letter]** FASB proposed eliminating pooling-of-interests accounting (which combined balance sheets at book value, creating no goodwill) and requiring purchase accounting (which recognizes goodwill amortized over 40 years). Buffett's objection: straight-line goodwill amortization is economically misleading because economic goodwill typically rises (See's Candies' goodwill grows every year as brand strength compounds), while the accounting rule creates a phantom declining expense.
+
+His preferred approach: impairment-only — only charge goodwill when it actually declines. "Economic goodwill generally rises over time; the FASB rule destroys the very metric it intends to track." This debate would eventually resolve in Berkshire's favor: SFAS 142 (2001) eliminated mandatory amortization and replaced it with an annual impairment test.[^10]
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -299,6 +344,8 @@ GEICO's plan is the exemplar: twin metrics of (a) voluntary policy growth and (b
 - [Coca-Cola](../entities/coca-cola.md) — permanent holding par excellence
 - [Gillette](../entities/gillette.md) — convertible preferred as risk-managed deployment
 - [Borsheim's](../entities/borsheims.md) — the trust-based acquisition model
+- [General Re](../entities/general-re.md) — largest acquisition; structural rationale; stock-for-stock dilution caveat
+- [Executive Jet Aviation](../entities/executive-jet.md) — fractional aircraft business; capital-light model
 
 [^1]: [1980 Letter](../sources/buffett-letter-1980.md) — GEICO buyback
 
@@ -315,3 +362,7 @@ GEICO's plan is the exemplar: twin metrics of (a) voluntary policy growth and (b
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — EPS accretion fallacy; chain letter in reverse; compensation rationality; fat wallet problem
 
 [^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — Class B recapitalization; no-strategic-plan advantage; Gillette $625M opportunity cost; GEICO incentive comp plan; FlightSafety acquisition structure
+
+[^9]: [1997 Letter](../sources/buffett-letter-1997.md) & [1998 Letter](../sources/buffett-letter-1998.md) — stock-for-stock confession; Ted Williams batting zone; CEO mission statement; restructuring charges golf analogy; Son of Gresham; stock-option Alice in Wonderland
+
+[^10]: [1999 Letter](../sources/buffett-letter-1999.md) — share repurchase extended framework; FASB goodwill debate; impairment-only proposal; capital allocation grade D

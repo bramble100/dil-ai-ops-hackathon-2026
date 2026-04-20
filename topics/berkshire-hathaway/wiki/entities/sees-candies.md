@@ -2,7 +2,28 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1999,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -69,6 +90,7 @@ NFM synergy: a See's cart placed in Nebraska Furniture Mart "sold more candy tha
 ### 20-Year Retrospective (1991)
 
 **[1991 Letter]** The definitive See's teaching moment. The 20-year scorecard:
+
 - Sales: $29M (1972) → $196M (1991)
 - Pre-tax profits: $4.2M (1972) → $42.4M (1991)
 - Net worth required: $7M (1972) → $25M (1991) — only $18M of additional capital needed over 20 years
@@ -87,6 +109,12 @@ Pre-tax profit margin 1991: record 21.6%; volume down 4% in pounds (California r
 **[1993 Letter]** Pre-tax earnings $41.2M — slight decline from 1992. Revenue and poundage stable. Mrs. B of Nebraska Furniture Mart turns 100 in December, Buffett notes she is "as mentally sharp as ever." Chuck Huggins continues as manager; the compensation arrangement remains unchanged in over two decades.
 
 **[1994 Letter]** Pre-tax earnings $47.5M — a new record. Revenue growth from price increases. See's now earns more than eleven times its 1972 purchase price on essentially the same tangible asset base — the cumulative demonstration of economic goodwill in action. Since acquisition, See's has generated cumulative pre-tax profits approximately 20x its original $25M purchase price.[^6]
+
+### 1999 Cumulative Record
+
+**[1999 Letter]** See's achieves a 24% pre-tax profit margin — a new record. Cumulative pre-tax profits since the 1972 acquisition: **$857M**. Purchase price: $25M. The business has generated profits **34x its purchase price** over 27 years on essentially the same tangible asset base (~$25-30M). This is Buffett's most enduring single-company demonstration of economic goodwill in action: $25M of tangible assets + brand + Chuck Huggins = $857M in profits over 27 years[^7].
+
+The 1999 result is particularly striking given that See's had pre-tax earnings of $47.5M in 1994 — meaning it earned roughly the same amount across 5 years despite modest price inflation, while the cumulative profit milestone crossed $857M.
 
 ## Connections
 
@@ -107,3 +135,5 @@ Pre-tax profit margin 1991: record 21.6%; volume down 4% in pounds (California r
 [^5]: [1991 Letter](../sources/buffett-letter-1991.md) — 20-year retrospective; $410M cumulative distributed
 
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $41.2M → $47.5M pre-tax; new record in 1994; cumulative profits ~20x purchase price
+
+[^7]: [1999 Letter](../sources/buffett-letter-1999.md) — record 24% pre-tax margin; $857M cumulative pre-tax profits; 34x purchase price

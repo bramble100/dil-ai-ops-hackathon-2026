@@ -23,6 +23,9 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1998,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -230,9 +233,30 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 - **Don Wurster** — runs structured settlements and loss reserve assumptions at National Indemnity
 - **Ajit Jain** — handles all large reinsurance deals from a single room; key to the CAT reinsurance strategy from 1989
 
+### Float Surge: General Re Acquisition (1997-1998)
+
+**[1997 Letter]** Float reaches $7,093.1M — fifth consecutive year at negative cost (underwriting profit). NICO and other primaries aggregate 15.0% underwriting profit; GEICO 8.1% (too high — goal is 4%; rates reduced 3.3%). Catastrophe bonds critique: Buffett calls them "an Orwellian misnomer." A true bond obligates the issuer to pay; these instruments transfer the payment obligation to the *buyer* when a disaster occurs. Promoters structured them to circumvent state licensing laws, then labeled them "bonds" to create a false sense of safety. Mispriced risk may go undetected for years — a 75.4% probability exists of rolling no 12 on a pair of dice across 10 annual rolls.
+
+> "These instruments have been cleverly designed to circumvent state licensing laws and to give naive buyers the impression that they are buying something with the safety of bonds. They are not." — 1997 Letter
+
+NICO managers (1997): Don Wurster (traditional NICO, 32.9% underwriting profit); Rod Eldred (homestate, 14.1%); Brad Kinstler (workers' comp, +1.5% 3-year avg); John Kizer (Central States, record volume); Don Towle (Kansas Bankers Surety, exceeded expectations).
+
+**[1998 Letter]** Float nearly triples overnight with General Re acquisition (Dec 21, 1998): $6.7B → $22.7B yearend 1998. Composition: $3.1B GEICO + $4.3B NICO and affiliates + $15.3B General Re. Structural rationale for acquiring General Re: public reinsurers face Wall Street pressure to smooth earnings and limit catastrophe exposure — they are structurally forced to reject the most volatile (and best-priced) policies. Berkshire, indifferent to quarterly earnings volatility, can write policies competitors cannot. Ajit Jain super-cat: $154.6M operating earnings in 1998. "Ajit has created tens of billions of dollars of value for Berkshire."[^8]
+
+### General Re Crisis (1999)
+
+**[1999 Letter]** General Re's 1999 underwriting: pre-tax loss **$1.4B** — from inadequate pricing during the prior soft market, redundant reserve adjustments, and reserve strengthening. Float cost jumped to ~5.8% vs. the T-bond rate. Total float reaches $25.3B: GEICO ~$3.4B; NICO and affiliates $6.3B; General Re remainder.
+
+> "I have not kept the promise I made at the time of the acquisition, and I apologize." — 1999 Letter
+
+Ajit Jain milestone: his book of business generates **$6.3B in float** — built entirely from scratch. "In Ajit, we have a combination of talent and integrity that is unmatched."
+
+GEICO's spectacular 1999: market share 2.7%→4.1% (fastest annual gain in company history). Profit-sharing 28.4% ($113.3M). Marketing $242M. The GEICO float continues to grow even as General Re faces reserve rehabilitation.[^9]
+
 ## Connections
 
 - [National Indemnity](../entities/national-indemnity.md) — the operational embodiment
+- [General Re](../entities/general-re.md) — 1998 acquisition; float surge to $22.7B; 1999 underwriting crisis
 - [Business Quality](business-quality.md) — insurance can be a great business _if_ run with discipline
 - [Capital Allocation](capital-allocation.md) — financial strength enables discipline; weak balance sheets force bad underwriting
 
@@ -249,3 +273,7 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — float to $2.6B then $3.1B; negative cost both years; $400M single-event policy; Ajit Jain praised; new reinsurance capacity causing price deterioration
 
 [^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — float $3.6B → $6.7B; GEICO consolidation doubles float; 22.3% CAGR; California Earthquake Authority ~$1B; Ajit Jain 10-year record; "bad reinsurance is like hell"; GEICO incentive comp
+
+[^8]: [1997 Letter](../sources/buffett-letter-1997.md) & [1998 Letter](../sources/buffett-letter-1998.md) — float $7.1B → $22.7B; General Re acquisition rationale; catastrophe bonds critique; Ajit Jain $154.6M; NICO aggregate 15.0%; GEICO 16% growth; 5 consecutive years negative cost
+
+[^9]: [1999 Letter](../sources/buffett-letter-1999.md) — General Re $1.4B underwriting loss; Buffett apology; float $25.3B; Ajit Jain $6.3B built from scratch; GEICO market share 4.1%; Lorimer Davidson death

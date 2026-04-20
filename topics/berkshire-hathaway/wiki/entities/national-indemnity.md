@@ -22,6 +22,9 @@ sources:
     buffett-letter-1992,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1998,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -74,11 +77,20 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 
 **[1996 Letter]** Combined ratio 74.2 — a remarkable result even by NICO standards. Kansas Bankers Surety acquired (met at Mrs. B's birthday party; Don Towle as president). The non-GEICO insurance operations collectively provided $1.4B in float at negative cost. Ajit Jain's 10-year track: built a $3B float business from scratch. California Earthquake Authority contract written (~$1B exposure); Allstate Florida super-cat renewed[^7].
 
+### 1997-1999 Performance
+
+**[1997 Letter]** NICO and other primary lines aggregate: **15.0% underwriting profit**. Individual managers: Don Wurster (traditional NICO, 32.9% profit — exceptional), Rod Eldred (homestate operations, 14.1%), Brad Kinstler (workers' comp, +1.5% three-year average), John Kizer (Central States, record volume), Don Towle (Kansas Bankers Surety, exceeded expectations). The management team is the most productive unit-by-unit collection in Berkshire's non-insurance subsidiaries[^8].
+
+**[1998 Letter]** Ajit Jain's super-cat operation: $154.6M operating earnings in 1998 — one of the best results in the history of the business. Combined with the traditional NICO results, the non-GEICO insurance operations contributed $4.3B of the $22.7B total Berkshire float at yearend 1998. "Ajit has created tens of billions of dollars of value for Berkshire."[^9]
+
+**[1999 Letter]** Ajit Jain milestone: his book of business now generates **$6.3B in float** — built entirely from scratch over approximately a decade, using no organizational hierarchy, no infrastructure, and no template. "In Ajit, we have a combination of talent and integrity that is unmatched." Total Berkshire float $25.3B, of which NICO and affiliates (Ajit's universe) account for $6.3B[^10].
+
 ## Connections
 
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — National Indemnity is the living example
 - [Business Quality](../principles/business-quality.md) — insurance as a tailwind business when properly managed
 - [Capital Allocation](../principles/capital-allocation.md) — insurance float generates investment capital
+- [General Re](general-re.md) — the third major insurance pillar from 1998
 
 [^1]: [1978 Letter](../sources/buffett-letter-1978.md) — "best portion of our insurance business"
 
@@ -93,3 +105,9 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 [^6]: [1992 Letter](../sources/buffett-letter-1992.md) — Central States Indemnity acquired; negative-cost float from Wurster and Eldred
 
 [^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — combined ratios 84.2 and 74.2; Kansas Bankers Surety acquired; Ajit Jain 10-year/$3B float; California Earthquake Authority
+
+[^8]: [1997 Letter](../sources/buffett-letter-1997.md) — NICO aggregate 15.0% underwriting profit; Don Wurster 32.9%; Rod Eldred 14.1%; Brad Kinstler; John Kizer; Don Towle
+
+[^9]: [1998 Letter](../sources/buffett-letter-1998.md) — Ajit Jain super-cat $154.6M; NICO+affiliates $4.3B of $22.7B total float
+
+[^10]: [1999 Letter](../sources/buffett-letter-1999.md) — Ajit Jain $6.3B float built from scratch; total Berkshire float $25.3B

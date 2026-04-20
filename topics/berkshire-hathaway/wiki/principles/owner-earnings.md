@@ -21,6 +21,8 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -159,6 +161,24 @@ The teaching: investors can independently value Berkshire by valuing each column
 
 **[1995 Letter]** Berkshire overhead at less than 2 basis points of net worth — demonstrating that look-through earnings are not consumed by corporate overhead. Headquarters staff grew from 11 to 12[^8].
 
+### Look-Through Earnings 1997 and 1999
+
+**[1997 Letter]** Look-through earnings: $1,930M = $1,292M reported operating + $743M investee retained − $105M hypothetical tax. Seven major investees: Amex 10.7% ($161M), Coke 8.1% ($216M), Disney 3.2% ($65M), Freddie Mac 8.6% ($86M), Gillette 8.6% ($82M), WaPo 16.5% ($30M), Wells Fargo 7.8% ($103M). Minor increase from $1,522M (1996) — investee retained earnings rose as Berkshire's ownership percentages were maintained[^9].
+
+**[1998 Letter — suspended]** Buffett did not publish look-through earnings for 1998. General Re was acquired on December 21 — with less than two weeks of operating history under Berkshire ownership, including General Re's investees in look-through calculations would distort the picture. "We'll return to look-through next year when our ownership of General Re and its investees spans a full year."
+
+**[1999 Letter]** Look-through earnings resume: $1,926M = $1,085M reported operating + $921M investee retained − $80M hypothetical tax. Nearly flat from 1997 despite the General Re acquisition — General Re's investees added volume but reporting-year economics (the $1.4B underwriting loss) reduced the operating component substantially. General Re added to the investee universe for the first time[^9].
+
+### Stock-Option Cost Adjustment (1998)
+
+**[1998 Letter]** Buffett provides the most explicit methodology for adjusting reported earnings for unrecorded option costs: subtract "the public-equivalent market value" of options granted during the year. Since options on a publicly-traded stock can be valued using Black-Scholes or equivalent, the failure to record this expense is not an accounting ambiguity but a deliberate exclusion. "If options aren't an expense, what are they? If compensation isn't an expense, what is it? Where does it go?" This methodology extends the Company O vs. Company N framework from 1986 — owner earnings must capture all real economic costs, including those GAAP allows to escape the income statement[^9].
+
+### Pooling vs. Purchase and Goodwill (1999)
+
+**[1999 Letter]** Extended debate on FASB's proposed elimination of pooling-of-interests accounting. Under pooling, balance sheets combine at book value with no goodwill created. Under purchase, goodwill is recognized and amortized over 40 years. Buffett's critique of mandatory purchase-plus-amortization: the 40-year straight-line amortization is economically meaningless for businesses whose goodwill rises (franchise businesses like See's Candies). The FASB rule creates a phantom declining expense that obscures true owner earnings.
+
+Preferred approach: record the goodwill asset at cost, test it annually for impairment, and amortize only when actual evidence of value decline exists. This "impairment-only" approach preserves the owner-earnings principle: only charge real economic costs. "Economic goodwill generally rises over time; the FASB rule destroys the very metric it intends to track." This FASB reform ultimately passed as SFAS 142 in 2001[^10].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — owner earnings reveal what ROE calculations miss
@@ -181,3 +201,7 @@ The teaching: investors can independently value Berkshire by valuing each column
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — $1,030M look-through; Scott Fetzer as 9-year proof; intrinsic value definition
 
 [^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — look-through $1,522M; two-column intrinsic value framework; <2 basis points overhead
+
+[^9]: [1997 Letter](../sources/buffett-letter-1997.md) & [1999 Letter](../sources/buffett-letter-1999.md) — look-through $1,930M (1997) and $1,926M (1999); 1998 suspended for General Re timing; investee tables; stock-option cost adjustment methodology
+
+[^10]: [1999 Letter](../sources/buffett-letter-1999.md) — pooling vs. purchase debate; impairment-only goodwill proposal; SFAS 142 anticipation

@@ -553,3 +553,69 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "How do you become a millionaire? Make a billion dollars and then buy an airline." — Richard Branson, quoted in 1996 Letter
 >
 > Context: The USAir experience distilled into a one-liner. → [Capital Allocation](principles/capital-allocation.md)
+
+---
+
+## 1997-1999 Additions
+
+### Markets & Valuation
+
+> "Edit the headline 'Investors lose as market falls' to 'Dis-investors lose as market falls — but investors gain.'" — 1997 Letter
+>
+> Context: The hamburger analogy — ongoing buyers should welcome lower prices. → [Mr. Market](principles/mr-market.md)
+
+> "Today's price levels, though, have materially eroded the 'margin of safety' that Ben Graham identified as the cornerstone of intelligent investing." — 1997 Letter
+>
+> Context: Written at Dow 7,071 — the first direct margin-of-safety warning. → [Mr. Market](principles/mr-market.md)
+
+> "Equity investors are wildly optimistic about future returns. Many have abandoned all other standards. When the market falls, they'll be stunned." — 1999 Letter
+>
+> Context: The "enchanted market" — 1999 tech bubble overvaluation warning. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation & Management
+
+> "When I've issued stock, I've cost you money." — 1997 Letter
+>
+> Context: The stock-for-stock acquisition confession — all Berkshire stock-only mergers in aggregate left shareholders slightly worse off. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Swinging only at balls in his 'best' cell, he knew, would allow him to bat .400... reaching for balls in his 'worst' spot... would reduce him to .230." — 1997 Letter (quoting Ted Williams)
+>
+> Context: Ted Williams batting zone as capital allocation framework — accept lower returns rather than stretch into bad territory. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Charlie's and my first priority will be to protect this extraordinary collection of businesses and the wonderful managers who operate them." — 1998 Letter
+>
+> Context: The CEO mission statement — protection of existing value first, growth second. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Like the golfer who reports his handicap by excluding 'bad' weeks, some CEOs back out restructuring charges year after year." — 1998 Letter
+>
+> Context: Restructuring charges golf-score analogy — persistent non-recurring charges that recur every year. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Son of Gresham: bad accounting drives out good." — 1998 Letter
+>
+> Context: Companies that adopt honest accounting look worse by comparison — systemic pressure toward financial deception. → [Owner Earnings](principles/owner-earnings.md)
+
+### Insurance & Risk
+
+> "These instruments have been cleverly designed to circumvent state licensing laws and to give naive buyers the impression that they are buying something with the safety of bonds. They are not." — 1997 Letter
+>
+> Context: Catastrophe bonds as "Orwellian misnomer" — a bond where the issuer isn't obligated to pay. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "I have not kept the promise I made at the time of the acquisition, and I apologize." — 1999 Letter
+>
+> Context: General Re's $1.4B underwriting loss — Buffett's public apology to shareholders. → [General Re](entities/general-re.md)
+
+### Circle of Competence
+
+> "I would rather accept the uncertainty of missing the opportunity than invest without the required understanding." — 1999 Letter
+>
+> Context: Tech stocks and circle of competence — refusing to invest in businesses whose durable competitive advantage cannot be assessed. → [Four Filters](principles/four-filters.md)
+
+### Self-Deprecation
+
+> "Duck rating for 1997: Quack." — 1997 Letter
+>
+> Context: 34.1% book value gain with the S&P rising nearly as fast — Buffett deflates the apparent triumph. → [Book Value Per Share](financials/book-value-per-share.md)
+
+> "Capital allocation grade: D." — 1999 Letter
+>
+> Context: Self-assessment of 1999 — worst absolute and relative performance in Berkshire's history. → [Capital Allocation](principles/capital-allocation.md)

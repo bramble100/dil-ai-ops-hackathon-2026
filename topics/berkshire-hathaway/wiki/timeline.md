@@ -173,3 +173,32 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 1996 | USAir recovery: $47.9M arrears paid; common at $40 (from $4); Buffett expects to sell                | Investment  | [Capital Allocation](principles/capital-allocation.md)             |
 | 1996 | Look-through earnings $1,522M; two-column intrinsic value framework introduced                       | Financial   | [Owner Earnings](principles/owner-earnings.md)                     |
 | 1996 | Book value $19,011/share (23.8% CAGR from 1964); 31.8% YoY; net worth gained $6.2B                   | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1997 | Star Furniture acquired (July 1): 12 Houston-area stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral | Acquisition | [Star Furniture](entities/star-furniture.md) |
+| 1997 | International Dairy Queen agreed (late 1997, closed early 1998): 5,792 stores, 23 countries          | Acquisition | [Dairy Queen](entities/dairy-queen.md)                             |
+| 1997 | GEICO: 16% policy growth (2,949,439 in-force); profit-sharing 26.9%/$71M; rates reduced 3.3%         | Insurance   | [GEICO](entities/geico.md)                                         |
+| 1997 | Float $7,093.1M — 5th consecutive year at negative cost; 21.7% CAGR since 1967                       | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 1997 | Lorimer Davidson (GEICO mentor) turns 95; taught Buffett insurance on a Saturday in 1951              | People      | [GEICO](entities/geico.md)                                         |
+| 1997 | Stock-for-stock acquisition confession: all Berkshire stock-only mergers made shareholders "slightly worse off" | Principles | [Capital Allocation](principles/capital-allocation.md) |
+| 1997 | Catastrophe bonds critique: "Orwellian misnomer" — buyer bears the payment obligation, not the issuer | Principles | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 1997 | Margin of safety warning: "materially eroded" (Dow 7,071, T-bond 5.92%)                              | Principles  | [Mr. Market](principles/mr-market.md)                              |
+| 1997 | Silver purchase: 111.2M ounces; $97.4M unrealized gain at yearend                                    | Investment  |                                                                    |
+| 1997 | Look-through earnings $1,930M; book value $25,488/share (34.1% YoY, 24.1% CAGR)                      | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1998 | General Re acquired (Dec 21): ~$22B in Berkshire stock; largest US P&C reinsurer; 82% Cologne Re     | Acquisition | [General Re](entities/general-re.md)                               |
+| 1998 | Executive Jet Aviation (NetJets) acquired (Aug 7): ~$725M; Rich Santulli; 163 aircraft               | Acquisition | [Executive Jet Aviation](entities/executive-jet.md)                |
+| 1998 | GEICO: market share 3.0→3.5%; profit-sharing 32.3%/$103M; $143M marketing                            | Insurance   | [GEICO](entities/geico.md)                                         |
+| 1998 | Float surges to $22.7B; composition: $3.1B GEICO + $4.3B NICO/affiliates + $15.3B General Re         | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 1998 | Scott Fetzer: record $96.5M after-tax on $112M net worth (86% ROE)                                   | Business    | [Scott & Fetzer](entities/scott-fetzer.md)                         |
+| 1998 | "Son of Gresham" accounting critique: stock-options, restructuring charges, pooling — three mechanisms of bad driving out good | Principles | [Owner Earnings](principles/owner-earnings.md) |
+| 1998 | Arthur Levitt (SEC) endorses Buffett's stock-option expensing position publicly                       | Regulatory  |                                                                    |
+| 1998 | Book value $37,801/share (48.3% YoY — "not as good as it looks"; General Re share issuance inflated) | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1999 | Jordan's Furniture acquired (Nov 13): Barry/Eliot Tatelman; highest sales/sqft US furniture retail   | Acquisition | [Jordan's Furniture](entities/jordans-furniture.md)                |
+| 1999 | MidAmerican Energy acquired (~$2B): David Sokol CEO; Walter Scott Jr.; PUHCA constrains voting to <10% | Acquisition | [MidAmerican Energy](entities/midamerican-energy.md) |
+| 1999 | GEICO: market share 2.7→4.1% (fastest annual gain ever); profit-sharing 28.4%/$113.3M; $242M marketing | Insurance | [GEICO](entities/geico.md) |
+| 1999 | General Re: $1.4B underwriting loss; Buffett apologizes to shareholders; reserve rehabilitation begun | Insurance   | [General Re](entities/general-re.md)                               |
+| 1999 | Lorimer Davidson dies age 97 — the man who taught Buffett insurance in 1951                           | People      | [GEICO](entities/geico.md)                                         |
+| 1999 | See's Candies: record 24% pre-tax margin; $857M cumulative pre-tax profits since 1972                 | Business    | [See's Candies](entities/sees-candies.md)                          |
+| 1999 | Ajit Jain: $6.3B float built from scratch; total Berkshire float $25.3B                              | Insurance   | [National Indemnity](entities/national-indemnity.md)               |
+| 1999 | Tech-stock circle of competence articulated: "I can't assess durability of competitive advantage"     | Principles  | [Four Filters](principles/four-filters.md)                         |
+| 1999 | Market overvaluation warning: "equity investors wildly optimistic"; estimate 10-yr real return 4-6%   | Principles  | [Mr. Market](principles/mr-market.md)                              |
+| 1999 | FASB goodwill debate: impairment-only proposal (anticipates SFAS 142, 2001)                           | Regulatory  | [Owner Earnings](principles/owner-earnings.md)                     |
+| 1999 | Book value $37,987/share (0.5% YoY — worst absolute and relative performance ever; capital allocation grade D) | Financial | [Book Value](financials/book-value-per-share.md) |

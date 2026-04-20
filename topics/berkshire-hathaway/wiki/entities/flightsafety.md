@@ -2,7 +2,7 @@
 title: "FlightSafety International"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1996]
+sources: [buffett-letter-1996, buffett-letter-1998, buffett-letter-1999]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -29,8 +29,19 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 
 > "Al Ueltschi had a simple conviction: if you want to become a good pilot, you should train in a simulator rather than risk your neck in an airplane." — 1996 Letter (paraphrase)
 
+[^1]: [1996 Letter](../sources/buffett-letter-1996.md) — acquisition Dec 1996; Al Ueltschi age 79; 41 centers; 175 simulators; $700M revenues
+
+[^2]: [1998 Letter](../sources/buffett-letter-1998.md) & [1999 Letter](../sources/buffett-letter-1999.md) — $169.7M operating earnings (1998 first full year); FlightSafety Boeing 50/50 JV; 222 simulators; $215M capex; EJA exclusive training
+
+## 1998-1999 Performance
+
+**[1998 Letter]** First full year (post-Dec 1996 acquisition): $169.7M operating earnings. The capex-intensive nature of the business is confirmed — building and maintaining simulators requires massive ongoing investment, but the returns are excellent because simulator costs create an effective entry barrier for new competitors.
+
+**[1999 Letter]** FlightSafety and Boeing form a **50/50 joint venture** — FlightSafety Boeing — to provide training for Boeing airliner types. The venture operates **222 simulators** (up from 175 at acquisition) with **$215M in capex** invested in 1999 alone. FlightSafety also becomes the exclusive pilot training provider for EJA/NetJets — an intra-Berkshire operational linkage[^2].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — cold-call deal from reputation; cash-heavy structure
 - [Four Filters](../principles/four-filters.md) — all four criteria met; circle of competence doesn't require technical knowledge
 - [Business Quality](../principles/business-quality.md) — recurring revenue, high barriers (simulator cost), captive customers
+- [Executive Jet Aviation](executive-jet.md) — exclusive training provider relationship (1999)

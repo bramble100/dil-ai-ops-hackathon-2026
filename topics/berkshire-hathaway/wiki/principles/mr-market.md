@@ -14,6 +14,8 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-1997,
+    buffett-letter-1999,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -123,6 +125,28 @@ The five real risk factors: (1) certainty of long-term business economics; (2) m
 
 **[1996 Letter]** Buffett cites his own USAir purchase as the negative example: "I was neither combative nor fair" in my analysis — seduced by the preferred's yield rather than honestly evaluating the business. Mr. Market offered a premium exit; Buffett was fortunate to escape with $47.9M in arrears paid and the stock at $40 (from $4). The lesson: when you lack genuine insight into filter (2) — long-term prospects — you are not Mr. Market's exploiter; you are his patsy.
 
+### Hamburger Analogy and Ongoing-Buyer Logic (1997)
+
+**[1997 Letter]** A new analogy for why ongoing investors should welcome falling stock prices:
+
+> "Investors who expect to be net purchasers of investments throughout their lifetimes should welcome market declines in the same way that a regular purchaser of hamburgers welcomes lower beef prices. For them, falling prices are good news, not bad news." — 1997 Letter
+
+The suggested headline revision: "Edit 'Investors lose as market falls' to 'Dis-investors lose as market falls — but investors gain.'" Only those who are selling (converting a portion of their investments to consumption) are harmed by falling prices. The long-term accumulator should root for low prices every day.
+
+**[1997 Letter]** Margin of safety warning: "Today's price levels... have materially eroded the 'margin of safety' that Ben Graham identified as the cornerstone of intelligent investing." (Written at Dow 7,071, T-bond 5.92%.) This is the first explicit overvaluation warning since the 1995 "duck rating" — and more serious because it directly invokes Graham's margin of safety concept rather than using self-deprecation.[^9]
+
+### "Enchanted Market" and Equity Valuation (1999)
+
+**[1999 Letter]** The most sweeping market overvaluation warning in Buffett's letter history. Written at Dow ~11,497:
+
+> "Equity investors are wildly optimistic about future returns. Many have abandoned all other standards. When the market falls, they'll be stunned." — 1999 Letter
+
+The mathematical argument: for US stocks to achieve the returns investors expected in 1999 from current valuations, corporate profits would need to reach an impossibly high fraction of GDP (far above historical peaks), OR price-earnings ratios would need to remain at historically elevated levels indefinitely, OR both. "The math doesn't work." Buffett's estimate: realistic 10-year real equity returns of 4-6% annually (after inflation and transaction costs) — far below the 17% annualized that had prevailed in the preceding 17 years.
+
+The "enchanted market" frame: investors had extrapolated a unique period (rising valuations + robust business growth) as if it were the permanent baseline. "Investors now expect the stock market to produce miracles." Driven by behavioral anchoring to a decade of compounding gains and the tech-stock mania.
+
+**[1999 Letter]** On share repurchases: Berkshire would exploit Mr. Market on the buy side via repurchases if shares traded at a material discount to intrinsic value — provided no better alternative existed. This is Mr. Market's contrarian framework applied to Berkshire's own stock: management acting as the disciplined buyer when Mr. Market is the panicking seller.[^10]
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -145,3 +169,7 @@ The five real risk factors: (1) certainty of long-term business economics; (2) m
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — macro-forecast irrelevance; fear as friend of the fundamentalist
 
 [^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — overvaluation warning; "snoring vs active"; Bulls-trade-Jordan; ten-year holding test; USAir as patsy lesson
+
+[^9]: [1997 Letter](../sources/buffett-letter-1997.md) — hamburger analogy; ongoing-buyer logic; margin of safety warning at Dow 7,071
+
+[^10]: [1999 Letter](../sources/buffett-letter-1999.md) — "enchanted market"; equity investors "wildly optimistic"; 10-year real return estimate 4-6%; share repurchase as Mr. Market exploitation

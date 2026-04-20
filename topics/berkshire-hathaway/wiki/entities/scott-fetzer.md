@@ -2,7 +2,7 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994, buffett-letter-1998]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -68,6 +68,10 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 "Ralph just keeps on outdoing himself." The compensation arrangement — worked out in five minutes, never changed — is the model for rational incentive design: "no lawyers, no compensation consultants; a few very simple ideas"[^8].
 
+## 1998 Record Year
+
+**[1998 Letter]** Scott Fetzer achieves its best year: **$96.5M after-tax earnings on $112M net worth** — an 86% after-tax ROE. "One of the most undervalued companies in the country when we bought it in 1986." Ralph Schey continues to manage 19 businesses with minimal interference from headquarters. The 1998 result confirms that the 1994 nine-year retrospective was not a peak: the business continues to generate near-100% returns on its tangible asset base[^9].
+
 ## Connections
 
 - [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
@@ -85,3 +89,5 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 [^7]: [1992 Letter](../sources/buffett-letter-1992.md) — $110M pre-tax on $116M equity; distributed >100% of earnings since 1986
 
 [^8]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — 1993: $77.5M pre-tax on $111.2M book; 1994 full nine-year retrospective: $79.3M earnings, $94.0M book, would rank #1 Fortune 500 ROE
+
+[^9]: [1998 Letter](../sources/buffett-letter-1998.md) — record $96.5M after-tax on $112M net worth (86% ROE); "most undervalued company when we bought it"
