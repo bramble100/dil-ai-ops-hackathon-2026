@@ -33,12 +33,12 @@ description: Processes raw source documents into the wiki - creates source summa
 
 **When:** The user says "ingest" without naming a specific file.
 
-**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). Before moving anything, read `source_path` frontmatter from every file in `wiki/sources/` and treat any root-level file already referenced there as already ingested. Only classify and move root-level files that are **not** present in any `source_path`, moving them to the appropriate subfolder (`articles/`, `papers/`, `notes/`, or `assets/`). Leave referenced files in place unless you are also updating every affected `wiki/sources/*` `source_path`. Confirm the classification with the user before moving. This keeps `raw/` organized without breaking existing source references.
+**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). Before moving anything, read `source_path` and `source_original` frontmatter from every file in `wiki/sources/` and treat any root-level file referenced by either as already ingested. Only classify and move root-level files that are **not** referenced anywhere, moving them to the appropriate primary-source subfolder: `articles/`, `papers/`, or `notes/`. **PDFs that are primary sources go to `papers/`.** **Do not** route primary sources into `assets/` — `assets/` is reserved for non-ingestible content: embedded images, supporting binaries, and **originals of sources already converted to Markdown** (e.g., a PDF whose `.md` version lives in `articles/` or `papers/`). Confirm classification with the user before moving. Leave referenced files in place unless you are also updating every affected `source_path`/`source_original`.
 
 **Step 2 — Find unprocessed sources.**
 
-1. List all files in `raw/` across subdirectories (articles, papers, notes). Exclude `.gitkeep` and files in `assets/`.
-2. Read `source_path` frontmatter from every file in `wiki/sources/`.
+1. List all files in `raw/` across the primary-source subdirectories (`articles/`, `papers/`, `notes/`). Exclude `.gitkeep`. **Do not** list files in `raw/assets/` — that folder is non-ingestible by definition (attachments + originals of converted sources).
+2. Read `source_path` **and** `source_original` frontmatter from every file in `wiki/sources/` to build the set of already-represented raw files. A file listed under `source_original` is already represented by its `source_path` sibling and must not be ingested separately.
 3. Compare the two lists. Present unprocessed files as a numbered list.
 4. **Batch plan check:** If there are 10 or more unprocessed files, or if a quick size check (`wc -l` across the files) suggests a total reading load above ~3000 lines, pause before asking which files to process. Explain the context degradation risk and recommend batch mode: _"There are N unprocessed sources — processing them all at once risks degraded quality as context fills up. Would you like to create a batch plan first?"_ If yes, load `.claude/skills/ingest/BATCH.md` and follow the Generating a Batch Plan workflow. If no, proceed — but cap the session at 3–5 sources.
 5. Ask the user which file(s) to process.
@@ -143,4 +143,4 @@ No links in log entries.
 - **Source in wrong folder:** Article in `raw/notes/` or note in `raw/articles/` - doesn't matter for processing. Mention it but don't refuse to ingest.
 - **Very long source (>5000 words):** Focus on the most novel/important claims. Note in the summary which sections you focused on.
 - **Source with images:** Read text first. If diagrams or charts seem important, tell the user you can view them separately for additional context.
-- **Non-markdown source (PDF, image):** Note in the summary that the raw source is not markdown. Extract what you can.
+- **Non-markdown source (PDF, image):** If the PDF is a primary source and no Markdown conversion exists, place it in `raw/papers/` and note in the summary that the raw source is not Markdown — extract what you can. If a `.md` conversion already exists (or you produce one), the canonical ingested file is the `.md` (in `articles/` or `papers/`), and the original binary belongs in `raw/assets/` referenced from the source summary via `source_original:`. This prevents the PDF from being re-ingested as a separate source.

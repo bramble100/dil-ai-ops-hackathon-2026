@@ -68,7 +68,7 @@ After the batch is fully processed and bookkeeping is done, check off completed 
 Triggered when: user says "create a batch plan" / "prepare for ingestion", or Phase 1 finds 10+ sources and the user agrees to batch mode.
 
 **Step 1 — Inventory unprocessed sources.**
-List all files in `raw/articles/`, `raw/papers/`, `raw/notes/`. Move any unsorted files from `raw/` root to the correct subfolder first. Exclude `.gitkeep` and `raw/assets/`. Check `wiki/sources/` to filter out already-ingested files.
+List all files in the primary-source folders `raw/articles/`, `raw/papers/`, `raw/notes/`. Move any unsorted files from `raw/` root to the correct subfolder first (see SKILL.md Phase 1 Step 1 for classification rules — PDFs that are primary sources go to `papers/`). Exclude `.gitkeep`. **Do not inventory `raw/assets/`** — it is non-ingestible by definition (attachments + originals of sources already converted to Markdown). Build the already-ingested set from **both** `source_path` and `source_original` frontmatter in `wiki/sources/*.md`, then subtract it from the inventory.
 
 **Step 2 — Identify natural ordering.**
 Look for an inherent sequence: publication date, numbered chapters, alphabetical series, etc. If one exists, process in that order — later sources often reference earlier ones. If no ordering is obvious, group thematically.

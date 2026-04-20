@@ -53,7 +53,12 @@ The **default layout** works for most knowledge domains. When a domain has a nat
 - **Amsterdam** (`places/`, `themes/`, `practical/`, `hotels/`) — travel wiki organized by what you'd look up
 - **Rheinmetall** (`entities/`, `concepts/`, `financials/`, `comparisons/`) — corporate analysis with dedicated financial pages
 
-The `raw/` subdirectories (`articles/`, `papers/`, `notes/`, `assets/`) are always the same across all topics. Users can also drop files directly into `raw/` without sorting — the ingest skill will classify and move them to the right subfolder before processing.
+The `raw/` subdirectories are always the same across all topics:
+
+- `articles/`, `papers/`, `notes/` — **primary-source folders.** Files here are inventoried for ingestion. PDFs that are primary sources go to `papers/`.
+- `assets/` — **non-ingestible.** Holds embedded images, supporting binaries, and originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in `articles/` or `papers/`). Never inventoried as a source. Link originals from a source summary via the optional `source_original:` frontmatter field (see Source Summary below).
+
+Users can also drop files directly into `raw/` without sorting — the ingest skill will classify and move them to the right subfolder before processing.
 
 ### Topic Isolation
 
@@ -77,9 +82,10 @@ title: "<Descriptive title>"
 type: source
 source_path: "raw/articles/filename.md"
 source_url: "<original URL if applicable>"
+source_original: "raw/assets/filename.pdf"  # optional: path to the binary original when source_path is a conversion (e.g., PDF→Markdown). Protects the original from being re-ingested.
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
-status: "complete | partial | incomplete"
+status: complete  # allowed: complete | partial | incomplete
 tags: [tag1, tag2]
 ---
 ```
@@ -124,7 +130,7 @@ A specific named thing: a tool, person, organization, product, framework, servic
 ---
 title: "<Entity name>"
 type: entity
-entity_kind: "tool | person | organization | product | framework | service"
+entity_kind: tool  # allowed: tool | person | organization | product | framework | service
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
@@ -163,7 +169,7 @@ An open question, contradiction, or gap identified during ingest or lint. Stays 
 ---
 title: "<Question as a sentence>"
 type: question
-status: "open | investigating | resolved"
+status: open  # allowed: open | investigating | resolved
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
 tags: [tag1, tag2]

@@ -128,7 +128,7 @@ For a custom layout, replace section names to match (e.g., `## Places`, `## Them
 
 ## Phase 5: Create TOPIC.md
 
-```markdown
+````markdown
 # <Topic Name> - Topic Configuration
 
 ## Purpose
@@ -146,18 +146,16 @@ For a custom layout, replace section names to match (e.g., `## Places`, `## Them
 
 ### Frontmatter
 
-## \`\`\`yaml
-
+```yaml
+---
 title: Page Title
-type: source | <custom types matching layout>
+type: source  # or a custom type matching the layout
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-status: draft | complete
+status: draft  # allowed: draft | complete
 tags: [tag1, tag2]
-
 ---
-
-\`\`\`
+```
 
 <Add domain-specific conventions: claim attribution labels, language rules, number formatting, etc.>
 
@@ -166,7 +164,7 @@ tags: [tag1, tag2]
 1. <question 1>
 2. <question 2>
 3. <...3-5 questions that define the topic's direction>
-```
+````
 
 Work with the user to fill in layout, conventions, and questions. If the user doesn't have strong opinions, propose reasonable defaults based on the domain.
 
