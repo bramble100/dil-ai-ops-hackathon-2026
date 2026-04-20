@@ -19,6 +19,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -247,5 +248,33 @@ Lou Simpson's 25-year track record (**20.3% CAGR** vs. S&P 13.5%) on ~$2.5B of G
 [^15]: [2004 Letter](../sources/buffett-letter-2004.md) — Big Four ($3.83B cost / $36.3B value / $1.2B earnings share); "talked when should have walked" Bubble confession; normal return paradox; three investor enemies; Lou Simpson 20.3% CAGR
 
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
+
+### The Gotrocks Family and Newton's Fourth Law (2005)
+
+**[2005 Letter]** Buffett's most complete parable on why investors as a whole earn less than the businesses they own. The Gotrocks family — owning all of corporate America — progressively hires four tiers of Helpers (brokers → managers → consultants → hyper-Helpers/hedge funds), each extracting fees that reduce the family's share of earnings. Frictional costs now consume ~20% of corporate earnings.
+
+> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
+
+The Dow rose from 66 to 11,497 in the 20th century — a 5.3% annual rate (plus dividends). To match that pace in the 21st century, the Dow must reach 2,011,011 by 2099. Six years into the century, the Dow had gained not at all.
+
+Portfolio expectations sobered: Berkshire's major equity holdings "may double in value in ten years" — 6-8% earnings growth, stock prices to match. "Expect no miracles from our equity portfolio." This sober assessment contrasts sharply with the 1988-1998 era of double-digit returns from permanent holdings[^16].
+
+**[2005 Letter]** The foreign currency shift: direct currency positions reduced; replaced with foreign equities earning profits internationally. Rationale: rising US rates create "significant negative carry" on currency positions, while foreign equity ownership generates positive carry. The underlying trade-deficit thesis remains: "our country's 'Sharecropper's Society' problem" continues to worsen[^16].
+
+[^16]: [2005 Letter](../sources/buffett-letter-2005.md) — Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR math; portfolio expectations 6-8%; foreign currency to foreign equities shift
+
+### The Gotrocks Family and Newton's Fourth Law (2005)
+
+**[2005 Letter]** Buffett's most complete parable on why investors as a whole earn less than the businesses they own. The Gotrocks family — owning all of corporate America — progressively hires four tiers of Helpers (brokers → managers → consultants → hyper-Helpers/hedge funds), each extracting fees that reduce the family's share of earnings. Frictional costs now consume ~20% of corporate earnings.
+
+> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
+
+The Dow rose from 66 to 11,497 in the 20th century — a 5.3% annual rate (plus dividends). To match that pace in the 21st century, the Dow must reach 2,011,011 by 2099. Six years into the century, the Dow had gained not at all.
+
+Portfolio expectations sobered: Berkshire's major equity holdings "may double in value in ten years" — 6-8% earnings growth, stock prices to match. "Expect no miracles from our equity portfolio." This sober assessment contrasts sharply with the 1988-1998 era of double-digit returns from permanent holdings[^16].
+
+**[2005 Letter]** The foreign currency shift: direct currency positions reduced; replaced with foreign equities earning profits internationally. Rationale: rising US rates create "significant negative carry" on currency positions, while foreign equity ownership generates positive carry. The underlying trade-deficit thesis remains: "our country's 'Sharecropper's Society' problem" continues to worsen[^16].
+
+[^16]: [2005 Letter](../sources/buffett-letter-2005.md) — Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR math; portfolio expectations 6-8%; foreign currency to foreign equities shift
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble ended March 10, 2000 (NASDAQ 5,132 = day BRK hit $40,800 low); equity prices presage only moderate returns

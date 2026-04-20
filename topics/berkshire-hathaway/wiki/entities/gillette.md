@@ -2,7 +2,16 @@
 title: "The Gillette Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-2005,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -54,7 +63,21 @@ The honest risk: if all Berkshire receives is the preferred yield, "the result w
 - [Salomon Inc](salomon-inc.md) — same preferred structure, earlier vintage
 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — Gillette preferred, convertible strategy overview
+
 [^2]: [1990 Letter](../sources/buffett-letter-1990.md) — Mockler obituary; Gillette preferred valued "somewhat more" than cost
+
 [^3]: [1991 Letter](../sources/buffett-letter-1991.md) — conversion to common; $1,347M market value; P/E re-rating
+
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $1,365M market value; secondary market outperforms negotiated preferreds
+
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,431M → $1,797M market value; 60%+ global razor blade share; moat castle metaphor
+
+### 2005: Merged into P&G
+
+**[2005 Letter]** Gillette merges into Procter & Gamble (closed Q4 2005). Jim Kilts's turnaround praised as exceptional — Kilts is the example of a CEO whose pay was justified (see [Capital Allocation](../principles/capital-allocation.md)). Berkshire received P&G shares; the transaction generated a $5.0B paper gain under GAAP — which Buffett dismisses as "meaningless" since Berkshire simply exchanged Gillette shares for P&G shares with no cash proceeds.
+
+Buffett's verdict on the Kilts-era Duracell acquisition: "From the day he arrived, Jim saw Duracell as a drag on the razor/blade business" — suggesting the acquisition was value-destructive, though Kilts managed the combined entity brilliantly.
+
+With the merger, Gillette disappears from Berkshire's equity portfolio; P&G takes its place as one of the Big Four (alongside AmEx, Coca-Cola, and Wells Fargo) [^6].
+
+[^6]: [2005 Letter](../sources/buffett-letter-2005.md) — P&G merger Q4 2005; Jim Kilts praised; $5B paper gain dismissed; Duracell critique; P&G replaces Gillette in Big Four

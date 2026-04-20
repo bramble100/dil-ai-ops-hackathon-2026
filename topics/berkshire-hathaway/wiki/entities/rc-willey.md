@@ -53,3 +53,9 @@ A Reno expansion is planned for Spring 2006. Buffett: "I predict it will fail. B
 - [Business Quality](../principles/business-quality.md) — exceptional management overcoming structural retail challenge
 - [Nebraska Furniture Mart](nebraska-furniture-mart.md) — Blumkin family referral network
 - [Capital Allocation](../principles/capital-allocation.md) — stock exchange; Berkshire network as deal sourcing
+
+### 2005: Boise Soars, Reno Opens
+
+**[2005 Letter]** R.C. Willey's out-of-state expansion continues to prove Buffett wrong: Boise sales up **21%** in 2005. **Reno store opened November 2005**; **Sacramento planned for June 2006**. Scott Hymas continues as CEO, with Bill Child as Chairman. The closed-on-Sunday stores continue to outperform expectations: "Lots of people apparently want to shop on the other six days" [^4].
+
+[^4]: [2005 Letter](../sources/buffett-letter-2005.md) — Boise +21%; Reno opened Nov 2005; Sacramento planned Jun 2006; Scott Hymas CEO

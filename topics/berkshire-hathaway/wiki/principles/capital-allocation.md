@@ -29,6 +29,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -398,6 +399,98 @@ This essay, written in 2002, would prove prescient — almost exactly describing
 ### Owner-Capitalism (2003)
 
 **[2003 Letter]** Berkshire's governance model formalized as "owner-capitalism": 11 directors each own $4M+ in Berkshire stock (family holdings); no stock options, no restricted shares, no D&O liability insurance. Four new directors: David Gottesman, Charlotte Guyman, Don Keough, Tom Murphy.
+
+### Fred Futile and the Option Math Scandal (2005)
+
+**[2005 Letter]** The most devastating mathematical takedown of fixed-price stock options in the corpus. Buffett constructs a thought experiment:
+
+"Fred Futile, CEO of Stagnant, Inc." receives options on 1% of a $10B company earning $1B annually (10% ROE). Fred retains all earnings and repurchases shares. After ten years — with the business improving not at all — shares outstanding shrink from 100M to 38.7M, EPS rises from $10 to $25.80, and at a constant 10x P/E, the stock appreciates 158%. Fred earns $158M. "Astonishingly, Fred could have made more than $100 million if Stagnant's earnings had declined by 20%."
+
+The core flaw: fixed-price options give management free capital. "CEOs invariably preach internally that capital comes at a cost, they somehow forget to tell shareholders that fixed-price options give them capital that is free." Adjusted-strike options (accounting for retained earnings) would eliminate this perverse incentive — "but options of that kind are almost never issued."
+
+On severance: "Nothing succeeds like failure" — a fired CEO can "earn" more cleaning out his desk than a worker earns in a lifetime. Comp committees are "slaves to comparative data" — "yesterday's most egregious excess becomes today's baseline" via the childhood argument: "But, Mom, all the other kids have one."
+
+The counter-example: Jim Kilts at Gillette — "It's difficult to overpay the truly extraordinary CEO of a giant enterprise. But this species is rare." Berkshire paid ~9.7% of Kilts's compensation as a major shareholder and considered it money well earned[^14].
+
+### The Gotrocks Parable — Frictional Cost Destruction (2005)
+
+**[2005 Letter]** A parable for why investors as a whole underperform the businesses they own:
+
+The Gotrocks family owns all of corporate America (~$700B annual earnings). They hire Helpers (brokers) to trade among themselves — a zero-sum game minus fees. Results decline, so they hire manager-Helpers. Then consultant-Helpers. Finally, hyper-Helpers (hedge funds, private equity) wearing "sewn-on sexy names" who demand contingent fees.
+
+> "A record portion of the earnings that would go in their entirety to owners — if they all just stayed in their rocking chairs — is now going to a swelling army of Helpers." — 2005 Letter
+
+Frictional costs now consume ~20% of American business earnings before reaching equity investors. Buffett's conclusion invokes Newton:
+
+> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
+
+### Debt Philosophy Restated (2005)
+
+**[2005 Letter]** Three — and only three — acceptable uses of debt at Berkshire:
+
+1. **Repos** for short-term trading strategies involving US government securities (opportunistic, liquid)
+2. **Receivables financing** (Clayton Homes; could securitize instead, but "we prefer better profits to better cosmetics")
+3. **MidAmerican utility debt** (ringfenced; Berkshire does not guarantee; serviced by diversified, stable utility earnings)
+
+> "A long string of impressive numbers multiplied by a single zero always equals zero. That is not an equation whose effects I would like to experience personally." — 2005 Letter
+
+On risk: "We are quite willing to accept huge risks" — mega-cat policies, concentrated equity portfolio — "Whatever occurs, though, Berkshire will have the net worth, the earnings streams and the liquidity to handle the problem with ease."
+
+### Management Succession — First Public Discussion (2005)
+
+**[2005 Letter]** The first explicit treatment of succession planning in the letter corpus:
+
+- Three internal candidates identified; board unanimous on current choice
+- None has Buffett's "crossover experience" in both business operations and investments — the investment function will be separated and assigned to a hired specialist ("that's what we have done at GEICO for 26 years")
+- On the "decay" scenario: "Humans age at greatly varying rates — Charlie is a wonder at 82 — and others noticeably fade in their 60s. When their abilities ebb, so usually do their powers of self-assessment"
+- Board financial alignment: directors' Berkshire holdings are so large that a decline in company value would be materially painful — "I know of no other board in the country in which the financial interests of directors are so completely aligned"
+- "And while we are on the subject, I feel terrific."
+
+### Fred Futile and the Option Math Scandal (2005)
+
+**[2005 Letter]** The most devastating mathematical takedown of fixed-price stock options in the corpus. Buffett constructs a thought experiment:
+
+"Fred Futile, CEO of Stagnant, Inc." receives options on 1% of a $10B company earning $1B annually (10% ROE). Fred retains all earnings and repurchases shares. After ten years — with the business improving not at all — shares outstanding shrink from 100M to 38.7M, EPS rises from $10 to $25.80, and at a constant 10x P/E, the stock appreciates 158%. Fred earns $158M. "Astonishingly, Fred could have made more than $100 million if Stagnant's earnings had declined by 20%."
+
+The core flaw: fixed-price options give management free capital. "CEOs invariably preach internally that capital comes at a cost, they somehow forget to tell shareholders that fixed-price options give them capital that is free." Adjusted-strike options (accounting for retained earnings) would eliminate this perverse incentive — "but options of that kind are almost never issued."
+
+On severance: "Nothing succeeds like failure" — a fired CEO can "earn" more cleaning out his desk than a worker earns in a lifetime. Comp committees are "slaves to comparative data" — "yesterday's most egregious excess becomes today's baseline" via the childhood argument: "But, Mom, all the other kids have one."
+
+The counter-example: Jim Kilts at Gillette — "It's difficult to overpay the truly extraordinary CEO of a giant enterprise. But this species is rare." Berkshire paid ~9.7% of Kilts's compensation as a major shareholder and considered it money well earned[^14].
+
+### The Gotrocks Parable — Frictional Cost Destruction (2005)
+
+**[2005 Letter]** A parable for why investors as a whole underperform the businesses they own:
+
+The Gotrocks family owns all of corporate America (~$700B annual earnings). They hire Helpers (brokers) to trade among themselves — a zero-sum game minus fees. Results decline, so they hire manager-Helpers. Then consultant-Helpers. Finally, hyper-Helpers (hedge funds, private equity) wearing "sewn-on sexy names" who demand contingent fees.
+
+> "A record portion of the earnings that would go in their entirety to owners — if they all just stayed in their rocking chairs — is now going to a swelling army of Helpers." — 2005 Letter
+
+Frictional costs now consume ~20% of American business earnings before reaching equity investors. Buffett's conclusion invokes Newton:
+
+> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
+
+### Debt Philosophy Restated (2005)
+
+**[2005 Letter]** Three — and only three — acceptable uses of debt at Berkshire:
+
+1. **Repos** for short-term trading strategies involving US government securities (opportunistic, liquid)
+2. **Receivables financing** (Clayton Homes; could securitize instead, but "we prefer better profits to better cosmetics")
+3. **MidAmerican utility debt** (ringfenced; Berkshire does not guarantee; serviced by diversified, stable utility earnings)
+
+> "A long string of impressive numbers multiplied by a single zero always equals zero. That is not an equation whose effects I would like to experience personally." — 2005 Letter
+
+On risk: "We are quite willing to accept huge risks" — mega-cat policies, concentrated equity portfolio — "Whatever occurs, though, Berkshire will have the net worth, the earnings streams and the liquidity to handle the problem with ease."
+
+### Management Succession — First Public Discussion (2005)
+
+**[2005 Letter]** The first explicit treatment of succession planning in the letter corpus:
+
+- Three internal candidates identified; board unanimous on current choice
+- None has Buffett's "crossover experience" in both business operations and investments — the investment function will be separated and assigned to a hired specialist ("that's what we have done at GEICO for 26 years")
+- On the "decay" scenario: "Humans age at greatly varying rates — Charlie is a wonder at 82 — and others noticeably fade in their 60s. When their abilities ebb, so usually do their powers of self-assessment"
+- Board financial alignment: directors' Berkshire holdings are so large that a decline in company value would be materially painful — "I know of no other board in the country in which the financial interests of directors are so completely aligned"
+- "And while we are on the subject, I feel terrific."
 
 "Who ever washes a rental car?" — directors with their own wealth at risk govern differently from those playing with other people's money. Primary board responsibility: select Buffett's successor from four internal candidates.
 

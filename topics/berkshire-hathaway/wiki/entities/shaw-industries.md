@@ -9,6 +9,7 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -59,3 +60,9 @@ Shaw illustrates Berkshire's acquisition model in manufacturing: identify the in
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — refused uncapped asbestos liability policy that led to the relationship
 
 [^4]: [2004 Letter](../sources/buffett-letter-2004.md) — $466M pre-tax; $300M+ fiber cost surge; 25.6% tangible ROE; margin pressure from lag; Bob Shaw/Julian Saul
+
+### 2005: Bolt-On Acquisitions
+
+**[2005 Letter]** Shaw made $550M in bolt-on acquisitions, mainly for **vertical integration** (moving upstream into raw materials). Bob Shaw and Julian Saul continue leading. Revenue growth despite competitive pressures in the flooring industry [^5].
+
+[^5]: [2005 Letter](../sources/buffett-letter-2005.md) — $550M bolt-on acquisitions for vertical integration

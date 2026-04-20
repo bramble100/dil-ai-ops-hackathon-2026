@@ -2,7 +2,23 @@
 title: "Charlie Munger"
 type: entity
 entity_kind: person
-sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-2005,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -59,4 +75,11 @@ In these early letters, Munger appears primarily as a named partner rather than 
 [^1]: [1981 Letter](../sources/buffett-letter-1981.md) — "Charlie and I work as partners"
 
 [^2]: [1989 Letter](../sources/buffett-letter-1989.md) — "wonderful businesses at fair prices" attribution; bacteria analogy; S&L crisis letter
+
 [^3]: [1992 Letter](../sources/buffett-letter-1992.md) — permanent two-person partnership; co-determines fair value of non-marketable securities
+
+### 2005: Age 82 and "Thumb-Sucking"
+
+**[2005 Letter]** Charlie, age 82, referenced in the succession discussion: "Humans age at greatly varying rates — Charlie is a wonder at 82." His sharpest moment in the letter is calling Buffett's dithering on Gen Re Securities a case of "thumb-sucking" — a characteristically blunt Mungerism for delayed action when the correct course was obvious. Buffett agrees: "When a problem exists, whether in personnel or in business operations, the time to act is now" [^4].
+
+[^4]: [2005 Letter](../sources/buffett-letter-2005.md) — age 82; "wonder" in succession context; "thumb-sucking" critique of Gen Re Securities delay

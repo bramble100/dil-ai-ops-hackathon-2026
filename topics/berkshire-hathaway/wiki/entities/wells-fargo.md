@@ -2,7 +2,15 @@
 title: "Wells Fargo & Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-2005,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -45,4 +53,11 @@ The Reichardt/Hazen parallel to Murphy/Burke at Capital Cities: each pair is "st
 - [Capital Allocation](../principles/capital-allocation.md) — large equity position in a bank (unusual for Berkshire)
 
 [^1]: [1990 Letter](../sources/buffett-letter-1990.md) — Wells Fargo investment rationale; Reichardt/Hazen management comparison
+
 [^2]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $879M → $985M market value; 13.3% ownership; Carl Reichardt retirement
+
+### 2005: Holdings Substantially Increased
+
+**[2005 Letter]** Berkshire substantially increases Wells Fargo position to **95.0 million shares** ($5,975M market value on $2,754M cost). Dick Kovacevich leads the merged Wells/Norwest entity. Wells Fargo joins AmEx, Coke, and P&G as one of the "Big Four" common stock holdings [^3].
+
+[^3]: [2005 Letter](../sources/buffett-letter-2005.md) — 95M shares; $5,975M value on $2,754M cost; Dick Kovacevich; Big Four member

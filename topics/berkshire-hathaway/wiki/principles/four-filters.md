@@ -22,6 +22,7 @@ sources:
     buffett-letter-1996,
     buffett-letter-1999,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -186,6 +187,18 @@ The distinction is critical: Buffett doesn't claim tech stocks are overpriced. H
 **[2004 Letter]** MidAmerican's **$579M zinc write-off** yields a new filter corollary: prefer businesses where success depends on few independent variables. "If ten independent variables need to break favorably... and each has a 90% probability of success, the likelihood of having a winner is only 35%." The conclusion: **"Stay with simple propositions"** — invest in "mono-linked chains" where one clear factor drives the outcome.
 
 This sharpens filter (1) (understandable business): understanding a business means not just knowing what it does, but assessing the **complexity of its success conditions**. A business that requires multiple independent things to go right simultaneously is inherently less predictable than one with a single dominant success factor[^10].
+
+### Forest River, Business Wire, and "No Exit Strategy" (2005)
+
+**[2005 Letter]** Three acquisition stories demonstrate the four filters applied with characteristic speed:
+
+- **Forest River:** Pete Liegl sent a **two-page fax** after reading the 2003 acquisition criteria. $1.6B revenue, 60 plants, 5,400 employees. Liegl had bought the company from an LBO operator in 1996 for a "token amount" when it was near bankruptcy, built it into the #2 RV maker. Buffett: "It took me only a few minutes to realize that Pete was a straight-shooter" (filter 3) and the RV industry was within his circle of competence (filter 1). "Pete's a dynamo, and you can be sure that he'll build Forest River."
+
+- **Business Wire:** Lorry Lokey, who founded the company in 1961 (age ~78 at sale), wrote Buffett after reading a WSJ article about Berkshire's acquisition criteria. Cathy Baron Tamraz serves as CEO. 25,000 clients in 150 countries. "Lorry created the gold standard for business wire services."
+
+- **All-cash discipline restated:** "Our consistently-Loss-free acquisition strategy has now been institutionalized. We buy businesses that are within our circle of competence; offer them at attractive prices; employ managers who run them honestly; and then we leave them alone." The "no exit strategy" formulation: "We have no exit strategy. We buy to keep." This reverses private equity's fundamental axiom. The entrance strategy is what matters — price, quality, management — because there is no second chance to get it right[^11].
+
+[^11]: [2005 Letter](../sources/buffett-letter-2005.md) — Forest River two-page fax; Business Wire letter; "no exit strategy"; all-cash acquisition discipline; Pete Liegl's LBO buyback story
 
 ## Connections
 

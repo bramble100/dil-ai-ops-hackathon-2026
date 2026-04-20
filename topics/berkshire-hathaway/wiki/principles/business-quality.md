@@ -26,6 +26,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -297,5 +298,33 @@ Other 2004 highlights:
 [^11]: [2001 Letter](../sources/buffett-letter-2001.md) — post-bubble vindication; experience vs. exposure failure in tech investing
 
 [^12]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — non-insurance $272M/month; Eddie Bennett batboy metaphor; manufactured housing industry destruction; Clayton Homes as quality survivor; "every tub on its own bottom"
+
+### "Widening the Moat" — Daily Competitive Improvement (2005)
+
+**[2005 Letter]** The most explicit articulation of moat maintenance as a daily discipline, not a one-time acquisition:
+
+> "Every day, in countless ways, the competitive position of each of our businesses grows either weaker or stronger. If we are delighting customers, eliminating unnecessary costs and improving our products and services, we gain strength. But if we treat customers with indifference or tolerate bloat, our businesses will wither." — 2005 Letter
+
+The effects are "imperceptible" daily but "enormous" cumulatively. The key principle: **short-term earnings must never come at the expense of long-term competitive position.** "If a management makes bad decisions in order to hit short-term earnings targets, and consequently gets behind the eight-ball in terms of costs, customer satisfaction or brand strength, no amount of subsequent brilliance will overcome the damage that has been inflicted."
+
+Auto and airline industries cited as cautionary examples of "huge problems handed them by their predecessors" — moat damage compounds and becomes irreversible.
+
+The eclectic manufacturing/service/retail segment earned **22.2% on average tangible net worth** in 2005 — selling products "from Dilly Bars to fractional interests in Boeing 737s" — demonstrating that even mundane businesses generate excellent returns when managed with moat-widening discipline[^13].
+
+[^13]: [2005 Letter](../sources/buffett-letter-2005.md) — "widening the moat" daily discipline; short-term vs. long-term conflict; 22.2% tangible ROE; auto/airline as cautionary examples
+
+### "Widening the Moat" — Daily Competitive Improvement (2005)
+
+**[2005 Letter]** The most explicit articulation of moat maintenance as a daily discipline, not a one-time acquisition:
+
+> "Every day, in countless ways, the competitive position of each of our businesses grows either weaker or stronger. If we are delighting customers, eliminating unnecessary costs and improving our products and services, we gain strength. But if we treat customers with indifference or tolerate bloat, our businesses will wither." — 2005 Letter
+
+The effects are "imperceptible" daily but "enormous" cumulatively. The key principle: **short-term earnings must never come at the expense of long-term competitive position.** "If a management makes bad decisions in order to hit short-term earnings targets, and consequently gets behind the eight-ball in terms of costs, customer satisfaction or brand strength, no amount of subsequent brilliance will overcome the damage that has been inflicted."
+
+Auto and airline industries cited as cautionary examples of "huge problems handed them by their predecessors" — moat damage compounds and becomes irreversible.
+
+The eclectic manufacturing/service/retail segment earned **22.2% on average tangible net worth** in 2005 — selling products "from Dilly Bars to fractional interests in Boeing 737s" — demonstrating that even mundane businesses generate excellent returns when managed with moat-widening discipline[^13].
+
+[^13]: [2005 Letter](../sources/buffett-letter-2005.md) — "widening the moat" daily discipline; short-term vs. long-term conflict; 22.2% tangible ROE; auto/airline as cautionary examples
 
 [^13]: [2004 Letter](../sources/buffett-letter-2004.md) — 21.7% tangible ROE on $44.1B revenue; zinc write-off $579M; "simple propositions" / "mono-linked chains"; Shaw 25.6% ROE despite $300M cost surge; MiTek as "mini-Berkshire"

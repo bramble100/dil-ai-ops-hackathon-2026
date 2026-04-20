@@ -831,3 +831,83 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "After 40 years, we've finally generated a little synergy at Berkshire." — 2004 Letter
 >
 > Context: The first time Buffett uses "synergy" approvingly — referring to Berkshire's balance sheet enabling Clayton Homes to lend $7.35B when securitization markets dried up. → [Clayton Homes](entities/clayton-homes.md)
+
+---
+
+## 2005 Letter Quotes
+
+### Market Psychology & Investing
+
+> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
+>
+> Context: The Gotrocks parable — Helpers (brokers, managers, consultants, hedge funds) consume ~20% of corporate earnings through frictional costs. → [Mr. Market](principles/mr-market.md)
+
+> "A record portion of the earnings that would go in their entirety to owners — if they all just stayed in their rocking chairs — is now going to a swelling army of Helpers." — 2005 Letter
+>
+> Context: The Gotrocks family parable on why investors as a group must underperform the businesses they own. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation & Compensation
+
+> "Nothing succeeds like failure." — 2005 Letter
+>
+> Context: On CEO severance packages — a fired executive can "earn" more cleaning out his desk than a worker earns in a lifetime. → [Capital Allocation](principles/capital-allocation.md)
+
+> "A long string of impressive numbers multiplied by a single zero always equals zero. That is not an equation whose effects I would like to experience personally." — 2005 Letter
+>
+> Context: Why Berkshire avoids leverage — no matter how attractive the individual bets, a single wipeout destroys everything. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Ratchet, Ratchet and Bingo" — 2005 Letter
+>
+> Context: Buffett's name for the imaginary compensation consulting firm that describes how CEO pay works — always ratcheting upward, never down. → [Capital Allocation](principles/capital-allocation.md)
+
+### Business Quality
+
+> "Every day, in countless ways, the competitive position of each of our businesses grows either weaker or stronger. If we are delighting customers, eliminating unnecessary costs and improving our products and services, we gain strength. But if we treat customers with indifference or tolerate bloat, our businesses will wither." — 2005 Letter
+>
+> Context: The "widening the moat" essay — competitive advantage is maintained daily, not once. → [Business Quality](principles/business-quality.md)
+
+### Acquisitions & Management
+
+> "We have no exit strategy. We buy to keep." — 2005 Letter
+>
+> Context: Contrasting Berkshire's permanent acquisition philosophy with private equity's buy-to-flip model. → [Four Filters](principles/four-filters.md)
+
+> "It was easier to sell my business than renew my driver's license." — Pete Liegl, quoted in 2005 Letter
+>
+> Context: Forest River's founder on the simplicity of selling to Berkshire. → [Forest River](entities/forest-river.md)
+
+### Risk & Derivatives
+
+> "We are a canary in this business coal mine and should sing a song of warning as we expire." — 2005 Letter
+>
+> Context: On Gen Re Securities' $404M cumulative derivative losses — a warning that proved precisely prescient in 2008. → [General Re](entities/general-re.md)
+
+> "You never touched me." / "Just wait until you try to shake your head." — 2005 Letter
+>
+> Context: Old insurance joke about an adversary who cut a man's throat in a switchblade fight — on the danger of underreserving. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Insurance
+
+> "If you have a new son or grandson in 2006, name him Tony." — 2005 Letter
+>
+> Context: Praising Tony Nicely's GEICO performance: $1.2B profit in a $3.4B hurricane year. → [GEICO](entities/geico.md)
+
+### Humor & Self-Deprecation
+
+> "And while we are on the subject, I feel terrific." — 2005 Letter
+>
+> Context: After discussing succession planning and cognitive decline. → [Capital Allocation](principles/capital-allocation.md)
+
+> "I said last year that this business would earn money in 2005 — and I was dead wrong." — 2005 Letter
+>
+> Context: NetJets US operations deep in red. → [Executive Jet](entities/executive-jet.md)
+
+> Hank Greenberg on a .246 hitter asking for a $10M salary: "Ask for a uniform." — 2005 Letter
+>
+> Context: On CEO compensation — mediocre managers demanding outsized pay. → [Capital Allocation](principles/capital-allocation.md)
+
+### Charlie Munger
+
+> "Thumb-sucking" — Charlie Munger, quoted in 2005 Letter
+>
+> Context: Munger's assessment of Buffett's delay in shutting down Gen Re Securities. → [Charlie Munger](entities/charlie-munger.md)

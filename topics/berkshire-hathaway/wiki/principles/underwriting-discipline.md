@@ -29,6 +29,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -396,3 +397,43 @@ Key elements:
 [^13]: [2003 Letter](../sources/buffett-letter-2003.md) — float $44.2B at zero cost; $1.7B underwriting profit; General Re FIXED ($145M profit); GEICO 5.0% share; Ajit PepsiCo $1B; all segments profitable
 
 [^14]: [2004 Letter](../sources/buffett-letter-2004.md) — float $46.1B with $1.5B profit; NICO 25-year portrait; ebb-and-flow model; Don Wurster $950M float; no-layoff promise; four Florida hurricanes $1.25B; mega-cat $100B preparedness; Tom Murphy $3M hiring principle
+
+### Float $49.3B Costless Despite $3.4B Hurricane Losses (2005)
+
+**[2005 Letter]** Total float reaches **$49.3B** — costless despite record hurricane losses:
+
+| Segment         | Underwriting | Float        |
+| --------------- | ------------ | ------------ |
+| General Re      | $(334)M      | $22,920M     |
+| B-H Reinsurance | $(1,069)M    | $16,233M     |
+| GEICO           | $1,221M      | $6,692M      |
+| Other Primary   | $235M        | $3,442M      |
+| **Total**       | **$53M**     | **$49,287M** |
+
+Hurricane Katrina ($2.5B), Rita, and Wilma ($0.9B) inflicted $3.4B in total losses — yet GEICO's $1,221M profit and the primary insurers' $235M profit offset the reinsurance losses. Float remained costless for the third consecutive year.
+
+**Pascal's Wager applied to mega-cat pricing:** Buffett, Joe Brandon, and Ajit Jain conclude they don't know whether climate changes are producing permanently more intense hurricanes. Following Pascal's logic: "Since he didn't know the answer, his personal gain/loss ratio dictated an affirmative conclusion." Berkshire will write mega-cat only at "prices far higher than prevailed last year — and then only with an aggregate exposure that would not cause us distress."
+
+The switchblade-fight metaphor on loss reserves: an insurer whose throat has been cut proclaims "You never touched me." The adversary: "Just wait until you try to shake your head." MedPro reserves strengthened by $125M immediately upon purchase — illustrating the Berkshire approach of reserving aggressively rather than optimistically[^15].
+
+[^15]: [2005 Letter](../sources/buffett-letter-2005.md) — float $49.3B costless; $3.4B hurricane losses; Pascal's Wager for mega-cat pricing; MedPro $125M reserve strengthening; switchblade-fight metaphor
+
+### Float $49.3B Costless Despite $3.4B Hurricane Losses (2005)
+
+**[2005 Letter]** Total float reaches **$49.3B** — costless despite record hurricane losses:
+
+| Segment         | Underwriting | Float        |
+| --------------- | ------------ | ------------ |
+| General Re      | $(334)M      | $22,920M     |
+| B-H Reinsurance | $(1,069)M    | $16,233M     |
+| GEICO           | $1,221M      | $6,692M      |
+| Other Primary   | $235M        | $3,442M      |
+| **Total**       | **$53M**     | **$49,287M** |
+
+Hurricane Katrina ($2.5B), Rita, and Wilma ($0.9B) inflicted $3.4B in total losses — yet GEICO's $1,221M profit and the primary insurers' $235M profit offset the reinsurance losses. Float remained costless for the third consecutive year.
+
+**Pascal's Wager applied to mega-cat pricing:** Buffett, Joe Brandon, and Ajit Jain conclude they don't know whether climate changes are producing permanently more intense hurricanes. Following Pascal's logic: "Since he didn't know the answer, his personal gain/loss ratio dictated an affirmative conclusion." Berkshire will write mega-cat only at "prices far higher than prevailed last year — and then only with an aggregate exposure that would not cause us distress."
+
+The switchblade-fight metaphor on loss reserves: an insurer whose throat has been cut proclaims "You never touched me." The adversary: "Just wait until you try to shake your head." MedPro reserves strengthened by $125M immediately upon purchase — illustrating the Berkshire approach of reserving aggressively rather than optimistically[^15].
+
+[^15]: [2005 Letter](../sources/buffett-letter-2005.md) — float $49.3B costless; $3.4B hurricane losses; Pascal's Wager for mega-cat pricing; MedPro $125M reserve strengthening; switchblade-fight metaphor

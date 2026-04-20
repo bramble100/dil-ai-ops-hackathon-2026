@@ -32,6 +32,7 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -197,6 +198,29 @@ Expected **~6% market share in 2005** — a tripling from the 1.9% when Nicely t
 [^13]: [2001 Letter](../sources/buffett-letter-2001.md) — underwriting profit $221M; float $4.25B; premium +6.6%; overall policies -0.8%; Tony Nicely praised as "owner's dream"
 
 [^14]: [2002 Letter](../sources/buffett-letter-2002.md) — $6.9B premiums; $416M underwriting profit; internet +75%; 19,162 associates; 19% profit-sharing; $72K→$94.1M loss anecdote
+
+[^15]: [2003 Letter](../sources/buffett-letter-2003.md) — market share 5.0%; $8.1B premiums; preferred +8.2%, standard/non-standard +21.4%; Buffalo center announced
+
+[^16]: [2004 Letter](../sources/buffett-letter-2004.md) — ~6% market share expected; NJ re-entry; $970M underwriting profit; float $5,960M; Lou Simpson 20.3% CAGR
+
+### 2005: Stellar Year Despite Katrina
+
+**[2005 Letter]** GEICO delivers "stellar insurance results in a disaster-ridden year." Key metrics:
+
+- **Market share:** 5.6% → **6.1%** (each share-point = $1.6B in sales)
+- **Policies:** +12.1% growth
+- **Productivity:** up **32%** in two years; employment fell 4% even as policy count grew 26%
+- **Advertising:** $502M (from $31M in 1996) — highest conversion rate in company history
+- **Underwriting profit:** $1,221M — carrying the entire insurance operation through $3.4B in hurricane losses
+- **Float:** $6,692M
+
+Buffett credits CEO Tony Nicely: "If you have a new son or grandson in 2006, name him Tony."
+
+The 55-year connection: "That simple formula immediately impressed me 55 years ago when I first discovered GEICO." Buffett reprints his 1951 article from when GEICO's market value was $7M — titled "The Security I Like Best" — "And that's what I still call it."
+
+New Jersey performance spectacular: retention rate for new policyholders "running higher than in any other state" — GEICO likely to become third-largest auto insurer in NJ by 2007[^17].
+
+[^17]: [2005 Letter](../sources/buffett-letter-2005.md) — market share 6.1%; policies +12.1%; productivity +32%; $502M advertising; $1,221M underwriting profit; float $6,692M; Tony Nicely praised; NJ retention best in nation
 
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
 

@@ -14,6 +14,7 @@ sources:
     buffett-letter-1995,
     buffett-letter-1996,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -101,3 +102,9 @@ Buffett uses his Coke board experience to deliver a forceful essay on **board in
 [^6]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — $7,425M → $10,525M market value; "The Inevitables" classification; 1896 report; Bulls-trade-Jordan analogy; Disney 1966 anecdote
 
 [^7]: [2004 Letter](../sources/buffett-letter-2004.md) — Big Four ($8,328M value on $1,299M cost); board independence essay; Matthew 6:21 test; Berkshire directors $4M+ stock / no D&O / no options
+
+### 2005: Value Still Below Peak
+
+**[2005 Letter]** Coca-Cola remains one of the Big Four holdings: market value $8,062M on $1,299M cost (200M shares). Coke's value ($8.1B) is still well below its 1998 peak ($13.4B), underscoring Buffett's repeated caution about overpaying for even great businesses. Berkshire received $240M in dividends from Coke in 2005 [^8].
+
+[^8]: [2005 Letter](../sources/buffett-letter-2005.md) — $8,062M value on $1,299M cost; 200M shares; still below $13.4B 1998 peak; $240M dividends

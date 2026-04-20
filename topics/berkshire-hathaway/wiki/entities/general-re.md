@@ -10,8 +10,9 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
-source_count: 6
+source_count: 8
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, insurance, reinsurance, acquisition]
@@ -100,3 +101,15 @@ Gen Re Securities wind-down continues: **2,890 contracts** outstanding (down fro
 - [2002 Letter](../sources/buffett-letter-2002.md) — $1.31B additional prior-year reserving charge; $1.39B total underwriting loss; NCB aggregation risk eliminated; AAA sole survivor; Gen Re Securities $173M loss with 14,384 contracts remaining
 - [2003 Letter](../sources/buffett-letter-2003.md) — FIXED: $145M underwriting profit; AAA sole survivor reaffirmed; Gen Re Securities still unwinding (7,580 tickets, $99M loss); Buffett: "I should have acted more promptly" ($100M+ unnecessary cost)
 - [2004 Letter](../sources/buffett-letter-2004.md) — culture restored under Joe Brandon; $3M underwriting profit (current-year excellent, offset by adverse prior-year); float $23.1B; Gen Re Securities 2,890 contracts remaining
+
+## 2005: Hurricane Losses and Derivatives Canary
+
+**[2005 Letter]** General Re suffers $(334)M underwriting loss — driven by Hurricanes Katrina, Rita, and Wilma. Float: $22,920M. Joe Brandon and Tad Montross "performed well in 2005 considering the extraordinary hurricane losses that battered the industry."
+
+**Gen Re Securities wind-down continues:** 2,890 → **741 contracts**; $104M loss in 2005; **$404M cumulative losses** since wind-down began. A 100-year contract was among those liquidated — "It's difficult to imagine what 'need' such a contract could fulfill except, perhaps, the need of a compensation-conscious trader to have a long-dated contract on his books."
+
+Buffett's annual derivatives warning intensified: "We are a canary in this business coal mine and should sing a song of warning as we expire." The number and value of derivatives outstanding "is now a multiple of what existed in 1998, the last time that financial chaos erupted." He describes a scenario of "one or more firms with positions that are many multiples of ours attempting to liquidate in chaotic markets" — a warning that would prove precisely prescient in 2008.
+
+Buffett's personal confession: "I have cost you a lot of money by not moving immediately to close down Gen Re's trading operation." Charlie calls it "thumb-sucking." "When a problem exists, whether in personnel or in business operations, the time to act is now." — echoing the 1989 "errors of omission" principle.
+
+- [2005 Letter](../sources/buffett-letter-2005.md) — $(334)M underwriting loss; float $22.9B; hurricanes; Gen Re Securities 741 contracts/$104M loss/$404M cumulative; 100-year contract; canary in coal mine; "thumb-sucking" confession

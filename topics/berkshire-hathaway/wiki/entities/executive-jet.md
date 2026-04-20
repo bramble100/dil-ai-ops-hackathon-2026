@@ -10,8 +10,9 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
-source_count: 6
+source_count: 8
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, aviation, acquisition]
@@ -71,3 +72,15 @@ EJA represents a capital-intensive but economically attractive business: custome
 - Rich Santulli remains CEO; Buffett views provider selection "as akin to picking a brain surgeon: you simply want the best" [^6]
 
 [^6]: [2004 Letter](../sources/buffett-letter-2004.md) — 70% net new business; US contracts 4,967 (from 3,877); European contracts 693 (from 364); Marquis Jet Partners; US profit offset by European losses; cross-Atlantic usage growing rapidly
+
+### 2005: US Deep in Red, European Growth
+
+**[2005 Letter]** Buffett admits "I said last year that this business would earn money in 2005 — and I was dead wrong." US operations "dipped far into the red" despite growing customer base: efficiency fell and costs soared.
+
+**European bright spot:** customer contracts grew **37%** with a reduced loss. "We are the only fractional-ownership operation of any size in Europe," making NetJets the worldwide leader.
+
+Competitive dynamics: three largest competitors (all owned by aircraft manufacturers) may tolerate unprofitable operations longer than Berkshire would. Combined competitor fleet value remains less than NetJets alone.
+
+Rich Santulli "one of the most dynamic managers I've ever met, will solve our revenue/expense problem." Buffett and Santulli are "committed to a level of service, security and safety that can't be matched by others" [^7].
+
+[^7]: [2005 Letter](../sources/buffett-letter-2005.md) — US deep in red; European contracts +37%; Santulli praised; competitor fleets combined < NetJets; quality commitment

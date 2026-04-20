@@ -23,6 +23,7 @@ sources:
     buffett-letter-1993,
     buffett-letter-1994,
     buffett-letter-1999,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -137,3 +138,9 @@ The 1999 result is particularly striking given that See's had pre-tax earnings o
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $41.2M → $47.5M pre-tax; new record in 1994; cumulative profits ~20x purchase price
 
 [^7]: [1999 Letter](../sources/buffett-letter-1999.md) — record 24% pre-tax margin; $857M cumulative pre-tax profits; 34x purchase price
+
+### 2005: Chuck Huggins Retires
+
+**[2005 Letter]** Chuck Huggins retires after **34 years** running See's (from day one of Berkshire's ownership). Brad Kinstler succeeds him as CEO. Under Huggins's tenure, See's grew from $4.2M pre-tax (1972) to a multi-decade run of excellent earnings, generating well over $1B in cumulative pre-tax profits that funded Berkshire's growth. Buffett's tribute is characteristically understated but implicit in the context: Huggins was one of the longest-serving and most successful managers in Berkshire history[^8].
+
+[^8]: [2005 Letter](../sources/buffett-letter-2005.md) — Chuck Huggins retires after 34 years; Brad Kinstler succeeds

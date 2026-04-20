@@ -10,6 +10,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -79,6 +80,12 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 > "Tell your pal he belongs in the back of the plane, not the cockpit." — Al Ueltschi, refusing to certify a tycoon Charlie lobbied for [^7]
 
 [^7]: [2004 Letter](../sources/buffett-letter-2004.md) — 15.1% tangible ROE; 283 simulators/$1.2B; Al Ueltschi to Bruce Whitman; $3.50 capital/$1 revenue
+
+### 2005: Farnborough Expansion
+
+**[2005 Letter]** FlightSafety opens a major new training center in **Farnborough, England** ($100M+ investment) — now operates **42 learning centers** worldwide with 288 simulators worth $1.4B. Bruce Whitman leads the company following Al Ueltschi's CEO transition. "In the field of aviation training, FlightSafety dominates" [^8].
+
+[^8]: [2005 Letter](../sources/buffett-letter-2005.md) — Farnborough England center; 42 learning centers; 288 simulators/$1.4B; Bruce Whitman
 
 ## Connections
 

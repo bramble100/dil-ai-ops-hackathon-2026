@@ -9,8 +9,9 @@ sources:
     buffett-letter-2002,
     buffett-letter-2003,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
-source_count: 6
+source_count: 7
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, utilities, energy, acquisition]
@@ -100,3 +101,37 @@ Net earnings applicable to Berkshire: $237M (vs. $429M in 2003). $1.478B of MidA
 [^6]: [2003 Letter](../sources/buffett-letter-2003.md) — $1.076B pre-tax earnings; pipelines 7.8% US gas; UK 3.7M customers #3; HomeServices $48.6B; Iowa 689K customers; UK privatization efficiency gains
 
 [^7]: [2004 Letter](../sources/buffett-letter-2004.md) — 80.5% economic interest; $605M EBIT; zinc write-off $579M; HomeServices $59.8B transactions; 18,000 brokers; "simple propositions" / "mono-linked chains"; $1.478B junior debt to Berkshire at 11%
+
+## 2005: PacifiCorp Acquisition and PUHCA Repeal
+
+**[2005 Letter]** Two transformative structural changes:
+
+- **PUHCA repealed** (August 8, 2005): Berkshire converts MidAmerican preferred to voting common on February 9, 2006 — ending the convoluted PUHCA-mandated arrangement. Berkshire now owns **83.4% of common stock and votes** (80.5% fully diluted economic interest due to outstanding options)
+- **PacifiCorp acquisition** agreed: major electric utility serving six Western states (primarily Oregon and Utah); adds **1.6 million electric customers**, $3.3B revenue, and $14.1B assets. Berkshire invests $3.4B in MidAmerican common, supplemented by $1.7B borrowing
+
+Post-PacifiCorp, MidAmerican's regulated utility portfolio becomes:
+
+1. **Yorkshire/Northern Electric** — 3.7M UK customers (#3 UK electricity distributor)
+2. **MidAmerican Energy** — 706,000 Iowa electric customers
+3. **Kern River/Northern Natural** — 7.8% of US natural gas
+4. **PacifiCorp** — 1.6M customers in six Western states
+
+**Four-party partnership** (Buffett/Walter Scott/Dave Sokol/Greg Abel): unchanged despite new voting control — "We will make major moves only when we are unanimous."
+
+**HomeServices of America:** $64B in transactions (up 6.5%); 19,200 agents through 18 locally-branded firms; three small acquisitions. Ron Peltier CEO.
+
+**Financials:**
+
+| Unit                        | 2005 Pre-Tax | 2004 Pre-Tax |
+| --------------------------- | ------------ | ------------ |
+| UK utilities                | $308M        | $326M        |
+| Iowa utility                | $288M        | $268M        |
+| Pipelines                   | $309M        | $288M        |
+| HomeServices                | $148M        | $130M        |
+| Zinc recovery               | $8M          | ($579M)      |
+| **Earnings before int/tax** | **$1,168M**  | **$605M**    |
+| Net earnings to Berkshire   | $523M        | $237M        |
+
+Buffett on utilities: "You can't expect to earn outsized profits in regulated utilities, but the industry offers owners the opportunity to deploy large sums at fair returns — and therefore, it makes good sense for Berkshire." Plans to look for more utility acquisitions: "Note the plural"[^8].
+
+[^8]: [2005 Letter](../sources/buffett-letter-2005.md) — PUHCA repeal; PacifiCorp acquisition ($3.4B+$1.7B); 1.6M new customers; 83.4% voting common; HomeServices $64B; $1,168M pre-tax; four-party partnership; "note the plural"

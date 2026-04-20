@@ -26,6 +26,7 @@ sources:
     buffett-letter-2000,
     buffett-letter-2001,
     buffett-letter-2004,
+    buffett-letter-2005,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -260,3 +261,20 @@ The Big Four equity holdings demonstrate the look-through concept at its most po
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — EBITDA critique deepened; pro-forma irony; mark-to-model/myth derivatives accounting; Gen Re Securities; operating earnings per-share growth table 1968-2003
 
 [^14]: [2004 Letter](../sources/buffett-letter-2004.md) — equity holdings <50% of net worth (from 114% in 1980s); Big Four $1.2B look-through vs. $434M dividends; book value as weakening proxy
+
+### Two-Table Framework and Derivatives Canary (2005)
+
+**[2005 Letter]** Buffett introduces a **two-table reporting framework** to compensate for book value's declining accuracy:
+
+| Metric                            | 2005    | CAGR from 1965 |
+| --------------------------------- | ------- | -------------- |
+| Per-share investments             | $74,129 | 28.0%          |
+| Per-share pre-tax (non-insurance) | $2,441  | 17.2%          |
+
+The first table (investments per share, starting from $4 in 1965) captures Berkshire's equity portfolio value. The second table (pre-tax earnings from non-insurance businesses per share, starting from $4 in 1965) captures operating earnings power. Together they provide a more complete intrinsic value picture than book value alone.
+
+**Four-sector reporting** of $8.5B pre-tax earnings: (1) insurance group $53M underwriting + $3,480M investment income; (2) utilities $523M; (3) finance/financial products; (4) manufacturing/service/retail. The eclectic non-insurance group earned **22.2% on average tangible net worth** — "remarkable returns" from businesses ranging from "Dilly Bars to fractional interests in Boeing 737s."
+
+**Derivatives warning intensified:** Gen Re Securities lost $104M in 2005 ($404M cumulative). Buffett: "We are a canary in this business coal mine" — if sophisticated Berkshire accountants struggle to value 741 remaining derivative contracts, what happens at firms with thousands? Mark-to-model becomes mark-to-myth; the number and value of derivatives outstanding "is now a multiple of what existed in 1998, the last time that financial chaos erupted." This is the clearest pre-2008 warning in the corpus[^15].
+
+[^15]: [2005 Letter](../sources/buffett-letter-2005.md) — two-table framework (investments/earnings per share); four-sector reporting; 22.2% tangible ROE; Gen Re Securities $104M/$404M; canary-in-coal-mine derivatives warning

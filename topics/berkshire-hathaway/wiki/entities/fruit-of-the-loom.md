@@ -43,3 +43,9 @@ John Holland's turnaround (he had previously run the company under its former ow
 **[2004 Letter]** Fruit of the Loom posts unit volume growth of **14%** — equivalent to **10 million additional dozen** units. Women's and girls' intimate apparel grows **31%**. John Holland continues as CEO. Fruit demonstrates the durable, growing franchise Buffett saw through the bankruptcy — brand dominance in essential consumer goods drives volume gains even in a competitive market [^3].
 
 [^3]: [2004 Letter](../sources/buffett-letter-2004.md) — +14% unit volume (+10M dozen); women's/girls' intimate apparel +31%; John Holland CEO
+
+### 2005: Market Share Dominance
+
+**[2005 Letter]** Fruit of the Loom's market share gains are extraordinary: **48.7%** of men's and boys' underwear market (from 44.2%) and **24.7%** of women's and girls' (from 13.7% at acquisition). John Holland continues as CEO. "The company is a powerhouse in basic apparel" [^4].
+
+[^4]: [2005 Letter](../sources/buffett-letter-2005.md) — 48.7% men's underwear share; 24.7% women's share; John Holland CEO

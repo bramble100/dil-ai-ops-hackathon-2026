@@ -2,11 +2,11 @@
 title: "Clayton Homes"
 type: entity
 entity_kind: subsidiary
-source_count: 2
+source_count: 3
 created: 2026-04-20
 updated: 2026-04-20
 tags: [manufactured-housing, finance, acquisition]
-sources: [buffett-letter-2003, buffett-letter-2004]
+sources: [buffett-letter-2003, buffett-letter-2004, buffett-letter-2005]
 ---
 
 ## Overview
@@ -55,3 +55,18 @@ Buffett: "After 40 years, we've finally generated a little synergy at Berkshire.
 [^1]: [2003 Shareholder Letter](../sources/buffett-letter-2003.md) — acquisition story, manufactured housing industry analysis, lending philosophy
 
 [^2]: [2004 Letter](../sources/buffett-letter-2004.md) — Oakwood acquisition; industry's largest; 11,837 employees; $7.35B Berkshire financing; receivables ~$9B; $220M pre-tax earnings; "synergy at Berkshire"
+
+## 2005: Industry Dominance
+
+**[2005 Letter]** Clayton is "masterfully run by Kevin Clayton" and earns "significant money" while industry participants suffer losses. Key metrics:
+
+- **Servicing portfolio:** $5.4B → **$17B** (purchased large loan portfolios from major banks who found them unprofitable)
+- **Own portfolio:** $9.6B (built almost entirely since Berkshire acquisition)
+- **Pre-tax earnings:** $416M (after $83M markup charge to Berkshire for credit use)
+- **Financing:** Berkshire lends at its borrowing cost plus one percentage point; 2005 cost to Clayton: $83M
+- **Karsten acquisition:** four-plant West Coast operation strengthening Clayton's position
+- **Industry context:** sales stagnated at 40-year lows; Katrina-related uptick "almost certainly short-lived"
+
+On the manufacturing side: original 20 plants + 12 (Oakwood 2004) + 4 (Karsten 2005) = 36 plants. Clayton's operating expertise and Berkshire's financial resources have made manufactured-housing lending "an excellent business for us and one in which we are preeminent"[^3].
+
+[^3]: [2005 Letter](../sources/buffett-letter-2005.md) — servicing $17B; own portfolio $9.6B; $416M pre-tax; Karsten acquired; $83M Berkshire credit markup; industry 40-year lows
