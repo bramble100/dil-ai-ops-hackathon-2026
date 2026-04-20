@@ -1,7 +1,7 @@
 ---
 title: "Source: 30 cosas que hacer y ver en los Paises Bajos"
 type: source
-raw_file: sinohasviajado.html
+source_path: "raw/sinohasviajado.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: incomplete

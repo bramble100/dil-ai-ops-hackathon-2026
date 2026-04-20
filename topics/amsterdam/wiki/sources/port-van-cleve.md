@@ -1,7 +1,7 @@
 ---
 title: "Source: Die Port van Cleve - Historic Hotel in Amsterdam"
 type: source
-raw_file: port-van-cleve.html
+source_path: "raw/port-van-cleve.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

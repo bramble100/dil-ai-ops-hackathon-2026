@@ -48,8 +48,10 @@ Check for each of the following. Rate findings by severity.
 
 **Important (address soon):**
 
+- TOPIC.md layout drift — folders listed in `## Wiki Layout` that don't exist on disk, or actual `wiki/` subdirectories not listed in TOPIC.md
+- TOPIC.md missing expected sections (`## Wiki Layout`, `## Page Conventions`, `## Key Questions`)
 - Contradictions between pages (two pages making conflicting claims about the same topic)
-- Broken wikilinks (links pointing to pages that don't exist)
+- Broken links (links pointing to pages that don't exist)
 - Pages exceeding budget (see Growth Management in `AGENTS.md`)
 
 **Medium (address when convenient):**
@@ -58,6 +60,11 @@ Check for each of the following. Rate findings by severity.
 - Important concepts mentioned in page text but lacking their own dedicated page
 - Missing cross-references between pages that clearly relate to each other
 - Questions that might now be answerable with existing sources (status still "open" but evidence exists)
+- Structural imbalance - one folder has 30+ pages while another has 2 (suggest splitting or re-categorizing)
+- Misfiled pages - a page in one folder that clearly belongs in another based on its content
+- Emerging patterns - 5+ pages in one folder share a theme not reflected in the folder name (suggest a new subfolder)
+
+Note: structural checks identify issues for human review. Lint does NOT restructure — restructuring requires human approval.
 
 **Minor (nice to have):**
 
@@ -82,7 +89,7 @@ Present as a checklist grouped by severity:
 ### Important
 
 - [ ] Contradiction: concepts/X claims "A" but sources/Y says "B"
-- [ ] Broken link: concepts/Z links to [[entities/nonexistent]]
+- [ ] Broken link: concepts/Z links to entities/nonexistent.md
 
 ### Medium
 
@@ -124,6 +131,6 @@ Append to `wiki/log.md`:
 ## Edge Cases
 
 - **Don't create pages during lint.** Lint identifies gaps; the user decides whether to fill them. Exception: fixing broken links or index inconsistencies (mechanical fixes).
-- **Source summaries are intentionally leaf nodes.** They link out to concepts/entities but shouldn't have inbound wikilinks (other pages cite them via footnotes). Don't flag these as orphans.
+- **Source summaries are intentionally leaf nodes.** They link out to other wiki pages but shouldn't have inbound links (other pages cite them via footnotes). Don't flag these as orphans.
 - **Stale != wrong.** A page from 3 months ago might still be perfectly accurate. Flag staleness only when newer relevant sources exist.
 - **Growth budgets are guidelines, not hard limits.** A concept page at 90 lines that's well-organized is fine. A page at 60 lines that's a disorganized mess is worse. Use judgment.

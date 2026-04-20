@@ -26,7 +26,7 @@ The wiki is a **persistent, compounding artifact**. Knowledge is compiled once a
 ### Prerequisites
 
 - An LLM agent with filesystem access (VS Code + GitHub Copilot, Claude Code, Cursor, etc.)
-- [Obsidian](https://obsidian.md/) for browsing the wiki (see [Obsidian Setup](#obsidian-setup) below)
+- [Obsidian](https://obsidian.md/) for browsing the wiki (optional but recommended — see [Obsidian Setup](#obsidian-setup))
 - Git for version history
 
 > "Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase." - Andrej Karpathy
@@ -34,66 +34,51 @@ The wiki is a **persistent, compounding artifact**. Knowledge is compiled once a
 ### First Steps
 
 1. Open this folder in your LLM agent environment
-2. Open this folder as an Obsidian vault (see [Obsidian Setup](#obsidian-setup))
-3. Drop a source file into `topics/ai-engineering/raw/articles/`
-4. Tell the agent: "Ingest `topics/ai-engineering/raw/articles/<filename>`"
-5. Watch the wiki grow
+2. Optionally, open this folder as an [Obsidian](https://obsidian.md/) vault for graph-view browsing (see [Obsidian Setup](#obsidian-setup))
+3. Tell the agent: _"Create a new topic called `my-topic` about `<what you want to research>`"_ (runs the [`init-topic`](.claude/skills/init-topic/SKILL.md) skill)
+4. The agent will help you choose a wiki structure, then create the full directory tree
+5. Drop source files into `topics/my-topic/raw/` — the agent will sort them into the right subfolders
+6. Tell the agent: _"Ingest"_ (runs the [`ingest`](.claude/skills/ingest/SKILL.md) skill) — it will find and process unprocessed sources
+7. Watch the wiki grow
 
-### Adding a New Topic
-
-All topics follow the same folder structure. To create one, just tell the agent:
-
-> "Create a new topic called `<slug>` about `<description>`"
-
-The agent will follow the `init-topic` skill (`.claude/skills/init-topic/SKILL.md`) to create the full directory structure, `index.md`, `log.md`, and `TOPIC.md`.
-
-Or do it manually:
-
-```bash
-mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}
-```
-
-Then copy `wiki/index.md` and `wiki/log.md` from an existing topic and adjust the content. Optionally create a `TOPIC.md` with domain-specific scope, categorization axes, and key questions (see `topics/ai-engineering/TOPIC.md` for an example).
+You can also explore the existing topics (`amsterdam`, `rheinmetall`) to see what a populated wiki looks like before creating your own.
 
 ## Structure
 
+Every topic follows the same skeleton — `TOPIC.md` + `raw/` + `wiki/` — but the `wiki/` subfolders are domain-specific:
+
 ```
-topics/
-├── ai-engineering/          # Scaffold - canonical layout produced by init-topic
-│   ├── TOPIC.md             # Domain, scope, categorization axes
-│   ├── raw/                 # Your sources (immutable)
-│   │   ├── articles/        # Web articles, blog posts
-│   │   ├── papers/          # Research papers
-│   │   ├── notes/           # Quick thoughts, observations
-│   │   └── assets/          # Images, diagrams, PDFs
-│   └── wiki/                # LLM-generated (don't edit manually)
-│       ├── index.md         # Master catalog
-│       ├── log.md           # Activity timeline
-│       ├── concepts/        # Ideas, patterns, techniques
-│       ├── entities/        # Tools, people, orgs, products
-│       ├── sources/         # One summary per raw source
-│       ├── syntheses/       # Analyses, comparisons
-│       └── questions/       # Open questions, contradictions
-├── amsterdam/               # Travel wiki - domain-fitted taxonomy
-│   ├── TOPIC.md             # (originally SCHEMA.md)
-│   ├── raw/                 # Multilingual source articles and PDFs
-│   └── wiki/                # places/, themes/, practical/, hotels/, sources/
-└── rheinmetall/             # Company analysis - domain-fitted taxonomy
-    ├── TOPIC.md
-    ├── raw/                 # Annual reports, transcripts
-    └── wiki/                # topic-specific subfolders
+topics/<slug>/
+├── TOPIC.md                 # Purpose, wiki layout, page conventions, key questions
+├── raw/                     # Your sources (immutable once sorted)
+│   ├── articles/            # Web articles, blog posts
+│   ├── papers/              # Research papers
+│   ├── notes/               # Quick thoughts, observations
+│   └── assets/              # Images, diagrams, PDFs
+└── wiki/                    # LLM-generated (don't edit manually)
+    ├── index.md             # Master catalog
+    ├── log.md               # Activity timeline
+    ├── overview.md          # Topic overview (optional)
+    ├── sources/             # One summary per raw source
+    └── <layout folders>/    # Domain-specific (see below)
 ```
 
-The `concepts/entities/syntheses/questions` taxonomy is the default produced by the `init-topic` skill. Individual topics are free to use a different internal `wiki/` taxonomy when a domain calls for it - Amsterdam and Rheinmetall are examples of that.
+The `init-topic` skill helps you choose a **wiki layout** fitted to your domain. The default is `concepts/`, `entities/`, `syntheses/`, `questions/` — but topics can declare a custom layout in `TOPIC.md`:
+
+| Topic            | Layout                                                                | Why                                            |
+| ---------------- | --------------------------------------------------------------------- | ---------------------------------------------- |
+| `ai-engineering` | `concepts/`, `entities/`, `syntheses/`, `questions/`                  | Default — general knowledge domain             |
+| `amsterdam`      | `places/`, `themes/`, `practical/`, `hotels/`                         | Travel wiki — organized by what you'd look up  |
+| `rheinmetall`    | `entities/`, `concepts/`, `financials/`, `comparisons/`, `questions/` | Corporate analysis — dedicated financial pages |
 
 ## Operations
 
-| Command        | What happens                                                                                             |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| **Ingest**     | "Process this source" - LLM reads it, creates summary, updates concept/entity pages, updates index & log |
-| **Query**      | "What do we know about X?" - LLM searches wiki, synthesizes answer, optionally files it                  |
-| **Lint**       | "Health check" - LLM finds contradictions, orphans, broken links, stale content                          |
-| **Init Topic** | "New topic about X" - LLM creates full directory structure, index, log, and topic config                 |
+| Command        | Skill                                              | What happens                                                                                 |
+| -------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Init Topic** | [`init-topic`](.claude/skills/init-topic/SKILL.md) | _"New topic about X"_ — helps choose a wiki layout, creates directory structure + config     |
+| **Ingest**     | [`ingest`](.claude/skills/ingest/SKILL.md)         | _"Process this source"_ — reads it, creates summary, updates wiki pages, updates index & log |
+| **Query**      | [`query`](.claude/skills/query/SKILL.md)           | _"What do we know about X?"_ — searches wiki, synthesizes answer, optionally files it        |
+| **Lint**       | [`lint`](.claude/skills/lint/SKILL.md)             | _"Health check"_ — finds contradictions, orphans, broken links, stale content                |
 
 Each operation has a detailed skill file in `.claude/skills/` with step-by-step workflows, edge cases, and gotchas.
 
@@ -107,7 +92,7 @@ The LLM's instructions live in:
 
 ## Obsidian Setup
 
-[Obsidian](https://obsidian.md/) is a free markdown editor that opens a folder of `.md` files as an interconnected "vault". It's the recommended way to browse the wiki because it renders wikilinks as clickable navigation, shows a graph view of how pages connect, and updates in real time as the LLM edits files. Karpathy: _"Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase."_
+[Obsidian](https://obsidian.md/) is a free markdown editor that opens a folder of `.md` files as an interconnected "vault". It's the recommended way to browse the wiki because it renders links as clickable navigation, shows a graph view of how pages connect, and updates in real time as the LLM edits files. Karpathy: _"Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase."_
 
 ### Opening the vault
 
@@ -130,7 +115,7 @@ The LLM's instructions live in:
 **How to use:**
 
 1. Install the extension from your browser's extension store
-2. Configure it to save files to the right folder (e.g., `topics/ai-engineering/raw/articles/`)
+2. Configure it to save files to the right folder (e.g., `topics/<your-topic>/raw/articles/`)
 3. When you find an article, tweet, or page worth saving: click the extension icon, then "Add to Obsidian" - 2 clicks total
 4. The page is saved as a `.md` file in your vault, ready for the agent to ingest
 

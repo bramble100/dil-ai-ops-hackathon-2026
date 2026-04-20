@@ -1,7 +1,7 @@
 ---
 title: "Source: Cosas tipicas de Holanda"
 type: source
-raw_file: cosas-tipicas.html
+source_path: "raw/cosas-tipicas.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: partial

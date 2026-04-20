@@ -17,11 +17,12 @@ description: Creates a new wiki topic with the full directory structure, index, 
 ## Workflow Overview
 
 1. **Confirm** - Gather topic slug and domain description
-2. **Scaffold** - Create directory structure with .gitkeep files
-3. **Create index** - Empty master catalog
-4. **Create log** - Bootstrap entry
-5. **Create TOPIC.md** - Domain-specific configuration
-6. **Confirm** - Summarize what was created
+2. **Discover layout** - Help the user choose a wiki structure
+3. **Scaffold** - Create directory structure with .gitkeep files
+4. **Create index** - Empty master catalog matching the layout
+5. **Create log** - Bootstrap entry
+6. **Create TOPIC.md** - Domain-specific configuration with wiki layout
+7. **Confirm** - Summarize what was created
 
 ---
 
@@ -34,27 +35,52 @@ Ask the user (if not already provided):
 
 ---
 
+## Phase 1.5: Discover Wiki Layout
+
+Help the user choose between the **default layout** and a **custom layout**.
+
+**Ask about:**
+
+- Expected source types (web articles, PDFs, financial reports, transcripts, etc.)
+- Key questions the wiki should answer
+- Optionally: "Drop 2-3 example sources into `raw/` and I'll analyze them to suggest a structure"
+
+**If example sources provided:** Read them, identify natural groupings (people, places, financial data, technical concepts, timelines, etc.), and propose folders with rationale.
+
+**Propose a layout:**
+
+- "Based on [rationale], I suggest: `sources/`, `entities/`, `financials/`, `comparisons/`. Does this work?"
+- User confirms or adjusts.
+
+**Fallback:** If the user has no examples and no strong opinions, use the default layout: `concepts/`, `entities/`, `syntheses/`, `questions/`.
+
+Record the chosen layout for use in Phases 2, 3, and 5.
+
+---
+
 ## Phase 2: Create Directory Structure
 
+Create the `raw/` directories (always the same) and `wiki/` directories matching the chosen layout:
+
 ```bash
-mkdir -p topics/<slug>/{raw/{articles,papers,notes,assets},wiki/{concepts,entities,sources,syntheses,questions}}
+# Raw directories (always the same)
+mkdir -p topics/<slug>/raw/{articles,papers,notes,assets}
+
+# Wiki directories (layout-dependent)
+mkdir -p topics/<slug>/wiki/sources
+# + one directory per layout folder, e.g.:
+mkdir -p topics/<slug>/wiki/{concepts,entities,syntheses,questions}  # default
+# or:
+mkdir -p topics/<slug>/wiki/{places,themes,practical,hotels}         # custom example
 ```
 
-Create `.gitkeep` files in each empty directory so git tracks them:
-
-- `topics/<slug>/raw/articles/.gitkeep`
-- `topics/<slug>/raw/papers/.gitkeep`
-- `topics/<slug>/raw/notes/.gitkeep`
-- `topics/<slug>/raw/assets/.gitkeep`
-- `topics/<slug>/wiki/concepts/.gitkeep`
-- `topics/<slug>/wiki/entities/.gitkeep`
-- `topics/<slug>/wiki/sources/.gitkeep`
-- `topics/<slug>/wiki/syntheses/.gitkeep`
-- `topics/<slug>/wiki/questions/.gitkeep`
+Create `.gitkeep` files in each empty directory so git tracks them.
 
 ---
 
 ## Phase 3: Create wiki/index.md
+
+Section headings match the chosen layout. For the default layout:
 
 ```markdown
 # Index
@@ -82,6 +108,8 @@ _No synthesis pages yet. Ask the agent a question and request it be filed._
 _No open questions yet._
 ```
 
+For a custom layout, replace section names to match (e.g., `## Places`, `## Themes`, `## Practical` for a travel topic).
+
 ---
 
 ## Phase 4: Create wiki/log.md
@@ -100,34 +128,45 @@ _No open questions yet._
 
 ## Phase 5: Create TOPIC.md
 
-```markdown
+````markdown
 # <Topic Name> - Topic Configuration
 
-## Domain
+## Purpose
 
 <Domain description - expanded to 2-3 sentences explaining the scope and perspective.>
 
-## Scope
+## Wiki Layout
 
-- **<Category 1>:** <what it includes>
-- **<Category 2>:** <what it includes>
-- <...3-6 categories that cover the topic's main dimensions>
+- `sources/` - One summary per raw source (always present)
+- `<folder>/` - <description>
+- `<folder>/` - <description>
+- <...one line per layout folder chosen in Phase 1.5>
 
-## Categorization Axes
+## Page Conventions
 
-When creating concept pages, consider categorizing along these dimensions:
+### Frontmatter
 
-- **<Axis 1>:** <values> (e.g., maturity: experimental | emerging | established)
-- **<Axis 2>:** <values>
+```yaml
+---
+title: Page Title
+type: source  # or a custom type matching the layout
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+status: draft  # allowed: draft | complete
+tags: [tag1, tag2]
+---
+```
 
-## Key Questions This Wiki Should Help Answer
+<Add domain-specific conventions: claim attribution labels, language rules, number formatting, etc.>
+
+## Key Questions
 
 1. <question 1>
 2. <question 2>
 3. <...3-5 questions that define the topic's direction>
-```
+````
 
-Work with the user to fill in scope and questions. If the user doesn't have strong opinions, propose reasonable defaults based on the domain.
+Work with the user to fill in layout, conventions, and questions. If the user doesn't have strong opinions, propose reasonable defaults based on the domain.
 
 ---
 
@@ -135,7 +174,8 @@ Work with the user to fill in scope and questions. If the user doesn't have stro
 
 Tell the user:
 
-- What was created (list the files)
+- What was created (list the files and the chosen wiki layout)
+- Optionally create `wiki/overview.md` with placeholder text: "Overview will be populated after the first ingest session." (frontmatter: `type: overview`)
 - How to start adding sources: drop files into `raw/articles/`, then say "ingest"
 - Remind them to commit to git
 

@@ -1,7 +1,7 @@
 ---
 title: "Source: Museum De Cruquius (Wikipedia)"
 type: source
-raw_file: cruquius-wikipedia.html
+source_path: "raw/cruquius-wikipedia.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

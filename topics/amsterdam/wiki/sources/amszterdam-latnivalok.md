@@ -1,7 +1,7 @@
 ---
 title: "Source: Amszterdam latnivalok: amiket ne hagyj ki [2026-ban]"
 type: source
-raw_file: amszterdam-latnivalok.html
+source_path: "raw/amszterdam-latnivalok.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete

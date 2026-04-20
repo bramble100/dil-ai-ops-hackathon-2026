@@ -1,7 +1,7 @@
 ---
 title: "Source: AmsterdamWiki.pdf"
 type: source
-raw_file: AmsterdamWiki.pdf
+source_path: "raw/AmsterdamWiki.pdf"
 created: 2026-04-16
 updated: 2026-04-16
 status: incomplete

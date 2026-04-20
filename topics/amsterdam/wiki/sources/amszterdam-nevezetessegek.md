@@ -1,7 +1,7 @@
 ---
 title: "Source: Amszterdam Nevezetessegek, latnivalok 2026"
 type: source
-raw_file: amszterdam-nevezetessegek.html
+source_path: "raw/amszterdam-nevezetessegek.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete
