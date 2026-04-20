@@ -1,7 +1,7 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -28,7 +28,21 @@ The metric is introduced in the very first letter (1977) and stated with increas
 
 By 1981, Buffett notes that the ROE metric itself has limitations because unreported "ownership earnings" from non-controlled investees aren't captured in reported operating earnings[^2]. This tension leads toward the broader concept of [owner earnings](owner-earnings.md).
 
-## Berkshire's Track Record (1964-1981)
+**[1982 Letter]** Buffett formally abandons operating ROE as Berkshire's primary yardstick, acknowledging this looks self-serving ("Yardsticks seldom are discarded while yielding favorable readings"). But the case is genuine: non-controlled holdings now generate more unreported earnings than Berkshire's entire reported operating earnings. The new focus: long-term growth in per-share intrinsic business value.
+
+**[1983 Letter]** Book value becomes the proxy metric, with an important caveat: it is "a conservative but reasonably adequate proxy for growth in intrinsic business value — the measurement that really counts." Buffett recommends a five-year rolling test as the minimum evaluation period — "why should the time required for a planet to circle the sun synchronize precisely with the time required for business actions to pay off?" Red lights should flash if the five-year average falls below average American corporate ROE.
+
+### Book Value vs. Intrinsic Business Value
+
+**[1983 Letter]** The two concepts are fundamentally different:
+
+- **Book value** = accounting concept; records accumulated financial input (contributed capital + retained earnings)
+- **Intrinsic business value** = economic concept; estimates future cash output discounted to present value
+- "Book value tells you what has been put in; intrinsic business value estimates what can be taken out."
+
+The college education analogy: identical spending on two children produces identical book value of education, but the present value of future payoff (intrinsic value) might vary enormously.
+
+## Berkshire's Track Record (1964-1983)
 
 | Period End | Book Value/Share | CAGR from 1964 |
 | ---------- | ---------------- | -------------- |
@@ -37,12 +51,17 @@ By 1981, Buffett notes that the ROE metric itself has limitations because unrepo
 | 1979       | $335.85          | 20.5%          |
 | 1980       | $400.80          | 20.5%          |
 | 1981       | $526.02          | 21.1%          |
+| 1982       | $737.43          | 22.0%          |
+| 1983       | $975.83          | 22.6%          |
+
+**[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 
 ## Connections
 
 - [Owner Earnings](owner-earnings.md) — the next evolution: what ROE misses when ownership is fractional
 - [Inflation and Investing](inflation-and-investing.md) — ROE must be judged against the "misery index," not in isolation
 - [Business Quality](business-quality.md) — high ROE is a hallmark of great businesses; textiles show what low ROE looks like
+- [Economic Goodwill](economic-goodwill.md) — ROE on net tangible assets is the indicator of economic Goodwill
 
 [^1]: [1979 Letter](../sources/buffett-letter-1979.md) — "In measuring long term economic performance... we believe it is appropriate to recognize fully any realized capital gains or losses"
 

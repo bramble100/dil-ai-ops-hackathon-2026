@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -39,19 +39,38 @@ The combined ratio measures total costs vs. premiums; below 100 = underwriting p
 | 1977 | 19.8%             | 97.2           |
 | 1979 | 10.3%             | 100.6          |
 | 1981 | 3.6%              | 105.7          |
+| 1982 | 4.4%              | 109.7          |
+| 1983 | 4.6%              | 111.0          |
 
-**[1981 Letter]** Predicts "very large underwriting losses will be the norm for the industry" and that "the best underwriting years in the future decade may appear substandard against the average year of the past decade."
+**[1982 Letter]** As long as annual premium growth stays well below 10%, underwriting results will deteriorate — because insured losses grow at least 10% annually from expanding policies, medical inflation, and broadening liability concepts.
+
+**[1982 Letter]** Weak accounting masks reality: "In insurance, as elsewhere, the reaction of weak managements to weak operations is often weak accounting." ('It's difficult for an empty sack to stand upright.')
+
+**[1983 Letter]** Buffett's own insurance group posted a combined ratio of 121. He takes full responsibility: "I made some serious mistakes a few years ago that came home to roost" — insurance has long lead times between decisions and results.
+
+### Structural Overcapacity (1982)
+
+**[1982 Letter]** Insurance historically earned decent returns because pricing was quasi-administered: rates set by industry bureaus negotiating with state regulators, with legally enforced price floors. "That day is gone." New capacity outside the old structure uses price as a competitive weapon, and customers have learned insurance is no longer a one-price business.
+
+Only a "megadisaster" will produce sufficient supply contraction for profitability. "Bad profits produce much hand-wringing and finger-pointing. But they do not lead major sources of insurance capacity to turn their backs on very large chunks of business."
+
+### Structured Settlements (1983)
+
+**[1983 Letter]** New insurance line: periodic payments to claimants (usually monthly, for life) instead of lump sums. Berkshire's premier financial strength makes it the logical #1 choice for these long-duration obligations. Also entering loss reserve assumption business. Both run by Don Wurster at National Indemnity.
 
 ## Evolution
 
-Present in all five letters. Phil Liesche and the National Indemnity culture — instilled by founder Jack Ringwalt — are the constant exemplar. The principle deepens from a simple "reject bad business" stance (1977) to a full structural analysis of why most insurers can't do it (1980-81: unrealized bond losses, cash-flow addiction, reinsurance euphoria).
+Present in all seven letters. Phil Liesche and the National Indemnity culture — instilled by founder Jack Ringwalt — are the constant exemplar. The principle deepens from a simple "reject bad business" stance (1977) to a full structural analysis of why most insurers can't do it (1980-81: unrealized bond losses, cash-flow addiction, reinsurance euphoria). The 1982 letter adds the commodity business framework: insurance is structurally condemned to overcapacity because capacity creation requires only capital and willingness. The 1983 letter introduces structured settlements as a new strategy: Berkshire's financial strength becomes a competitive moat in long-duration obligations.
 
 ## Key People
 
-- **Phil Liesche** — National Indemnity's leader, the embodiment of underwriting discipline; aided by Roland Miller (underwriting) and Bill Lyons (claims)
+- **Phil Liesche** — National Indemnity's leader, the embodiment of underwriting discipline; retired 1982 at age 65
 - **Jack Ringwalt** — National Indemnity founder who "instilled this underwriting discipline at the inception of the company"
+- **Mike Goldberg** — took over parent company responsibility for insurance in 1982; planning, recruitment, and monitoring all improved
 - **Milt Thornton** — Cypress Insurance, outstanding workers' comp results through the same discipline
-- **George Young** — Reinsurance, "quite willing to reduce volume significantly if needed"
+- **Roland Miller** — improved auto and general liability results at National Indemnity while competitors deteriorated
+- **Tom Rowley** — Continental Divide Insurance (Colorado homestate), recruited by Goldberg
+- **Don Wurster** — runs structured settlements and loss reserve assumptions at National Indemnity
 
 ## Connections
 

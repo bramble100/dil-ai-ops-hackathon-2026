@@ -1,7 +1,7 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -31,7 +31,7 @@ Criteria (1)-(3) can usually be satisfied by a "small number of potential invest
 
 ## Evolution
 
-Stated explicitly in the 1977 letter and restated with slight variation in 1978. In later letters, each filter deepens into its own principle:
+Stated explicitly in the 1977 letter and restated with slight variation in 1978. The 1982 letter formalizes the acquisition-specific version as the six criteria (see [Capital Allocation](capital-allocation.md)), which become a recurring feature of every subsequent letter. The 1983 letter adds the "grizzly" test as a moat evaluation heuristic: "One question I always ask myself in appraising a business is how I would like, assuming I had ample capital and skilled personnel, to compete with it."[^3] In later letters, each filter deepens into its own principle:
 
 - Filter (1) → [circle of competence] (to be developed)
 - Filter (2) → [Business Quality](business-quality.md) (moats, tailwinds)

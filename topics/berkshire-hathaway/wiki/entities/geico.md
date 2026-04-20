@@ -2,7 +2,7 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -22,7 +22,9 @@ Government Employees Insurance Company — a low-cost auto insurer with a struct
 - **Berkshire ownership:** ~33% equity interest (7.2M shares); voting rights held by independent party per DC and NY insurance regulators
 - **Cost basis:** $47M ($28M invested ~1976, remainder ~1980)
 - **Earning power (1980):** ~$20M Berkshire's share; only ~$3M reported as dividends
-- **Market value (1981):** $199.8M
+- **Market value:** $199.8M (1981), $309.6M (1982), $398.2M (1983)
+- **Key people:** Jack Byrne (CEO), Bill Snyder (operations), Lou Simpson (investment manager — "the best in the property-casualty business" [1982 Letter])
+- **Combined ratio (1983):** 96 after voluntary policyholder dividends vs. industry 111
 
 ## Significance
 
@@ -32,6 +34,9 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 - **Owner earnings in action:** $47M cost buys $20M annual earning power, but GAAP reports only ~$3M (dividends). To acquire equivalent earning power outright would cost $200M minimum[^2].
 - **Share buybacks:** GEICO reduced share equivalents from 34.2M to 21.6M in two years, dramatically enhancing per-share value.
 - **Minority ownership preferred:** Buffett couldn't vote the shares and didn't control management — and was perfectly content, because Jack Byrne was better at running GEICO than Buffett would have been.
+- **[1982 Letter]** The commodity exception: "GEICO is a magnificent illustration of the high-profit exception" to the rule that commodity industries with overcapacity earn poor returns — "a company with a wide and sustainable cost advantage." Berkshire's ~35% interest represents ~$250M of premium volume, considerably more than all Berkshire-operated insurance direct volume.
+- **[1983 Letter]** Combined ratio 96 vs. industry 111 — "a truly exceptional business idea and an exceptional management." Special $21M distribution from proportional tender offer kept Berkshire's ownership percentage unchanged. Berkshire's ~one-third interest gives it a $270M share of GEICO's premium volume.
+- **[1983 Letter]** "The combination of a very important and very hard to duplicate business advantage with an extraordinary management" — three-person team of Byrne (underwriting), Snyder (operations), and Simpson (investments).
 
 ## Connections
 

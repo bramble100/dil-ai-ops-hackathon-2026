@@ -1,7 +1,7 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -27,6 +27,12 @@ Owner earnings are the total economic earnings attributable to a shareholder, in
 The idea appears in embryonic form in the 1978 letter (retained earnings of investees "may well eventually have a value to shareholders greater than 100 cents on the dollar"). By 1980, Buffett devotes a full section to the accounting mechanics and their distorting effect. By 1981, he reports that unreported ownership earnings exceed total reported operating earnings — and just four positions (GEICO, General Foods, R.J. Reynolds, Washington Post) will generate $35M+ in unreported earnings in 1982[^2].
 
 **Translation into market value:** Buffett emphasizes that the translation from retained earnings to market value is "highly uneven" and "unpredictable as to timing" but "when purchase prices are sensible, some long-term market recognition of the accumulation of retained earnings almost certainly will occur"[^3].
+
+**[1982 Letter]** Buffett reframes the concept as "economic" vs. "accounting" earnings. The four major holdings (GEICO, General Foods, Washington Post, R.J. Reynolds) generated $40M+ in undistributed earnings attributable to Berkshire — exceeding total reported operating earnings of $31.5M. He states: "Clearly 'accounting' earnings can seriously misrepresent economic reality" and calls accounting numbers "the beginning, not the end, of business valuation."
+
+**[1982 Letter]** The fractional-interest advantage: "This investor may select from almost the entire array of major American corporations... in an auction market where prices are set by participants with behavior patterns that sometimes resemble those of an army of manic-depressive lemmings."
+
+**[1983 Letter]** The $1-for-$1 retention test codified: "We test the wisdom of retaining earnings by assessing whether retention, over time, delivers shareholders at least $1 of market value for each $1 retained." Applied on a five-year rolling basis. To date, "we have received far more than a dollar of market value gain for every dollar of earnings retained."
 
 ## Connections
 

@@ -1,7 +1,7 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -22,15 +22,19 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1979     | $335.85          | —          | 20.5%                     |
 | 1980     | $400.80          | ~19%       | 20.5%                     |
 | 1981     | $526.02          | ~31%       | 21.1%                     |
+| 1982     | $737.43          | 40%        | 22.0%                     |
+| 1983     | $975.83          | 32%        | 22.6%                     |
 
-_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. Exact per-share figures for 1977-78 were not stated in the letters._
+_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain to date. Shares outstanding: 1,146,909 (end 1983) vs. 1,137,778 (start 1965) — virtually no dilution over 19 years._
 
 ## Key Observations
 
 - **[1979 Letter]** The 1964 book value "somewhat overstated the intrinsic value of the enterprise, since the assets owned at that time on either a going concern basis or a liquidating value basis were not worth 100 cents on the dollar. (The liabilities were solid, however.)"
-- **[1981 Letter]** "This rate of return number is highly likely to drift downward in future years" — the base is growing larger, making high percentage returns harder to sustain
-- **[1981 Letter]** Over half of the 1981 net worth gain ($124M, ~31%) came from market appreciation of GEICO alone — highlighting the lumpiness of market recognition
-- **[1980 Letter]** Long-term return considerably exceeds the average of yearly operating returns because investment gains compound on top of operating earnings
+- **[1982 Letter]** "Geometric progressions eventually forge their own anchors" — warning that compounding at 22% will become harder as the base grows
+- **[1982 Letter]** Over half of the 1982 net worth gain ($79M of $208M) came from GEICO market appreciation alone
+- **[1983 Letter]** Book value is "a conservative but reasonably adequate proxy for growth in intrinsic business value" but the two have very different meanings. Intrinsic value now "considerably exceeds" book value because of unrealized gains on non-insurance equities ($70M pre-tax) and economic Goodwill far larger than accounting Goodwill
+- **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
+- **[1983 Letter]** Blue Chip merger completed with virtually no dilution since 1965: 1,146,909 shares vs. 1,137,778 shares at the start — all growth was organic
 
 ## The Inflation Caveat
 

@@ -1,7 +1,7 @@
 ---
 title: "Textile Operations — The Anti-Case-Study"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -35,6 +35,10 @@ The structural trap: slow capital turnover + low profit margins + competitors ma
 | 1979 | $1,723                         | Declining again      |
 | 1980 | $(508)                         | Waumbec failing      |
 | 1981 | $(2,669)                       | Waumbec closed       |
+| 1982 | $(1,545)                       | Continued losses     |
+| 1983 | $(100)                         | Near break-even      |
+
+**[1983 Letter]** Buffett codifies the lesson: "We react with great caution to suggestions that our poor businesses can be restored to satisfactory profitability by major capital expenditures. (The projections will be dazzling — the advocates will be sincere — but, in the end, major additional investment in a terrible industry usually is about as rewarding as struggling in quicksand.)"
 
 ## The Waumbec Mistake
 

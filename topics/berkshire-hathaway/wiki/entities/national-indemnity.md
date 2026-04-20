@@ -2,7 +2,7 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -17,9 +17,10 @@ Berkshire's core insurance operation, purchased in 1967 for ~$8.6M along with si
 
 - **Acquired:** 1967 for ~$8.6M (Berkshire's entry into insurance)
 - **Premium growth:** $22M (1967) → $151M (1977) — ~600% without issuing Berkshire shares
-- **Key people:** Phil Liesche (operations leader), Roland Miller (underwriting), Bill Lyons (claims), Jack Ringwalt (founder)
-- **Subsidiaries/satellites:** Cornhusker Casualty (1970), Lakeland Fire & Casualty (1971), Texas United (1972), Insurance Company of Iowa (1973), Kansas Fire & Casualty (1977), Cypress Insurance (1977), Home and Automobile Insurance
+- **Key people:** Phil Liesche (retired 1982 at 65), Jack Ringwalt (founder), Mike Goldberg (assumed parent company insurance responsibility 1982), Roland Miller (auto and general liability), Don Wurster (structured settlements and loss reserve assumptions)
+- **Subsidiaries/satellites:** Cornhusker Casualty (1970), Lakeland Fire & Casualty (1971), Texas United (1972), Insurance Company of Iowa (1973), Kansas Fire & Casualty (1977), Cypress Insurance (1977), Home and Automobile Insurance, Continental Divide Insurance (Colorado homestate, Tom Rowley)
 - **Standout year (1978):** ~$11M underwriting profit on ~$90M earned premiums — "a truly extraordinary achievement"
+- **Troubled year (1983):** Berkshire insurance group combined ratio 121; traditional lines priced at levels that "guarantee underwriting losses"
 
 ## Significance
 

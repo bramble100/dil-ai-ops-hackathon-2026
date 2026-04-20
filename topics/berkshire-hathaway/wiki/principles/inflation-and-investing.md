@@ -1,7 +1,7 @@
 ---
 title: "Inflation and Investing"
 type: principle
-sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -44,11 +44,17 @@ With long-term tax-exempt bonds yielding 14%, a business earning 14% on equity a
 
 Warning appears in the 1979 letter (misery index), intensifies in 1980 (hamburger test, no corporate solution), and reaches full analytical development in 1981 (tapeworm, equity value-added). Buffett calls inflation "man-made" and hopes it "can be man-mastered" — noting Volcker's efforts but remaining deeply skeptical. "Like virginity, a stable price level seems capable of maintenance, but not of restoration."[^4]
 
+The 1983 Goodwill appendix provides the constructive counterpart: [Economic Goodwill](economic-goodwill.md) shows which businesses actually benefit from inflation. The traditional wisdom that tangible assets protect against inflation is demolished: "It doesn't work that way. Asset-heavy businesses generally earn low rates of return." Instead, "a disproportionate number of the great business fortunes built up during the inflationary years arose from ownership of operations that combined intangibles of lasting value with relatively minor requirements for tangible assets."[^5]
+
+> "During inflation, Goodwill is the gift that keeps giving." — 1983 Appendix
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — ROE must be judged against the misery index, not in isolation
 - [Business Quality](business-quality.md) — Category 1 businesses (price-raising power, low capital needs) are the rare inflation survivors
+- [Economic Goodwill](economic-goodwill.md) — the quantitative framework for inflation-resistant businesses
 - [Capital Allocation](capital-allocation.md) — inflation changes the math on dividends vs. retention
+- [See's Candies](../entities/sees-candies.md) — the primary teaching example of an inflation-adapted business
 
 [^1]: [1979 Letter](../sources/buffett-letter-1979.md) — gold comparison
 
@@ -57,3 +63,5 @@ Warning appears in the 1979 letter (misery index), intensifies in 1980 (hamburge
 [^3]: [1981 Letter](../sources/buffett-letter-1981.md) — parable of the talents
 
 [^4]: [1981 Letter](../sources/buffett-letter-1981.md) — "like virginity"
+
+[^5]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: Goodwill and its Amortization

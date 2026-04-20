@@ -1,7 +1,7 @@
 ---
 title: "Capital Allocation"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -50,9 +50,53 @@ GEICO reduced its shares from 34.2M to 21.6M in two years through buybacks — "
 
 Berkshire borrowed $60M at 12.75% in 1980 not for specific needs but because "the most attractive opportunities may present themselves at a time when credit is extremely expensive — or even unavailable"[^2].
 
+### Equity Issuance Discipline (1982)
+
+**[1982 Letter]** Berkshire will issue shares "only if our owners receive in business value as much as we give." A lengthy analysis of why acquisitions-for-stock almost always destroy value:
+
+- Issuing undervalued stock to pay negotiated (full) value is "using a substantially undervalued currency to make its purchase" — giving up $2 of value to receive $1
+- "For gold valued as gold cannot be purchased intelligently through the utilization of gold — or even silver — valued as lead"
+- The farm analogy: if your family owns 120 acres and you merge with a 60-acre neighbor in an equal partnership, "your managerial domain will have grown to 180 acres but you will have permanently shrunk by 25% your family's ownership interest"
+
+**Three rationalizations managers use:** (a) "The company we're buying is going to be worth a lot more" (so is what you're giving away); (b) "We have to grow" (who is "we"? — existing owners shrink); (c) "We minimized share use to 51%" (a spaniel on your lawn is still a dog on your lawn).
+
+**The "double whammy":** Dilutive issuances both (1) destroy intrinsic value directly and (2) cause markets to permanently discount the stock because management has demonstrated insensitivity to owners. "Those assurances are treated by the market much as one-bug-in-the-salad explanations are treated at restaurants."
+
+**Three legitimate ways to issue stock:** (a) true business-value-for-business-value mergers (rare); (b) when the acquirer's stock sells at or above intrinsic value (bubble era only); (c) issue-then-repurchase to convert a stock deal into an effective cash deal ("damage repair").
+
+### Berkshire's Acquisition Criteria (1982)
+
+First formal listing of the six criteria, repeated in every subsequent letter:
+
+1. Large purchases ($5M+ after-tax earnings)
+2. Demonstrated consistent earning power (no turnarounds, no projections)
+3. Good returns on equity with little or no debt
+4. Management in place ("we can't supply it")
+5. Simple businesses ("if there's lots of technology, we won't understand it")
+6. An offering price (no time-wasting on unknowns)
+
+### Owner's Manual Principles (1983)
+
+**[1983 Letter]** Thirteen business principles codified as the "catechism":
+
+- Partnership attitude: "Charlie Munger and I think of our shareholders as owner-partners"
+- Directors have skin in the game: "over 50% of family net worth" in Berkshire for 4 of 5 directors — "We eat our own cooking"
+- Goal: maximize per-share intrinsic value, not size
+- Two-pronged ownership: whole businesses preferred, but partial ownership via stocks is second choice
+- Accounting consequences don't influence operating decisions: "we much prefer to purchase $2 of earnings that is not reportable... than to purchase $1 of earnings that is reportable"
+- Conservative leverage: "We will reject interesting opportunities rather than over-leverage"
+- No wish-list acquisitions at shareholder expense
+- $1-for-$1 retention test on a five-year rolling basis
+- Share issuance only at or above intrinsic value
+- Reluctance to sell even sub-par businesses: "gin rummy managerial behavior is not our style"
+- Candor in reporting: "the business facts that we would want to know if our positions were reversed"
+- Investment secrecy: "Good investment ideas are rare, valuable and subject to competitive appropriation"
+
 ## Evolution
 
-Capital allocation is present from the first letter (1977: minority ownership of great businesses preferred) and deepens through the batch. The 1981 toad/prince framework is the culminating expression. Buffett's self-assessment: "Your Chairman, unfortunately, does not qualify for Category 2" — acknowledging his own limitations while building the framework for evaluating others.
+Capital allocation is present from the first letter (1977: minority ownership of great businesses preferred) and deepens through the batch. The 1981 toad/prince framework is the culminating expression. The 1982 letter adds the definitive analysis of equity issuance as value destruction, plus the first formal listing of acquisition criteria. The 1983 letter codifies everything into the 13 Owner's Manual principles — the constitution for how Berkshire operates.
+
+> "It has struck me that all men's misfortunes spring from the single cause that they are unable to stay quietly in one room." — Pascal, quoted in 1982 Letter (on acquisition follies)
 
 ## Connections
 

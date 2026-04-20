@@ -34,3 +34,17 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 1981 | Shareholder-designated charitable contributions program launched (Munger's idea)       | Governance  | [Charlie Munger](entities/charlie-munger.md)             |
 | 1981 | Book value reaches $526.02/share (21.1% CAGR from 1964)                                | Financial   | [Book Value](financials/book-value-per-share.md)         |
 | 1981 | Non-controlled ownership earnings exceed total reported operating earnings             | Milestone   | [Owner Earnings](principles/owner-earnings.md)           |
+| 1982 | Phil Liesche retires at 65 from National Indemnity; Mike Goldberg assumes insurance oversight | People | [National Indemnity](entities/national-indemnity.md) |
+| 1982 | Ben Rosner retires from Associated Retail Stores                                       | People      |                                                          |
+| 1982 | Net worth gains $208M (40%) — largest percentage gain to date; book value $737.43      | Financial   | [Book Value](financials/book-value-per-share.md)         |
+| 1982 | Formal six acquisition criteria published for the first time                           | Governance  | [Capital Allocation](principles/capital-allocation.md)   |
+| 1982 | Commodity business framework articulated (overcapacity + undifferentiated = poor returns) | Principles | [Business Quality](principles/business-quality.md) |
+| 1983 | Blue Chip Stamps merger completed — virtually no dilution since 1965 (1,146,909 shares) | Corporate  |                                                          |
+| 1983 | Nebraska Furniture Mart acquired (90% for ~$55.35M); $100M+ revenue single store       | Acquisition | [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) |
+| 1983 | 13 Owner's Manual business principles codified                                         | Governance  | [Capital Allocation](principles/capital-allocation.md)   |
+| 1983 | Buffalo Evening News achieves #1 weekday penetration among 100 largest US papers        | Milestone   | [Buffalo Evening News](entities/buffalo-evening-news.md) |
+| 1983 | Stan Lipsey becomes publisher of Buffalo Evening News (Henry Urban retires at 70)       | People      | [Buffalo Evening News](entities/buffalo-evening-news.md) |
+| 1983 | Louie Vincenti retires from Wesco Financial; Charlie Munger becomes chairman            | People      | [Charlie Munger](entities/charlie-munger.md)             |
+| 1983 | Economic Goodwill appendix published — redefining how to value intangible assets        | Principles  | [Economic Goodwill](principles/economic-goodwill.md)     |
+| 1983 | Structured settlements and loss reserve assumptions launched under Don Wurster           | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 1983 | Book value $975.83/share (22.6% CAGR from 1964); intrinsic value exceeds book value    | Financial   | [Book Value](financials/book-value-per-share.md)         |

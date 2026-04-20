@@ -48,3 +48,10 @@
 - Created: sources/buffett-letter-1977 through 1981, principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/inflation-and-investing, principles/capital-allocation, entities/geico, entities/national-indemnity, entities/sees-candies, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
 - Updated: index.md
 - Notes: All principle pages marked draft — will be enriched as later batches add sources. Batch establishes foundational framework: ROE yardstick, four filters, owner earnings, business quality, underwriting discipline, inflation analysis, capital allocation. GEICO and textiles are the anchor case studies (positive and negative).
+
+## [2026-04-20] ingest-batch | Batch 2 — 1982-1983 (commodity business framework, Owner's Manual, Economic Goodwill)
+
+- Sources: raw/articles/buffett-letter-1982.md, buffett-letter-1983.md
+- Created: sources/buffett-letter-1982, sources/buffett-letter-1983, principles/economic-goodwill, entities/nebraska-furniture-mart, entities/buffalo-evening-news
+- Updated: principles/return-on-equity, principles/owner-earnings, principles/business-quality, principles/capital-allocation, principles/underwriting-discipline, principles/inflation-and-investing, principles/four-filters, entities/geico, entities/sees-candies, entities/national-indemnity, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
+- Notes: 1982 introduces commodity business framework and equity issuance discipline. 1983 is a landmark: 13 Owner's Manual principles, Economic Goodwill appendix, NFM acquisition, Blue Chip merger. Book value track record extended to $975.83 (22.6% CAGR). All existing pages enriched with 1982-83 content.

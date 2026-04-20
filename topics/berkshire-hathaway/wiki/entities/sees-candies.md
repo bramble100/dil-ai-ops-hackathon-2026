@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -15,12 +15,15 @@ A premium boxed-chocolate brand owned through Blue Chip Stamps (purchased early 
 
 ## Key Facts
 
-- **Acquired:** Early 1972 by Blue Chip Stamps (Berkshire's ~60% subsidiary)
-- **Pre-tax earnings:** $4.2M (1972) → $12.6M (1977) → $21.9M (1981) — 5x growth in a decade
+- **Acquired:** Early 1972 by Blue Chip Stamps (Berkshire's ~60% subsidiary) for $25M; See's had ~$8M net tangible assets
+- **Pre-tax earnings:** $4.2M (1972) → $12.6M (1977) → $21.9M (1981) → $27.4M (1983) — 6.5x growth in a decade
+- **After-tax earnings (1983):** $13.7M on ~$20M net tangible assets (25%+ ROE on tangibles)
+- **Revenue (1983):** $133.5M from 207 stores
+- **Poundage:** 24.65M lbs (1983) — essentially flat since 1979 despite price increases
 - **Capital required:** "Little additional capital investment" [1977 Letter]
 - **Industry:** Boxed chocolates — "practically no unit growth" [1977 Letter]
-- **Manager:** Chuck Huggins
-- **Berkshire's effective ownership:** ~60% through Blue Chip (later increasing)
+- **Manager:** Chuck Huggins — installed on day one; "his record has been simply extraordinary"
+- **Berkshire's effective ownership:** ~60% through Blue Chip (100% after 1983 merger)
 
 ## Significance
 
@@ -29,13 +32,22 @@ See's demonstrates several core principles:
 - **Pricing power with minimal capital needs** = the hallmark of a [Category 1 business](../principles/business-quality.md)
 - **Earnings growth without capital growth** = high return on incremental capital; generates cash that can be deployed elsewhere
 - **Brand moat in a commodity-adjacent industry** = consumers pay premium prices for See's despite the availability of cheaper alternatives
+- **[1983 Letter]** "In candy, as in stocks, price and value can differ; price is what you give, value is what you get."
 
-The contrast with textiles is illuminating: both are "products," but See's has brand differentiation and pricing power while textiles are undifferentiated and capital-intensive.
+### The Economic Goodwill Teaching Case (1983)
+
+See's is the primary example in Buffett's famous [Economic Goodwill](../principles/economic-goodwill.md) appendix. Purchased for $25M with $8M in tangible assets, the $17M accounting Goodwill was being amortized. But by 1983, See's earned $13M after tax on $20M tangible assets — the economic Goodwill had grown far larger than the original $17M. "During inflation, Goodwill is the gift that keeps giving" because asset-light businesses need minimal additional capital to maintain operations as prices rise.
+
+### Cost Control Challenge (1983)
+
+**[1983 Letter]** Non-raw-material costs grew faster than inflation in recent years. Chuck Huggins has reversed the trend: "our rate of growth in these costs in 1984 will be below the rate of inflation." Poundage has been flat since 1979 (∼8% cumulative decline on a same-store basis), but dollar volume grew through price increases. Modest 1984 price increase aimed at improving volume.
 
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — archetype of a great business
+- [Economic Goodwill](../principles/economic-goodwill.md) — the primary teaching example
 - [Capital Allocation](../principles/capital-allocation.md) — generates cash for redeployment
+- [Inflation and Investing](../principles/inflation-and-investing.md) — asset-light = inflation-adapted
 - [Textile Operations](../case-studies/textile-operations.md) — the opposite case
 
 [^1]: [1977 Letter](../sources/buffett-letter-1977.md) — earnings growth from $4.2M to $12.6M
