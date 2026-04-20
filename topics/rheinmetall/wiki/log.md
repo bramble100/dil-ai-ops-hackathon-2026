@@ -71,7 +71,7 @@ updated: 2026-04-19
 
 - Unprocessed: 0 files (all 12 sources ingested)
 - Found: 1 important, 2 medium, 1 minor
-- Important: 3 contradictions logged but no questions/ pages filed (2022 operating result 754 vs 769 MioEUR; 2023 ROCE 19.9% vs 21.4%)
+- Important: 3 contradictions logged but no questions/ pages filed (2020 revenue 5,875 vs 5,405 MioEUR; 2022 operating result 754 vs 769 MioEUR; 2023 ROCE 19.9% vs 21.4%)
 - Medium: concepts/nato-2-percent-target.md in TOPIC.md but never created; over-budget pages (segment-performance.md 130 lines, rheinmetall-ag.md 96 lines)
 - Minor: log format inconsistent with schema
 - Open: File contradiction question pages; decide nato-2-percent-target

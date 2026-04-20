@@ -19,4 +19,4 @@ This project uses a shared schema. All wiki conventions, workflows, and rules ar
 4. No links in `log.md`
 5. Respect page budgets (see AGENTS.md Growth Management section)
 6. Cite sources via inline footnotes
-7. Discuss key takeaways with the human before filing during ingest
+7. During ingest, discuss key takeaways with the human when requested or when the ingest skill calls for it; otherwise follow `.claude/skills/ingest/SKILL.md` defaults

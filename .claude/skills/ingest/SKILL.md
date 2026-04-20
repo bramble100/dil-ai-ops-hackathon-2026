@@ -33,7 +33,7 @@ description: Processes raw source documents into the wiki - creates source summa
 
 **When:** The user says "ingest" without naming a specific file.
 
-**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). If any exist, classify each by type and move it to the appropriate subfolder (`articles/`, `papers/`, `notes/`, or `assets/`). Confirm the classification with the user before moving. This keeps `raw/` organized while letting users drop files anywhere.
+**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). Before moving anything, read `source_path` frontmatter from every file in `wiki/sources/` and treat any root-level file already referenced there as already ingested. Only classify and move root-level files that are **not** present in any `source_path`, moving them to the appropriate subfolder (`articles/`, `papers/`, `notes/`, or `assets/`). Leave referenced files in place unless you are also updating every affected `wiki/sources/*` `source_path`. Confirm the classification with the user before moving. This keeps `raw/` organized without breaking existing source references.
 
 **Step 2 — Find unprocessed sources.**
 
@@ -64,7 +64,7 @@ Brief exchange, not a monologue. Cover:
 - Does the user want any particular emphasis or angle?
 - Any connections to existing wiki content you've noticed?
 
-**Auto-mode (default):** Skip this phase — proceed with best judgment. This avoids doubling interactions and cost, especially during batch processing. If genuine input is needed (ambiguous domain, contradictory sources, unclear categorization), use the `vscode_askQuestions` tool to collect it inline rather than pausing for a discussion turn.
+**Auto-mode (default):** Skip this phase — proceed with best judgment. This avoids doubling interactions and cost, especially during batch processing. If genuine input is needed (ambiguous domain, contradictory sources, unclear categorization), ask the user inline rather than pausing for a discussion turn.
 
 **Discussion mode:** The user can say "discuss mode" or "let's discuss" to opt into this phase for a specific session or source.
 
