@@ -29,6 +29,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -148,8 +149,22 @@ Smaller primary insurers (Rod Eldred, John Kizer, Tom Nerney, Don Towle, Don Wur
 
 **[2003 Letter]** Ajit writes a PepsiCo $1 billion prize policy (contestants' chance at winning would trigger a payment of up to $1B — Berkshire accepts $250M present-value exposure). Underwriting profit: $1.4B (ex-retroactive). Total float: $44.2B at zero cost. All four insurance segments profitable.
 
+### 2004: Portrait of a Disciplined Underwriter
+
+**[2004 Letter]** Buffett presents a 25-year "Portrait of a Disciplined Underwriter" table for NICO — premium volume from $79.6M (1980) through the ebb-and-flow cycle to $605.6M (2004). The table shows four CEOs since 1940, none bending on discipline. Key features of the NICO model:
+
+- **Ebb-and-flow strategy:** Volume declined from $366.2M (1986) to $54.5M (1999) as Berkshire refused to match competitors' foolish prices. "Can you imagine any public company embracing a business model that would lead to the decline in revenue that we experienced from 1986 through 1999?"
+- **No-layoff promise:** Employees guaranteed they won't be fired for declining volume, removing the "save their own skins" incentive to write underpriced business. "This is not Donald Trump's sort of place."
+- **Don Wurster** — "the current managerial star — make that superstar" — has run NICO since 1989. Amassed **$950M of float** at near-certain negative cost. Compared to Barry Bonds: "like Barry, Don will accept a walk rather than swing at a bad pitch"
+- **Underwriting profit:** $161M from Other Primary operations; total Berkshire float $46.1B with $1.5B underwriting profit
+- **"Extraordinary business ability is largely innate"** — only one of NICO's four CEOs since 1940 graduated from college
+
+The four Florida hurricanes cost Berkshire $1.25B but Ajit Jain's reinsurance operation still delivered first-class results. Mega-catastrophe preparedness: Berkshire's share of a $100B industry event would be 3-5%, comfortably covered by investment and business earnings. "When 'the day after' arrives, Berkshire's checks will clear." [^14]
+
 Smaller primary insurers: float $1.3B, underwriting profit $47M. "Berkshire has the best collection of managers, the most capital, the lowest costs and the greatest willingness to accept large, unusual risks." [^14]
 
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) — Ajit $13.4B float, 20-person staff, $534M profit, $428M retroactive charge; smaller primaries float $943M +38%
+
+[^14]: [2004 Letter](../sources/buffett-letter-2004.md) — 25-year Portrait of a Disciplined Underwriter; Don Wurster $950M float; ebb-and-flow model; no-layoff promise; four Florida hurricanes $1.25B; mega-cat preparedness ($100B scenario); float $46.1B; $1.5B underwriting profit
 
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — PepsiCo $1B prize policy; $1.4B underwriting profit; total float $44.2B at zero cost; smaller primaries $1.3B float

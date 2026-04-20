@@ -13,6 +13,7 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -74,6 +75,12 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 
 **[1996 Letter]** Market value: $10,525.0M on $1,298.9M cost — an 8:1 return. Coca-Cola formally classified as one of "The Inevitables": businesses whose "worldwide dominance is virtually certain to persist for the life of the investment." The 1896 report cited: 116,492 gallons of syrup sold in the first year; a century later, over 10 billion unit cases annually. "What could be more advantageous in an intellectual contest... than to have opponents who have been taught that thinking is a waste of energy?" Selling Coke to buy something else would be "like the Bulls trading Michael Jordan because he had a bad first quarter"[^6].
 
+## 2004: Big Four and Board Independence
+
+**[2004 Letter]** Coke appears as one of Buffett's **"Big Four" equity holdings** alongside American Express, Gillette, and Wells Fargo. Cost: **$1,299M**; market value: **$8,328M** (a 541% gain on cost). These four holdings now represent $3.83B in cost and $36.3B in market value. Berkshire's share of their combined underlying earnings: **$1.2B** (31.3% of cost); cash distributions to Berkshire: **$434M** (11.3% of cost).
+
+Buffett uses his Coke board experience to deliver a forceful essay on **board independence**. The real test of director commitment: "Matthew 6:21 — 'For where your treasure is, there will your heart be also.'" True independence comes not from box-checking definitions but from directors who own meaningful stock (purchased with their own money, not grants). At Berkshire, every director has **$4M+ of personal stock**; no D&O insurance; no stock options. Buffett's Coke vote against the management-proposed stock-option plan attracted attention, but he notes the vote was closer to his position than reported [^7].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — the ultimate consumer franchise
@@ -92,3 +99,5 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $4,168M → $5,150M market value; 100M shares; 7.8% ownership; moat castle metaphor; 44% global soft drink share
 
 [^6]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — $7,425M → $10,525M market value; "The Inevitables" classification; 1896 report; Bulls-trade-Jordan analogy; Disney 1966 anecdote
+
+[^7]: [2004 Letter](../sources/buffett-letter-2004.md) — Big Four ($8,328M value on $1,299M cost); board independence essay; Matthew 6:21 test; Berkshire directors $4M+ stock / no D&O / no options

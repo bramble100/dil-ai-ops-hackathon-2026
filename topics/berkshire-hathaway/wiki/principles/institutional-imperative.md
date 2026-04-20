@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Imperative"
 type: principle
-sources: [buffett-letter-1989]
+sources: [buffett-letter-1989, buffett-letter-2004]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -44,6 +44,12 @@ While the term is coined in 1989, the symptoms appeared throughout:
 - **[1982 Letter]** Equity issuance as value destruction — most acquirers issue stock because "everyone else does," not because it creates value
 - **[1984 Letter]** The "Pro-Am golf trap": companies with one great business camouflaging repeated allocation failures — the institutional imperative preventing divestiture of the bad businesses
 
+### NICO as the Anti-Imperative Exemplar (2004)
+
+**[2004 Letter]** The NICO 25-year premium table is the most vivid anti-institutional-imperative case study in the letters. Most American insurance companies "harbor an 'institutional imperative' that rejects extended decreases in volume" — they write business at inadequate prices rather than accept shrinking premiums. NICO's premiums ranged from $7.4M (1986) to $975.4M (2003), swinging 130x based solely on whether pricing met profitability thresholds.
+
+Berkshire's structural support enables this discipline: the no-layoff guarantee means NICO doesn't face internal pressure to write volume to keep staff employed. The institutional imperative is neutralized by removing its primary transmission mechanism[^2].
+
 ## Connections
 
 - [Capital Allocation](capital-allocation.md) — the imperative is the primary obstacle to rational allocation
@@ -52,3 +58,5 @@ While the term is coined in 1989, the symptoms appeared throughout:
 - [Textile Operations](../case-studies/textile-operations.md) — Buffett's own textile persistence was partly institutional imperative at work
 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — "Mistakes of the First Twenty-five Years"
+
+[^2]: [2004 Letter](../sources/buffett-letter-2004.md) — NICO 25-year premium table as anti-imperative exemplar; $7.4M to $975.4M range; no-layoff guarantee; "institutional imperative rejects extended decreases in volume"

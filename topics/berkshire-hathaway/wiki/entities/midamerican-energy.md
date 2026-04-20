@@ -8,8 +8,9 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
-source_count: 5
+source_count: 6
 created: 2026-04-20
 updated: 2026-04-20
 tags: [entity, utilities, energy, acquisition]
@@ -69,6 +70,25 @@ Goodwill amortization charge will disappear under SFAS 142 (new GAAP rule elimin
 - Iowa utility: 689,000 customers
 - PUHCA still constrains Berkshire to <10% voting interest despite ~76% economic ownership [^6]
 
+## 2004: Zinc Write-Off and HomeServices Growth
+
+**[2004 Letter]** Berkshire’s fully diluted economic interest reaches **80.5%** (up from ~76%). MidAmerican now reported as a dedicated "Regulated Utility Businesses" segment. Key financials:
+
+| Unit                             | 2004 Pre-Tax | 2003 Pre-Tax |
+| -------------------------------- | ------------ | ------------ |
+| UK utilities                     | $326M        | $289M        |
+| Iowa utility                     | $268M        | $269M        |
+| Pipelines                        | $288M        | $261M        |
+| HomeServices                     | $130M        | $113M        |
+| Zinc project write-off           | ($579M)      | ($46M)       |
+| **Earnings before interest/tax** | **$605M**    | **$1,076M**  |
+
+Net earnings applicable to Berkshire: $237M (vs. $429M in 2003). $1.478B of MidAmerican junior debt payable to Berkshire at 11%.
+
+**Zinc recovery write-off ($579M):** A geothermal zinc extraction project initiated 1998, operational 2002, failed when one technical variable proved intractable. Buffett draws a broader lesson: "If ten independent variables need to break favorably for a successful result, and each has a 90% probability of success, the likelihood of having a winner is only 35%." The corollary: "Stay with simple propositions" / "mono-linked chains."
+
+**HomeServices of America:** Participated in **$59.8B of transactions** (up $11.2B from 2003), with ~24% from six acquisitions. 17 brokerage firms, 18,000+ brokers, 18 states. Ron Peltier building "a brokerage powerhouse." [^7]
+
 ## Sources and Citations
 
 - [1999 Letter](../sources/buffett-letter-1999.md) — ~$2B 1999 acquisition; 11% fixed income + equity for ~76% economic/<10% voting; Walter Scott Jr.; David Sokol CEO; PUHCA 1935 constraints; first major Berkshire utility investment
@@ -78,3 +98,5 @@ Goodwill amortization charge will disappear under SFAS 142 (new GAAP rule elimin
 [^5]: [2002 Letter](../sources/buffett-letter-2002.md) — Kern River pipeline ($1.2B expansion), Northern Natural Gas (Enron/Dynegy backstory), ~8% US gas after expansion, HomeServices $37B, Dave Sokol and Greg Abel
 
 [^6]: [2003 Letter](../sources/buffett-letter-2003.md) — $1.076B pre-tax earnings; pipelines 7.8% US gas; UK 3.7M customers #3; HomeServices $48.6B; Iowa 689K customers; UK privatization efficiency gains
+
+[^7]: [2004 Letter](../sources/buffett-letter-2004.md) — 80.5% economic interest; $605M EBIT; zinc write-off $579M; HomeServices $59.8B transactions; 18,000 brokers; "simple propositions" / "mono-linked chains"; $1.478B junior debt to Berkshire at 11%

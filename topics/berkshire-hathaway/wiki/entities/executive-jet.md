@@ -9,6 +9,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
 source_count: 6
 created: 2026-04-20
@@ -57,3 +58,16 @@ EJA represents a capital-intensive but economically attractive business: custome
 **[2003 Letter]** Pre-tax loss **$41M** plus $32M aircraft inventory writedown. Industry share slips to 70% (by net sales value) but still dominant. European losses continue — the primary drag on profitability. Mayo Clinic Executive Travel Response program launched. Despite the losses, Buffett praises Santulli and remains committed: the competitive moat is widening even as short-term losses persist. [^5]
 
 [^5]: [2003 Letter](../sources/buffett-letter-2003.md) — $41M loss; $32M inventory writedown; 70% industry share; European losses; Mayo Clinic program
+
+### 2004: European Momentum and Marquis Jet Partnership
+
+**[2004 Letter]** NetJets again captures **~70% of net new business** (by dollar value) in the four-company fractional industry. Key metrics:
+
+- **US contracts:** 3,877 → **4,967** (including Marquis Jet Partners customers; vs. ~1,200 when Berkshire bought NetJets in 1998)
+- **European contracts:** 364 → **693** (including 25-hour cards marketed directly in Europe)
+- **Marquis Jet Partners:** Not owned by NetJets but a customer that repackages NetJets capacity into 25-hour cards, leveraging Berkshire's reputation
+- **Financials:** Modest US profit largely offset by European losses. "Europe has been expensive for NetJets — far more expensive than I anticipated — but it is essential to building a flight operation that will forever be in a class by itself"
+- **Cross-Atlantic usage:** US owners made 2,003 flights in Europe (+22% YoY, +137% from 2000); European owners made 1,067 flights in US (+65% YoY, +239% from 2000)
+- Rich Santulli remains CEO; Buffett views provider selection "as akin to picking a brain surgeon: you simply want the best" [^6]
+
+[^6]: [2004 Letter](../sources/buffett-letter-2004.md) — 70% net new business; US contracts 4,967 (from 3,877); European contracts 693 (from 364); Marquis Jet Partners; US profit offset by European losses; cross-Atlantic usage growing rapidly

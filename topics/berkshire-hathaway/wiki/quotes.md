@@ -763,3 +763,71 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "If only 540 taxpayers paid the amount Berkshire will pay, no other individual or corporation would have to pay anything to Uncle Sam." — 2003 Letter
 >
 > Context: Berkshire paid $3.3B in 2003 taxes — top-10 US taxpayer. The 2002 return was 8,905 pages, seven feet tall.
+
+## 2004 Letter
+
+### Investment Philosophy
+
+> "Excitement and expenses are their enemies." — 2004 Letter
+>
+> Context: Identifying the three enemies of the equity investor: high fees, frequent turnover, and acting on hot tips. → [Mr. Market](principles/mr-market.md)
+
+> "I talked when I should have walked." — 2004 Letter
+>
+> Context: Buffett's confession that he warned about the Bubble publicly but failed to act aggressively when prices collapsed. A rare admission of error of omission during the bust.
+
+> "Stay with simple propositions." — 2004 Letter
+>
+> Context: Lesson from MidAmerican's $579M zinc write-off. If ten independent variables each need 90% success, joint probability is only 35%. Invest in "mono-linked chains." → [Business Quality](principles/business-quality.md)
+
+### Insurance & Risk
+
+> "Extraordinary business ability is largely innate." — 2004 Letter
+>
+> Context: On Don Wurster's ability to manage NICO's ebb-and-flow model. You can't teach great underwriting judgment. → [National Indemnity](entities/national-indemnity.md)
+
+> "Like Hell, derivative trading is easy to enter but difficult to leave." — 2004 Letter
+>
+> Context: Gen Re Securities wind-down from 23,218 to 2,890 contracts. Counterparty complexity makes exit slow and costly. → [General Re](entities/general-re.md)
+
+> "You only learn who has been swimming naked when the tide goes out." — 2004 Letter
+>
+> Context: On phantom profits from mark-to-market of long-duration, multi-variable derivatives contracts. → [General Re](entities/general-re.md)
+
+### Corporate Governance
+
+> "Run your business as if it were the only asset your family will own over the next hundred years." — 2004 Letter
+>
+> Context: Buffett's governance ideal — true owner mentality. → [Capital Allocation](principles/capital-allocation.md)
+
+> "For where your treasure is, there will your heart be also." — Matthew 6:21, quoted in 2004 Letter
+>
+> Context: The real test of board independence: directors must have meaningful personal wealth at stake. → [Capital Allocation](principles/capital-allocation.md)
+
+> "This is not Donald Trump's sort of place." — 2004 Letter
+>
+> Context: On Berkshire headquarters — 5,246 sq ft, no legal department, no human resources, no public relations. Overhead: <1 basis point of assets under management.
+
+### Macro & Trade
+
+> "Sharecropper's Society" — 2004 Letter
+>
+> Context: Buffett's term for where America is heading if the $618B current account deficit persists — Americans working to service foreign-owned claims on US assets. → [Inflation and Investing](principles/inflation-and-investing.md)
+
+> "Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally." — Keynes, quoted in 2004 Letter
+>
+> Context: Why policymakers don't address the trade deficit despite clear dangers.
+
+### Humor & Self-Deprecation
+
+> "Tell your pal he belongs in the back of the plane, not the cockpit." — Al Ueltschi, quoted in 2004 Letter
+>
+> Context: Ueltschi refused to certify a tycoon for whom Charlie lobbied. FlightSafety's standards don't bend for wealth. → [FlightSafety](entities/flightsafety.md)
+
+> "My opinion of someone who is always wrong." — Bill Child, attributed in 2004 Letter
+>
+> Context: R.C. Willey's assessment of Buffett's retail judgment. Buffett predicted Boise, Las Vegas, and now Reno would fail — all proved him wrong. → [R.C. Willey](entities/rc-willey.md)
+
+> "After 40 years, we've finally generated a little synergy at Berkshire." — 2004 Letter
+>
+> Context: The first time Buffett uses "synergy" approvingly — referring to Berkshire's balance sheet enabling Clayton Homes to lend $7.35B when securitization markets dried up. → [Clayton Homes](entities/clayton-homes.md)

@@ -9,6 +9,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -65,6 +66,19 @@ The acquisition demonstrates three capital allocation principles: (1) reputation
 [^5]: [2002 Letter](../sources/buffett-letter-2002.md) — $225M pre-tax including $60M FSB sale gain; corporate aviation slowdown
 
 [^6]: [2003 Letter](../sources/buffett-letter-2003.md) — $72M reported ($150M "normal"); $37M simulator obsolescence; $1.2B total simulators (3x nearest competitor)
+
+### 2004: Rebound and CEO Transition
+
+**[2004 Letter]** FlightSafety rebounds as corporate aviation recovers and regional airline training grows. Return on tangible equity improves to **15.1%** (from 8.4% in 2003). Key metrics:
+
+- **Simulators:** 283 units, $1.2B original cost
+- **Capital intensity:** ~$3.50 of investment required per $1 of annual revenue — high utilization rates are all-important
+- **CEO transition:** Al Ueltschi (who founded FlightSafety in 1951 with $10,000) hands the CEO position to **Bruce Whitman**, a 43-year company veteran. "But Al's not going anywhere; I won't let him."
+- FlightSafety is NetJets' #1 customer: 2,100 pilots average 18 training days/year, flying only one aircraft type
+
+> "Tell your pal he belongs in the back of the plane, not the cockpit." — Al Ueltschi, refusing to certify a tycoon Charlie lobbied for [^7]
+
+[^7]: [2004 Letter](../sources/buffett-letter-2004.md) — 15.1% tangible ROE; 283 simulators/$1.2B; Al Ueltschi to Bruce Whitman; $3.50 capital/$1 revenue
 
 ## Connections
 

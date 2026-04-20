@@ -8,6 +8,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -42,6 +43,12 @@ Pre-tax earnings: $292M in 2001 (first year of full consolidation; partial year 
 
 **[2003 Letter]** Record pre-tax earnings of **$436M**. Shaw acquires the **Dixie Group** (adding ~$240M in sales), pushing total revenues toward **~$5B** — cementing Shaw as the world's dominant carpet manufacturer. Manufacturing/services segment overall earns 20.7% on average tangible net worth.
 
+## 2004: Record Earnings Despite Cost Barrage
+
+**[2004 Letter]** Pre-tax earnings rise to **$466M** (from $436M) despite a massive raw-material cost surge — fiber costs added **more than $300M** to Shaw's cost base during the year. "When you walk on carpet you are, in effect, stepping on processed oil." Despite these headwinds, Shaw earns **25.6% on tangible equity**. Margins narrowed as the year progressed due to inevitable lag between cost increases and price increases.
+
+Bob Shaw and Julian Saul continue as leaders. "The company is a powerhouse and has a bright future." [^4]
+
 ## Significance
 
 Shaw illustrates Berkshire's acquisition model in manufacturing: identify the industry leader, find operators who both built and own the business, acquire with a structure that retains their economic stake. "We know we are in good hands." Shaw's scale (largest carpet company in the world) and Bob Shaw's operational track record satisfy the four filters.
@@ -50,3 +57,5 @@ Shaw illustrates Berkshire's acquisition model in manufacturing: identify the in
 
 - [Capital Allocation](../principles/capital-allocation.md) — asbestos policy refusal as disciplined underwriting; acquisition structure retaining founder stake
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — refused uncapped asbestos liability policy that led to the relationship
+
+[^4]: [2004 Letter](../sources/buffett-letter-2004.md) — $466M pre-tax; $300M+ fiber cost surge; 25.6% tangible ROE; margin pressure from lag; Bob Shaw/Julian Saul

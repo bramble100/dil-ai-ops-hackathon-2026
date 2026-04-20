@@ -21,6 +21,7 @@ sources:
     buffett-letter-1995,
     buffett-letter-1996,
     buffett-letter-1999,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -180,6 +181,12 @@ The distinction is critical: Buffett doesn't claim tech stocks are overpriced. H
 - **Clayton Homes:** Buffett read Jim Clayton's autobiography (gifted by Tennessee students), evaluated Kevin Clayton, reviewed public financials, and called with an offer. Filter (1): understood manufactured housing from Oakwood experience; Filter (2): industry survivor with disciplined lending; Filter (3): Jim Clayton's character evident from his book; Filter (4): public company priced by a distressed market.
 - **McLane ($23B sales):** 2-hour meeting, handshake, 29 days to close, no due diligence. Filter (3) satisfied by Wal-Mart's reputation: "We knew everything would be exactly as Wal-Mart said it would be." Speed is possible precisely because the filters are internalized[^9].
 
+### Simple Propositions and Mono-Linked Chains (2004)
+
+**[2004 Letter]** MidAmerican's **$579M zinc write-off** yields a new filter corollary: prefer businesses where success depends on few independent variables. "If ten independent variables need to break favorably... and each has a 90% probability of success, the likelihood of having a winner is only 35%." The conclusion: **"Stay with simple propositions"** — invest in "mono-linked chains" where one clear factor drives the outcome.
+
+This sharpens filter (1) (understandable business): understanding a business means not just knowing what it does, but assessing the **complexity of its success conditions**. A business that requires multiple independent things to go right simultaneously is inherently less predictable than one with a single dominant success factor[^10].
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
@@ -206,3 +213,5 @@ The distinction is critical: Buffett doesn't claim tech stocks are overpriced. H
 [^8]: [1999 Letter](../sources/buffett-letter-1999.md) — tech-stock circle of competence; "comfortable business at comfortable price"; durability of competitive advantage test
 
 [^9]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — three investor suggestions (cockroach accounting, unintelligible footnotes, earnings projections); Clayton acquisition from book-reading; McLane no-due-diligence speed
+
+[^10]: [2004 Letter](../sources/buffett-letter-2004.md) — zinc write-off $579M; "simple propositions" / "mono-linked chains"; 10 variables at 90% = 35% joint probability; filter (1) complexity corollary

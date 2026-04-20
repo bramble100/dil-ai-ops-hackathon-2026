@@ -91,6 +91,7 @@ Chronological list of acquisitions and major investment positions as documented 
 | 2003    | Clayton Homes (100%)                    | undisclosed (public company)             | —                 | Manufactured housing builder/financer; Kevin Clayton CEO; origin: Tennessee students' book gift; retains loans  | [Clayton Homes](entities/clayton-homes.md)           |
 | 2003    | McLane Company (100%)                   | undisclosed                              | —                 | $23B sales wholesale distribution; from Wal-Mart; 29-day deal, no due diligence; Byron Trott (Goldman Sachs)    | [McLane](entities/mclane.md)                         |
 | 2003    | Dixie Group (Shaw subsidiary)           | undisclosed                              | —                 | ~$240M sales carpet business; acquired by Shaw Industries → total ~$5B revenues                                 | [Shaw Industries](entities/shaw-industries.md)       |
+| 2004    | Oakwood Homes (Clayton subsidiary)      | undisclosed (out of bankruptcy)          | —                 | Manufactured housing; completed April 2004; makes Clayton the industry's largest producer/retailer              | [Clayton Homes](entities/clayton-homes.md)           |
 
 ## Connections
 

@@ -31,6 +31,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -148,6 +149,20 @@ A cautionary anecdote: GEICO's 1981-83 umbrella/product liability venture retain
 
 **[2003 Letter]** Market share reaches **5.0%** (from 2.1% when Tony Nicely took over in 1992). Premiums $8.1B (from $2.2B in 1992). Preferred policyholders +8.2%, standard/non-standard +21.4%. Buffalo customer service center announced — 2,500 new jobs, Governor Pataki instrumental. Tony Nicely has tripled GEICO's market share in 11 years while maintaining underwriting profitability. [^15]
 
+### 2004: New Jersey Re-Entry and 6% Market Share
+
+**[2004 Letter]** Buffett provides the most comprehensive GEICO history in the corpus — tracing the full arc from Leo Goodwin's founding in 1936 with $200,000, through State Farm (1922, captive agents) and Allstate (1931), to GEICO's direct-to-consumer breakthrough. GEICO's 69-year story: 4% market share by 1975 → near-bankruptcy 1976 → Jack Byrne rescue → 1.8% (1980) → unwise diversification → 1.9% (1993) → Tony Nicely takes charge.
+
+Expected **~6% market share in 2005** — a tripling from the 1.9% when Nicely took over. Key developments:
+
+- **New Jersey re-entry:** After withdrawing in 1976, GEICO was relicensed August 2004 under Holly Bakke's leadership. Already serving **140,000 policyholders** (~4% of NJ market) with closure rates far above the national average
+- **Customer savings:** ~$1B annually compared to alternative coverage
+- **Profit-sharing:** $191M at **24.3% of salary**
+- **Underwriting profit:** $970M; float $5,960M
+- **Low-cost advantage restated:** "We wait in vain for 'I'd like a National Indemnity policy, please'" — but GEICO's cost advantage makes it the exception in a commodity business
+
+**Lou Simpson** manages ~$2.5B of GEICO equities with a 25-year track record of **20.3% CAGR** (vs. S&P 13.5%). Operates independently — Buffett typically learns of his trades ten days after month-end[^16].
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -184,3 +199,5 @@ A cautionary anecdote: GEICO's 1981-83 umbrella/product liability venture retain
 [^14]: [2002 Letter](../sources/buffett-letter-2002.md) — $6.9B premiums; $416M underwriting profit; internet +75%; 19,162 associates; 19% profit-sharing; $72K→$94.1M loss anecdote
 
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
+
+[^16]: [2004 Letter](../sources/buffett-letter-2004.md) — GEICO 69-year history; ~6% market share 2005; New Jersey re-entry 140K policyholders; $970M underwriting profit; float $5,960M; Lou Simpson 25-year 20.3% CAGR; profit-sharing $191M (24.3%)

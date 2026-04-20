@@ -28,6 +28,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -348,6 +349,19 @@ GEICO's 1981-83 umbrella/product liability venture serves as a cautionary tale: 
 
 This represents a $5.7B swing in two years — from $4.0B underwriting loss (2001) to $1.7B underwriting profit (2003). The turnaround validates Buffett's conviction that the three principles, consistently applied, inevitably produce superior results.[^13]
 
+### Float $46.1B with $1.5B Profit — NICO Portrait of Discipline (2004)
+
+**[2004 Letter]** Total float reaches **$46.1B** with **$1.5B underwriting profit** — the second consecutive year of significant cost-free float. Four Florida hurricanes impose **$1.25B in losses**, yet the overall result remains strongly profitable.
+
+The centerpiece of the 2004 insurance discussion is a **25-year premium table for NICO's traditional business** — a "Portrait of a Disciplined Underwriter." Under Don Wurster, premiums have oscillated from $7.4M (1986) to $975.4M (2003) depending on whether prices meet profitability thresholds. Most insurers maintain steady volumes because the institutional imperative makes premium declines intolerable. NICO embraces the **ebb-and-flow model**: write big when prices are right, shrink dramatically when they aren't.
+
+Key elements:
+
+- **Don Wurster:** "A superstar" who manages $950M of float with an "extraordinary" understanding of risk. "Extraordinary business ability is largely innate" — Tom Murphy hiring principle ($3M to find the right person)
+- **No-layoff promise:** Berkshire guarantees no layoffs during low-volume periods, enabling NICO to retain talent. This directly supports the ebb-and-flow model by removing the institutional pressure to write business to keep staff employed
+- **Mega-cat preparedness:** Berkshire can and will write a policy for a **$100B loss event** if the price is right — no other insurer has this capacity. Even after writing such a policy and suffering the loss, Berkshire would have more net worth than any other insurer
+- **Insurance as commodity:** When underwriting standards deteriorate, insurance becomes a commodity where price is the only differentiator — the ebb years are when this happens. Discipline means accepting zero revenue rather than writing at inadequate prices[^14]
+
 ## Connections
 
 - [National Indemnity](../entities/national-indemnity.md) — the operational embodiment; Ajit Jain post-9/11
@@ -380,3 +394,5 @@ This represents a $5.7B swing in two years — from $4.0B underwriting loss (200
 [^12]: [2002 Letter](../sources/buffett-letter-2002.md) — float $41.2B at 1% cost; General Re $1.31B additional charge; Ajit $13.4B float; GEICO $6.9B/$416M; deadbeat reinsurer cautionary tale ($72K→$94.1M)
 
 [^13]: [2003 Letter](../sources/buffett-letter-2003.md) — float $44.2B at zero cost; $1.7B underwriting profit; General Re FIXED ($145M profit); GEICO 5.0% share; Ajit PepsiCo $1B; all segments profitable
+
+[^14]: [2004 Letter](../sources/buffett-letter-2004.md) — float $46.1B with $1.5B profit; NICO 25-year portrait; ebb-and-flow model; Don Wurster $950M float; no-layoff promise; four Florida hurricanes $1.25B; mega-cat $100B preparedness; Tom Murphy $3M hiring principle

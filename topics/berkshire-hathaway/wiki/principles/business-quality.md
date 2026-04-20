@@ -25,6 +25,7 @@ sources:
     buffett-letter-1996,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -247,6 +248,20 @@ The Eddie Bennett batboy metaphor: Bennett started as a 19-year-old batboy for t
 
 Clayton survived as the "class act" because it retained its lending risk ("every tub on its own bottom") — the business-quality principle applied to financial operations. Conseco, the largest player, went bankrupt. The parallel to GEICO is explicit: structural cost/quality advantages produce inevitable winners in industries plagued by undisciplined competitors[^12].
 
+### "Stay with Simple Propositions" — The Mono-Linked Chain (2004)
+
+**[2004 Letter]** The manufacturing, service, and retail segment earns **21.7% on average tangible net worth** on $44.1B revenue — "stellar" results that "would be envied by most companies." But the banner result comes with a cautionary lesson from MidAmerican's **zinc recovery failure** ($579M write-off).
+
+The zinc project had ten independent technical variables that each needed to succeed. Even at 90% individual probability, the joint probability was only **35%**. Buffett draws the principle: **"Stay with simple propositions"** — invest in businesses where success depends on few variables ("mono-linked chains"), not many.
+
+This crystallizes a business-quality filter: great businesses have simple, robust economics. Complex multi-variable businesses — however intellectually appealing — carry compounding risk that undermines the margin of safety.
+
+Other 2004 highlights:
+
+- **[Shaw Industries](../entities/shaw-industries.md)**: 25.6% tangible ROE despite $300M+ fiber cost surge — pricing power under stress
+- **MiTek** described as a "mini-Berkshire" under Gene Toombs: 17 acquisitions since 2001 using Berkshire's acquisition template
+- Segment generates enormous cash flow with modest reinvestment needs — the hallmark of business quality[^13]
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -282,3 +297,5 @@ Clayton survived as the "class act" because it retained its lending risk ("every
 [^11]: [2001 Letter](../sources/buffett-letter-2001.md) — post-bubble vindication; experience vs. exposure failure in tech investing
 
 [^12]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — non-insurance $272M/month; Eddie Bennett batboy metaphor; manufactured housing industry destruction; Clayton Homes as quality survivor; "every tub on its own bottom"
+
+[^13]: [2004 Letter](../sources/buffett-letter-2004.md) — 21.7% tangible ROE on $44.1B revenue; zinc write-off $579M; "simple propositions" / "mono-linked chains"; Shaw 25.6% ROE despite $300M cost surge; MiTek as "mini-Berkshire"

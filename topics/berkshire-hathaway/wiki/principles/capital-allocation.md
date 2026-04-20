@@ -28,6 +28,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -412,6 +413,21 @@ This essay, written in 2002, would prove prescient — almost exactly describing
 
 **[2003 Letter]** The shareholder-designated charitable contributions program (launched in 1981, Munger's idea) is terminated — abortion-related boycotts were hurting Pampered Chef's independent kitchen consultants. "We see nothing charitable in harming decent, hard-working people just so we and other shareholders can gain some minor tax efficiencies." Capital allocation principle: subsidiary welfare trumps parent-level tax optimization.
 
+### $43B Cash and Governance Architecture (2004)
+
+**[2004 Letter]** Berkshire holds **$43 billion in cash** — "not a happy position" but Buffett "struck out" on acquisitions during the year. The cash pile reflects the tension between discipline (filter 4: price must be right) and deployment pressure (compounding drag of idle capital).
+
+**Stock-option expensing:** Scheduled for June 15, 2005 (FASB rule). Buffett's multi-year campaign succeeds. He distinguishes between bad options (at-the-money, quickly vested, freely exercisable) and well-structured ones: appropriate strike price, escalating for retained earnings, no quick disposal. Notes that his successor at Berkshire may receive options — "but they will be meaningful options that are properly structured."
+
+**Board independence and governance:** Using his Coke board experience, Buffett delivers a forceful essay on what real director independence means:
+
+- **Matthew 6:21 test:** "For where your treasure is, there will your heart be also." Directors should own substantial stock purchased with their own money, not grants
+- **Berkshire model:** Every director owns **$4M+ of personal stock**; no D&O insurance; no stock options; no director fees that matter relative to net worth
+- **Whistleblower line** and **directors-without-CEO meetings** as structural safeguards
+- "Run your business as if it were the only asset your family will own over the next hundred years"
+
+The governance essay crystallizes Buffett's view that alignment of economic interest is the only reliable foundation for board effectiveness — process-based independence definitions are insufficient[^15].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -453,3 +469,5 @@ This essay, written in 2002, would prove prescient — almost exactly describing
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) — derivatives WMD essay; mark-to-myth accounting; Gen Re Securities wind-down; boardroom governance; four audit committee questions; stock-option expensing FASB/Senate history; corporate governance
 
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — owner-capitalism governance; Clayton/McLane acquisition speed; Byron Trott; Designated Gifts termination; successor planning; four internal candidates
+
+[^15]: [2004 Letter](../sources/buffett-letter-2004.md) — $43B cash; struck out on acquisitions; stock-option expensing June 15; successor may get options (well-structured); Coke board independence; Matthew 6:21 test; $4M+ stock / no D&O / no options; whistleblower line; "run your business as if only asset"

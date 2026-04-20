@@ -18,6 +18,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -187,6 +188,27 @@ The humility caveat: "The cemetery for seers has a huge section set aside for ma
 
 **[2003 Letter]** Mr. Market's mood has swung: junk bonds purchased at distressed prices in 2002 ($8B) have repriced upward. "Yesterday's weeds are today being priced as flowers." The contrarian who bought when Mr. Market was despondent is rewarded when Mr. Market's enthusiasm returns — the pattern repeating the Wells Fargo (1990), Coca-Cola (1988), and Washington Post (1973) purchases at earlier market lows.[^14]
 
+### Big Four, Bubble Confession, and the Normal Return Paradox (2004)
+
+**[2004 Letter]** The **"Big Four" equity holdings** — American Express, Coca-Cola, Gillette, and Wells Fargo — illustrate business value vs. market price divergence:
+
+| Metric                              | Amount                |
+| ----------------------------------- | --------------------- |
+| Total cost                          | $3.83B                |
+| Market value                        | $36.3B                |
+| Annual earnings (Berkshire's share) | $1.2B (31.3% of cost) |
+| Annual cash distributions           | $434M (11.3% of cost) |
+
+The $1.2B of annual look-through earnings from four stocks — at 31% of cost — demonstrates the compounding power of businesses that retain and redeploy earnings effectively. Dividends of $434M alone represent an 11.3% cash yield on original cost.
+
+**Bubble confession:** "I talked when I should have walked" — Buffett publicly warned about market excesses in 1999-2000 but failed to act on the opportunities when prices finally collapsed. A rare admission of an error of omission during the bust.
+
+**Normal return paradox:** Buffett's 40-year annual returns (pre-2004) averaged **21.9%** per year, but no individual year was close to that average. This teaches that "normal" compound returns are experienced through highly abnormal individual years — the long-term average is a statistical artifact, not a lived experience.
+
+**Three enemies of equity investors:** (1) expenses (high fees), (2) frequent portfolio turnover (taxes on realized gains), and (3) acting on hot tips and market forecasts. "Excitement and expenses are their enemies."
+
+Lou Simpson's 25-year track record (**20.3% CAGR** vs. S&P 13.5%) on ~$2.5B of GEICO capital provides living proof that value investing works over multi-decade horizons — the ultimate Mr. Market exploitation[^15].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -221,6 +243,8 @@ The humility caveat: "The cemetery for seers has a huge section set aside for ma
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) — Great Bubble hangover; three investor suggestions; junk bonds $8.3B; 10% pre-tax return threshold
 
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — foreign currency $12B first-ever macro bet; "yesterday's weeds priced as flowers"; trade deficit warning
+
+[^15]: [2004 Letter](../sources/buffett-letter-2004.md) — Big Four ($3.83B cost / $36.3B value / $1.2B earnings share); "talked when should have walked" Bubble confession; normal return paradox; three investor enemies; Lou Simpson 20.3% CAGR
 
 [^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
 

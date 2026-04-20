@@ -70,7 +70,7 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 12 — 2004 (~2,340 lines; longest single letter)
 
-- [ ] buffett-letter-2004.md
+- [x] buffett-letter-2004.md
 
 ### Batch 13 — 2005 (~1,930 lines)
 

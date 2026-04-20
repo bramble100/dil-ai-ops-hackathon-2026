@@ -25,6 +25,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2000,
     buffett-letter-2001,
+    buffett-letter-2004,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -219,6 +220,12 @@ The pro-forma irony: Berkshire's own "pro-forma" earnings were actually _lower_ 
 
 **[2003 Letter]** Buffett provides a 35-year operating earnings compounded growth table (1968-2003) showing per-share operating earnings growing from $2.69 to $3,531.32 — a 22.8% CAGR. This table, unlike look-through earnings, captures only subsidiary and operating earnings, excluding investment gains. It demonstrates that Berkshire's value creation is rooted in real business operations, not securities trading[^13].
 
+### Equity Holdings as Declining Share of Net Worth (2004)
+
+**[2004 Letter]** Berkshire's equity portfolio has declined from **114% of net worth** (1980s average) to **less than 50%** by 2004. This structural shift means book-value-per-share — long used as a proxy for intrinsic value in the annual S&P comparison — is an increasingly **weaker proxy** for business value. As operating businesses grow relative to the equity portfolio, look-through earnings from investments become a smaller fraction of total value creation.
+
+The Big Four equity holdings demonstrate the look-through concept at its most powerful: $1.2B in Berkshire's share of annual earnings vs. $434M actually received as dividends. The $766M gap between earned and received represents retained earnings compounding inside the investee businesses — the core of look-through value that GAAP doesn't capture[^14].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — owner earnings reveal what ROE calculations miss
@@ -251,3 +258,5 @@ The pro-forma irony: Berkshire's own "pro-forma" earnings were actually _lower_ 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — SFAS 142 adopted; goodwill amortization eliminated; owner earnings and GAAP converge
 
 [^13]: [2002 Letter](../sources/buffett-letter-2002.md) & [2003 Letter](../sources/buffett-letter-2003.md) — EBITDA critique deepened; pro-forma irony; mark-to-model/myth derivatives accounting; Gen Re Securities; operating earnings per-share growth table 1968-2003
+
+[^14]: [2004 Letter](../sources/buffett-letter-2004.md) — equity holdings <50% of net worth (from 114% in 1980s); Big Four $1.2B look-through vs. $434M dividends; book value as weakening proxy

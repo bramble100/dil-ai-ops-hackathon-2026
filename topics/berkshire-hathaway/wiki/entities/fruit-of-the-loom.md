@@ -2,7 +2,7 @@
 title: "Fruit of the Loom"
 type: entity
 entity_kind: subsidiary
-source_count: 2
+source_count: 3
 created: 2026-04-20
 updated: 2026-04-20
 tags: [apparel, manufacturing, acquisition, turnaround]
@@ -37,3 +37,9 @@ John Holland's turnaround (he had previously run the company under its former ow
 [^1]: [2002 Shareholder Letter](../sources/buffett-letter-2002.md) — acquisition completion, 33% men's/boys' market share
 
 [^2]: [2003 Shareholder Letter](../sources/buffett-letter-2003.md) — 42.3% market share, women's expansion
+
+## 2004: Continued Unit Growth
+
+**[2004 Letter]** Fruit of the Loom posts unit volume growth of **14%** — equivalent to **10 million additional dozen** units. Women's and girls' intimate apparel grows **31%**. John Holland continues as CEO. Fruit demonstrates the durable, growing franchise Buffett saw through the bankruptcy — brand dominance in essential consumer goods drives volume gains even in a competitive market [^3].
+
+[^3]: [2004 Letter](../sources/buffett-letter-2004.md) — +14% unit volume (+10M dozen); women's/girls' intimate apparel +31%; John Holland CEO

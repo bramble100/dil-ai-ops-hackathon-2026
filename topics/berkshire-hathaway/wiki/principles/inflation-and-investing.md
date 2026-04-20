@@ -1,7 +1,19 @@
 ---
 title: "Inflation and Investing"
 type: principle
-sources: [buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1983, buffett-letter-1984, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources:
+  [
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-2004,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -70,6 +82,21 @@ The Scarlett O'Hara fiscal policy: "'I'll think about it tomorrow.' And, almost 
 
 **[1989 Letter]** The Rip Van Winkle tax advantage adds a new dimension to the inflation/tax interaction: $1 doubling annually for 20 years, sold and taxed each year, produces ~$25,250; the same $1 invested once that doubles 20 times produces ~$692,000 after tax — a 27:1 difference arising solely from the timing of tax payments. The deferred tax liability on unrealized gains is effectively "an interest-free loan from the U.S. Treasury." This reinforces the permanent-holdings philosophy: even modest inflation combined with annual taxation dramatically erodes real returns, making long-term holding the rational response[^6].
 
+### The Trade Deficit and "Sharecropper's Society" (2004)
+
+**[2004 Letter]** Buffett's most extensive macro essay since the 1979 inflation treatise. The U.S. current account deficit has ballooned to **$618 billion** annually, transferring **$1.8 billion per day** in net wealth to foreign owners. Berkshire holds **$21.4 billion in foreign currency positions across 12 currencies** as a direct hedge.
+
+Key arguments:
+
+- **"Sharecropper's Society":** If current trends persist, Americans will increasingly work to service foreign-owned claims on U.S. assets. Foreign net ownership of U.S. assets has reached **$3 trillion**; at current trajectory, Buffett projects **$11 trillion** within a decade
+- **1987 echo:** The claim-check framework from the 1987 letter comes full circle. Then, Buffett warned about foreign claims growing to the point where currency debasement becomes irresistible. Now, the claims are vastly larger
+- **Budget deficit vs. trade deficit:** Buffett distinguishes the two — the budget deficit is a "family squabble about who pays the bills"; the trade deficit is "the family sending its net worth to others" — qualitatively different
+- **Adam Smith critique:** The political consensus (both parties) accepts trade deficits as harmless — Buffett calls this complacent thinking dangerous
+- **Keynes on conventional failure:** "Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally" — why policymakers don't act
+- **W.C. Fields:** "A man who'd been known for excessive moderation in all things" decides to "give up drinking and gambling while he was ahead" — analogizing Berkshire's currency position exit strategy
+
+This essay extends the inflation principle from domestic purchasing power to international wealth transfer — inflation is just one mechanism by which claims are diluted; trade deficits create claims in the first place[^7].
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — ROE must be judged against the misery index, not in isolation
@@ -89,3 +116,5 @@ The Scarlett O'Hara fiscal policy: "'I'll think about it tomorrow.' And, almost 
 [^5]: [1983 Letter](../sources/buffett-letter-1983.md) — Appendix: Goodwill and its Amortization
 
 [^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Rip Van Winkle tax advantage
+
+[^7]: [2004 Letter](../sources/buffett-letter-2004.md) — $618B current account deficit; $21.4B foreign currency / 12 currencies; "Sharecropper's Society"; $3T foreign net ownership; $11T projection; $1.8B/day wealth transfer; budget vs. trade deficit; Keynes "fail conventionally"; W.C. Fields

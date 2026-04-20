@@ -2,7 +2,7 @@
 title: "R.C. Willey Home Furnishings"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1995, buffett-letter-2001]
+sources: [buffett-letter-1995, buffett-letter-2001, buffett-letter-2004]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -39,6 +39,14 @@ At the Las Vegas ribbon-cutting, Buffett tried to claim the idea was his. "It di
 R.C. Willey's Utah sales: grown from $250,000 (when Bill Child took over 48 years earlier) to over $300M by 2001.
 
 [^2]: [2001 Letter](../sources/buffett-letter-2001.md) — Boise and Las Vegas expansions; closed-on-Sunday policy vindicated at scale; Buffett's skepticism repeatedly disproven
+
+## 2004: Out-of-State Dominance Confirmed
+
+**[2004 Letter]** The out-of-state expansion that Buffett twice doubted has reshaped R.C. Willey's economics: **41.9% of 2004 sales** now come from stores outside Utah — stores that didn't exist before 1999. The two Las Vegas locations each do **26% more** volume than any of the 10 Utah stores. The Boise store outperforms expectations. Bill Child (now 70) has transitioned to Chairman; **Scott Hymas** (38) takes over as CEO and is "in all ways, ready for this job."
+
+A Reno expansion is planned for Spring 2006. Buffett: "I predict it will fail. But maybe I'll be wrong again. Bill's opinion about my business judgment can be found on page 53" (a joke referencing Bill's assessment that Buffett "was always wrong") [^3].
+
+[^3]: [2004 Letter](../sources/buffett-letter-2004.md) — 41.9% out-of-state sales; Las Vegas stores +26% over any Utah location; Scott Hymas CEO; Reno planned; Buffett "always wrong" running joke
 
 ## Connections
 

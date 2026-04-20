@@ -9,6 +9,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2004,
   ]
 source_count: 6
 created: 2026-04-20
@@ -84,6 +85,12 @@ Float: $19.3B (General Re's share of Berkshire's $35.5B total). "General Re shou
 - Gen Re Securities still unwinding: 7,580 tickets with 453 counterparties (from 23,218 with 884 in early 2002). Pre-tax loss $99M
 - Buffett confession: "I'm sure I could have saved you $100 million or so, pre-tax, if I had acted more promptly to shut down Gen Re Securities." Charlie "would have moved swiftly to close" it — a rare explicit acknowledgment that Munger's instincts were sharper
 
+## 2004: Culture Restored, Prior-Year Drag
+
+**[2004 Letter]** Joe Brandon has "restored a long-admired culture of underwriting discipline that, for a time, had lost its way." Current-year business produced excellent results, but these were **offset by adverse developments from prior years** — the legacy of pre-Brandon underwriting. Net result: **$3M underwriting profit** (effectively breakeven). Float: $23,120M (down slightly from $23,654M).
+
+Gen Re Securities wind-down continues: **2,890 contracts** outstanding (down from 23,218 at peak). "Like Hell, derivative trading is easy to enter but difficult to leave." Buffett warns about phantom profits from mark-to-market of long-duration, multi-variable contracts: "You only learn who has been swimming naked when the tide goes out."
+
 ## Sources and Citations
 
 - [1998 Letter](../sources/buffett-letter-1998.md) — acquisition Dec 21, 1998; ~$22B stock consideration; Ron Ferguson; float $22.7B yearend; Cologne Re 82%; structural rationale; float composition table
@@ -92,3 +99,4 @@ Float: $19.3B (General Re's share of Berkshire's $35.5B total). "General Re shou
 - [2001 Letter](../sources/buffett-letter-2001.md) — $4.3B 2001 underwriting loss; $800M prior-year loss development; 9/11 exposure; three principles violated; Joe Brandon CEO; float $19.3B
 - [2002 Letter](../sources/buffett-letter-2002.md) — $1.31B additional prior-year reserving charge; $1.39B total underwriting loss; NCB aggregation risk eliminated; AAA sole survivor; Gen Re Securities $173M loss with 14,384 contracts remaining
 - [2003 Letter](../sources/buffett-letter-2003.md) — FIXED: $145M underwriting profit; AAA sole survivor reaffirmed; Gen Re Securities still unwinding (7,580 tickets, $99M loss); Buffett: "I should have acted more promptly" ($100M+ unnecessary cost)
+- [2004 Letter](../sources/buffett-letter-2004.md) — culture restored under Joe Brandon; $3M underwriting profit (current-year excellent, offset by adverse prior-year); float $23.1B; Gen Re Securities 2,890 contracts remaining
