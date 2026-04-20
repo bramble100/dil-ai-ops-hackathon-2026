@@ -2,7 +2,7 @@
 title: "The Gillette Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -41,6 +41,12 @@ The honest risk: if all Berkshire receives is the preferred yield, "the result w
 
 **[1992 Letter]** Market value: $1,365.0M on $600M cost (128% gain). Ownership: 10.9%. Look-through earnings contribution: $38M. Buffett notes that despite the success with Gillette preferred, Berkshire's overall record with negotiated preferred purchases has been "inferior" to secondary market purchases — the market's "clearing price" mechanism periodically offers far better prices than negotiated deals produce[^4].
 
+## 1993-1994 Performance
+
+**[1993 Letter]** Market value: $1,431.3M on $600M cost (139% gain). Ownership ~10.9%. Look-through contribution included in the $856M total. Gillette and Coca-Cola together represent over $5.5B in market value — Buffett's paired examples of consumer franchises with global pricing power and dominant market share. Gillette holds more than 60% of worldwide razor blade value sales.
+
+**[1994 Letter]** Market value: $1,797.0M on $600M cost (200% gain). Ownership ~10.8%. Look-through contribution included in the $1,030M total. Gillette cited alongside Coke as the definitive moat illustration: "The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles." Buffett's benchmark: "leaving aside chewing gum, I know of no other significant businesses in which the leading company has long enjoyed such global power."[^5]
+
 ## Connections
 
 - [Four Filters](../principles/four-filters.md) — Gillette passes all four; USAir and Champion lack conviction on filter (2)
@@ -51,3 +57,4 @@ The honest risk: if all Berkshire receives is the preferred yield, "the result w
 [^2]: [1990 Letter](../sources/buffett-letter-1990.md) — Mockler obituary; Gillette preferred valued "somewhat more" than cost
 [^3]: [1991 Letter](../sources/buffett-letter-1991.md) — conversion to common; $1,347M market value; P/E re-rating
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $1,365M market value; secondary market outperforms negotiated preferreds
+[^5]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,431M → $1,797M market value; 60%+ global razor blade share; moat castle metaphor

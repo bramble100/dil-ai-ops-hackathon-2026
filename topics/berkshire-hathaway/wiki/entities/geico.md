@@ -2,7 +2,7 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -58,6 +58,12 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 
 **[1992 Letter]** Market value reaches $2,226.3M on $45.7M cost — a 49:1 return, making GEICO by far Berkshire's most profitable investment by multiple. Ownership 48.1%. Look-through contribution: $34M in 1992 (excluding realized capital gains, which have been "both recurring and significant"). Note: Berkshire's GEICO shares were split 5-for-1 in 1992; the new share count is 34,250,000[^6].
 
+### 1993-1994
+
+**[1993 Letter]** Market value: $1,759.6M (cost $45.7M) on 48.4% ownership. Look-through contribution included in the $856M total. Berkshire's stake in GEICO — a $45.7M original cost now worth 38x — remains the most profitable investment in the corpus on a multiple basis. The float cost at GEICO remains negative; the company serves as Buffett's primary example of structural cost advantage producing permanent underwriting profits.
+
+**[1994 Letter]** Market value: $1,678.1M (cost $45.7M) on 50.2% ownership. Look-through contribution included in the $1,030M total. Ownership crossed 50% through GEICO share buybacks — Berkshire did not purchase additional shares; GEICO's repurchase program increased Berkshire's proportionate stake. "The value of GEICO's float is immense — it is money that, in essence, works for us at no cost."[^7]
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -76,3 +82,5 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 [^5]: [1990 Letter](../sources/buffett-letter-1990.md) — $1,110.6M market value; 48% ownership; negative-cost float explained
 
 [^6]: [1992 Letter](../sources/buffett-letter-1992.md) — $2,226.3M market value; 49x return; 5-for-1 stock split
+
+[^7]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,760M → $1,678M market value; 48.4% → 50.2% ownership (via GEICO buybacks); negative-cost float

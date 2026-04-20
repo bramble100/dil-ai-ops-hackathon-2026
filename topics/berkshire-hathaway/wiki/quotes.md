@@ -419,3 +419,75 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Of a certainty, it was in 1936 that I started buying Cokes at the rate of six for 25¢ to sell for 5¢ each... I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product. I even remember which of my youthful friends was the most avid consumer... But it was not until the summer of 1988 that my brain finally established dominance over my wallet." — 1989 Letter
 >
 > Context: A 52-year delay in buying Coca-Cola stock despite consuming the product daily. → [Coca-Cola](entities/coca-cola.md)
+
+---
+
+## 1993-1994 Additions
+
+### Business Quality & Moats
+
+> "The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles." — 1993 Letter
+>
+> Context: On Coca-Cola (44% of world soft drinks) and Gillette (60%+ of razor blade value). → [Business Quality](principles/business-quality.md)
+
+> "It's far better to own a significant portion of the Hope diamond than 100% of a rhinestone." — 1994 Letter
+>
+> Context: Why concentrated ownership in wonderful businesses beats 100% control of mediocre ones. → [Business Quality](principles/business-quality.md)
+
+### Valuation & Investing
+
+> "In the short run, the market is a voting machine but in the long run it is a weighing machine." — Ben Graham, re-quoted in 1993 Letter
+>
+> Context: Beta and price volatility are irrelevant; long-term business value determines returns. → [Mr. Market](principles/mr-market.md)
+
+> "Fear is the foe of the faddist, but the friend of the fundamentalist." — 1994 Letter
+>
+> Context: Rational investors welcome market fear as the source of opportunity. → [Mr. Market](principles/mr-market.md)
+
+> "We don't have to make it back the way we lost it." — 1994 Letter (paraphrased)
+>
+> Context: On selling USAir preferred at a loss and redeploying capital rationally rather than anchoring to cost basis. → [Capital Allocation](principles/capital-allocation.md)
+
+### Capital Allocation & Acquisitions
+
+> "Beware of what I call the 'chain letter in reverse.' When managers with mediocre businesses dream of EPS accretion through acquisitions, each purchase justifies the next." — 1994 Letter (paraphrased)
+>
+> Context: EPS accretion arithmetic cannot manufacture value; intrinsic value is what matters. → [Capital Allocation](principles/capital-allocation.md)
+
+> "If Wall Street analysts or board members urge that brand of CEO to consider possible acquisitions, it's a bit like telling your ripening teenager to 'just say no' — good luck." — 1994 Letter
+>
+> Context: On institutional pressure to deploy capital regardless of opportunity quality. → [Institutional Imperative](principles/institutional-imperative.md)
+
+> "Aw fellas, all the other kids have one." — 1994 Letter (paraphrased, on acquisition-hungry CEOs)
+>
+> Context: Satirizing CEOs who feel compelled to acquire because peers are acquiring. → [Capital Allocation](principles/capital-allocation.md)
+
+> "A fat wallet is the enemy of superior investment results." — 1994 Letter
+>
+> Context: At $11.9B net worth, the minimum position must exceed $100M — the investment universe shrinks. → [Return on Equity](principles/return-on-equity.md)
+
+### Risk & Investing
+
+> "Unlike the beta-based risk formula taught in business schools, the real risks of investing are (1) certainty about long-term earning power, (2) certainty about management, (3) management integrity, (4) purchase price, and (5) tax rates and inflation." — 1993 Letter (paraphrased)
+>
+> Context: Demolishing beta as a risk measure — Washington Post's stock was more volatile but less risky after the price crash. → [Mr. Market](principles/mr-market.md)
+
+> "Investors should be investing like Ted Williams — waiting for the fat pitch in their sweet zone, not swinging at everything." — 1994 Letter (paraphrased)
+>
+> Context: The patience to wait for exceptional businesses at sensible prices; degree-of-difficulty doesn't count. → [Four Filters](principles/four-filters.md)
+
+### Accounting & Owner Earnings
+
+> "When a company becomes more competitive by using a LIFO inventory assumption during periods of inflation, it appears less profitable. Paradoxically, the 'better' company has 'worse' earnings." — 1993 Letter (paraphrased)
+>
+> Context: Li'l Abner's Sadie Hawkins Day — explaining why deferred taxes in look-through earnings should not be discounted. → [Owner Earnings](principles/owner-earnings.md)
+
+### Humor & Self-Deprecation
+
+> "I've become a repeat offender. Maybe it's time to get a guardian appointed." — 1994 Letter
+>
+> Context: On selling Capital Cities shares twice at the wrong price (1978 at $4.30, 1993 at $63) and losing $222.5M in foregone gains. → [Capital Cities/ABC](entities/capital-cities-abc.md)
+
+> "This is the Mistake Du Jour — Gold Medal." — 1994 Letter (on USAir)
+>
+> Context: USAir preferred investment — a "mistake du jour" competing with the Cap Cities sale; USAir wins gold, Cap Cities gets silver. → [Capital Allocation](principles/capital-allocation.md)

@@ -2,7 +2,16 @@
 title: "The Coca-Cola Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -51,6 +60,12 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 
 **[1992 Letter]** Market value: $3,911.1M (cost $1,023.9M) — 282% gain on cost. Holdings now 93,400,000 shares (post-split). Look-through earnings contribution: $82M on 7.1% ownership. Total look-through from Coke alone has now exceeded the original cost basis on an annual basis. Coke and Gillette together account for roughly $1.3B in market value appreciation since purchase[^4].
 
+## 1993-1994 Performance
+
+**[1993 Letter]** Market value: $4,167.9M on $1,023.9M cost (307% gain). Ownership 7.2%. Look-through contribution: $94M on Berkshire's share of undistributed Coke earnings. Coke and Gillette together now represent more than $7B in market value — testament to the compounding power of dominant franchises held permanently.
+
+**[1994 Letter]** Holdings reach 100,000,000 shares (post-split) with market value $5,150.0M on $1,023.9M cost — a 403% gain. Ownership 7.8%. Look-through contribution: $116M. Buffett invokes the moat metaphor: "The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles." Of approximately 44% of world soft drink consumption attributable to Coke-branded products, "leaving aside chewing gum, I know of no other significant businesses in which the leading company has long enjoyed such global power."[^5]
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — the ultimate consumer franchise
@@ -59,6 +74,11 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 - [Mr. Market](../principles/mr-market.md) — patient buying despite market valuations
 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — Coca-Cola investment story
+
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — initial purchase and "favorite holding period is forever"
+
 [^3]: [1991 Letter](../sources/buffett-letter-1991.md) — P/E expansion drives $1B gain; "phenomenon not apt to be repeated"
+
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $3,911M market value; 93.4M shares post-split; $82M look-through
+
+[^5]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $4,168M → $5,150M market value; 100M shares; 7.8% ownership; moat castle metaphor; 44% global soft drink share

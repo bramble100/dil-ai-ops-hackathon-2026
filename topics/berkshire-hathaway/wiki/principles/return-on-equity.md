@@ -1,7 +1,7 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -62,6 +62,8 @@ The college education analogy: identical spending on two children produces ident
 | 1990       | $4,612.06        | 23.2%          |
 | 1991       | $6,437.00        | 23.7%          |
 | 1992       | $7,745.00        | 23.6%          |
+| 1993       | $8,854.00        | 23.3%          |
+| 1994       | $10,083.00       | 23.0%          |
 
 **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 
@@ -99,6 +101,12 @@ The college education analogy: identical spending on two children produces ident
 
 **[1990 Letter]** Non-insurance operations: 51% after-tax ROE in 1990 (vs. ~20th in 1989 Fortune 500 adjusted for leverage). Remarkable because achieved with no financial leverage — return on assets would place the group in Fortune's top ten. Further, these are ordinary industries (furniture, candy, vacuum cleaners, steel warehousing) — not cigarettes or TV stations with structural oligopoly economics.
 
+### Scale Drag at $11.9B (1993-1994)
+
+**[1993 Letter]** Book value gain 14.3% ($8,854/share). CAGR 23.3% over 29 years. Both Buffett and intrinsic value grew ~14%, but market price surged 39% — "Berkshire was selling at a higher percentage of intrinsic value at yearend 1993." Buffett reaffirms the 15% annual target but acknowledges "the growth in our capital base makes 15% an ever-more difficult target." Look-through earnings $856M vs. $1.85B target by 2000. "If we are to hit the bull's-eye, we will need markets that allow the purchase of businesses and securities on sensible terms. Right now, markets are difficult."
+
+**[1994 Letter]** 13.9% gain; $10,083/share; 30-year CAGR 23.0%. "A fat wallet is the enemy of superior investment results." At $11.9B net worth, the minimum position size is $100M — "Berkshire's investment universe has shrunk dramatically." The hockey analogy: "go to where the puck is going to be." Scale drag assessment: ten-year 15% target now requires a cumulative gain approaching $15-16B. Scott Fetzer benchmark: its ROE would rank in the Fortune 500's top four[^3].
+
 ## Connections
 
 - [Owner Earnings](owner-earnings.md) — the next evolution: what ROE misses when ownership is fractional
@@ -109,3 +117,5 @@ The college education analogy: identical spending on two children produces ident
 [^1]: [1979 Letter](../sources/buffett-letter-1979.md) — "In measuring long term economic performance... we believe it is appropriate to recognize fully any realized capital gains or losses"
 
 [^2]: [1981 Letter](../sources/buffett-letter-1981.md) — "The accounting rules that entirely ignore these undistributed earnings diminish the utility of our annual return on equity calculation"
+
+[^3]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — scale drag at $8-12B equity; look-through earnings track against 15% goal; Scott Fetzer Fortune 500 ROE benchmark

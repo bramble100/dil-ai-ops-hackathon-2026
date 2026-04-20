@@ -1,7 +1,7 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -33,6 +33,8 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1990     | $4,612.06        | 7.3%       | 23.2%                     |
 | 1991     | $6,437.00        | 39.6%      | 23.7%                     |
 | 1992     | $7,745.00        | 20.3%      | 23.6%                     |
+| 1993     | $8,854.00        | 14.3%      | 23.3%                     |
+| 1994     | $10,083.00       | 13.9%      | 23.0%                     |
 
 _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding: ~1,146,909 (end 1985) — virtually no dilution over 21 years._
 
@@ -58,6 +60,10 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1991 Letter]** Net worth gain $2.1B (39.6%) — a record dollar gain and the highest percentage gain since 1989. But Buffett flags it as anomalous: "This gain was not the result of operating performance" — rather, Coca-Cola and Gillette P/E expansion drove ~$1.6B of the $2.1B increase. "A phenomenon not apt to be repeated." At $7.4B equity, a $370M idea moves the needle by only one percentage point — a scale problem that a $1M idea once didn't have when equity was $20M.
 
 - **[1992 Letter]** Net worth gain $1.52B (20.3%). CAGR stabilizes at 23.6% over 28 years. Buffett uses the 1992 letter to set explicit forward expectations: look-through earnings must grow from $604M (1992) to $1.8B by 2000 to sustain 15%. He acknowledges being "virtually certain that the return over the next decade from an investment in the S&P index will be far less than that of the past decade" — and "dead certain that the drag exerted by Berkshire's expanding capital base will substantially reduce our historical advantage relative to the index."
+
+- **[1993 Letter]** Net worth gain ~$1.5B (14.3%); book value $8,854/share; 29-year CAGR 23.3%. Market price rose 39% — Berkshire ends the year at a higher premium to intrinsic value. Look-through earnings: $856M (up from $604M). Dexter Shoe acquired with 25,203 Berkshire shares; 3,944 more shares issued on convertible debenture conversion. 29,147 total new shares lifted book value by ~$478M. The Li'l Abner deferred-tax math: holding a compounding investment undisturbed produces dramatically larger after-tax wealth than repeatedly realizing gains.
+
+- **[1994 Letter]** Net worth gain $1.45B (13.9%); book value $10,083/share; 30-year CAGR 23.0%. Net worth $11.9B. Look-through earnings: $1,030M. USAir preferred written down $269M through income statement (non-cash, already reflected in balance sheet). Scale drag now severe: 15% annual gain over the next decade requires roughly $15B+ in aggregate profits. "A fat wallet is the enemy of superior investment results."
 
 ## The Inflation Caveat
 

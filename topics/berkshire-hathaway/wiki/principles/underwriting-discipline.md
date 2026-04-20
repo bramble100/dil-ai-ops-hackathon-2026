@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -169,6 +169,18 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 | 1991 | 109.1 (est.)   |
 | 1992 | 114.8 (est.; includes ~4pts from Andrew) |
 
+### Float Table Extended (1993-1994)
+
+**[1993 Letter]** Float reaches $2,624.7M at negative cost — underwriting profit of $31M. This is the first year with free float since 1988-89. Super-cat: no losses from 1993 Midwest floods (floods are privately uninsured). But the same Andrew-size storm would now cost $600M (vs. $125M in 1992) given expanded exposure. New reinsurance capacity (~$5B raised) is driving price deterioration — Berkshire begins to withdraw from business that doesn't meet its pricing standards. "If this trend continues, we will resign ourselves to much-reduced volume, keeping ourselves available for the large, sophisticated buyer who requires a super-cat insurer with large capacity and a sure ability to pay losses."
+
+**[1994 Letter]** Float reaches $3,056.6M — still at negative cost; second straight year of underwriting profit. 1994 super-cat "close to a best-case": only the LA earthquake (January, $6.8 magnitude) produced losses. Single-event capacity demonstrated: Berkshire wrote a $400M California earthquake policy instantaneously — "no one else in the world would take $400M for their own account." Worst-case estimate: ~$600M after-tax from a mega-catastrophe — "slightly exceeding Berkshire's annual earnings from other sources." Financial strength as moat: "the certainty that Berkshire will be both solvent and liquid after a catastrophe of unthinkable proportions is a major competitive advantage"[^6].
+
+### Ajit Jain Elevated Further (1993-1994)
+
+**[1993 Letter]** "In Ajit Jain, we have by far the best manager in this business." The four largest reinsurance companies in the world buy significant reinsurance *from* Berkshire — they understand that "the test of a reinsurer is its ability and willingness to pay losses under trying circumstances, not its readiness to accept premiums when things look rosy."
+
+**[1994 Letter]** Jain described as having "the finest" underwriting skills and "simply enormous" value to Berkshire. The super-cat business requires "far more judgment than auto policies, for which a mass of data is available." Jain's judgment, combined with Berkshire's financial strength, constitutes a durable competitive moat[^6].
+
 ## Key People
 
 - **Phil Liesche** — National Indemnity's leader, the embodiment of underwriting discipline; retired 1982 at age 65
@@ -195,3 +207,5 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 [^4]: [1990 Letter](../sources/buffett-letter-1990.md) — float cost framework; 24-year track record
 
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — Hurricane Andrew; Ajit Jain elevated; super-cat swimming naked
+
+[^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — float to $2.6B then $3.1B; negative cost both years; $400M single-event policy; Ajit Jain praised; new reinsurance capacity causing price deterioration

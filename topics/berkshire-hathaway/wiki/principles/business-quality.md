@@ -1,7 +1,7 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -157,6 +157,20 @@ The valuation consequence: "A few years ago the conventional wisdom held that a 
 
 **[1991 Letter]** The ultimate proof of a great business: See's Candies cost $25M in 1972 (with $7M tangible net worth). By 1991, revenue was $196M, pre-tax earnings $42.4M, and the company still required only $25M of net worth — meaning all but $18M of the original $7M supplemented by reinvested earnings was distributed over 20 years. Cumulative pre-tax distribution: $410M. "We made significant money in certain common stocks because of the lessons we learned at See's"[^6].
 
+### Moats as Measurable Competitive Position (1993)
+
+**[1993 Letter]** The moat concept receives a quantitative grounding. Coca-Cola sells ~44% of all soft drinks worldwide; Gillette holds more than 60% of razor blade value. "Leaving aside chewing gum, I know of no other significant businesses in which the leading company has long enjoyed such global power." The beta of these stocks is "similar to run-of-the-mill companies with little or no competitive advantage" — proving that market volatility measures the wrong thing. The moat is what protects the castle, not the stock price history[^7].
+
+> "The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles." — 1993 Letter
+
+### Wonderful Businesses at Fair Prices — Restated (1994)
+
+**[1994 Letter]** The formula: "the purchase at sensible prices of businesses that have good underlying economics and are run by honest and able people." This formula "is certain to produce reasonable success." 
+
+> "It's far better to own a significant portion of the Hope diamond than 100% of a rhinestone." — 1994 Letter
+
+The shoe business demonstrates this at the micro level: the domestic shoe industry "is generally thought unable to compete with imports from low-wage countries. But someone forgot to tell the ingenious managements of Dexter and H.H. Brown." Exceptional management in a difficult industry can produce "unusually fine margins" — but this is the harder path versus owning a franchise in an easy industry[^8].
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -180,3 +194,7 @@ The valuation consequence: "A few years ago the conventional wisdom held that a 
 [^5]: [1991 Letter](../sources/buffett-letter-1991.md) — franchise vs. business definition; media valuation math
 
 [^6]: [1991 Letter](../sources/buffett-letter-1991.md) — See's 20-year retrospective
+
+[^7]: [1993 Letter](../sources/buffett-letter-1993.md) — moat quantified (Coke 44%, Gillette 60%); moat vs. beta
+
+[^8]: [1994 Letter](../sources/buffett-letter-1994.md) — Hope diamond vs. rhinestone; Dexter/Brown as management-in-tough-industry examples

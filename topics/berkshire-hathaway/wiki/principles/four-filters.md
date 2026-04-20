@@ -1,7 +1,24 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -104,6 +121,25 @@ The criterion stability test: "Our equity-investing strategy remains little chan
 
 **[1992 Letter]** The General Dynamics story adds a new dimension to filter application: conviction can emerge from process. Buffett started buying General Dynamics as an arbitrage play on a Dutch tender, then deep study of CEO Bill Anders's strategy converted him into a long-term holder. "I dumped my arbitrage thoughts and decided that Berkshire should become a long-term investor with Bill." Opportunistic entry can legitimately precede full filter evaluation, provided the evaluation happens before full commitment[^4].
 
+### Beta vs. Real Filters (1993)
+
+**[1993 Letter]** A direct assault on using price volatility as filter (4). True risk is not beta but the possibility that aggregate after-tax receipts will fail to preserve purchasing power. The relevant factors are: (1) certainty of long-term economic characteristics, (2) management ability to realize potential, (3) management integrity, (4) purchase price, and (5) taxation and inflation. These are "unbearably fuzzy" to those who require database precision — but "just as Justice Stewart asserted 'I know it when I see it' for obscenity, so can investors 'see' the risks inherent in certain investments without reference to complex equations or price histories."
+
+Is it "really so difficult to conclude that Coca-Cola and Gillette possess far less business risk than any computer company or retailer"? Worldwide, Coke sells 44% of all soft drinks; Gillette has 60%+ of razor blade value. "Leaving aside chewing gum, I know of no other significant businesses in which the leading company has long enjoyed such global power." Their beta is similar to run-of-the-mill companies — yet that fact is meaningless for assessing real business risk[^5].
+
+### Know-Something vs. Know-Nothing (1993)
+
+**[1993 Letter]** Two legitimate investment strategies flow from applying the filters:
+
+1. **Know-something investor**: Can understand business economics and identify five to ten companies passing all four filters. For this investor, concentration is rational and diversification only "hurts your results and increases your risk." "I cannot understand why an investor of that sort elects to put money into his 20th-favorite rather than adding that money to his top choices."
+2. **Know-nothing investor**: Cannot reliably apply filter (1). Solution: broad index fund with periodic purchases. "Paradoxically, when 'dumb' money acknowledges its limitations, it ceases to be dumb."
+
+### Patience as the Scarce Resource (1994)
+
+**[1994 Letter]** The fattest pitches are rarest but most valuable: Berkshire first bought GEICO shares in 1951, See's Candies in 1972, Buffalo News in 1977, Nebraska Furniture Mart in 1983, Scott Fetzer in 1986 — "because those are the years they became available and because we thought the prices they carried were acceptable. In each case, we pondered what the business was likely to do, not what the Dow, the Fed, or the economy might do." The filters require you to wait for the pitch; macro forecasting tempts you to act without one[^6].
+
+> "Degree-of-difficulty doesn't count. If you are right about a business whose value is largely dependent on a single key factor that is both easy to understand and enduring, the payoff is the same as if you had correctly analyzed an investment alternative characterized by many constantly shifting and complex variables." — 1994 Letter
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
@@ -120,3 +156,7 @@ The criterion stability test: "Our equity-investing strategy remains little chan
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred strategy; Gillette vs. USAir distinction
 
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — growth-value synthesis; filter (4) updated; General Dynamics arbitrage-to-conviction
+
+[^5]: [1993 Letter](../sources/buffett-letter-1993.md) — beta vs. real risk; Coke/Gillette as filter (2) examples; know-something vs. know-nothing
+
+[^6]: [1994 Letter](../sources/buffett-letter-1994.md) — patience as scarce resource; degree-of-difficulty doesn't count

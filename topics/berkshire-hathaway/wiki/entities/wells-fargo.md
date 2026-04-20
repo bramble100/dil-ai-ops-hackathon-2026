@@ -2,7 +2,7 @@
 title: "Wells Fargo & Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -30,6 +30,14 @@ The key distinction: leverage amplifies management quality as much as it amplifi
 
 The Reichardt/Hazen parallel to Murphy/Burke at Capital Cities: each pair is "stronger than the sum of its parts" through trust; both pay well but abhor headcount; both attack costs equally at peaks and troughs; both stay within their circle of competence[^1].
 
+## 1992-1994 Performance
+
+**[1992 Letter]** Market value: $900.2M on $289.4M cost — a 211% gain in roughly two years. Ownership 11.5%. Look-through contribution: $74M on Berkshire's share of undistributed Wells earnings.
+
+**[1993 Letter]** Market value: $878.6M on $463.4M cost (90% gain — cost basis reflects additional shares purchased). Ownership ~13%. Look-through contribution: $79M.
+
+**[1994 Letter]** Market value: $984.7M on $463.4M cost (112% gain). Ownership 13.3%. Look-through contribution: $83M. Carl Reichardt retires — one of the two CEOs (alongside Dan Burke at Capital Cities) who "have done great things for Berkshire shareholders." Buffett: "Carl prepared his organization well for his departure, and the company is in outstanding hands." Reichardt and Paul Hazen "encountered very tough industry conditions but emerged with record earnings, added luster, and bright prospects."[^2]
+
 ## Connections
 
 - [Mr. Market](../principles/mr-market.md) — bought during bank-stock panic; contrarian thesis
@@ -37,3 +45,4 @@ The Reichardt/Hazen parallel to Murphy/Burke at Capital Cities: each pair is "st
 - [Capital Allocation](../principles/capital-allocation.md) — large equity position in a bank (unusual for Berkshire)
 
 [^1]: [1990 Letter](../sources/buffett-letter-1990.md) — Wells Fargo investment rationale; Reichardt/Hazen management comparison
+[^2]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $879M → $985M market value; 13.3% ownership; Carl Reichardt retirement

@@ -44,8 +44,8 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 7 — 1993-1994 (~2,530 lines)
 
-- [ ] buffett-letter-1993.md
-- [ ] buffett-letter-1994.md
+- [x] buffett-letter-1993.md
+- [x] buffett-letter-1994.md
 
 ### Batch 8 — 1995-1996 (~2,700 lines)
 

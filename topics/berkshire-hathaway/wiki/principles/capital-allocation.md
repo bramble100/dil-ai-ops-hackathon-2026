@@ -1,7 +1,27 @@
 ---
 title: "Capital Allocation"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -197,7 +217,7 @@ Even 99:1 odds favoring higher leverage are rejected. The $902.6M zero-coupon co
 
 ### Owner-Compensation Model (1991)
 
-**[1991 Letter]** H.H. Brown's compensation system: key managers earn $7,800 base salary plus a designated percentage of profits *after* a charge for capital employed. "These managers therefore truly stand in the shoes of owners... Managers eager to bet heavily on their abilities usually have plenty of ability to bet on." This is the gold standard against which most corporate compensation systems (options, revenue-based bonuses) fail[^4].
+**[1991 Letter]** H.H. Brown's compensation system: key managers earn $7,800 base salary plus a designated percentage of profits _after_ a charge for capital employed. "These managers therefore truly stand in the shoes of owners... Managers eager to bet heavily on their abilities usually have plenty of ability to bet on." This is the gold standard against which most corporate compensation systems (options, revenue-based bonuses) fail[^4].
 
 ### Acquisition Criteria Reinforced (1991-1992)
 
@@ -214,6 +234,32 @@ The institutional lobbying problem: "the business elite risks losing its credibi
 ### Secondary Market vs. New-Issue Market (1992)
 
 **[1992 Letter]** A key insight on where to find mispriced assets: secondary markets are "periodically ruled by mass folly" and set clearing prices — sometimes offering x for 1/2x. New-issue markets are controlled by sellers who "are not going to offer any bargains." Buffett prefers secondary market investments (common stocks) over negotiated preferreds for this reason[^5].
+
+### Stock-for-Acquisition Discipline (1993)
+
+**[1993 Letter]** Berkshire issued 25,203 shares to acquire Dexter Shoe — but Buffett presents the logic as sound in 1993: "Harold and Peter... traded a 100% interest in a single terrific business for a smaller interest in a large group of terrific businesses. They incurred no tax on this exchange." The sellers' future results will "exactly parallel my own result." He emphasizes that Berkshire can make promises about culture and autonomy that most acquirers cannot. The 1982 equity-issuance discipline (never issue shares for less than intrinsic value in return) technically holds here — but the gain to Dexter sellers from receiving perpetually-compounding Berkshire stock would later make this the worst stock deal Berkshire ever made[^6].
+
+### The Shooting Arrow / Painting Target Rule (1993)
+
+**[1993 Letter]** On goal-setting discipline: "We have criticized the managerial practice of shooting the arrow of performance and then painting the target, centering it on whatever point the arrow happened to hit." The look-through earnings target of $1.85B by 2000 was set in advance and publicly committed. "We will risk embarrassment by painting first and shooting later."
+
+### EPS Accretion vs. Intrinsic Value (1994)
+
+**[1994 Letter]** The MBA-vs-day-laborer analogy: a 25-year-old MBA student merging interests with a day laborer in a "share-for-share" merger would boost near-term EPS dramatically — "but what could be sillier?" Corporate acquisitions face the identical problem: "It is equally silly for the would-be purchaser to focus on current earnings when the prospective acquiree has different prospects, different non-operating assets, or a different capital structure."
+
+> "Our approach, rather, has been to follow Wayne Gretzky's advice: 'Go to where the puck is going to be, not to where it is.'" — 1994 Letter
+
+The math: most major acquisitions are a bonanza for acquiree shareholders, increase management income and status, generate fees for investment bankers — "but they usually reduce the wealth of the acquirer's shareholders, often substantially. That happens because the acquirer typically gives up more intrinsic value than it receives. Do that enough and 'you are running a chain letter in reverse'" (John Medlin)[^7].
+
+### Compensation Rationality (1994)
+
+**[1994 Letter]** The Scott Fetzer/Ralph Schey arrangement as the capital allocation gold standard: bonus tied to unit results (not Berkshire), with a capital charge for incremental investment above a hurdle rate and a symmetric penalty for sub-standard returns. "Our agreement with Ralph was worked out in five minutes, without lawyers or compensation consultants." The key principle: "large carrots, but delivery tied directly to results in the area a manager controls."
+
+On stock options: "combination of ten-year option, low dividend payout, and compound interest can provide lush gains to a manager who has done no more than tread water." The cynic's observation: "when payments to owners are held down, the profit to the option-holding manager increases."
+
+### The Fat Wallet Problem (1994)
+
+**[1994 Letter]** "A fat wallet is the enemy of superior investment results. Berkshire now has a net worth of $11.9B compared to $22M when Charlie and I began." A minimum $100M position is now required; the investment universe has shrunk dramatically. The Ted Williams batting-zone analogy: "If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter." Charlie regularly reminds Buffett: "If something is not worth doing at all, it's not worth doing well"[^7].
 
 ## Connections
 
@@ -236,3 +282,7 @@ The institutional lobbying problem: "the business elite risks losing its credibi
 [^4]: [1991 Letter](../sources/buffett-letter-1991.md) — H.H. Brown compensation model; Fannie Mae omission
 
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — stock-option accounting; secondary vs. new-issue markets; acquisition criteria
+
+[^6]: [1993 Letter](../sources/buffett-letter-1993.md) — Dexter Shoe stock exchange logic; painting target before shooting
+
+[^7]: [1994 Letter](../sources/buffett-letter-1994.md) — EPS accretion fallacy; chain letter in reverse; compensation rationality; fat wallet problem

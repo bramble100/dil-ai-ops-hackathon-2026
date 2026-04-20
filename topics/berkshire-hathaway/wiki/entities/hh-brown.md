@@ -2,7 +2,7 @@
 title: "H.H. Brown Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1991, buffett-letter-1992, buffett-letter-1993]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -30,10 +30,19 @@ The compensation system is the defining feature: key managers receive $7,800 sal
 
 The industry contrast is instructive: shoes are a tough business with poor aggregate economics, yet H.H. Brown earned "unusually fine margins" through exceptional management — echoing the principle that management quality matters most in difficult industries (while also illustrating the limits of that principle, since Berkshire would prefer a great business over a great manager in a bad industry)[^1].
 
+## 1992-1993 Performance
+
+**[1992 Letter]** December 1992: H.H. Brown acquires Lowell Shoe Company — $90M in sales, known for the Nursemates nurse's shoe brand. The acquisition extends H.H. Brown's domestic manufacturing base.
+
+**[1993 Letter]** Record profits, up approximately 35% above the prior year's record. Frank Rooney is also credited for brokering the Dexter Shoe introduction: he played golf with Harold Alfond (Dexter's founder), recognized Dexter's exceptional economics, and introduced Alfond to Buffett — illustrating how Berkshire's acquisition network operates through trusted intermediaries rather than investment bankers.
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — owner-compensation model; no-investment-banker acquisition
 - [Business Quality](../principles/business-quality.md) — good management in a tough industry
 - [Four Filters](../principles/four-filters.md) — filter (3) exemplified: Frank Rooney's 23-year track record at Melville
+- [Dexter Shoe](dexter-shoe.md) — Frank Rooney brokered the introduction to Harold Alfond
 
 [^1]: [1991 Letter](../sources/buffett-letter-1991.md) — H.H. Brown acquisition history, compensation model
+[^2]: [1992 Letter](../sources/buffett-letter-1992.md) — Lowell Shoe acquisition
+[^3]: [1993 Letter](../sources/buffett-letter-1993.md) — record profits up 35%; Rooney brokered Dexter introduction

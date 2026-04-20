@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -82,6 +82,12 @@ Pre-tax profit margin 1991: record 21.6%; volume down 4% in pounds (California r
 
 **[1992 Letter]** $42.4M pre-tax (flat from 1991). Part of the non-insurance group that remains core Berkshire cash generation.
 
+### 1993-1994
+
+**[1993 Letter]** Pre-tax earnings $41.2M — slight decline from 1992. Revenue and poundage stable. Mrs. B of Nebraska Furniture Mart turns 100 in December, Buffett notes she is "as mentally sharp as ever." Chuck Huggins continues as manager; the compensation arrangement remains unchanged in over two decades.
+
+**[1994 Letter]** Pre-tax earnings $47.5M — a new record. Revenue growth from price increases. See's now earns more than eleven times its 1972 purchase price on essentially the same tangible asset base — the cumulative demonstration of economic goodwill in action. Since acquisition, See's has generated cumulative pre-tax profits approximately 20x its original $25M purchase price.[^6]
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — archetype of a great business
@@ -99,3 +105,5 @@ Pre-tax profit margin 1991: record 21.6%; volume down 4% in pounds (California r
 [^4]: [1990 Letter](../sources/buffett-letter-1990.md) — customer loyalty; NFM synergy; 1990 record
 
 [^5]: [1991 Letter](../sources/buffett-letter-1991.md) — 20-year retrospective; $410M cumulative distributed
+
+[^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $41.2M → $47.5M pre-tax; new record in 1994; cumulative profits ~20x purchase price

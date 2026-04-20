@@ -1,7 +1,18 @@
 ---
 title: "Mr. Market"
 type: principle
-sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -80,6 +91,26 @@ The grocery analogy: "knowing they are forever going to be buyers of food, they 
 
 **[1992 Letter]** Berkshire's accepted volatility philosophy: "We not only accept this volatility but welcome it: A tolerance for short-term swings improves our long-term prospects. In baseball lingo, our performance yardstick is slugging percentage, not batting average." Mr. Market's mood swings are the source of the opportunity; smooth quarterly earnings are a sign of a mediocre operator[^5].
 
+### Beta vs. Real Risk (1993)
+
+**[1993 Letter]** The most rigorous demolition of beta as a risk measure. When Washington Post's stock dropped sharply in 1973, beta theory said the stock was _more_ risky at the lower price — "would that description have then made any sense to someone offered the entire company at a vastly reduced price?" The true investor _welcomes_ volatility because it creates irrationally low prices.
+
+> "Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful." — 1987 Letter (rearticulated in 1993 context)
+
+The five real risk factors: (1) certainty of long-term business economics; (2) management ability; (3) management integrity; (4) purchase price; (5) taxation and inflation. None can be extracted from price history databases; all require business judgment[^6].
+
+**[1993 Letter]** The concentration corollary: a know-something investor who can identify five to ten businesses with durable competitive advantages faces _less_ risk by concentrating than by diversifying into understood and misunderstood businesses alike. "Conventional diversification makes no sense." The know-nothing investor, conversely, should own an index fund — "paradoxically, when 'dumb' money acknowledges its limitations, it ceases to be dumb."
+
+### Stocks vs. Businesses — The CEO Inconsistency (1993)
+
+**[1993 Letter]** Corporate managers understand permanent ownership intuitively for _their own businesses_: "A parent company that owns a subsidiary with superb long-term economics is not likely to sell that entity regardless of price. 'Why should I part with my crown jewel?'" Yet the same CEO, managing a personal portfolio, "will offhandedly and even impetuously move from business to business when presented with superficial arguments by his broker." The worst: "You can't go broke taking a profit." Could a CEO use that line to urge his board to sell a star subsidiary? "What makes sense in business also makes sense in stocks"[^6].
+
+### Market Price Lag (1993-1994)
+
+**[1993 Letter]** Coke and Gillette grew operating earnings per share 38% and 37% (1991-1993), but their stock prices moved only 11% and 6% — Mr. Market briefly underperformed the businesses. Buffett's equanimity: "What will count over time is the earnings performance of these companies." The Coke 1919 IPO lesson: $40/share → $19.50 by 1920 (−51%), yet a $40 investment in 1919 was worth $2.1M at yearend 1993 with dividends reinvested.
+
+**[1994 Letter]** Macro-forecast irrelevance restated: "Fear is the foe of the faddist, but the friend of the fundamentalist." Thirty years of macro shocks (Vietnam, price controls, oil, Nixon, Soviet collapse, Dow −508, T-bills 2.8-17.4%) "made not the slightest dent in Ben Graham's investment principles." The implication: Mr. Market's panics and euphoria are opportunities, not inputs to be incorporated[^7].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -96,3 +127,7 @@ The grocery analogy: "knowing they are forever going to be buyers of food, they 
 [^4]: [1990 Letter](../sources/buffett-letter-1990.md) — Wells Fargo panic purchase; food-buyer analogy
 
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — slugging percentage not batting average
+
+[^6]: [1993 Letter](../sources/buffett-letter-1993.md) — beta demolition; five real risk factors; concentration corollary; CEO inconsistency
+
+[^7]: [1994 Letter](../sources/buffett-letter-1994.md) — macro-forecast irrelevance; fear as friend of the fundamentalist

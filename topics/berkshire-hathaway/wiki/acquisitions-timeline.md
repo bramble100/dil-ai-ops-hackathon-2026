@@ -57,6 +57,8 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1989    | Champion Int'l (convertible pfd) | 300.0   | —                 | 9¼% dividend; convert at $38; "agnostic" about industry economics            |
 | 1990    | Wells Fargo (~10%)               | 289.4   | 289.4 (1990)      | Contrarian bank purchase during panic; Carl Reichardt/Paul Hazen; <5x earnings | [Wells Fargo](entities/wells-fargo.md) |
 | 1992    | General Dynamics (~14%)          | 312.4   | 450.8 (1992)      | Arbitrage-to-conviction; Bill Anders; 14% stake in one month                  | [General Dynamics](entities/general-dynamics.md) |
+| 1993    | Dexter Shoe Company (100%)       | 25,203 BRK shares (~$433M) | —   | Worst stock deal: Berkshire shares issued at ~$17,200/share became worth far more | [Dexter Shoe](entities/dexter-shoe.md) |
+| 1993-94 | American Express (~8.3%)         | 723.9   | 818.9 (1994)      | 27.76M shares; 40-year relationship (IDS 1953, salad oil 1960s); largest by cost in 1994 | [American Express](entities/american-express.md) |
 
 ## Connections
 

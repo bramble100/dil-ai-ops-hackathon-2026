@@ -2,7 +2,7 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -70,6 +70,10 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 
 **[1992 Letter]** After a three-year competition, Mrs. B (age 99) sold her building and land to NFM and agreed to continue running her carpet business at its current location. NFM will set up adjacent shop in that building. Buffett: "I am delighted that Mrs. B has again linked up with us... partner is better." This time, Mrs. B offered to sign a non-compete agreement — which Buffett accepted immediately, having been "incautious on this point when she was 89." Mrs. B signing a non-compete at 99 "merely adds one more" entry to her Guinness Book of World Records[^4].
 
+### 1993
+
+**[1993 Letter]** Sales reach approximately $200M. Mrs. B turns 100 in December 1993 — still working, still "mentally sharp as ever." Buffett notes the milestone in the letter with characteristic warmth. The NFM-Mrs. B reunion (her return to the fold in 1992) and her centennial represent the human dimension of the Berkshire acquisition model: character-based businesses and character-based management, measured in decades not quarters.[^5]
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — NFM as a wonderful business: cost advantage, volume dominance, pricing power through value
@@ -84,3 +88,5 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 [^3]: [1990 Letter](../sources/buffett-letter-1990.md) — $159M sales; Des Moines consumer survey; NFM-See's synergy
 
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — Mrs. B returns; non-compete at 99
+
+[^5]: [1993 Letter](../sources/buffett-letter-1993.md) — ~$200M sales; Mrs. B turns 100

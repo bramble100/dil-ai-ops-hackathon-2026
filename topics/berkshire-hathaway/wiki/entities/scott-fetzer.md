@@ -2,7 +2,7 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -53,6 +53,21 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 **[1992 Letter]** Record pre-tax earnings of $110M on only $116M of equity capital — a near-100% pre-tax return on equity with essentially no leverage. "Ralph just keeps on outdoing himself." Over the seven years since acquisition, Scott Fetzer has distributed more than 100% of its earnings to Berkshire while concurrently increasing its earnings stream — a textbook demonstration of owner earnings in practice. Inventory and fixed assets are now significantly smaller than at acquisition[^7].
 
+## 1993-1994 Operations
+
+**[1993 Letter]** Pre-tax earnings $77.5M on $111.2M beginning book value — another record. Total earnings distributed: $98M (still distributing more than it earns). Beginning book $111.2M → ending $90.7M. The business now has a smaller asset base than at acquisition while earning double the original $40M.
+
+**[1994 Letter]** The richest teaching exercise in the entire letter corpus. Buffett devotes four pages to a full nine-year retrospective:
+
+- Purchase price: $315.2M for $172.6M book ($142.6M premium)
+- 1994 earnings: $79.3M (up from $40.3M at acquisition) — a near-doubling in nine years
+- 1994 book value: $94.0M — *lower* than at acquisition ($172.6M) because of massive distributions and amortization
+- Purchase premium remaining: $54.2M (down from $142.6M); when added to $94M book = $148.2M carrying value on Berkshire's books — less than half of acquisition price, yet earning twice as much
+- Return on carrying value: ~54% — and would rank 4th in Fortune 500 (1st if excluding bankruptcy-fresh-start anomalies)
+- SF would have ranked #1 in Fortune 500 ROE, "well ahead of number two," with ROE double the company ranking 10th
+
+"Ralph just keeps on outdoing himself." The compensation arrangement — worked out in five minutes, never changed — is the model for rational incentive design: "no lawyers, no compensation consultants; a few very simple ideas"[^8].
+
 ## Connections
 
 - [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
@@ -68,3 +83,5 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One; Ralph Schey praise
 [^6]: [1990 Letter](../sources/buffett-letter-1990.md) — record finance earnings; Generation 3 Kirby; Campbell Hausfeld record sales
 [^7]: [1992 Letter](../sources/buffett-letter-1992.md) — $110M pre-tax on $116M equity; distributed >100% of earnings since 1986
+
+[^8]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — 1993: $77.5M pre-tax on $111.2M book; 1994 full nine-year retrospective: $79.3M earnings, $94.0M book, would rank #1 Fortune 500 ROE
