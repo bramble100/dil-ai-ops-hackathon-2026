@@ -1,7 +1,24 @@
 ---
 title: "GEICO Investment"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -56,6 +73,14 @@ The market offered a 33% interest in a franchise with $20M earning power for $47
 
 **Market value progression (extended):** ~$68M (1979) → $200M (1981) → $310M (1982) → $398M (1983) → $397M (1984) → $596M (1985) → $675M (1986) → $757M (1987) → $849M (1988) → $1,045M (1989)
 
+### The Full Circle: 100% Acquisition (1995-1996)
+
+**[1995 Letter]** The investment culminates 45 years after Buffett's cold Saturday visit to Lorimer Davidson. Berkshire acquires the remaining ~50% for $2.3B cash, completed January 2, 1996. The full arc: $47M cost for ~33% (1976-1980) → 50.2% via GEICO buybacks (1994) → 100% for $2.3B additional (1996). Total investment: ~$2.35B for a business generating $2.9B in float at negative cost and growing voluntary policies at 10% annually.
+
+**[1996 Letter]** First full subsidiary year validates the acquisition thesis immediately. Tony Nicely delivers policy growth at 2x the industry average; GEICO's cost advantage over agency-system competitors continues widening. The investment that began with $10,000 of Buffett's personal money in 1951 (sold within a year at 50% profit) took 45 years to reach its logical conclusion: complete ownership.
+
+**Market value progression (complete):** ~$68M (1979) → $200M (1981) → $310M (1982) → $398M (1983) → $397M (1984) → $596M (1985) → $675M (1986) → $757M (1987) → $849M (1988) → $1,045M (1989) → $1,111M (1990) → $1,363M (1991) → $2,226M (1992) → $1,760M (1993) → $1,678M (1994) → 100% acquired at ~$4.6B implied total value (1996)[^4].
+
 ## Lessons — What the Case Illustrates
 
 1. **Franchise value survives temporary crises** — distinguish "turnarounds" from great businesses with temporary problems
@@ -78,3 +103,5 @@ The market offered a 33% interest in a franchise with $20M earning power for $47
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — Prop 103 risk; commodity comparison
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — $1,044.6M value; 23:1 return; permanent holding
+
+[^4]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 100% acquisition for $2.3B; 45-year arc completed; first subsidiary year validates thesis

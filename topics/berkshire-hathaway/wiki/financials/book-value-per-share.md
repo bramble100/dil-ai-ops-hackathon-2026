@@ -1,7 +1,29 @@
 ---
 title: "Book Value Per Share"
 type: financial
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -35,8 +57,10 @@ Book value per share (with insurance-held equities at market value) is Buffett's
 | 1992     | $7,745.00        | 20.3%      | 23.6%                     |
 | 1993     | $8,854.00        | 14.3%      | 23.3%                     |
 | 1994     | $10,083.00       | 13.9%      | 23.0%                     |
+| 1995     | $14,426.00       | 43.1%      | 23.6%                     |
+| 1996     | $19,011.00       | 31.8%      | 23.8%                     |
 
-_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding: ~1,146,909 (end 1985) — virtually no dilution over 21 years._
+_Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain compounded at ~25% annually through 1978. 1982 gain of $208M (40%) was the highest single-year percentage gain until 1985's 48.2%. Shares outstanding increased meaningfully in 1995-96: stock issued for Helzberg's, R.C. Willey, FlightSafety acquisitions, and the Class B public offering. GEICO step-acquisition accounting reduced book value by $478.4M in 1996._
 
 ## Key Observations
 
@@ -64,6 +88,10 @@ _Note: 1977-78 figures are estimates; Buffett reports the 3-year equity gain com
 - **[1993 Letter]** Net worth gain ~$1.5B (14.3%); book value $8,854/share; 29-year CAGR 23.3%. Market price rose 39% — Berkshire ends the year at a higher premium to intrinsic value. Look-through earnings: $856M (up from $604M). Dexter Shoe acquired with 25,203 Berkshire shares; 3,944 more shares issued on convertible debenture conversion. 29,147 total new shares lifted book value by ~$478M. The Li'l Abner deferred-tax math: holding a compounding investment undisturbed produces dramatically larger after-tax wealth than repeatedly realizing gains.
 
 - **[1994 Letter]** Net worth gain $1.45B (13.9%); book value $10,083/share; 30-year CAGR 23.0%. Net worth $11.9B. Look-through earnings: $1,030M. USAir preferred written down $269M through income statement (non-cash, already reflected in balance sheet). Scale drag now severe: 15% annual gain over the next decade requires roughly $15B+ in aggregate profits. "A fat wallet is the enemy of superior investment results."
+
+- **[1995 Letter]** Net worth gain $5.3B (45.0%); per-share book value grew 43.1% to $14,426 — the second-highest percentage gain ever (after 1985's 48.2%). 31-year CAGR: 23.6%. Three acquisitions doubled revenues: Helzberg's, R.C. Willey, and GEICO (100%). But Buffett warns the stock has outpaced intrinsic value: "at a price at which Charlie and I would not consider buying it." "Rising tide lifts all yachts." Shares outstanding rose from stock-for-acquisition issuances.
+
+- **[1996 Letter]** Net worth gain $6.2B (36.1%); per-share book value grew 31.8% to $19,011; 32-year CAGR 23.8%. Class B shares offered publicly ($100M+ IPO); FlightSafety acquired for cash + fractional BRK shares. GEICO consolidation required a $478.4M step-acquisition writedown (purchase price exceeding prior carrying value of the 50.2% tranche at cost). Look-through earnings: $1,522M. Two-column intrinsic value framework introduced: $28,500/share investments + $421/share pre-tax operating earnings.
 
 ## The Inflation Caveat
 

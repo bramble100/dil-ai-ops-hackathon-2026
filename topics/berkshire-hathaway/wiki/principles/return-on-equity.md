@@ -1,7 +1,29 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -64,6 +86,8 @@ The college education analogy: identical spending on two children produces ident
 | 1992       | $7,745.00        | 23.6%          |
 | 1993       | $8,854.00        | 23.3%          |
 | 1994       | $10,083.00       | 23.0%          |
+| 1995       | $14,426.00       | 23.6%          |
+| 1996       | $19,011.00       | 23.8%          |
 
 **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 
@@ -107,6 +131,12 @@ The college education analogy: identical spending on two children produces ident
 
 **[1994 Letter]** 13.9% gain; $10,083/share; 30-year CAGR 23.0%. "A fat wallet is the enemy of superior investment results." At $11.9B net worth, the minimum position size is $100M — "Berkshire's investment universe has shrunk dramatically." The hockey analogy: "go to where the puck is going to be." Scale drag assessment: ten-year 15% target now requires a cumulative gain approaching $15-16B. Scott Fetzer benchmark: its ROE would rank in the Fortune 500's top four[^3].
 
+### Exceptional Years and Stock-Price Warning (1995-1996)
+
+**[1995 Letter]** Net worth gained $5.3B (45.0%); per-share book value grew 43.1% to $14,426 — the second-highest percentage gain ever (after 1985's 48.2%). 31-year CAGR: 23.6%. But Buffett issues an extraordinary warning: "Rising tide lifts all yachts" — disclaiming personal credit. More strikingly: "at a price at which Charlie and I would not consider buying it." Berkshire's market price has outpaced intrinsic value — investors should recalibrate expectations. Share count rose from issuances for Helzberg's and R.C. Willey acquisitions (stock deals)[^4].
+
+**[1996 Letter]** Net worth gained $6.2B (36.1%); per-share book value grew 31.8% to $19,011; 32-year CAGR 23.8%. The two-year 1995-96 gain of ~$11.5B is extraordinary — but Buffett attributes it to favorable markets for both businesses owned and securities held. Shares outstanding increased from Class B IPO and FlightSafety acquisition. GEICO step-acquisition accounting adjustment reduced book value by $478.4M upon consolidation[^4].
+
 ## Connections
 
 - [Owner Earnings](owner-earnings.md) — the next evolution: what ROE misses when ownership is fractional
@@ -119,3 +149,5 @@ The college education analogy: identical spending on two children produces ident
 [^2]: [1981 Letter](../sources/buffett-letter-1981.md) — "The accounting rules that entirely ignore these undistributed earnings diminish the utility of our annual return on equity calculation"
 
 [^3]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — scale drag at $8-12B equity; look-through earnings track against 15% goal; Scott Fetzer Fortune 500 ROE benchmark
+
+[^4]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 43.1% and 31.8% gains; stock-price overvaluation warning; GEICO $478.4M step-acquisition adjustment; Class B shares; 32-year CAGR 23.8%

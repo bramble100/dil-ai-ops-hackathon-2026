@@ -18,6 +18,8 @@ sources:
     buffett-letter-1992,
     buffett-letter-1993,
     buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -140,6 +142,18 @@ Is it "really so difficult to conclude that Coca-Cola and Gillette possess far l
 
 > "Degree-of-difficulty doesn't count. If you are right about a business whose value is largely dependent on a single key factor that is both easy to understand and enduring, the payoff is the same as if you had correctly analyzed an investment alternative characterized by many constantly shifting and complex variables." — 1994 Letter
 
+### Circle of Competence and Index Fund Endorsement (1995-1996)
+
+**[1995 Letter]** Filter (1) — understandable business — restated via the no-strategic-plan acquisition advantage: "We feel no need to proceed in an ordained direction... can instead simply decide what makes sense for our owners." Without a strategic plan, every move is tested against "dozens of other opportunities open to us, including the purchase of small pieces of the best businesses in the world via the stock market." The opportunity cost discipline forces genuine filter application rather than check-the-box strategy fulfillment[^7].
+
+**[1996 Letter]** Circle of competence given its definitive articulation as the operational version of filter (1):
+
+> "What an investor needs is the ability to correctly evaluate selected businesses. Note that word 'selected': You don't have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." — 1996 Letter
+
+**[1996 Letter]** The first explicit index fund endorsement for those outside their circle: "Most investors, both institutional and individual, will find that the best way to own common stocks is through an index fund that charges minimal fees." This extends the 1993 know-nothing investor concept from suggestion to unequivocal recommendation. The bridge with the four filters: those who _can_ apply the filters should concentrate; those who _cannot_ should own everything cheaply[^7].
+
+**[1996 Letter]** Inactivity as intelligent behavior: "We make more money when snoring than when active... inactivity strikes us as intelligent behavior." And: "Lethargy bordering on sloth remains the cornerstone of our investment style." Both restate that the filters, properly applied, produce very few actionable ideas — and acting without filter satisfaction is the primary source of permanent loss.
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
@@ -160,3 +174,5 @@ Is it "really so difficult to conclude that Coca-Cola and Gillette possess far l
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) — beta vs. real risk; Coke/Gillette as filter (2) examples; know-something vs. know-nothing
 
 [^6]: [1994 Letter](../sources/buffett-letter-1994.md) — patience as scarce resource; degree-of-difficulty doesn't count
+
+[^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — no-strategic-plan advantage; circle of competence; index fund endorsement; inactivity as intelligent behavior

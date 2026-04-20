@@ -1,7 +1,29 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -147,7 +169,7 @@ The Fireman's Fund seven-year contract expires August 1989. Premium volume decli
 
 1990: $1.637B float; $26.65M underwriting loss; 1.63% cost vs. 8.24% long-term government bonds. Long-term track record: 19 of 24 years the cost of float was below the government's rate[^4].
 
-"Figuring a cost of funds for an insurance business allows anyone analyzing it to determine whether the operation has a positive or negative value for shareholders. If this cost... is higher than that applying to alternative sources of funds, the value is negative. If the cost is lower, the value is positive — and if the cost is *significantly* lower, the insurance business qualifies as a very valuable asset."
+"Figuring a cost of funds for an insurance business allows anyone analyzing it to determine whether the operation has a positive or negative value for shareholders. If this cost... is higher than that applying to alternative sources of funds, the value is negative. If the cost is lower, the value is positive — and if the cost is _significantly_ lower, the insurance business qualifies as a very valuable asset."
 
 Long-tail business caveat: "aiming for [combined ratio of] 110 - 115 is business suicide" — the "fat lady has yet to gargle" until all long-tail claims are settled, often decades later.
 
@@ -161,12 +183,12 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 
 ### Combined Ratio Track Record Extended (1988-1992)
 
-| Year | Combined Ratio |
-| ---- | -------------- |
-| 1988 | 104            |
-| 1989 | 110.4 (est.)   |
-| 1990 | 109.8 (est.)   |
-| 1991 | 109.1 (est.)   |
+| Year | Combined Ratio                           |
+| ---- | ---------------------------------------- |
+| 1988 | 104                                      |
+| 1989 | 110.4 (est.)                             |
+| 1990 | 109.8 (est.)                             |
+| 1991 | 109.1 (est.)                             |
 | 1992 | 114.8 (est.; includes ~4pts from Andrew) |
 
 ### Float Table Extended (1993-1994)
@@ -177,9 +199,25 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 
 ### Ajit Jain Elevated Further (1993-1994)
 
-**[1993 Letter]** "In Ajit Jain, we have by far the best manager in this business." The four largest reinsurance companies in the world buy significant reinsurance *from* Berkshire — they understand that "the test of a reinsurer is its ability and willingness to pay losses under trying circumstances, not its readiness to accept premiums when things look rosy."
+**[1993 Letter]** "In Ajit Jain, we have by far the best manager in this business." The four largest reinsurance companies in the world buy significant reinsurance _from_ Berkshire — they understand that "the test of a reinsurer is its ability and willingness to pay losses under trying circumstances, not its readiness to accept premiums when things look rosy."
 
 **[1994 Letter]** Jain described as having "the finest" underwriting skills and "simply enormous" value to Berkshire. The super-cat business requires "far more judgment than auto policies, for which a mass of data is available." Jain's judgment, combined with Berkshire's financial strength, constitutes a durable competitive moat[^6].
+
+### Float Doubles: GEICO Consolidation (1995-1996)
+
+**[1995 Letter]** Float reaches $3,607.2M at negative cost (underwriting profit); 20.7% annual compounded growth since 1967. The float-as-equity analogy: if Berkshire replaced its $3.4B of float with $3.4B of equity, assets would be identical but earnings per share would drop — because more shares outstanding would dilute returns. Float "wonderfully benefits a business" — provided it comes at no cost or negative cost[^7].
+
+> "A bad reinsurance contract is like hell: easy to enter and impossible to exit." — 1995 Letter
+
+**[1995 Letter]** Super-cat highlights: fourth consecutive year of good fortune. Ajit Jain's versatility demonstrated — insuring Mike Tyson's life, Lloyd's against 225+ "names" dying in a single year, and two Chinese satellite launches. "If Charlie, I, and Ajit are ever in a sinking boat — and you can only save one of us — swim to Ajit."
+
+**[1996 Letter]** Float surges to $6,702.0M at negative cost — driven by GEICO's first full subsidiary year adding ~$2.9B in float. The 22.3% CAGR since 1967 ($17.3M → $6,702M) is the long-term float track record. Super-cat: no mega-catastrophe in 1996 (fifth consecutive lucky year); major contracts include Allstate Florida and the California Earthquake Authority (~$1B exposure). Single-event worst-case estimated at $600M after-tax — "slightly exceeding Berkshire's annual earnings from other sources." 10-15% probability of that loss in any year[^7].
+
+**[1996 Letter]** Ajit Jain's 10-year record: built from scratch a float business generating $3B. "In Ajit, we have a combination of talent and integrity that is unmatched. If Charlie, I, and Ajit are ever in a sinking boat — and you can only save one of us — swim to Ajit." Three qualities: (1) underwriting judgment, (2) creativity in structuring deals, (3) speed of execution — "His phone rings with major deals from all over the world; I almost never get consulted."
+
+### GEICO Incentive Compensation (1996)
+
+**[1996 Letter]** GEICO's incentive plan embodies the compensation-as-underwriting-discipline connection: twin metrics of (1) growth in voluntary auto policies and (2) profitability of seasoned business. The plan pays 0% to 28%+ of base salary. In 1996: 16.9% of base salary (reflecting 10% policy growth and strong profitability). The system "has nothing to do with Berkshire's stock price" — only with variables employees control. Tony Nicely's team grew policies at 2x the industry average while maintaining profitability[^7].
 
 ## Key People
 
@@ -209,3 +247,5 @@ Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in t
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — Hurricane Andrew; Ajit Jain elevated; super-cat swimming naked
 
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — float to $2.6B then $3.1B; negative cost both years; $400M single-event policy; Ajit Jain praised; new reinsurance capacity causing price deterioration
+
+[^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — float $3.6B → $6.7B; GEICO consolidation doubles float; 22.3% CAGR; California Earthquake Authority ~$1B; Ajit Jain 10-year record; "bad reinsurance is like hell"; GEICO incentive comp

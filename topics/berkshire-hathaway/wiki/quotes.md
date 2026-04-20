@@ -491,3 +491,65 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "This is the Mistake Du Jour — Gold Medal." — 1994 Letter (on USAir)
 >
 > Context: USAir preferred investment — a "mistake du jour" competing with the Cap Cities sale; USAir wins gold, Cap Cities gets silver. → [Capital Allocation](principles/capital-allocation.md)
+
+---
+
+## 1995-1996 Additions
+
+### Business Quality & Moats
+
+> "In retailing, to coast is to fail." — 1995 Letter
+>
+> Context: Contrasting retail ("have-to-be-smart-every-day") with network TV stations ("have-to-be-smart-once"). → [Business Quality](principles/business-quality.md)
+
+> "In business, I look for economic castles protected by unbreachable 'moats.'" — 1995 Letter
+>
+> Context: Describing GEICO's structural cost advantage as the classic moat. → [GEICO](entities/geico.md)
+
+> "What could be more advantageous in an intellectual contest — whether it be bridge, chess, or stock selection — than to have opponents who have been taught that thinking is a waste of energy?" — 1996 Letter
+>
+> Context: EMT adherents who deny franchise value is recognizable create opportunities for those who can identify "The Inevitables." → [Business Quality](principles/business-quality.md)
+
+### Investment Philosophy
+
+> "We make more money when snoring than when active." — 1996 Letter
+>
+> Context: Inactivity as intelligent behavior — the four filters, properly applied, produce very few actionable ideas. → [Four Filters](principles/four-filters.md)
+
+> "Lethargy bordering on sloth remains the cornerstone of our investment style." — 1996 Letter
+>
+> Context: Reaffirming the permanent-holding philosophy after a year of no major portfolio changes. → [Mr. Market](principles/mr-market.md)
+
+> "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes." — 1996 Letter
+>
+> Context: The holding-period test applied to "The Inevitables." → [Four Filters](principles/four-filters.md)
+
+> "Most investors, both institutional and individual, will find that the best way to own common stocks is through an index fund that charges minimal fees." — 1996 Letter
+>
+> Context: First explicit index fund endorsement for the "know-nothing" investor who lacks a circle of competence. → [Four Filters](principles/four-filters.md)
+
+### Capital Allocation
+
+> "We feel no need to proceed in an ordained direction... can instead simply decide what makes sense for our owners." — 1995 Letter
+>
+> Context: Lack of a strategic plan as a capital allocation advantage — no institutional pressure to deploy into mediocre opportunities. → [Capital Allocation](principles/capital-allocation.md)
+
+### Insurance & Risk
+
+> "A bad reinsurance contract is like hell: easy to enter and impossible to exit." — 1995 Letter
+>
+> Context: Warning about the long-tail exposure of reinsurance contracts. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "If Charlie, I, and Ajit are ever in a sinking boat — and you can only save one of us — swim to Ajit." — 1996 Letter
+>
+> Context: Ajit Jain's 10-year record building $3B in float from scratch. → [National Indemnity](entities/national-indemnity.md)
+
+### Humor & Self-Deprecation
+
+> "Selling at only five times rides!" — 1995 Letter
+>
+> Context: Disney in 1966 — market cap <$90M, $21M pre-tax income, Fantasyland, Pirates, the works. → [Capital Allocation](principles/capital-allocation.md)
+
+> "How do you become a millionaire? Make a billion dollars and then buy an airline." — Richard Branson, quoted in 1996 Letter
+>
+> Context: The USAir experience distilled into a one-liner. → [Capital Allocation](principles/capital-allocation.md)

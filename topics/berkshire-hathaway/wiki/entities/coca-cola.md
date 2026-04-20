@@ -11,6 +11,8 @@ sources:
     buffett-letter-1992,
     buffett-letter-1993,
     buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -66,6 +68,12 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 
 **[1994 Letter]** Holdings reach 100,000,000 shares (post-split) with market value $5,150.0M on $1,023.9M cost — a 403% gain. Ownership 7.8%. Look-through contribution: $116M. Buffett invokes the moat metaphor: "The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles." Of approximately 44% of world soft drink consumption attributable to Coke-branded products, "leaving aside chewing gum, I know of no other significant businesses in which the leading company has long enjoyed such global power."[^5]
 
+## 1995-1996: "The Inevitable"
+
+**[1995 Letter]** Market value: $7,425.3M on $1,298.9M cost — a 472% gain. Holdings: 200,000,000 shares (post-splits). Disney/Cap Cities merger (July 1995): Berkshire receives Disney stock for its Cap Cities holding, and Buffett narrates the Disney 1966 anecdote — market cap <$90M, $21M pre-tax income, "selling at only five times rides!" He bought at 31¢/share split-adjusted and sold at 48¢ in 1967.
+
+**[1996 Letter]** Market value: $10,525.0M on $1,298.9M cost — an 8:1 return. Coca-Cola formally classified as one of "The Inevitables": businesses whose "worldwide dominance is virtually certain to persist for the life of the investment." The 1896 report cited: 116,492 gallons of syrup sold in the first year; a century later, over 10 billion unit cases annually. "What could be more advantageous in an intellectual contest... than to have opponents who have been taught that thinking is a waste of energy?" Selling Coke to buy something else would be "like the Bulls trading Michael Jordan because he had a bad first quarter"[^6].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — the ultimate consumer franchise
@@ -82,3 +90,5 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 [^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $3,911M market value; 93.4M shares post-split; $82M look-through
 
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $4,168M → $5,150M market value; 100M shares; 7.8% ownership; moat castle metaphor; 44% global soft drink share
+
+[^6]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — $7,425M → $10,525M market value; "The Inevitables" classification; 1896 report; Bulls-trade-Jordan analogy; Disney 1966 anecdote

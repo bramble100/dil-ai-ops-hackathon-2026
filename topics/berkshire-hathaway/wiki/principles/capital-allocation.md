@@ -21,6 +21,8 @@ sources:
     buffett-letter-1992,
     buffett-letter-1993,
     buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -261,6 +263,31 @@ On stock options: "combination of ten-year option, low dividend payout, and comp
 
 **[1994 Letter]** "A fat wallet is the enemy of superior investment results. Berkshire now has a net worth of $11.9B compared to $22M when Charlie and I began." A minimum $100M position is now required; the investment universe has shrunk dramatically. The Ted Williams batting-zone analogy: "If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter." Charlie regularly reminds Buffett: "If something is not worth doing at all, it's not worth doing well"[^7].
 
+### Class B Recapitalization (1995)
+
+**[1995 Letter]** Berkshire creates Class B shares (1/30th economic interest, 1/200th vote) to preempt expense-laden "Berkshire clone" unit trusts that were charging 2-3% annual fees while purporting to replicate BRK ownership. The capital allocation lesson: sometimes issuing equity _protects_ existing shareholders by preventing value extraction by intermediaries. Buffett offers a candid warning: "At $36,000... Charlie and I do not believe [the stock] undervalued."
+
+### The No-Strategic-Plan Advantage (1995)
+
+**[1995 Letter]** Berkshire's lack of a corporate plan is reframed as a capital allocation edge: "We feel no need to proceed in an ordained direction... can instead simply decide what makes sense for our owners." Every acquisition candidate is benchmarked against "dozens of other opportunities open to us, including the purchase of small pieces of the best businesses in the world via the stock market." This forces genuine opportunity-cost thinking — the enemy of empire-building.
+
+### Convertible Preferred Retrospective and Gillette Error (1995)
+
+**[1995 Letter]** The definitive scorecard on the 1987-1989 convertible preferred experiment: Gillette best ($600M → $2,502M common); Champion sold at cost + 19% after-tax; Salomon $140M first partial redemption; USAir at 60% of par. The key lesson is an error of structure, not selection: Berkshire should have bought $600M of Gillette common (~60M shares at ~$10) instead of the preferred (48M conversion shares). "The extra $625M that would have come to us had we bought Gillette common was only partially offset by about $70M in extra dividends." When conviction is high, the preferred's downside protection is a cost, not a benefit[^8].
+
+### Incentive Compensation Principles (1996)
+
+**[1996 Letter]** Three principles for rational incentive pay:
+1. Goals tailored to the economics of the specific operating business (not consolidated Berkshire results)
+2. Simple — "my experience indicates that complexity in compensation more often benefits the designer than the owner"
+3. Tied to things the employee can influence through daily activity
+
+GEICO's plan is the exemplar: twin metrics of (a) voluntary policy growth and (b) seasoned-book profitability, paying 0%-28%+ of base salary depending on results. The formula "has nothing to do with Berkshire's stock price" — only with variables employees control. Applied correctly, the system produced 16.9% of base salary in 1996 during GEICO's best growth year as a subsidiary[^8].
+
+### FlightSafety Acquisition Structure (1996)
+
+**[1996 Letter]** FlightSafety International acquired for ~$1.5B in cash plus fractional Berkshire shares. Al Ueltschi (age 79, founded 1951) came to Buffett after an NYSE seatmate mentioned Berkshire. The deal illustrates three capital allocation principles: (1) cold-call deal flow from reputation alone; (2) cash-heavy structure to minimize dilution; (3) purchasing a business Buffett admires but doesn't need to understand at a technical level — the four filters are met by the economics and management, not by simulator expertise[^8].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -286,3 +313,5 @@ On stock options: "combination of ten-year option, low dividend payout, and comp
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) — Dexter Shoe stock exchange logic; painting target before shooting
 
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — EPS accretion fallacy; chain letter in reverse; compensation rationality; fat wallet problem
+
+[^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — Class B recapitalization; no-strategic-plan advantage; Gillette $625M opportunity cost; GEICO incentive comp plan; FlightSafety acquisition structure

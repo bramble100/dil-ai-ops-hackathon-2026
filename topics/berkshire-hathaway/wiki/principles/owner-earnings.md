@@ -1,7 +1,27 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1978,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -112,19 +132,32 @@ The growth-value false dichotomy demolished: "growth is always a component in th
 
 ### Look-Through Earnings Extended (1993)
 
-**[1993 Letter]** 1993 look-through earnings: $856M = $478M reported + $439M undistributed − $61M tax. Benchmark progress: $856M vs. $1.85B target by 2000. Buffett flags that even when Cap Cities was *sold* (10M shares at $63), the actual capital gains tax paid (35% on realized gains) far exceeded the hypothetically lower 14% rate used in look-through calculations — meaning look-through earnings are *conservative*, not just approximate[^6].
+**[1993 Letter]** 1993 look-through earnings: $856M = $478M reported + $439M undistributed − $61M tax. Benchmark progress: $856M vs. $1.85B target by 2000. Buffett flags that even when Cap Cities was _sold_ (10M shares at $63), the actual capital gains tax paid (35% on realized gains) far exceeded the hypothetically lower 14% rate used in look-through calculations — meaning look-through earnings are _conservative_, not just approximate[^6].
 
 The Li'l Abner deferred-tax demonstration: doubling a dollar once per year for 20 years (paying 35% tax each year) leaves $22,370; holding a single investment that doubles 27.5 times (paying tax only at the end) leaves ~$130M. "Tax-paying investors will realize a far, far greater sum from a single investment that compounds internally at a given rate than from a succession of investments compounding at the same rate."
 
 ### Scott Fetzer as Look-Through Proof (1994)
 
-**[1994 Letter]** Nine-year Scott Fetzer table demonstrates the look-through principle in concentrated form: purchase-premium amortization ($11.6M in 1986 alone) caused Berkshire's *reported* earnings from Scott Fetzer to be far below actual owner earnings. The business distributed more than 100% of its earnings to Berkshire over nine years while *growing* earnings from $40.3M to $79.3M. By 1994: $148.2M carrying value, yet ~$80M annual earnings — a near-100% return on carrying value. The GAAP number "consistently marked down while intrinsic value consistently grew"[^7].
+**[1994 Letter]** Nine-year Scott Fetzer table demonstrates the look-through principle in concentrated form: purchase-premium amortization ($11.6M in 1986 alone) caused Berkshire's _reported_ earnings from Scott Fetzer to be far below actual owner earnings. The business distributed more than 100% of its earnings to Berkshire over nine years while _growing_ earnings from $40.3M to $79.3M. By 1994: $148.2M carrying value, yet ~$80M annual earnings — a near-100% return on carrying value. The GAAP number "consistently marked down while intrinsic value consistently grew"[^7].
 
 Look-through earnings 1994: $1,030M = $606M reported + $492M undistributed − $68M tax. New constituents include American Express ($25M look-through contribution at 5.5% ownership) and Gannett ($4M). GEICO contribution down to $63M despite larger ownership stake — reflecting higher losses in 1994.
 
 ### Intrinsic Value Restated (1994)
 
 **[1994 Letter]** "We define intrinsic value as the discounted value of the cash that can be taken out of a business during its remaining life." Book value tells you what has been put in; intrinsic value estimates what can be taken out. "Anyone calculating intrinsic value necessarily comes up with a highly subjective figure that will change both as estimates of future cash flows are revised and as interest rates move."
+
+### Look-Through Earnings Extended (1996)
+
+**[1996 Letter]** Look-through earnings reach $1,522M — a 48% gain over 1994's $1,030M, driven primarily by GEICO's full consolidation. Formula restated: reported operating earnings + undistributed investee earnings − hypothetical 14% capital gains tax on retention.
+
+**[1996 Letter]** The two-column intrinsic value framework provides the clearest decomposition of Berkshire's worth:
+
+- Column 1: Per-share investments = $28,500
+- Column 2: Per-share pre-tax earnings from operations (excluding investment income) = $421
+
+The teaching: investors can independently value Berkshire by valuing each column separately and summing. Column 1 uses market values; column 2 applies a P/E appropriate for the quality of the operating businesses. This is look-through earnings operationalized into a valuation methodology[^8].
+
+**[1995 Letter]** Berkshire overhead at less than 2 basis points of net worth — demonstrating that look-through earnings are not consumed by corporate overhead. Headquarters staff grew from 11 to 12[^8].
 
 ## Connections
 
@@ -146,3 +179,5 @@ Look-through earnings 1994: $1,030M = $606M reported + $492M undistributed − $
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) — $856M look-through; deferred-tax Li'l Abner demonstration; cap gains tax vs. look-through conservatism
 
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — $1,030M look-through; Scott Fetzer as 9-year proof; intrinsic value definition
+
+[^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — look-through $1,522M; two-column intrinsic value framework; <2 basis points overhead

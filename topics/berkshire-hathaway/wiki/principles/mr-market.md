@@ -12,6 +12,8 @@ sources:
     buffett-letter-1992,
     buffett-letter-1993,
     buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -111,6 +113,16 @@ The five real risk factors: (1) certainty of long-term business economics; (2) m
 
 **[1994 Letter]** Macro-forecast irrelevance restated: "Fear is the foe of the faddist, but the friend of the fundamentalist." Thirty years of macro shocks (Vietnam, price controls, oil, Nixon, Soviet collapse, Dow −508, T-bills 2.8-17.4%) "made not the slightest dent in Ben Graham's investment principles." The implication: Mr. Market's panics and euphoria are opportunities, not inputs to be incorporated[^7].
 
+### Overvaluation Warning and Inactivity Philosophy (1995-1996)
+
+**[1995 Letter]** A rare inversion: Buffett warns that Mr. Market is _too generous_, not too stingy. Berkshire's stock price has outpaced intrinsic value growth — "at a price at which Charlie and I would not consider buying it." The lesson for the investor: Mr. Market can be foolish on the upside too; an investor who would refuse his absurdly low bids must equally refuse to be intoxicated by his absurdly high ones[^8].
+
+**[1996 Letter]** "We make more money when snoring than when active" — the operational response to Mr. Market's constant enticement to trade. And: "Lethargy bordering on sloth remains the cornerstone of our investment style." The Bulls-trade-Michael-Jordan analogy: selling Coke to buy USAir would be like the Bulls trading Michael Jordan because "he had a bad first quarter." When you own the inevitable, Mr. Market's daily prices are entirely irrelevant[^8].
+
+> "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes." — 1996 Letter
+
+**[1996 Letter]** Buffett cites his own USAir purchase as the negative example: "I was neither combative nor fair" in my analysis — seduced by the preferred's yield rather than honestly evaluating the business. Mr. Market offered a premium exit; Buffett was fortunate to escape with $47.9M in arrears paid and the stock at $40 (from $4). The lesson: when you lack genuine insight into filter (2) — long-term prospects — you are not Mr. Market's exploiter; you are his patsy.
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -131,3 +143,5 @@ The five real risk factors: (1) certainty of long-term business economics; (2) m
 [^6]: [1993 Letter](../sources/buffett-letter-1993.md) — beta demolition; five real risk factors; concentration corollary; CEO inconsistency
 
 [^7]: [1994 Letter](../sources/buffett-letter-1994.md) — macro-forecast irrelevance; fear as friend of the fundamentalist
+
+[^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — overvaluation warning; "snoring vs active"; Bulls-trade-Jordan; ten-year holding test; USAir as patsy lesson

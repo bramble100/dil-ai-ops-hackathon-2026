@@ -2,7 +2,27 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -48,6 +68,12 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 
 **[1992 Letter]** Don Wurster's commercial auto and general liability, plus Rod Eldred's homestate operation, both recorded underwriting profits in 1992 — float at negative cost. The bulk of float comes from Ajit Jain's large transactions. Buffett: "Charlie and I continue to like the insurance business, which we expect to be our main source of earnings for decades to come. The industry is huge; in certain sectors we can compete world-wide; and Berkshire possesses an important competitive advantage." Berkshire acquired Central States Indemnity (Omaha, 82% stake) from the Kizer family — Jack Ringwalt parallel explicitly noted: "National Indemnity was an outstanding business when we bought it and continued to be under Jack's management. Hollywood has had good luck with sequels; I believe we, too, will."[^6]
 
+### 1995-1996 Performance
+
+**[1995 Letter]** National Indemnity's traditional business recorded a combined ratio of 84.2 — an extraordinary result. Don Wurster's three-year average demonstrates consistent sub-100 performance. Rod Eldred's homestate operations and Brad Kinstler's workers' comp continue producing profits. Super-cat: fourth consecutive year of good fortune; Ajit Jain writes policies covering Mike Tyson's life, Lloyd's syndicate mortality, and Chinese satellite launches.
+
+**[1996 Letter]** Combined ratio 74.2 — a remarkable result even by NICO standards. Kansas Bankers Surety acquired (met at Mrs. B's birthday party; Don Towle as president). The non-GEICO insurance operations collectively provided $1.4B in float at negative cost. Ajit Jain's 10-year track: built a $3B float business from scratch. California Earthquake Authority contract written (~$1B exposure); Allstate Florida super-cat renewed[^7].
+
 ## Connections
 
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — National Indemnity is the living example
@@ -63,4 +89,7 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — combined ratio 104; Fireman's Fund contract expiring
 
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — CAT reinsurance $250M capacity; Ajit Jain; underwriting cycle debunked
+
 [^6]: [1992 Letter](../sources/buffett-letter-1992.md) — Central States Indemnity acquired; negative-cost float from Wurster and Eldred
+
+[^7]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — combined ratios 84.2 and 74.2; Kansas Bankers Surety acquired; Ajit Jain 10-year/$3B float; California Earthquake Authority

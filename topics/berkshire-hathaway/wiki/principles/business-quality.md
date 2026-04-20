@@ -1,7 +1,29 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -165,11 +187,33 @@ The valuation consequence: "A few years ago the conventional wisdom held that a 
 
 ### Wonderful Businesses at Fair Prices — Restated (1994)
 
-**[1994 Letter]** The formula: "the purchase at sensible prices of businesses that have good underlying economics and are run by honest and able people." This formula "is certain to produce reasonable success." 
+**[1994 Letter]** The formula: "the purchase at sensible prices of businesses that have good underlying economics and are run by honest and able people." This formula "is certain to produce reasonable success."
 
 > "It's far better to own a significant portion of the Hope diamond than 100% of a rhinestone." — 1994 Letter
 
 The shoe business demonstrates this at the micro level: the domestic shoe industry "is generally thought unable to compete with imports from low-wage countries. But someone forgot to tell the ingenious managements of Dexter and H.H. Brown." Exceptional management in a difficult industry can produce "unusually fine margins" — but this is the harder path versus owning a franchise in an easy industry[^8].
+
+### "Have-to-Be-Smart-Once" vs. "-Every-Day" (1995)
+
+**[1995 Letter]** A new business-quality heuristic drawn from contrasting retail with broadcasting:
+
+> "Retailing is a tough business. During my investment career, I have watched a large number of retailers enjoy terrific growth and superb returns on equity for a period, and then suddenly nosedive, often all the way into bankruptcy." — 1995 Letter
+
+Network TV stations (before deregulation) had to be smart only once — buying the station itself. Retailers must be smart every day: "unwise Mexican excursions, ## ## ## and other fads... each trip to the office requires you to fight anew." The distinction is a direct complement to the moat concept: some businesses protect themselves structurally; others must be defended daily through operational excellence.
+
+> "In retailing, to coast is to fail... Your competitors are always copying and then improving on whatever you do. Resistance is futile... The constant threat of competitive destruction means that retailers, as a class, earn sub-par returns on capital." — 1995 Letter (paraphrase of argument)
+
+### "The Inevitables" (1996)
+
+**[1996 Letter]** A formal investment category for the highest level of business quality — businesses whose worldwide competitive dominance is "virtually certain to persist for the life of the investment":
+
+> "We call them 'The Inevitables.' I cannot promise you that the future will be as good as the past. But I can promise you that we will treat your investment as if it were our own." — 1996 Letter (paraphrase)
+
+Coke and Gillette as the archetype duo: Coke "will increase its already dominant share of the world market" while Gillette "will continue to grow its share of the blade and razor market." These companies possess competitive advantages "so formidable that they reduce future business uncertainties to de minimis levels."
+
+The mental challenge: "What could be more advantageous in an intellectual contest — whether it be bridge, chess, or stock selection — than to have opponents who have been taught that thinking is a waste of energy?" EMT adherents who deny franchise value is recognizable create the opportunity for those who can[^9].
+
+**[1996 Letter]** The Coke 1896 report — a century of dominance traced: "In 1896, the Coca-Cola Company sold about 116,492 gallons of syrup." A century later, annual unit case sales exceeded 10 billion. The question: what business can demonstrate predictable century-scale success? Only "The Inevitables."
 
 ## Connections
 
@@ -198,3 +242,5 @@ The shoe business demonstrates this at the micro level: the domestic shoe indust
 [^7]: [1993 Letter](../sources/buffett-letter-1993.md) — moat quantified (Coke 44%, Gillette 60%); moat vs. beta
 
 [^8]: [1994 Letter](../sources/buffett-letter-1994.md) — Hope diamond vs. rhinestone; Dexter/Brown as management-in-tough-industry examples
+
+[^9]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — "have-to-be-smart-once" vs. "-every-day"; "The Inevitables"; Coke 1896 report; retailing as competitive destruction

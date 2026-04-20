@@ -2,7 +2,17 @@
 title: "Salomon Inc"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -42,6 +52,12 @@ The Salomon preferred represents Buffett's willingness to use convertible prefer
 
 Despite the company's travails, the $700M preferred position increased slightly in value during 1991 (lower interest rates + higher Salomon common price). Valuation at yearend 1992: $756M (vs. $700M cost).
 
+### Partial Redemption and Final Exit (1995-1996)
+
+**[1995 Letter]** First $140M partial preferred redemption. Salomon conversion option remains viable. Buffett's verdict on the overall investment: management time far exceeded economic significance — the experience "considerably increased my appreciation for the difficulty of being both combative and fair."
+
+**[1996 Letter]** Travelers Group merger pending. Berkshire exercised exchangeable notes ($500M) and received Travelers common stock. "My overall experience — negative overall" with Salomon. The investment ultimately produced a modest positive return but consumed disproportionate Buffett attention relative to its economic contribution to Berkshire. The cautionary lesson: filter (2) — favorable long-term prospects — cannot be bypassed through preferred-structure downside protection without real opportunity cost[^6].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — convertible preferred as a risk-management tool
@@ -56,3 +72,5 @@ Despite the company's travails, the $700M preferred position increased slightly 
 [^4]: [1991 Letter](../sources/buffett-letter-1991.md) — Buffett appointed Interim Chairman August 1991
 
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — stepped down June 1992; Salomon record earnings; crisis team
+
+[^6]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — $140M partial redemption; Travelers merger; exchangeable notes; "negative overall" experience

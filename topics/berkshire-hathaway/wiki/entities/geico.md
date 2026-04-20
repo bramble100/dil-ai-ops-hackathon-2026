@@ -2,7 +2,29 @@
 title: "GEICO Corporation"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992, buffett-letter-1993, buffett-letter-1994]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+    buffett-letter-1993,
+    buffett-letter-1994,
+    buffett-letter-1995,
+    buffett-letter-1996,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -64,6 +86,23 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 
 **[1994 Letter]** Market value: $1,678.1M (cost $45.7M) on 50.2% ownership. Look-through contribution included in the $1,030M total. Ownership crossed 50% through GEICO share buybacks — Berkshire did not purchase additional shares; GEICO's repurchase program increased Berkshire's proportionate stake. "The value of GEICO's float is immense — it is money that, in essence, works for us at no cost."[^7]
 
+### 100% Acquisition (1995-1996)
+
+**[1995 Letter]** Berkshire acquires the remaining ~50% of GEICO for $2.3B, completed January 2, 1996. Buffett tells the 45-year origin story: a cold Saturday in January 1951, he took a train to Washington DC, found GEICO's office, and pounded on the door until a janitor let him in. Lorimer Davidson — then Assistant to the President — spent four hours teaching the 20-year-old about insurance economics. "What a lucky break I got."
+
+The moat restated: operating costs at 23.6% of premiums (down ~1pt YoY). "In business, I look for economic castles protected by unbreachable 'moats.'" Tony Nicely (age 52, 34-year GEICO veteran) runs insurance operations; Lou Simpson runs investments (22.8% annual equity returns vs. 15.7% S&P, 1980-1995). Lou identified as a Buffett/Munger succession backstop.
+
+Float contribution: GEICO adds ~$2.9B to Berkshire's consolidated float upon acquisition — nearly doubling total float from $3.6B to $6.7B.
+
+**[1996 Letter]** First full year as a subsidiary. Results are spectacular: voluntary auto policies grew 10% (vs. ~1% industry growth), gaining an estimated full percentage point of market share. Tony Nicely achieves policyholder growth at 2x the industry average. The incentive compensation plan pays 16.9% of base salary — twin metrics of policy growth and seasoned-book profitability. "GEICO hasn't merely maintained its cost advantage. It has widened it."
+
+Float from GEICO operations alone: $2.9B. Combined ratio: substantially below 100 (negative-cost float). Buffett's contribution pledge: will match any personal contribution percentage that GEICO's employees choose for their profit-sharing pool.
+
+**Key people (1995-96):**
+
+- **Tony Nicely** — CEO of insurance operations; 34-year GEICO veteran; grew policies at 2x industry rate
+- **Lou Simpson** — Chief Investment Officer; 22.8% CAGR (1980-1995) vs. 15.7% S&P 500; manages $4.5B equity portfolio independently[^8]
+
 ## Connections
 
 - [GEICO Investment](../case-studies/geico-investment.md) — detailed investment analysis
@@ -84,3 +123,5 @@ GEICO is the cornerstone case study for multiple Berkshire principles:
 [^6]: [1992 Letter](../sources/buffett-letter-1992.md) — $2,226.3M market value; 49x return; 5-for-1 stock split
 
 [^7]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,760M → $1,678M market value; 48.4% → 50.2% ownership (via GEICO buybacks); negative-cost float
+
+[^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 100% acquisition for $2.3B; Lorimer Davidson origin story; Tony Nicely 10% policy growth; Lou Simpson 22.8% CAGR; float $2.9B; incentive comp 16.9%
