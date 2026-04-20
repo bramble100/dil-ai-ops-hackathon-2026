@@ -2,7 +2,7 @@
 title: "The Gillette Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1989]
+sources: [buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -33,6 +33,14 @@ The contrast with USAir and Champion is explicit: for those businesses, Buffett 
 
 The honest risk: if all Berkshire receives is the preferred yield, "the result will be disappointing, because we will have given up flexibility and consequently will have missed some significant opportunities that are bound to present themselves during the decade."
 
+## 1990-1992 Performance
+
+**[1990 Letter]** Gillette preferred converted to common on April 1, 1991 (the call was announced and known at yearend 1990). At yearend 1990, Buffett assessed the Gillette position as "worth somewhat more" than the $600M cost — compared to Salomon (at par) and USAir (substantially less). Colman Mockler died in January 1991; Buffett remembered him as the embodiment of "gentleman" — integrity, courage, and modesty. A Forbes cover story published just before his death praised Gillette's devotion to quality over marketing savvy as the source of its dominance[^2].
+
+**[1991 Letter]** Preferred converted to common on April 1, 1991 — 24,000,000 shares. Market value: $1,347.0M on $600M cost. Ownership: 11.0%. Look-through earnings: $23M for the nine months after conversion. Gillette, alongside Coca-Cola, drove the anomalous 39.6% gain in Berkshire's book value for 1991 — P/E re-rating was the primary driver, not earnings growth alone. "Coca-Cola and Gillette are two of the best companies in the world."[^3]
+
+**[1992 Letter]** Market value: $1,365.0M on $600M cost (128% gain). Ownership: 10.9%. Look-through earnings contribution: $38M. Buffett notes that despite the success with Gillette preferred, Berkshire's overall record with negotiated preferred purchases has been "inferior" to secondary market purchases — the market's "clearing price" mechanism periodically offers far better prices than negotiated deals produce[^4].
+
 ## Connections
 
 - [Four Filters](../principles/four-filters.md) — Gillette passes all four; USAir and Champion lack conviction on filter (2)
@@ -40,3 +48,6 @@ The honest risk: if all Berkshire receives is the preferred yield, "the result w
 - [Salomon Inc](salomon-inc.md) — same preferred structure, earlier vintage
 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — Gillette preferred, convertible strategy overview
+[^2]: [1990 Letter](../sources/buffett-letter-1990.md) — Mockler obituary; Gillette preferred valued "somewhat more" than cost
+[^3]: [1991 Letter](../sources/buffett-letter-1991.md) — conversion to common; $1,347M market value; P/E re-rating
+[^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $1,365M market value; secondary market outperforms negotiated preferreds

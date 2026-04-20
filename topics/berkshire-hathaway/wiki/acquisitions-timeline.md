@@ -25,6 +25,8 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1985  | Scott & Fetzer                                   | ~$320M + ~$90M debt   | $700M revenue, 17 businesses; World Book #1 encyclopedia                   | [Scott & Fetzer](entities/scott-fetzer.md)               |
 | 1986  | Fechheimer Bros. (~84%)                          | ~$55M valuation       | Uniform mfg/distribution; Heldman family 3 generations; earnings up 1987   | [Fechheimer](entities/fechheimer.md)                     |
 | 1989  | Borsheim's (80%)                                 | Undisclosed           | Jewelry store; Friedman family (Mrs. B's relatives); no audit, one-page contract | [Borsheim's](entities/borsheims.md)                |
+| 1991  | H.H. Brown Shoe Company                          | Undisclosed           | Leading N. American work/safety shoe maker; Frank Rooney CEO; unique comp model   | [H.H. Brown](entities/hh-brown.md)                 |
+| 1992  | Central States Indemnity (82%)                   | Undisclosed           | Omaha insurer; Kizer family; parallel to National Indemnity acquisition in 1967   | [National Indemnity](entities/national-indemnity.md) |
 
 ## Major Equity Investments (Non-Controlling)
 
@@ -53,6 +55,8 @@ Chronological list of acquisitions and major investment positions as documented 
 | 1989    | Gillette (convertible pfd)     | 600.0     | —                 | 8¾% dividend; convert at $50; Buffett joins board; "truly understand the economics" | [Gillette](entities/gillette.md) |
 | 1989    | USAir (convertible pfd)        | 358.0     | —                 | 9¼% dividend; convert at $60; "agnostic" about industry economics            |
 | 1989    | Champion Int'l (convertible pfd) | 300.0   | —                 | 9¼% dividend; convert at $38; "agnostic" about industry economics            |
+| 1990    | Wells Fargo (~10%)               | 289.4   | 289.4 (1990)      | Contrarian bank purchase during panic; Carl Reichardt/Paul Hazen; <5x earnings | [Wells Fargo](entities/wells-fargo.md) |
+| 1992    | General Dynamics (~14%)          | 312.4   | 450.8 (1992)      | Arbitrage-to-conviction; Bill Anders; 14% stake in one month                  | [General Dynamics](entities/general-dynamics.md) |
 
 ## Connections
 

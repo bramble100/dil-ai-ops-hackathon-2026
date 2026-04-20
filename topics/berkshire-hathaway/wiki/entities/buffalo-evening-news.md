@@ -2,7 +2,7 @@
 title: "Buffalo Evening News"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -58,6 +58,14 @@ While competitors cut editorial content to boost margins, the News maintained a 
 
 **[1989 Letter]** Continues as a Sainted Seven Plus One member. The newspaper franchise model still producing exceptional returns on modest tangible assets — a demonstration of [economic Goodwill](../principles/economic-goodwill.md) in action[^6].
 
+### The Media Franchise Erosion (1990-1992)
+
+**[1990 Letter]** The News showed "far more vulnerability to the early stages of a recession than has been the case in the past." Earnings fell 5% — better than most metropolitan papers — but the fourth quarter was sharply worse. Buffett identifies the underlying structural threat: advertising dollars increasingly dispersed across more channels, and non-media retailers taking share from traditional advertisers. News hole rose to 52.3% (from 50.1%) — not from more news pages but from fewer advertising pages. A harbinger of bad news ahead. Stan Lipsey "continues to be superb"[^7].
+
+**[1991 Letter]** Earnings fell sharply as warned. Buffett confirms this is secular, not cyclical: "The forces are so powerful... that even outstanding management cannot fully offset them." The News, Cap Cities, and Washington Post all face permanent franchise erosion. The intrinsic value of the media investment has "declined materially." However, the News and both media investees remain far better-positioned than leveraged competitors — neither Cap Cities nor Washington Post carried significant debt during the late-1980s media bubble, while competitors "find themselves with debt equal to five or more times their current net income"[^8].
+
+**[1992 Letter]** Pre-tax earnings recovered to $47.9M (vs. $37.1M in 1991, $44.0M in 1990). Stan Lipsey continues to outperform the newspaper industry. The news hole remains above 50%. Despite the secular erosion narrative, the News has demonstrated remarkable resilience — earnings in 1992 slightly exceed the 1990 level[^9].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — newspaper franchise as a tailwind business (in this era)
@@ -69,3 +77,6 @@ While competitors cut editorial content to boost margins, the News maintained a 
 [^4]: [1987 Letter](../sources/buffett-letter-1987.md) — Seven daily editions, news-hole commitment, flexible-budgets critique
 [^5]: [1988 Letter](../sources/buffett-letter-1988.md) — seventh consecutive profit record; Stan Lipsey +5% margin
 [^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member
+[^7]: [1990 Letter](../sources/buffett-letter-1990.md) — 5% earnings decline; news hole 52.3%; secular media erosion identified
+[^8]: [1991 Letter](../sources/buffett-letter-1991.md) — secular decline confirmed; intrinsic value reduced; advantage vs. leveraged peers
+[^9]: [1992 Letter](../sources/buffett-letter-1992.md) — $47.9M pre-tax; recovery above 1990 level; Lipsey continues to outperform

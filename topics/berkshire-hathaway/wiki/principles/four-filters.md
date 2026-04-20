@@ -1,7 +1,7 @@
 ---
 title: "Four Filters (Stock Selection Criteria)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -92,6 +92,18 @@ The operational lesson: "We have been successful because we concentrated on iden
 
 **[1989 Letter]** A sixth investment category emerges: convertible preferred stock. The four 1989 preferreds (Salomon, Gillette, USAir, Champion) share a structure: significant current yield for downside protection, conversion option for upside, unrestricted voting. But Buffett draws sharp distinctions: Gillette passes all four equity filters; USAir and Champion pass only filters (1) and (3) — he is "agnostic" about their industry economics. The preferred structure compensates for incomplete conviction on filter (2)[^3].
 
+### Growth and Value Unified (1992)
+
+**[1992 Letter]** The definitive statement: "In our opinion, the two approaches [value and growth] are joined at the hip: Growth is always a component in the calculation of value." The label "value investing" is "redundant" — what is investing if not seeking value? Consciously paying more than value in hopes of a higher sell price is speculation, not investing.
+
+Filter (4) refinement: "Because of both market conditions and our size, we now substitute 'an attractive price' for 'a very attractive price'" — the scale constraint permanently loosened the price filter slightly.
+
+The criterion stability test: "Our equity-investing strategy remains little changed from what it was fifteen years ago" — the 1977 four-filter statement is quoted verbatim in 1992 as still valid[^4].
+
+### Arbitrage to Conviction (1992)
+
+**[1992 Letter]** The General Dynamics story adds a new dimension to filter application: conviction can emerge from process. Buffett started buying General Dynamics as an arbitrage play on a Dutch tender, then deep study of CEO Bill Anders's strategy converted him into a long-term holder. "I dumped my arbitrage thoughts and decided that Berkshire should become a long-term investor with Bill." Opportunistic entry can legitimately precede full filter evaluation, provided the evaluation happens before full commitment[^4].
+
 ## Connections
 
 - [Business Quality](business-quality.md) — filter (2) expanded: what makes long-term prospects favorable
@@ -106,3 +118,5 @@ The operational lesson: "We have been successful because we concentrated on iden
 [^2]: [1977 Letter](../sources/buffett-letter-1977.md) — "pro-rata portions of truly outstanding businesses sometimes sell... at very large discounts"
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred strategy; Gillette vs. USAir distinction
+
+[^4]: [1992 Letter](../sources/buffett-letter-1992.md) — growth-value synthesis; filter (4) updated; General Dynamics arbitrage-to-conviction

@@ -1,7 +1,7 @@
 ---
 title: "Capital Allocation"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -189,6 +189,32 @@ Even 99:1 odds favoring higher leverage are rejected. The $902.6M zero-coupon co
 
 **[1989 Letter]** Berkshire achieves AAA rating from S&P — only 15 other US industrial or property-casualty companies hold this distinction. The rating validates the conservative leverage philosophy: Berkshire carries meaningful debt ($902.6M debentures) but against a $4.9B equity base.
 
+### The Errors of Omission — Fannie Mae (1991)
+
+**[1991 Letter]** The canonical errors-of-omission confession: in early 1988 Buffett decided to buy 30M shares of Fannie Mae (~$350-400M) but stopped at 7M when the price started rising. He then sold the 7M shares in frustration. Forgone gain by yearend 1991: ~$1.4B.
+
+"I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one." The lesson: when a purchase satisfies all four filters and price is moving against you, keep buying, as Buffett correctly did with Coca-Cola.
+
+### Owner-Compensation Model (1991)
+
+**[1991 Letter]** H.H. Brown's compensation system: key managers earn $7,800 base salary plus a designated percentage of profits *after* a charge for capital employed. "These managers therefore truly stand in the shoes of owners... Managers eager to bet heavily on their abilities usually have plenty of ability to bet on." This is the gold standard against which most corporate compensation systems (options, revenue-based bonuses) fail[^4].
+
+### Acquisition Criteria Reinforced (1991-1992)
+
+**[1991-1992 Letters]** The six criteria appear again verbatim; minimum earnings threshold remains $10M. The 1991 letter adds: "We will not engage in unfriendly takeovers." Berkshire offers "five minutes" to say yes or no. 1992 updates: "In the search, we adopt the same attitude one might find appropriate in looking for a spouse: It pays to be active, interested and open-minded, but it does not pay to be in a hurry."
+
+**[1992 Letter]** The toad critique extended: managers pay dearly to "kiss corporate toads, expecting wondrous transfigurations." Buffett confesses to dating "a few toads" early in his career. The golf-pro lesson: "Practice doesn't make perfect; practice makes permanent" — and therefore early mistakes calcify if not consciously corrected.
+
+### Stock-Option Accounting (1992)
+
+**[1992 Letter]** Buffett's most forceful statement against ignoring option costs: "If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it?" He offers to buy any "out-of-the-money" options on the day of issue from executives who claim they have no value — proving they do[^5].
+
+The institutional lobbying problem: "the business elite risks losing its credibility on issues of significance to society... when it advocates the incredible on issues of significance to itself."
+
+### Secondary Market vs. New-Issue Market (1992)
+
+**[1992 Letter]** A key insight on where to find mispriced assets: secondary markets are "periodically ruled by mass folly" and set clearing prices — sometimes offering x for 1/2x. New-issue markets are controlled by sellers who "are not going to offer any bargains." Buffett prefers secondary market investments (common stocks) over negotiated preferreds for this reason[^5].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — filter (4), price discipline, is the capital allocation bottleneck
@@ -206,3 +232,7 @@ Even 99:1 odds favoring higher leverage are rejected. The $902.6M zero-coupon co
 [^2]: [1980 Letter](../sources/buffett-letter-1980.md) — borrowing for optionality
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred strategy; conservative leverage; errors of omission
+
+[^4]: [1991 Letter](../sources/buffett-letter-1991.md) — H.H. Brown compensation model; Fannie Mae omission
+
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — stock-option accounting; secondary vs. new-issue markets; acquisition criteria

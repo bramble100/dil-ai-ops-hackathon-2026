@@ -1,7 +1,7 @@
 ---
 title: "Mr. Market"
 type: principle
-sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -68,6 +68,18 @@ Buffett's position is nuanced: the market is "frequently efficient" but "not alw
 
 **[1988-1989 Letters]** The operational response to Mr. Market: ignore him entirely on the sell side. Applied initially to Coca-Cola and Freddie Mac, then restated more broadly: "We would rather stay put, even if that means slightly lower returns... akin to marrying for money — a mistake under most circumstances, insanity if one is already rich." This permanently de-couples portfolio management from Mr. Market's daily quotations[^3].
 
+### Buying Through Bank-Stock Panic (1990)
+
+**[1990 Letter]** The Wells Fargo purchase is Mr. Market's principle in action: "our purchases of Wells Fargo in 1990 were helped by a chaotic market in bank stocks." Month by month, bank losses were exposed, investors "concluded that no bank's numbers were to be trusted" and fled — enabling Berkshire to buy 10% of Wells for $290M at less than five times after-tax earnings.
+
+> "Investors who expect to be ongoing buyers of investments throughout their lifetimes should adopt a similar attitude toward market fluctuations; instead many illogically become euphoric when stock prices rise and unhappy when they fall." — 1990 Letter
+
+The grocery analogy: "knowing they are forever going to be buyers of food, they welcome falling prices and deplore price increases... Our investments are guided by the same reasoning."[^4]
+
+### Slugging Percentage, Not Batting Average (1992)
+
+**[1992 Letter]** Berkshire's accepted volatility philosophy: "We not only accept this volatility but welcome it: A tolerance for short-term swings improves our long-term prospects. In baseball lingo, our performance yardstick is slugging percentage, not batting average." Mr. Market's mood swings are the source of the opportunity; smooth quarterly earnings are a sign of a mediocre operator[^5].
+
 ## Connections
 
 - [Four Filters](four-filters.md) — Mr. Market provides the prices; the filters determine whether to act
@@ -80,3 +92,7 @@ Buffett's position is nuanced: the market is "frequently efficient" but "not alw
 [^2]: [1986 Letter](../sources/buffett-letter-1986.md) — "fearful when others are greedy"
 
 [^3]: [1988 Letter](../sources/buffett-letter-1988.md) & [1989 Letter](../sources/buffett-letter-1989.md) — EMT demolition; double-dip over; "favorite holding period is forever"
+
+[^4]: [1990 Letter](../sources/buffett-letter-1990.md) — Wells Fargo panic purchase; food-buyer analogy
+
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — slugging percentage not batting average

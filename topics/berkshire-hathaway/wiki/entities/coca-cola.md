@@ -2,7 +2,7 @@
 title: "The Coca-Cola Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -43,6 +43,14 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 
 **[1988 Letter]** Coca-Cola and Freddie Mac were purchased with the expectation of permanent ownership: "When we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever."
 
+## 1990-1992 Performance
+
+**[1990 Letter]** Market value: $2,171.6M (cost $1,023.9M) — a 112% gain in two years. Holdings remain 46,700,000 shares. Look-through earnings contribution: $58M from Berkshire's 7.0% share of undistributed Coke earnings.
+
+**[1991 Letter]** The defining moment in the Coke investment: P/E expansion drove Coke's stock far faster than its earnings in 1991. Coke alone contributed nearly $1B to Berkshire's $2.1B net worth increase — "a phenomenon not apt to be repeated." Market value: $3,747.7M. Look-through contribution: $69M. Buffett notes ruefully that by 1991, "our Coke stock alone is worth more than Berkshire's entire net worth was when we bought it" ($3.4B at purchase vs. $3.75B at yearend 1991). "Coca-Cola and Gillette are two of the best companies in the world and we expect their earnings to grow at hefty rates in the years ahead."[^3]
+
+**[1992 Letter]** Market value: $3,911.1M (cost $1,023.9M) — 282% gain on cost. Holdings now 93,400,000 shares (post-split). Look-through earnings contribution: $82M on 7.1% ownership. Total look-through from Coke alone has now exceeded the original cost basis on an annual basis. Coke and Gillette together account for roughly $1.3B in market value appreciation since purchase[^4].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — the ultimate consumer franchise
@@ -52,3 +60,5 @@ Coca-Cola exemplifies the [business quality](../principles/business-quality.md) 
 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — Coca-Cola investment story
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — initial purchase and "favorite holding period is forever"
+[^3]: [1991 Letter](../sources/buffett-letter-1991.md) — P/E expansion drives $1B gain; "phenomenon not apt to be repeated"
+[^4]: [1992 Letter](../sources/buffett-letter-1992.md) — $3,911M market value; 93.4M shares post-split; $82M look-through

@@ -352,6 +352,70 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: On selling great holdings for slightly better returns — don't trade what you have for what you don't need. → [Capital Allocation](principles/capital-allocation.md)
 
+---
+
+## 1990-1992 Additions
+
+### Business Quality & Moats
+
+> "A franchise is a business whose product or service (1) is needed or desired, (2) has no close substitute, and (3) is not subject to price regulation." — 1991 Letter
+>
+> Context: The definitive three-test franchise definition. All three must be met. → [Business Quality](principles/business-quality.md)
+
+> "An economic franchise arises from a product or service that: customers need or desire; has no close substitute; and is not subject to price regulation. The existence of all three conditions will be demonstrated by a company's ability to regularly price its product or service aggressively and thereby earn high rates of return on capital." — 1991 Letter
+>
+> Context: Franchise pricing power as the acid test. → [Business Quality](principles/business-quality.md)
+
+> "Most of our insight in valuation work comes from identifying what I call 'The Moat' — does the business have a sustainable competitive advantage?" — 1992 Letter (paraphrased)
+>
+> Context: Valuation is about moat quality, not spreadsheet precision. → [Business Quality](principles/business-quality.md)
+
+### Valuation & Investing
+
+> "The formula for valuing all assets that are purchased for financial gain has been unchanged since it was first laid out by a very smart man in about 600 B.C. (though he wasn't talking about stocks). The oracle was Aesop and his enduring, though somewhat incomplete, investment insight was: a bird in the hand is worth two in the bush." — 1992 Letter
+>
+> Context: DCF as the only correct valuation method — Aesop restated as finance theory. → [Owner Earnings](principles/owner-earnings.md)
+
+> "The investment shown by the discounted-flows-of-cash calculation to be the cheapest is the one that the investor should purchase — irrespective of whether the business grows or doesn't, displays volatility or smoothness in its earnings, or carries a high price or low price in relation to its current earnings and book value." — 1992 Letter
+>
+> Context: Growth-value synthesis — both are components of DCF. → [Four Filters](principles/four-filters.md)
+
+### Capital Allocation & Mr. Market
+
+> "Investors who expect to be ongoing buyers of investments throughout their lifetimes should adopt a similar attitude toward market fluctuations... Knowing they are forever going to be buyers of food, they welcome falling prices and deplore price increases. Our investments are guided by the same reasoning." — 1990 Letter
+>
+> Context: The grocery analogy — ongoing buyers should love falling prices. → [Mr. Market](principles/mr-market.md)
+
+> "We not only accept this volatility but welcome it: A tolerance for short-term swings improves our long-term prospects. In baseball lingo, our performance yardstick is slugging percentage, not batting average." — 1992 Letter
+>
+> Context: Embracing volatility as the price of superior long-term returns. → [Mr. Market](principles/mr-market.md)
+
+### Accounting & Stock Options
+
+> "If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?" — 1992 Letter
+>
+> Context: The stock-option accounting fraud — three rhetorical questions. → [Capital Allocation](principles/capital-allocation.md)
+
+### Management & Character
+
+> "Our goal is to work with managers who like their business, think like owners, and relish operating without a bureaucratic overlay or a second-guessing headquarters." — 1990 Letter
+>
+> Context: The Berkshire operating model stated definitively. → [Capital Allocation](principles/capital-allocation.md)
+
+> "In my job search I was looking for a dog; what I found was a kennel." — 1990 Letter
+>
+> Context: On the junk bond debacle — discovering the full scope of the problem. → [Capital Allocation](principles/capital-allocation.md)
+
+### Humor & Self-Deprecation
+
+> "I committed an 'unforced error' — no one pushed me." — 1990 Letter (on USAir)
+>
+> Context: Taking full responsibility for the ill-timed USAir preferred investment. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Such service-above-self behavior is far from automatic in Wall Street." — 1987 Letter (re-invoked in 1991 context)
+>
+> Context: On Salomon scandal — the contrast between Gutfreund's historical character and institutional behavior. → [Salomon Inc](entities/salomon-inc.md)
+
 > "Of a certainty, it was in 1936 that I started buying Cokes at the rate of six for 25¢ to sell for 5¢ each... I duly observed the extraordinary consumer attractiveness and commercial possibilities of the product. I even remember which of my youthful friends was the most avid consumer... But it was not until the summer of 1988 that my brain finally established dominance over my wallet." — 1989 Letter
 >
 > Context: A 52-year delay in buying Coca-Cola stock despite consuming the product daily. → [Coca-Cola](entities/coca-cola.md)

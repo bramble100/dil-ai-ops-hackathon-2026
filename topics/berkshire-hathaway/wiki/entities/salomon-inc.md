@@ -2,7 +2,7 @@
 title: "Salomon Inc"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -34,6 +34,14 @@ The Salomon preferred represents Buffett's willingness to use convertible prefer
 
 **[1989 Letter]** Salomon is the original template for the convertible preferred strategy now extended to Gillette, USAir, and Champion. Buffett reaffirms that the preferred structure suits industries where he lacks "special insights regarding direction or future profitability" — the preferred coupon provides an acceptable floor while conversion offers upside participation. Gutfreund's integrity continues to be the thesis[^3].
 
+### The Treasury Auction Scandal (1991-1992)
+
+**[1991 Letter]** On August 18, 1991, Buffett was elected Interim Chairman of Salomon after the Treasury auction bidding scandal. The appointment sent an "implicit but important message: Berkshire's operating managers are so outstanding that I knew I could materially reduce the time I was spending at the company." Buffett's "first love" is Berkshire; his Salomon title carried the word "Interim" deliberately[^4].
+
+**[1992 Letter]** Buffett stepped down as Interim Chairman in June 1992 after ten months. Results: Salomon ranked second among 311 companies in improving its reputation (Fortune survey). Salomon Brothers posted record pre-tax earnings — 34% above previous high. Key internal crisis managers: Deryck Maughan, Bob Denham, Don Howard, John Macfarlane — "tireless, effective, supportive and selfless." Lead counsel Ron Olson of Munger, Tolles & Olson resolved five simultaneous government authorities (SEC, Federal Reserve, Treasury, U.S. Attorney, Justice Antitrust)[^5].
+
+Despite the company's travails, the $700M preferred position increased slightly in value during 1991 (lower interest rates + higher Salomon common price). Valuation at yearend 1992: $756M (vs. $700M cost).
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — convertible preferred as a risk-management tool
@@ -44,3 +52,7 @@ The Salomon preferred represents Buffett's willingness to use convertible prefer
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — RJR Nabisco involvement; Gutfreund admiration reinforced
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — convertible preferred template for Gillette/USAir/Champion
+
+[^4]: [1991 Letter](../sources/buffett-letter-1991.md) — Buffett appointed Interim Chairman August 1991
+
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — stepped down June 1992; Salomon record earnings; crisis team

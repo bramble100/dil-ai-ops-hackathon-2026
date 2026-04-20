@@ -1,7 +1,7 @@
 ---
 title: "Business Quality (Tailwinds vs. Headwinds)"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -141,6 +141,22 @@ Cigar butt investing — buying a business "at a price so low that there will be
 
 **[1988 Letter]** Auto insurance profitability compared to cereal: "The cereal maker's 'value added' — his secret recipe, in effect — protects his profit margins. The auto insurer's product, however, is a commodity." When Proposition 103 threatens to socialize auto insurance economics in California, it demonstrates how regulatory risk amplifies the commodity problem[^4].
 
+### Media Franchise Erosion (1990-1991)
+
+**[1990 Letter]** The 1990 letter marks the first explicit acknowledgment that franchise economics can permanently deteriorate. Newspapers, television, and magazines "will prove considerably less marvelous than I, the industry, or lenders thought." The cause: advertising dollars growing slowly, retailers shifting away from media advertising, and a proliferation of advertising channels. "Pricing power of ad vendors has diminished."
+
+**[1991 Letter]** Buffett sharpens the analysis into a precise franchise-vs-business test. An **economic franchise** requires all three: (1) the product is needed or desired; (2) customers see no close substitute; (3) no price regulation. A franchise "can tolerate mismanagement" — it is pricing-power in a bottle.
+
+A **business** earns exceptional profits only if it is the low-cost operator or if supply is tight (which doesn't last). A business "can be killed by poor management."
+
+The valuation consequence: "A few years ago the conventional wisdom held that a newspaper... would forever increase its earnings at 6% or so annually... One could then calculate that it was appropriate to pay a whopping $25 million for a property with current after-tax earnings of $1 million. Now change the assumption and posit that the $1 million represents 'normal earning power'... $1 million of earnings, discounted by the same 10%, translates to a $10 million valuation." A shift from franchise to business is a 60% haircut on intrinsic value with the same current earnings[^5].
+
+> "Gone are the days of bullet-proof franchises and cornucopian economics." — 1991 Letter
+
+### 20-Year See's Retrospective (1991)
+
+**[1991 Letter]** The ultimate proof of a great business: See's Candies cost $25M in 1972 (with $7M tangible net worth). By 1991, revenue was $196M, pre-tax earnings $42.4M, and the company still required only $25M of net worth — meaning all but $18M of the original $7M supplemented by reinvested earnings was distributed over 20 years. Cumulative pre-tax distribution: $410M. "We made significant money in certain common stocks because of the lessons we learned at See's"[^6].
+
 ## Connections
 
 - [Textile Operations](../case-studies/textile-operations.md) — the definitive negative case study
@@ -160,3 +176,7 @@ Cigar butt investing — buying a business "at a price so low that there will be
 [^3]: [1988 Letter](../sources/buffett-letter-1988.md) & [1989 Letter](../sources/buffett-letter-1989.md) — Coca-Cola investment
 
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — Proposition 103 and insurance as commodity
+
+[^5]: [1991 Letter](../sources/buffett-letter-1991.md) — franchise vs. business definition; media valuation math
+
+[^6]: [1991 Letter](../sources/buffett-letter-1991.md) — See's 20-year retrospective

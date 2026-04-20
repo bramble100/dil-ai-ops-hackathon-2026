@@ -110,3 +110,29 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 1989 | Sainted Seven Plus One: 57% return on average equity with no net leverage                           | Financial   | [Economic Goodwill](principles/economic-goodwill.md)               |
 | 1989 | Look-through earnings formalized: $212M unreported; ~$500M vs. $300M reported                       | Principles  | [Owner Earnings](principles/owner-earnings.md)                     |
 | 1989 | Book value $4,296.01/share (23.8% CAGR over 25 years); 44.4% YoY; net worth gain $1.515B            | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1990 | Wells Fargo: ~10% ($290M) purchased during bank-stock panic at <5x after-tax earnings                | Investment  | [Wells Fargo](entities/wells-fargo.md)                             |
+| 1990 | RJR Nabisco bonds: $440M position (high-yield, "fallen angel" quality analysis)                     | Investment  |                                                                    |
+| 1990 | Gillette preferred to be converted to common on April 1, 1991 (call announced)                     | Investment  | [Gillette](entities/gillette.md)                                   |
+| 1990 | Float cost framework articulated: $1.6B float at 1.6% cost vs. government bond yield                | Principles  | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 1990 | Media franchise erosion first identified — structural, not cyclical                                  | Principles  | [Business Quality](principles/business-quality.md)                 |
+| 1990 | Borsheim's sales up 18%; NFM $159M sales; See's record poundage                                     | Milestone   |                                                                    |
+| 1990 | Colman Mockler (Gillette CEO) dies in January                                                       | People      | [Gillette](entities/gillette.md)                                   |
+| 1990 | Book value $4,612.06/share (23.2% CAGR from 1964); 7.3% YoY — weakest since 1984                   | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1991 | H.H. Brown Shoe Company acquired (July 1); Frank Rooney CEO                                        | Acquisition | [H.H. Brown](entities/hh-brown.md)                                 |
+| 1991 | Gillette preferred converted to 24M shares of common on April 1                                    | Investment  | [Gillette](entities/gillette.md)                                   |
+| 1991 | Buffett elected Interim Chairman of Salomon (Aug 18) after Treasury auction scandal                 | Corporate   | [Salomon Inc](entities/salomon-inc.md)                             |
+| 1991 | Franchise vs. business three-test definition published                                              | Principles  | [Business Quality](principles/business-quality.md)                 |
+| 1991 | See's 20-year retrospective: $410M cumulative pre-tax distributed; $18M incremental capital         | Milestone   | [See's Candies](entities/sees-candies.md)                          |
+| 1991 | Fannie Mae omission revealed: failure to act cost ~$1.4B                                            | Mistakes    | [Capital Allocation](principles/capital-allocation.md)             |
+| 1991 | Book value $6,437.00/share (23.7% CAGR from 1964); 39.6% YoY — Coke/Gillette P/E expansion          | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 1992 | Buffett steps down as Interim Chairman of Salomon (June); record earnings under Maughan             | Corporate   | [Salomon Inc](entities/salomon-inc.md)                             |
+| 1992 | General Dynamics: 14% stake ($312.4M) built in one month; Bill Anders turnaround                   | Investment  | [General Dynamics](entities/general-dynamics.md)                   |
+| 1992 | Central States Indemnity acquired (82%); Kizer family; parallel to 1967 NICO acquisition           | Acquisition | [National Indemnity](entities/national-indemnity.md)               |
+| 1992 | H.H. Brown acquires Lowell Shoe Company ($90M sales; Nursemates line)                               | Acquisition | [H.H. Brown](entities/hh-brown.md)                                 |
+| 1992 | Mrs. B (age 99) returns: sells building/land to NFM; signs non-compete                              | People      | [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md)     |
+| 1992 | DCF growth-value synthesis: "value investing is redundant"                                          | Principles  | [Owner Earnings](principles/owner-earnings.md)                     |
+| 1992 | Stock-option expensing critique: "If options aren't compensation, what are they?"                   | Principles  | [Capital Allocation](principles/capital-allocation.md)             |
+| 1992 | Hurricane Andrew: $125M loss; combined ratio 114.8 for Berkshire insurance                          | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 1992 | Scott Fetzer record: $110M pre-tax on $116M equity; distributed >100% of earnings since 1986        | Milestone   | [Scott & Fetzer](entities/scott-fetzer.md)                         |
+| 1992 | GEICO market value: $2,226M (49x cost); split 5-for-1 (34.25M shares)                               | Milestone   | [GEICO](entities/geico.md)                                         |
+| 1992 | Book value $7,745.00/share (23.6% CAGR from 1964); 20.3% YoY; look-through earnings $604M           | Financial   | [Book Value](financials/book-value-per-share.md)                   |

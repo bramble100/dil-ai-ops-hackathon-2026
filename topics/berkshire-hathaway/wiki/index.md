@@ -25,35 +25,41 @@ updated: 2026-04-20
 - [1987 Letter](sources/buffett-letter-1987.md) - Mr. Market parable, Sainted Seven 57% ROE, permanent holdings designated, CEO capital allocation critique, Salomon preferred, portfolio insurance, debt philosophy (1987)
 - [1988 Letter](sources/buffett-letter-1988.md) - Coca-Cola $592.5M, arbitrage framework, EMT demolished, "favorite holding period is forever," Sainted Seven 67% ROE, Borsheim's announced, GAAP manifesto (1988)
 - [1989 Letter](sources/buffett-letter-1989.md) - "Mistakes of First 25 Years," institutional imperative, cigar butt critique, Gillette/USAir/Champion preferreds, zero-coupon takedown, Rip Van Winkle tax, CAT reinsurance, 44.4% gain (1989)
+- [1990 Letter](sources/buffett-letter-1990.md) - Look-through earnings $590M, Wells Fargo purchase during bank panic, junk bond demolition, float cost framework, media erosion identified (1990)
+- [1991 Letter](sources/buffett-letter-1991.md) - H.H. Brown acquired, See's 20-year $410M retrospective, franchise 3-test definition, Salomon scandal/Buffett Interim Chairman, Fannie Mae omission (1991)
+- [1992 Letter](sources/buffett-letter-1992.md) - DCF/growth-value synthesis, General Dynamics arbitrage-to-conviction, stock-option expensing critique, Central States Indemnity, Mrs. B returns at 99 (1992)
 
 ## Principles
 
-- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark (13 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Look-through earnings; definitive formula (a+b−c); EBDIT critique; Rip Van Winkle tax (11 sources)
-- [Four Filters](principles/four-filters.md) - Stock selection; arbitrage framework; EMT demolition; cigar butt vs wonderful company; convertible preferreds (10 sources)
-- [Business Quality](principles/business-quality.md) - Tailwinds vs headwinds; cockroach theory; one-foot hurdles; Coca-Cola franchise archetype (13 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Rejecting underpriced business; "underwriting cycle" debunked; CAT reinsurance $250M (13 sources)
+- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark (16 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Look-through earnings; definitive formula (a+b−c); EBDIT critique; DCF/growth-value synthesis (14 sources)
+- [Four Filters](principles/four-filters.md) - Stock selection; arbitrage framework; EMT demolition; cigar butt vs wonderful company; convertible preferreds (13 sources)
+- [Business Quality](principles/business-quality.md) - Tailwinds vs headwinds; franchise 3-test definition; media erosion; See's 20-year retrospective (16 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Rejecting underpriced business; float cost framework; Hurricane Andrew; Ajit Jain (16 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - Misery index, tapeworm, Rip Van Winkle tax advantage, trade deficit, fiscal policy (9 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Owner's Manual, permanent holdings, convertible preferred strategy, errors of omission, AAA rating (13 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Owner's Manual, permanent holdings, convertible preferred strategy, errors of omission, stock-option critique (16 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Ben Graham's allegory; EMT demolished; double-dip over; "favorite holding period is forever" (4 sources)
+- [Mr. Market](principles/mr-market.md) - Ben Graham's allegory; EMT demolished; Wells Fargo panic purchase; slugging percentage (7 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations: inertia, project absorption, leader ratification, peer imitation (1 source)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - Low-cost auto insurer; Prop 103 threat; permanent holding; 23:1 return by 1989 (13 sources)
-- [National Indemnity](entities/national-indemnity.md) - Core insurance; CAT reinsurance $250M capacity; Ajit Jain (13 sources)
-- [See's Candies](entities/sees-candies.md) - Premium chocolate; record 25.1M lbs (1988); 8% increase 1989; Sainted Seven Plus One (13 sources)
-- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; "wonderful businesses at fair prices" attribution; S&L crisis letter (10 sources)
-- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Mrs. B departs at 96; carpet dept 75.3% share; Dillard's won't compete (7 sources)
-- [Buffalo Evening News](entities/buffalo-evening-news.md) - #1 penetration; 50% news hole; seventh consecutive profit record; Stan Lipsey +5% margin (8 sources)
-- [Capital Cities/ABC](entities/capital-cities-abc.md) - $517.5M cost → $1,692M market (3.3x by 1989); permanent holding (5 sources)
-- [Scott & Fetzer](entities/scott-fetzer.md) - World Book in Soviet Union; Campbell Hausfeld doubled; Sainted Seven Plus One (5 sources)
-- [Fechheimer Bros.](entities/fechheimer.md) - Uniform manufacturer; five Heldmans; Sainted Seven Plus One member (4 sources)
-- [Salomon Inc](entities/salomon-inc.md) - $700M convertible preferred; template for Gillette/USAir/Champion (3 sources)
-- [Coca-Cola](entities/coca-cola.md) - $1,024M cost by 1989; 23.35M shares; "favorite holding period is forever"; 52-year delay story (2 sources)
-- [Borsheim's](entities/borsheims.md) - 80% acquired 1989; Friedman family; NFM-identical model; no audit, one-page contract (2 sources)
-- [Gillette](entities/gillette.md) - $600M convertible preferred; only preferred where Buffett claims business understanding (1 source)
+- [GEICO](entities/geico.md) - Low-cost auto insurer; negative-cost float; 49:1 return by 1992; $2,226M market value (16 sources)
+- [National Indemnity](entities/national-indemnity.md) - Core insurance; CAT reinsurance; Central States Indemnity acquired 1992 (16 sources)
+- [See's Candies](entities/sees-candies.md) - $410M cumulative distributed; 20-year retrospective; $42.4M pre-tax (16 sources)
+- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; "wonderful businesses at fair prices" attribution; permanent two-person partnership (13 sources)
+- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Mrs. B returns at 99; signs non-compete; $159M sales (1990) (10 sources)
+- [Buffalo Evening News](entities/buffalo-evening-news.md) - Media franchise erosion; $47.9M pre-tax (1992); Stan Lipsey outperforms industry (11 sources)
+- [Capital Cities/ABC](entities/capital-cities-abc.md) - $517.5M cost → $1,523.5M (1992); secular media decline identified (8 sources)
+- [Scott & Fetzer](entities/scott-fetzer.md) - $110M pre-tax on $116M equity (1992); distributed >100% of earnings since 1986 (8 sources)
+- [Fechheimer Bros.](entities/fechheimer.md) - $13.7M pre-tax (1992 record); clean Heldman succession (7 sources)
+- [Salomon Inc](entities/salomon-inc.md) - Buffett Interim Chairman Aug 1991–Jun 1992; $700M preferred at $756M valuation (6 sources)
+- [Coca-Cola](entities/coca-cola.md) - $3,911M market value (1992); 93.4M shares; $82M look-through; P/E re-rating drove 1991 (5 sources)
+- [Borsheim's](entities/borsheims.md) - 18% sales growth (1990); ~#2 US fine jewelry by volume; 18% operating cost ratio (3 sources)
+- [Gillette](entities/gillette.md) - Preferred converted to 24M common shares (Apr 1991); $1,365M market value (1992) (4 sources)
+- [Wells Fargo](entities/wells-fargo.md) - $290M for ~10%; Carl Reichardt/Paul Hazen; 20% ROE; contrarian bank-panic purchase (3 sources)
+- [H.H. Brown](entities/hh-brown.md) - Acquired Jul 1991; leading N. American work shoe; $7,800 base + profit-share comp model (2 sources)
+- [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 
 ## Case Studies
 
@@ -62,7 +68,7 @@ updated: 2026-04-20
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $4,296.01 (1989), 23.8% CAGR; double-dip over (13 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $7,745.00 (1992), 23.6% CAGR; scale drag deepens (16 sources)
 
 ## Standalone Pages
 

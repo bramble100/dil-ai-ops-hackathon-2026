@@ -1,7 +1,7 @@
 ---
 title: "Owner Earnings (Look-Through Earnings)"
 type: principle
-sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1978, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -88,6 +88,28 @@ Buffett formally introduces the "look-through" approach: "In our view, Berkshire
 
 **[1989 Letter]** A mathematical demonstration of why long-term holding compounds after-tax returns: $1 doubling annually for 20 years with annual tax = ~$25,250 after-tax; $1 invested once that doubles 20 times = ~$692,000 after-tax. The 27:1 difference arises solely from the timing of tax payments. The deferred tax liability on unrealized gains is effectively "an interest-free loan from the U.S. Treasury."
 
+### Look-Through Earnings Formalized (1990)
+
+**[1990 Letter]** Buffett formally quantifies and names the concept. 1990 look-through earnings: ~$590M = $371M reported operating + $250M investee retained earnings − $30M hypothetical tax. The benchmark: look-through earnings must grow ~15% annually for intrinsic value to keep pace.
+
+The GAAP absurdity illustrated: Capital Cities/ABC earned $83M attributable to Berkshire in 1990, yet only ~$530K was recorded in GAAP earnings. "The residual $82 million-plus stayed with Cap Cities as retained earnings, which work for our benefit but go unrecorded on our books."
+
+On Coke's buybacks: "When Coca-Cola uses retained earnings to repurchase its shares, the company increases our percentage ownership in what I regard to be the most valuable franchise in the world... we would not be able to increase our proportionate ownership to the degree that Coke can, acting for us. If this less efficient procedure were followed, however, Berkshire would report far greater 'earnings.'"[^4]
+
+### Look-Through Earnings Extended (1991)
+
+**[1991 Letter]** Look-through earnings declined 14% in 1991 despite 39.6% book value growth — illustrating that look-through earnings are the better indicator of economic progress. Two structural forces hit simultaneously: Gillette preferred conversion reduced look-through by ~$45M; media earnings declined.
+
+Buffett extends the concept to individual portfolio management: "investors can benefit by focusing on their own look-through earnings" — sum the underlying earnings attributable to all portfolio holdings. "The goal of each investor should be to create a portfolio (in effect, a 'company') that will deliver him or her the highest possible look-through earnings a decade or so from now."
+
+### The DCF Framework (1992)
+
+**[1992 Letter]** Buffett explicitly connects look-through earnings to the universal valuation equation: "The value of any stock, bond or business today is determined by the cash inflows and outflows — discounted at an appropriate interest rate — that can be expected to occur during the remaining life of the asset." The formula is identical for stocks and bonds; the difference is that equity analysts must estimate future "coupons" themselves[^5].
+
+The growth-value false dichotomy demolished: "growth is always a component in the calculation of value, constituting a variable whose importance can range from negligible to enormous and whose impact can be negative as well as positive." Growth benefits investors only when incremental returns are "enticing" — otherwise growth hurts. "Investors have regularly poured money into the domestic airline business to finance profitless (or worse) growth."
+
+**[1992 Letter]** Look-through earnings: $604M; target $1.8B by year 2000 to maintain 15% growth trajectory.
+
 ## Connections
 
 - [Return on Equity](return-on-equity.md) — owner earnings reveal what ROE calculations miss
@@ -100,3 +122,7 @@ Buffett formally introduces the "look-through" approach: "In our view, Berkshire
 [^2]: [1981 Letter](../sources/buffett-letter-1981.md) — "$35 million in 1982"
 
 [^3]: [1980 Letter](../sources/buffett-letter-1980.md) — "Periodically you even will receive some frosting on the cake"
+
+[^4]: [1990 Letter](../sources/buffett-letter-1990.md) — look-through earnings formalized; Coke buyback as retained earnings proxy
+
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — John Burr Williams DCF equation; growth-value synthesis

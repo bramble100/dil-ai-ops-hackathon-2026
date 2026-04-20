@@ -2,7 +2,7 @@
 title: "Capital Cities/ABC"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, media, 1985]
@@ -45,6 +45,14 @@ The deal also demonstrates the value of [Four Filters](../principles/four-filter
 
 **[1989 Letter]** Market value rises to $1,692.4M on $517.5M cost — a 3.3x return. Capital Cities is part of the "accounting schizophrenia" discussion: GAAP reports only dividends received from this <20% holding, radically understating Berkshire's economic interest in the company's earnings. Berkshire's share of Capital Cities' actual retained earnings dwarfs the reported dividend income[^5].
 
+### 1990-1992 Performance
+
+**[1990 Letter]** Market value: $1,377.4M on $517.5M cost. Ownership 17.9%. Look-through earnings contribution: $85M from Berkshire's share of undistributed Cap Cities earnings.
+
+**[1991 Letter]** Market value: $1,300.5M on $517.5M cost — the rare year where book value declined somewhat. Ownership 18.1%. Look-through: $61M (down from $85M in 1990). The decline in media earnings was flagged by Buffett as "sure to continue" — both secular and cyclical forces were working against media economics. Buffett singled out Cap Cities alongside Washington Post as facing permanent, not just cyclical, erosion: "The forces are so powerful... that even outstanding management cannot fully offset them."[^6]
+
+**[1992 Letter]** Market value: $1,523.5M on $517.5M cost — a 2.9x return. Ownership 18.2%. Look-through: $70M. Despite the media franchise erosion theme, Cap Cities/ABC management continues to deliver outstanding results — Murphy and Burke's cost discipline offsetting revenue headwinds. The total look-through contribution from Cap Cities over the holding period has grown well beyond the $517.5M cost[^7].
+
 ## Sources
 
 [^1]: [1985 Letter](../sources/buffett-letter-1985.md) — Capital Cities acquisition details, Murphy/Burke praise, voting arrangement
@@ -52,3 +60,5 @@ The deal also demonstrates the value of [Four Filters](../principles/four-filter
 [^3]: [1987 Letter](../sources/buffett-letter-1987.md) — $1,035M market value (2x cost), Murphy/Burke "couldn't be in better hands"
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — $1,086.8M market value; management praise
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — $1,692.4M market value; accounting schizophrenia
+[^6]: [1991 Letter](../sources/buffett-letter-1991.md) — $1,300.5M market value; media secular decline; $61M look-through
+[^7]: [1992 Letter](../sources/buffett-letter-1992.md) — $1,523.5M market value; 18.2% ownership; $70M look-through

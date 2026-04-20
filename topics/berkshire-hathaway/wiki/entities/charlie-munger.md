@@ -2,7 +2,7 @@
 title: "Charlie Munger"
 type: entity
 entity_kind: person
-sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -44,6 +44,14 @@ In these early letters, Munger appears primarily as a named partner rather than 
 
 **[1989 Letter]** On the S&L crisis, Charlie authors his own letter to Wesco Financial shareholders — a "masterful analysis" recommended by Buffett for its candor about the regulatory and political failures enabling the debacle.
 
+### 1990-1992
+
+**[1990 Letter]** Buffett recommends Charlie's letter in the Wesco annual report for "the clearest and most insightful discussion of the banking industry that I have seen" — Charlie's comparative analysis of banking during the junk-bond era.
+
+**[1991 Letter]** "Charlie Munger, Berkshire's Vice Chairman, and I have set a goal of attaining a 15% average annual increase in Berkshire's intrinsic value." With Buffett temporarily at Salomon, Munger's steady presence at the partnership ensured continuity at the operating company level.
+
+**[1992 Letter]** Buffett reaffirms the two-person partnership as the permanent organizational model: "Munger, Berkshire's Vice Chairman and my partner, and I..." Their combined judgment on valuation — explicitly stated as the basis for determining "fair value" of non-marketable securities — is the only decision-making body that matters at the parent level[^3].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — co-architect of Berkshire's allocation philosophy
@@ -51,3 +59,4 @@ In these early letters, Munger appears primarily as a named partner rather than 
 [^1]: [1981 Letter](../sources/buffett-letter-1981.md) — "Charlie and I work as partners"
 
 [^2]: [1989 Letter](../sources/buffett-letter-1989.md) — "wonderful businesses at fair prices" attribution; bacteria analogy; S&L crisis letter
+[^3]: [1992 Letter](../sources/buffett-letter-1992.md) — permanent two-person partnership; co-determines fair value of non-marketable securities

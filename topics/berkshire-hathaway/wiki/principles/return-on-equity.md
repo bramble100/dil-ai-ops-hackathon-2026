@@ -1,7 +1,7 @@
 ---
 title: "Return on Equity"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -59,6 +59,9 @@ The college education analogy: identical spending on two children produces ident
 | 1987       | $2,477.47        | 23.1%          |
 | 1988       | $2,974.52        | 23.0%          |
 | 1989       | $4,296.01        | 23.8%          |
+| 1990       | $4,612.06        | 23.2%          |
+| 1991       | $6,437.00        | 23.7%          |
+| 1992       | $7,745.00        | 23.6%          |
 
 **[1983 Letter]** "Considering our present size, nothing close to this rate of return can be sustained. Those who believe otherwise should pursue a career in sales, but avoid one in mathematics."
 
@@ -83,6 +86,18 @@ The college education analogy: identical spending on two children produces ident
 **[1989 Letter]** Carl Sagan bacteria analogy: exponential growth must self-destruct. "From Berkshire's present base of $4.9 billion in net worth, we will find it much more difficult to average 15% annual growth in book value than we did to average 23.8% from the $22 million we began with." Additionally, the "double-dip" is over: (1) exceptional intrinsic value gains from portfolio companies, plus (2) market re-rating their stock prices upward. "Our 'catch-up' rewards have been realized, which means we'll have to settle for a single-dip in the future."
 
 **[1989 Letter]** Sainted Seven Plus One (Borsheim's added): 57% return on average equity with no net leverage — cash equivalents matched funded debt.
+
+### Scale Drag Deepens (1990-1992)
+
+**[1990 Letter]** Book value grew only 7.3% in 1990 despite strong underlying business performance — because the four permanent holdings showed little change in market value. Berkshire's goal remains 15% average annual gain in intrinsic value, but "this goal becomes ever more difficult to reach as our equity base, now $5.3 billion, increases."
+
+**[1991 Letter]** A 39.6% gain in 1991 was driven almost entirely by P/E expansion on Coca-Cola and Gillette — "a phenomenon not apt to be repeated." These two stocks accounted for ~$1.6B of $2.1B net worth growth. The scale problem stated precisely: at $7.4B equity, a $370M idea contributes the same percentage-point gain that a $1M idea contributed when equity was $20M.
+
+**[1992 Letter]** Berkshire is "virtually certain that the return over the next decade from an investment in the S&P index will be far less than that of the past decade, and we are dead certain that the drag exerted by Berkshire's expanding capital base will substantially reduce our historical advantage relative to the index." Look-through earnings must grow from $604M (1992) to $1.8B by 2000 to sustain 15%[^3].
+
+### Non-Financial Group ROE Benchmark
+
+**[1990 Letter]** Non-insurance operations: 51% after-tax ROE in 1990 (vs. ~20th in 1989 Fortune 500 adjusted for leverage). Remarkable because achieved with no financial leverage — return on assets would place the group in Fortune's top ten. Further, these are ordinary industries (furniture, candy, vacuum cleaners, steel warehousing) — not cigarettes or TV stations with structural oligopoly economics.
 
 ## Connections
 

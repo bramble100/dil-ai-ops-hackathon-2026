@@ -2,7 +2,7 @@
 title: "National Indemnity Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -42,6 +42,12 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 
 **[1989 Letter]** Combined ratio 110.4 (estimated). The "underwriting cycle" is formally debunked — insurance has no rhythmic quality; profitability tracks the commodity economics of capacity and willingness to write. After Hurricane Hugo ($4.2B industry losses) and the San Francisco earthquake ($2B+), Berkshire enters the catastrophe reinsurance market with $250M per-event capacity — the largest single-event exposure any company is willing to absorb on its own account. Ajit Jain, operating from a single room, handles all large reinsurance deals. "We will accept more reinsurance risk for our own account than any other company"[^5].
 
+### 1990-1992 Performance
+
+**[1990 Letter]** Berkshire's insurance group held ~$1.6B in float at a 1.6% cost — exceptional given that float at many competitors costs more than government bond yields. National Indemnity's commercial auto and general liability operations (Don Wurster) contributed to the below-government-rate result. GEICO's even-lower cost float ($1.1B, negative-cost) described approvingly.
+
+**[1992 Letter]** Don Wurster's commercial auto and general liability, plus Rod Eldred's homestate operation, both recorded underwriting profits in 1992 — float at negative cost. The bulk of float comes from Ajit Jain's large transactions. Buffett: "Charlie and I continue to like the insurance business, which we expect to be our main source of earnings for decades to come. The industry is huge; in certain sectors we can compete world-wide; and Berkshire possesses an important competitive advantage." Berkshire acquired Central States Indemnity (Omaha, 82% stake) from the Kizer family — Jack Ringwalt parallel explicitly noted: "National Indemnity was an outstanding business when we bought it and continued to be under Jack's management. Hollywood has had good luck with sequels; I believe we, too, will."[^6]
+
 ## Connections
 
 - [Underwriting Discipline](../principles/underwriting-discipline.md) — National Indemnity is the living example
@@ -57,3 +63,4 @@ National Indemnity is Berkshire's proof that insurance can be a great business w
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — combined ratio 104; Fireman's Fund contract expiring
 
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — CAT reinsurance $250M capacity; Ajit Jain; underwriting cycle debunked
+[^6]: [1992 Letter](../sources/buffett-letter-1992.md) — Central States Indemnity acquired; negative-cost float from Wurster and Eldred

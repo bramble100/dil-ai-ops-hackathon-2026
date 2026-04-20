@@ -1,7 +1,7 @@
 ---
 title: "Underwriting Discipline"
 type: principle
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -141,12 +141,33 @@ Berkshire offers $250M per-event capacity — the ability to absorb a single cat
 
 The Fireman's Fund seven-year contract expires August 1989. Premium volume declines further as Berkshire refuses to replace it at inadequate prices.
 
-### Combined Ratio Track Record Extended (1988-1989)
+### Float Cost Framework Articulated (1990)
+
+**[1990 Letter]** Buffett provides the clearest statement of how to evaluate an insurance operation: compare the cost of float to government bond yields. Float = loss reserves + loss adjustment reserves + unearned premium reserves − agents' balances − prepaid acquisition costs − deferred charges. Cost of float = underwriting loss / average float.
+
+1990: $1.637B float; $26.65M underwriting loss; 1.63% cost vs. 8.24% long-term government bonds. Long-term track record: 19 of 24 years the cost of float was below the government's rate[^4].
+
+"Figuring a cost of funds for an insurance business allows anyone analyzing it to determine whether the operation has a positive or negative value for shareholders. If this cost... is higher than that applying to alternative sources of funds, the value is negative. If the cost is lower, the value is positive — and if the cost is *significantly* lower, the insurance business qualifies as a very valuable asset."
+
+Long-tail business caveat: "aiming for [combined ratio of] 110 - 115 is business suicide" — the "fat lady has yet to gargle" until all long-tail claims are settled, often decades later.
+
+### Super-Cat Expanded and Hurricane Andrew (1991-1992)
+
+**[1991 Letter]** Super-cat premiums ~$100M annually; targeted 90% payout ratio over long term, with huge annual swings. Japan typhoon (September 1991) — largest 1991 catastrophe at $4-5B industry loss, exceeding Hurricane Hugo. Berkshire estimated ~$11M underwriting profit on super-cat in 1991.
+
+**[1992 Letter]** Hurricane Andrew — largest insured loss in history; ~$125M Berkshire super-cat loss (roughly equal to annual super-cat premium). Net result: ~$2M overall loss on super-cat for the year. "It's only when the tide goes out that you learn who's been swimming naked" — Andrew exposed that many companies' reinsurance protection was "far from adequate."
+
+Ajit Jain elevated: "who runs our reinsurance operation, is simply the best in this business. In combination, these strengths guarantee that we will stay a major factor in the super-cat business so long as prices are appropriate."[^5]
+
+### Combined Ratio Track Record Extended (1988-1992)
 
 | Year | Combined Ratio |
 | ---- | -------------- |
 | 1988 | 104            |
 | 1989 | 110.4 (est.)   |
+| 1990 | 109.8 (est.)   |
+| 1991 | 109.1 (est.)   |
+| 1992 | 114.8 (est.; includes ~4pts from Andrew) |
 
 ## Key People
 
@@ -170,3 +191,7 @@ The Fireman's Fund seven-year contract expires August 1989. Premium volume decli
 [^2]: [1980 Letter](../sources/buffett-letter-1980.md) — asset maintenance underwriting
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — CAT reinsurance strategy; Ajit Jain; underwriting cycle debunked
+
+[^4]: [1990 Letter](../sources/buffett-letter-1990.md) — float cost framework; 24-year track record
+
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — Hurricane Andrew; Ajit Jain elevated; super-cat swimming naked

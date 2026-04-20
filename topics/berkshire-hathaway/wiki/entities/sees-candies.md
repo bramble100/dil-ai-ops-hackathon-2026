@@ -2,7 +2,7 @@
 title: "See's Candies"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -60,6 +60,28 @@ The customer letter anecdote: two eliminated candy varieties triggered "hundreds
 
 **[1989 Letter]** Poundage increases another 8% over 1988's record. Part of the "Sainted Seven Plus One" group achieving 57% return on average equity. See's continues to generate cash far in excess of its reinvestment needs, funding Berkshire's acquisition and investment activities elsewhere[^3].
 
+### 1990 Performance
+
+**[1990 Letter]** Volume reached a new physical record, but barely. After the Kuwait invasion, mall traffic in the West fell and Christmas poundage slipped. Dollar sales up due to 5% price increase; profit margins improved. Customer loyalty demonstrated by Albuquerque store anecdote: 263 customers sent letters and calls to protest a landlord's lease terms; their uprising forced a satisfactory deal. Chuck Huggins personally thanked each by name in a newspaper ad[^4].
+
+NFM synergy: a See's cart placed in Nebraska Furniture Mart "sold more candy than that moved by some of the full-fledged stores See's operates in California" — Buffett called it "Berkshire's first synergistic explosion."
+
+### 20-Year Retrospective (1991)
+
+**[1991 Letter]** The definitive See's teaching moment. The 20-year scorecard:
+- Sales: $29M (1972) → $196M (1991)
+- Pre-tax profits: $4.2M (1972) → $42.4M (1991)
+- Net worth required: $7M (1972) → $25M (1991) — only $18M of additional capital needed over 20 years
+- Cumulative pre-tax profits distributed to Berkshire/Blue Chip: $410M
+
+"We had one important insight: We saw that the business had untapped pricing power." Finding Chuck Huggins instantly was the second piece of luck. The compensation arrangement — conceived in five minutes, never written up — remains unchanged in 20 years[^5].
+
+Pre-tax profit margin 1991: record 21.6%; volume down 4% in pounds (California recession + 7-8.5% snack food tax).
+
+### 1992
+
+**[1992 Letter]** $42.4M pre-tax (flat from 1991). Part of the non-insurance group that remains core Berkshire cash generation.
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — archetype of a great business
@@ -73,3 +95,7 @@ The customer letter anecdote: two eliminated candy varieties triggered "hundreds
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — record 25.1M lbs; 90% December profit
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — 8% poundage increase; Sainted Seven Plus One
+
+[^4]: [1990 Letter](../sources/buffett-letter-1990.md) — customer loyalty; NFM synergy; 1990 record
+
+[^5]: [1991 Letter](../sources/buffett-letter-1991.md) — 20-year retrospective; $410M cumulative distributed

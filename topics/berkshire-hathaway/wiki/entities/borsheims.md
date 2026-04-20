@@ -2,7 +2,7 @@
 title: "Borsheim's"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1988, buffett-letter-1989, buffett-letter-1990]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -35,6 +35,10 @@ Borsheim's is the second Blumkin-family acquisition and validates the Berkshire 
 
 Borsheim's joins the operating group as the "Sainted Seven Plus One" — raising the non-insurance collection to eight businesses, all with economics ranging from "good to superb" and managers ranging from "superb to superb."
 
+## 1990 Performance
+
+**[1990 Letter]** Sales up 18% — "that's both a same-stores and all-stores percentage, since Borsheim's operates but one establishment." Believed to be the highest-volume fine jewelry retailer in the US except for Tiffany's New York store. Operating costs ~18% of sales vs. ~40% at typical competitors ("Included in the 18% are occupancy and buying costs"). Mail-order business reached a record ~1,500 assortments sent — from under $1,000 to hundreds of thousands of dollars each — with zero losses from customer dishonesty. Ike's 89-year-old mother Rebecca still in the store most afternoons, Wall Street Journal in hand. "What works with diapers works with diamonds."[^3]
+
 ## Connections
 
 - [Nebraska Furniture Mart](nebraska-furniture-mart.md) — identical family background and business model
@@ -43,3 +47,4 @@ Borsheim's joins the operating group as the "Sainted Seven Plus One" — raising
 
 [^1]: [1988 Letter](../sources/buffett-letter-1988.md) — acquisition announced; Friedman family history
 [^2]: [1989 Letter](../sources/buffett-letter-1989.md) — first-year results; five-point success formula
+[^3]: [1990 Letter](../sources/buffett-letter-1990.md) — 18% sales growth; #2 US fine jewelry by volume; 18% cost ratio

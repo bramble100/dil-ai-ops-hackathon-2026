@@ -2,7 +2,7 @@
 title: "Fechheimer Bros. Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -37,6 +37,12 @@ One limitation: size. Utilizing only ~2% of Berkshire's net worth, Fechheimer wa
 
 **[1989 Letter]** Part of the "Sainted Seven Plus One." The Heldman family continues building the uniform business. Fechheimer validates the Berkshire acquisition template: family management, no corporate interference, compounding returns within the subsidiary[^3].
 
+**[1990 Letter]** George Heldman (69) retired, with Bob, Fred, Gary and Roger Heldman carrying on. "I tried to talk him out of it but he had one irrefutable argument: with four other Heldmans to carry on, he was leaving us with an abundance of managerial talent." Operating performance improved considerably as integration problems from the 1988 acquisition moderated. Several unusual items kept reported earnings flat despite improved operations. Retail operation now has 42 stores in 22 states[^4].
+
+**[1991 Letter]** Pre-tax earnings: $12.9M (vs. $12.5M in 1990). Steady performance.
+
+**[1992 Letter]** Pre-tax earnings: $13.7M — another record. The four-Heldman management team continues to perform well, validating George's retirement as a clean succession rather than a disruption[^5].
+
 ## Connections
 
 - [Capital Allocation](../principles/capital-allocation.md) — the annual-report acquisition ad in action
@@ -47,3 +53,5 @@ One limitation: size. Utilizing only ~2% of Berkshire's net worth, Fechheimer wa
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — acquisition integrated; five Heldmans
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member
+[^4]: [1990 Letter](../sources/buffett-letter-1990.md) — George Heldman retires; 42 retail stores; improved integration
+[^5]: [1992 Letter](../sources/buffett-letter-1992.md) — $13.7M pre-tax; record earnings; clean succession confirmed

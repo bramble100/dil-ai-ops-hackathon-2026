@@ -2,7 +2,7 @@
 title: "Nebraska Furniture Mart"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -58,6 +58,18 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 
 **[1989 Letter]** Mrs. B, age 96, departs after a carpet department dispute with grandsons. She opens a competing store, Mrs. B's Warehouse, across the street. The carpet department under the Blumkin sons reaches 75.3% market share in Omaha — demonstrating that the NFM business model survives individual personalities, even one as formidable as Mrs. B. Buffett notes the departure with evident sadness but without rancor: the family dynamics illustrate both the strengths and tensions of multi-generational family businesses[^2].
 
+### 1990
+
+**[1990 Letter]** Sales $159M, up 4% from 1989. Estimated to do close to double the volume of any other home furnishings store in the US. Operating costs 15% vs. Levitz's 40%. Des Moines consumer survey: NFM ranked #3 despite being 130 miles away from the other 19 competitors. See's candy cart in the store becomes "Berkshire's first synergistic explosion."
+
+### 1991
+
+**[1991 Letter]** NFM's 1991 results shown in the earnings table. Sales and earnings continued[^3].
+
+### Mrs. B Returns (1992)
+
+**[1992 Letter]** After a three-year competition, Mrs. B (age 99) sold her building and land to NFM and agreed to continue running her carpet business at its current location. NFM will set up adjacent shop in that building. Buffett: "I am delighted that Mrs. B has again linked up with us... partner is better." This time, Mrs. B offered to sign a non-compete agreement — which Buffett accepted immediately, having been "incautious on this point when she was 89." Mrs. B signing a non-compete at 99 "merely adds one more" entry to her Guinness Book of World Records[^4].
+
 ## Connections
 
 - [Business Quality](../principles/business-quality.md) — NFM as a wonderful business: cost advantage, volume dominance, pricing power through value
@@ -68,3 +80,7 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 [^1]: [1983 Letter](../sources/buffett-letter-1983.md) — NFM acquisition
 
 [^2]: [1989 Letter](../sources/buffett-letter-1989.md) — Mrs. B departure; carpet department 75.3% market share
+
+[^3]: [1990 Letter](../sources/buffett-letter-1990.md) — $159M sales; Des Moines consumer survey; NFM-See's synergy
+
+[^4]: [1992 Letter](../sources/buffett-letter-1992.md) — Mrs. B returns; non-compete at 99

@@ -2,7 +2,7 @@
 title: "Scott & Fetzer"
 type: entity
 entity_kind: "company"
-sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989]
+sources: [buffett-letter-1985, buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
 created: 2026-04-20
 updated: 2026-04-20
 tags: [acquisition, diversified, 1985]
@@ -45,6 +45,14 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 
 **[1989 Letter]** Part of the "Sainted Seven Plus One" group earning 57% return on average equity. Ralph Schey praised again as an extraordinary operator: the businesses continue to earn high returns while requiring minimal additional capital. Scott Fetzer remains the centerpiece demonstration that Berkshire's acquisition model works — excellent economics, excellent management, no interference from headquarters[^5].
 
+## 1990-1992 Operations
+
+**[1990 Letter]** Now 19 businesses. Finance subsidiary earned a record $12.2M pre-tax. "Were Scott Fetzer an independent company, it would rank close to the top of the Fortune 500 in terms of return on equity, although it is not in businesses that one would expect to be economic champs." World Book earnings improved despite slight unit volume decline; decentralization costs moderated. Kirby unit volume grew substantially thanks to the new Generation 3 vacuum cleaner — sold well internationally (20% sales gain). Campbell Hausfeld hit record sales of $109M[^6].
+
+**[1991 Letter]** Earnings continue at an exceptional level. Ralph Schey named among the small cadre of star operating managers — alongside the Blumkins, Friedmans, Huggins, Lipsey, and Heldmans — who run their businesses so well that Buffett can spend months away at Salomon without Berkshire skipping a beat.
+
+**[1992 Letter]** Record pre-tax earnings of $110M on only $116M of equity capital — a near-100% pre-tax return on equity with essentially no leverage. "Ralph just keeps on outdoing himself." Over the seven years since acquisition, Scott Fetzer has distributed more than 100% of its earnings to Berkshire while concurrently increasing its earnings stream — a textbook demonstration of owner earnings in practice. Inventory and fixed assets are now significantly smaller than at acquisition[^7].
+
 ## Connections
 
 - [Owner Earnings](../principles/owner-earnings.md) — Company O vs N is the definitive owner earnings demonstration
@@ -58,3 +66,5 @@ The 1986 appendix uses Scott Fetzer as the centerpiece demonstration of purchase
 [^3]: [1987 Letter](../sources/buffett-letter-1987.md) — Sainted Seven member, 10% earnings growth, World Book revised edition
 [^4]: [1988 Letter](../sources/buffett-letter-1988.md) — Campbell Hausfeld doubled; Kirby exports doubled; World Book in Soviet Union
 [^5]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One; Ralph Schey praise
+[^6]: [1990 Letter](../sources/buffett-letter-1990.md) — record finance earnings; Generation 3 Kirby; Campbell Hausfeld record sales
+[^7]: [1992 Letter](../sources/buffett-letter-1992.md) — $110M pre-tax on $116M equity; distributed >100% of earnings since 1986
