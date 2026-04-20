@@ -22,11 +22,13 @@ Berkshire's story and financials serve as the living case study through which th
 ```yaml
 ---
 title: Page Title
-type: source | entity | principle | case-study | financial | question | overview
+type: source  # allowed: source | entity | principle | case-study | financial | question | overview
 sources: [buffett-letter-1977, buffett-letter-1990]
+source_path: "raw/articles/buffett-letter-YYYY.md"  # source summaries only
+source_original: "raw/assets/buffett-letter-YYYY.pdf"  # optional: binary original when source_path is a conversion
 created: 2026-04-19
 updated: 2026-04-19
-status: draft | complete
+status: draft  # allowed: draft | complete
 tags: [insurance, acquisition, philosophy]
 ---
 ```
