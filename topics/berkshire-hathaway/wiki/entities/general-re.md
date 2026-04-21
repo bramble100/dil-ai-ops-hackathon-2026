@@ -123,10 +123,21 @@ Buffett's personal confession: "I have cost you a lot of money by not moving imm
 
 [^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $526M underwriting profit; float $22.8B; Gen Re Securities 197 contracts/$409M cumulative/$5M final loss; "All's well that ends"
 
-## 2006: Vindication and Gen Re Securities Closed
+## 2009: Outstanding Year and 100% Cologne Re
 
-**[2006 Letter]** General Re posts **$526M underwriting profit** — its best year under Berkshire ownership — on $22,827M float. The turnaround from 1999's $1.4B loss is complete.
+**[2009 Letter]** General Re has an "outstanding year" under Tad Montross's leadership. Float: $21.0B. Berkshire acquires the remaining shares to take **100% ownership of Cologne Re**, consolidating the global reinsurance platform.
 
-**Gen Re Securities wound down:** 197 contracts remaining (from 23,218 at wind-down start in early 2002). Cumulative pre-tax loss: $409M, with only $5M in 2006. Charlie: the $409M should have been labeled "Good Until Reached For" on the 2001 balance sheet. Buffett: "All's well that ends" (Shakespeare, slightly modified). Final appearance of Gen Re Securities in the annual report[^9].
+## 2010: Four Insurance Commandments
 
-[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $526M underwriting profit; float $22.8B; Gen Re Securities 197 contracts/$409M cumulative/$5M final loss; "All's well that ends"
+**[2010 Letter]** Tad Montross articulates the **four insurance commandments** that define General Re's discipline:
+
+1. Understand all exposures that might cause a policy to incur losses
+2. Conservatively assess the likelihood of any exposure actually causing a loss and the probable cost if it does
+3. Set a premium that, on average, will deliver a profit after both prospective loss costs and operating expenses are covered
+4. Be willing to walk away if the appropriate premium can't be obtained
+
+General Re's turnaround from the 1999-2001 crisis years to consistent profitability under Brandon and then Montross is one of the great corporate rehabilitations in insurance history[^10][^11].
+
+[^10]: [2009 Letter](../sources/buffett-letter-2009.md) — outstanding year; Tad Montross; 100% Cologne Re; float $21.0B
+
+[^11]: [2010 Letter](../sources/buffett-letter-2010.md) — four insurance commandments; continued excellence under Montross

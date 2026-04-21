@@ -317,3 +317,26 @@ The divergence tells the whole Berkshire story: as the company grows, the invest
 Operating earnings power: manufacturing/service/retail generated $5.6B pre-tax; utilities $2.2B; finance $1.2B — this recurring stream explains why a 37% stock market decline translates to only a 9.6% book value decline[^17].
 
 [^17]: [2007 Letter](../sources/buffett-letter-2007.md) & [2008 Letter](../sources/buffett-letter-2008.md) — two-yardstick sharpened; investment deceleration / earnings acceleration; operating earnings cushion in crisis; −9.6% vs. S&P −37%
+
+### Three Pillars of Intrinsic Value (2010)
+
+**[2010 Letter]** Buffett provides the most structured articulation of how to value Berkshire — the **three-pillar framework:**
+
+1. **Investments** at market value: **$158B** (including cash equivalents, bonds, and equities)
+2. **Non-insurance pre-tax earnings per share:** **$5,926** (21.0% CAGR over 40 years)
+3. **Retained-earnings deployment efficacy** — the multiplier: how well management converts each dollar of retained earnings into more than a dollar of market value
+
+The first two pillars have complementary long-term trajectories:
+
+| Metric                         | Per-Share Value | 40-Year CAGR |
+| ------------------------------ | --------------- | ------------ |
+| Investments (per share)        | $94,730         | 19.9%        |
+| Non-insurance pre-tax earnings | $5,926          | 21.0%        |
+
+The investment column's growth rate is decelerating while operating earnings accelerate — confirming the structural transformation from investment vehicle to operating conglomerate. BNSF's addition (~40% increase in normal pre-tax earning power) dramatically accelerates the earnings pillar.
+
+**Normal earning power estimated:** ~$17B pre-tax, ~$12B after-tax (excluding capital gains/losses). This marks the first explicit guidance on Berkshire's run-rate earnings.
+
+**"Ignore our net income figure"** — a direct application of the owner-earnings principle: GAAP net income includes unrealized derivative gains/losses and mark-to-market fluctuations that obscure the true economic earnings power of the business[^18].
+
+[^18]: [2010 Letter](../sources/buffett-letter-2010.md) — three-pillar intrinsic value framework; $158B investments; $5,926/share non-insurance earnings; 19.9% vs. 21.0% CAGRs; $17B/$12B normal earning power; "ignore net income"

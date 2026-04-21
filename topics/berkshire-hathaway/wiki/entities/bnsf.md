@@ -1,0 +1,56 @@
+---
+title: "Burlington Northern Santa Fe (BNSF)"
+type: entity
+entity_kind: organization
+created: 2026-04-21
+updated: 2026-04-21
+tags: [acquisition, railroad, capital-intensive, mega-cap-era]
+---
+
+## Overview
+
+Burlington Northern Santa Fe is one of North America's four largest railroad systems, acquired by Berkshire in 2010 in the company's largest-ever deal. BNSF operates 23,000 miles of track and carries 28% of US railroad freight (11% of all inter-city ton-miles). The acquisition marked Berkshire's decisive pivot toward regulated, capital-intensive businesses.
+
+## Key Facts
+
+- **Acquired:** February 2010 (announced November 2009)
+- **Consideration:** ~$26.5B total for remaining shares (~$22B cash + 6.1% new Berkshire shares); Berkshire already owned ~22% purchased on the open market for cash at market prices
+- **CEO:** Matt Rose
+- **Revenue:** $16.85B (2010)
+- **Pre-tax earnings:** $3.988B (2010)
+- **Employees:** ~38,000 (65,000 shareholders added)
+- **Track:** 23,000 miles across 28 states
+- **Freight share:** 28% of US railroad industry; 11% of inter-city ton-miles
+- **Environmental advantage:** Moves a ton of freight 500 miles on a single gallon of diesel — roughly four times more fuel-efficient than trucks
+- **Market position:** Biggest railroad handler of intermodal traffic (shipping containers) and grain
+
+## Significance
+
+### The Capital-Intensive Pivot
+
+BNSF is the clearest signal of Berkshire's evolution from the asset-light, high-return businesses Buffett historically preferred. The 2009 letter explicitly states: "Anticipating, however, that Berkshire will generate ever-increasing amounts of cash, we are today quite willing to enter businesses that regularly require large capital expenditures." BNSF and MidAmerican together form a new class of Berkshire businesses — regulated, capital-heavy, but earning reasonable returns on enormous invested capital[^1].
+
+### The Stock Issuance Decision
+
+Buffett devoted extensive analysis to the stock issuance required for BNSF — only the second significant equity issuance in his tenure (after General Re in 1998). He calculated that only ~30% of the total cost was in stock (existing BNSF shares had been purchased for cash), but confessed: "the final decision was a close one." The letter includes a mathematical proof that an undervalued acquirer paying full price for an acquisition with equal returns destroys shareholder value — "Don't ask the barber whether you need a haircut"[^1].
+
+### Social Compact with Regulators
+
+Buffett frames BNSF's economics using a "social compact" model: railroads require enormous ongoing capital investment (BNSF spent $4B annually), regulators allow reasonable returns, and in exchange society gets an irreplaceable transportation artery that is vastly more fuel-efficient and environmentally superior to trucking. This framework parallels MidAmerican's regulated utility model[^2].
+
+### First Full Year: Better Than Expected
+
+BNSF's 2010 results — $3.988B pre-tax on $16.85B revenue — added roughly 40% to Berkshire's normalized pre-tax earning power and 30%+ after-tax. Buffett: "It is working out even better than I expected"[^2].
+
+## Connections
+
+- [Capital Allocation](../principles/capital-allocation.md) — stock issuance analysis; capital-intensive pivot; social compact
+- [MidAmerican Energy](../entities/midamerican-energy.md) — sister regulated, capital-intensive business; shared social compact model
+- [Owner Earnings](../principles/owner-earnings.md) — BNSF's capital requirements vs. earnings; three-pillar valuation impact
+- [Business Quality](../principles/business-quality.md) — railroad economics; irreplaceable infrastructure moat
+
+## Sources
+
+[^1]: [2009 Letter](../sources/buffett-letter-2009.md) — acquisition announced; $22B cash + 6.1% stock; stock issuance analysis; capital-intensive embrace; 65,000 shareholders
+
+[^2]: [2010 Letter](../sources/buffett-letter-2010.md) — $16.85B revenue; $3.988B pre-tax; 40% earning power increase; social compact; better than expected

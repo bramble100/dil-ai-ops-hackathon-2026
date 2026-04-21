@@ -61,3 +61,9 @@ The Reichardt/Hazen parallel to Murphy/Burke at Capital Cities: each pair is "st
 **[2005 Letter]** Berkshire substantially increases Wells Fargo position to **95.0 million shares** ($5,975M market value on $2,754M cost). Dick Kovacevich leads the merged Wells/Norwest entity. Wells Fargo joins AmEx, Coke, and P&G as one of the "Big Four" common stock holdings [^3].
 
 [^3]: [2005 Letter](../sources/buffett-letter-2005.md) — 95M shares; $5,975M value on $2,754M cost; Dick Kovacevich; Big Four member
+
+### 2010: 358.9M Shares and Dividend Freeze
+
+**[2010 Letter]** Berkshire holds **358.9 million shares** with a market value of **$11.1B**. Wells Fargo demonstrates "enormous financial strength" through the crisis, but the Federal Reserve freezes its dividend as part of the industry-wide stress testing regime. Buffett notes the dividend freeze reduces Berkshire's income but does not diminish his confidence in Wells Fargo's long-term value[^4].
+
+[^4]: [2010 Letter](../sources/buffett-letter-2010.md) — 358.9M shares; $11.1B market value; Fed dividend freeze; "enormous financial strength"

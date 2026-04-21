@@ -322,3 +322,19 @@ Pension fund delusions compound the problem: private plans overstate earnings an
 [^18]: [2007 Letter](../sources/buffett-letter-2007.md) — pension assumption gaming; 8% expected return delusion; CEO manipulation of reported earnings
 
 [^19]: [2008 Letter](../sources/buffett-letter-2008.md) — Black-Scholes 100-year put critique; "beware geeks bearing formulas"; derivatives four-category disclosure; Treasury bubble; swimming naked vindicated
+
+### Operating Earnings vs. Net Income and "Life and Debt" (2009-2010)
+
+**[2009 Letter]** Derivatives portfolio updated: **$6.3B derivatives float** (separate from the $62B insurance float). Equity puts and high-yield credit default contracts continue. Buffett expects aggregate underwriting profit over the life of the contracts. The CEO risk control principle is stated forcefully: risk management must never be delegated to committees or chief risk officers.
+
+Common stocks: **$59B** in publicly traded equities plus **$21.1B** in non-traded positions (Dow Chemical, GE, Goldman Sachs, Swiss Re, Wrigley = ~$2.1B annual income). The "chihuahua versus Saint Bernard" banking analogy: FDIC-insured banks that are reckless chihuahuas get the same government backing as the responsible Saint Bernards[^20].
+
+**[2010 Letter]** **"Ignore our net income figure"** — Buffett's most forceful guidance on earnings metrics. Net income includes unrealized gains/losses on derivatives and mark-to-market fluctuations that obscure operating reality. Operating earnings are the meaningful metric.
+
+**Black-Scholes critique continued:** Equity put contracts show $6.7B liability vs. $3.8B estimated settlement value. High-yield credit index contracts approaching expiration with underwriting profit virtually certain. The mathematical impossibility of Black-Scholes for long-dated instruments restated.
+
+**"Life and Debt" essay:** Berkshire's definitive statement on leverage. "Credit is like oxygen — when either is abundant, its presence goes unnoticed. When either is missing, that's all that is noticed." The essay traces to **Ernest Buffett's 1939 letter** to his son Fred — $1,000 cash reserve, always maintained. Berkshire's pledge: minimum **$10B cash** at all times; customary holding $20B+. "We never want to count on the kindness of strangers." Leverage is "lethal" — it's the only way a smart person can go to zero[^21].
+
+[^20]: [2009 Letter](../sources/buffett-letter-2009.md) — $6.3B derivatives float; $59B common stocks; $21.1B non-traded; CEO risk control; banking chihuahua/Saint Bernard
+
+[^21]: [2010 Letter](../sources/buffett-letter-2010.md) — "ignore net income"; Black-Scholes continued; "Life and Debt"; Ernest Buffett's $1,000 letter; $10B/$20B cash pledges; leverage lethal

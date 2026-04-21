@@ -1055,3 +1055,61 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Though the3path has not been smooth, our economic system has worked extraordinarily well over time. It has unleashed human potential as no other system has, and it will continue to do so." — 2008 Letter
 >
 > Context: Buffett's patriotic case for long-term investment even amid crisis. → [Capital Allocation](principles/capital-allocation.md)
+
+### Capital Allocation (2009-2010)
+
+> "When it's raining gold, reach for a bucket, not a thimble." — 2009 Letter
+>
+> Context: On why Berkshire deployed aggressively during the 2008-2009 crisis, writing large insurance policies and making crisis investments. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Don't ask the barber whether you need a haircut." — 2009 Letter
+>
+> Context: On stock-for-stock acquisitions — investment bankers will always recommend deals that generate fees, regardless of whether issuing stock destroys shareholder value. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Anticipating, however, that Berkshire will generate ever-increasing amounts of cash, we are today quite willing to enter businesses that regularly require large capital expenditures." — 2009 Letter
+>
+> Context: The capital-intensive pivot — Buffett formally embraces BNSF and MidAmerican as a new class of Berkshire businesses requiring heavy ongoing investment. → [BNSF](entities/bnsf.md)
+
+> "Hire well, manage little." — 2010 Letter
+>
+> Context: On Berkshire's three competitive advantages — talented owner-oriented managers who run their businesses autonomously. → [Business Quality](principles/business-quality.md)
+
+### Insurance & Risk (2009-2010)
+
+> "If Charlie, I and Ajit are ever in a sinking boat — and you can only save one of us — swim to Ajit." — 2009 Letter (restated)
+>
+> Context: On Ajit Jain's $7.1B single Lloyds premium and $50B potential life reinsurance contract. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+> "It's my job to keep Berkshire far away from such problems... If Berkshire ever gets in trouble, it will be my fault." — 2009 Letter
+>
+> Context: The CEO risk control principle — risk management must never be delegated to committees or chief risk officers. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Valuation & Investing (2009-2010)
+
+> "Ignore our net income figure." — 2010 Letter
+>
+> Context: Net income includes unrealized gains/losses on derivatives and mark-to-market fluctuations that obscure operating reality. → [Owner Earnings](principles/owner-earnings.md)
+
+> "Time is the friend of the wonderful business." — 2010 Letter
+>
+> Context: On Coca-Cola dividends growing from $88M (1995) to $376M expected (2011) — patient ownership of great businesses compounds wealth inexorably. → [Coca-Cola](entities/coca-cola.md)
+
+> "Credit is like oxygen — when either is abundant, its presence goes unnoticed. When either is missing, that's all that is noticed." — 2010 Letter
+>
+> Context: The "Life and Debt" essay — Berkshire's definitive statement on leverage, anchored by Ernest Buffett's 1939 cash-reserve letter. → [Mr. Market](principles/mr-market.md)
+
+### Optimism & America (2009-2010)
+
+> "America's best days lie ahead." — 2010 Letter (restated)
+>
+> Context: Restated with historical references — December 6, 1941; October 18, 1987; September 10, 2001. Each time, acting on fear would have been catastrophically wrong. → [Capital Allocation](principles/capital-allocation.md)
+
+### Humor & Self-Deprecation (2009-2010)
+
+> "Luckily, I have been bailed out." — 2009 Letter
+>
+> Context: On NetJets' $157M cumulative loss over 11 years — Dave Sokol's turnaround rescued a business Buffett should have fixed years earlier. → [Executive Jet](entities/executive-jet.md)
+
+> "Our headquarters expense amounts to about $270,000 for rent and $301,000 for other costs — furniture, art, Cokes, candy, and Charlie's New York Times." — 2010 Letter
+>
+> Context: The 20-person Omaha office that manages a $200B+ enterprise. → [Business Quality](principles/business-quality.md)

@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-21] ingest-batch | Batch 16: 2009-2010 Letters
+
+- Sources: raw/articles/buffett-letter-2009.md, raw/articles/buffett-letter-2010.md
+- Created: sources/buffett-letter-2009, sources/buffett-letter-2010, entities/bnsf
+- Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/business-quality, principles/owner-earnings, entities/geico, entities/general-re, entities/executive-jet, entities/midamerican-energy, entities/clayton-homes, entities/iscar, entities/marmon-group, entities/wells-fargo, entities/coca-cola, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
+- Key themes: BNSF acquisition (largest ever, capital-intensive pivot), three-pillar intrinsic value, GEICO $14B goodwill case study, four insurance commandments, "Life and Debt" leverage essay, NetJets turnaround, Todd Combs hired
+- Fixed duplicate sections in: general-re, executive-jet, midamerican-energy (removed 2006 duplicates during edit)
+
 ## [2026-04-19] init | Wiki bootstrapped
 
 - Topic created: berkshire-hathaway

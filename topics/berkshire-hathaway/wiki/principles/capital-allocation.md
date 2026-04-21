@@ -625,3 +625,29 @@ The investment column's CAGR deceleration (27.5% → 12.6%) and operating earnin
 [^17]: [2007 Letter](../sources/buffett-letter-2007.md) — Marmon $4.5B; PetroChina $4B sale; Dexter $3.5B revised cost; buyer of choice; Byron Trott; three CEO + four CIO candidates
 
 [^18]: [2008 Letter](../sources/buffett-letter-2008.md) — four goals; Goldman/GE/Wrigley $14.5B crisis investments; PE critique; ConocoPhillips mistake; "America's best days lie ahead"
+
+### BNSF Acquisition and the Capital-Intensive Pivot (2009)
+
+**[2009 Letter]** Berkshire's largest acquisition ever — **Burlington Northern Santa Fe (BNSF)** — announced for ~$26.5B total (~$22B cash + 6.1% new Berkshire shares). This is only the second significant stock issuance in Buffett's tenure (after General Re).
+
+**Stock issuance analysis:** Buffett devotes extensive space to proving mathematically why an undervalued acquirer paying full price for an acquisition of equal quality destroys shareholder value. Only ~30% of the total BNSF cost was paid in stock (existing BNSF shares had been bought at market for cash), but "the final decision was a close one." Rule: "Don't ask the barber whether you need a haircut."
+
+**Capital-intensive businesses embraced:** "Anticipating, however, that Berkshire will generate ever-increasing amounts of cash, we are today quite willing to enter businesses that regularly require large capital expenditures." BNSF and MidAmerican together form a new class — regulated, capital-heavy, earning reasonable returns on enormous capital. This is a major evolution from the asset-light preference of earlier decades.
+
+**"When it's raining gold, reach for a bucket, not a thimble."** — On why Berkshire deployed aggressively during 2008-2009 despite the crisis.
+
+**Berkadia formed:** 50/50 joint venture with Leucadia for $235B commercial mortgage servicing portfolio[^19].
+
+**[2010 Letter]** BNSF "working out even better than I expected" — adds ~40% to normal pre-tax earning power (~$17B total, ~$12B after-tax). Capital spending: **$6B in 2010** (90% in US); **$8B planned for 2011** (100% of increase in US).
+
+**Three competitive advantages articulated:**
+
+1. Talented, owner-oriented managers who "hire well, manage little"
+2. Unlimited capital allocation universe — no industry boundaries
+3. Hard-to-duplicate culture — autonomy, permanence, meritocratic compensation
+
+These advantages compound: managers stay because of the culture; the culture attracts deals; deals provide capital to deploy. Goldman Sachs and GE preferreds likely to be called (~$1.4B premium but reduced ongoing income). Todd Combs hired as first investment manager successor ($1-3B initial mandate); Lou Simpson retires at 74[^20].
+
+[^19]: [2009 Letter](../sources/buffett-letter-2009.md) — BNSF $26.5B; stock issuance analysis; capital-intensive pivot; "raining gold"; Berkadia
+
+[^20]: [2010 Letter](../sources/buffett-letter-2010.md) — BNSF +40% earning power; $17B normal pre-tax; three advantages; $6B/$8B capex; Todd Combs; Goldman/GE preferreds called

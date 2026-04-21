@@ -115,6 +115,9 @@ Chronological list of acquisitions and major investment positions as documented 
 | 2008    | Wrigley/Mars subordinated notes         | $6.5B                                    | —                 | 11.45% coupon; financing Mars's $23B LBO of Wrigley; not an equity acquisition                                            | [Capital Allocation](principles/capital-allocation.md)           |
 | 2008    | Tungaloy (via ISCAR)                    | undisclosed                              | —                 | Japanese cutting-tool manufacturer; extends ISCAR's Asian platform                                                        | [ISCAR](entities/iscar.md)                                       |
 | 2008    | Constellation Energy investment         | $1.09B                                   | —                 | $1.09B breakup fee + investment profit from failed EDF acquisition                                                        | [MidAmerican Energy](entities/midamerican-energy.md)             |
+| 2009    | BNSF (Burlington Northern Santa Fe)     | ~$26.5B total                            | —                 | ~$22B cash + 6.1% new Berkshire shares; 23,000 miles track; 38,000 employees; largest Berkshire deal ever                 | [BNSF](entities/bnsf.md)                                         |
+| 2009    | Berkadia (50/50 with Leucadia)          | undisclosed                              | —                 | $235B commercial mortgage servicing portfolio; joint venture                                                              | [Capital Allocation](principles/capital-allocation.md)           |
+| 2010    | Marmon Group (to ~80%)                  | $1.5B (for additional 17%)               | —                 | 130 businesses; staged formula-price acquisition; 100% expected 2013-14                                                   | [Marmon Group](entities/marmon-group.md)                         |
 
 ## Connections
 

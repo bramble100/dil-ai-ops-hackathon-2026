@@ -99,15 +99,18 @@ Buffett credits Rich Santulli and Mark Booth. NetJets is "the ultimate in safety
 
 [^8]: [2006 Letter](../sources/buffett-letter-2006.md) — $143M worldwide profit; European turnaround under Mark Booth; 589 new European customers; 596% revenue growth since 1998; fleet dominance
 
-### 2006: Global Profitability Achieved
+### 2009: Crisis and Dave Sokol Takeover
 
-**[2006 Letter]** NetJets posts **$143M pre-tax profit** worldwide — a dramatic turnaround from years of losses:
+**[2009 Letter]** The cumulative toll is revealed: **$157M pre-tax loss** over 11 years of Berkshire ownership, with **$1.9B in debt** accumulated. "Luckily, I have been bailed out" — Buffett acknowledges tolerating losses for far too long.
 
-- **European turnaround:** 589 net new customers added 2005-2006 (from only 80 after five years of operation); Mark Booth's "brilliant leadership" brings European profitability; cumulative European pre-tax loss had been $212M through mid-2006
-- **Revenue growth:** Flight operations revenue up **596% since 1998 purchase**
-- **Fleet:** Value managed far greater than three largest competitors combined
-- **Q1 2006 loss:** $19M, overcome by strong remainder of year
+**Dave Sokol takes over** as CEO in August 2009 (while continuing to run MidAmerican). Immediate operational tightening begins. Rich Santulli departs after founding and leading the fractional-ownership concept[^9].
 
-Buffett credits Rich Santulli and Mark Booth. NetJets is "the ultimate in safety and service" — Buffett, his family, and most Berkshire directors are personal customers ("none of us gets a discount"). "Once you've flown NetJets, returning to commercial flights is like going back to holding hands"[^8].
+### 2010: $207M Profit — The Turnaround
 
-[^8]: [2006 Letter](../sources/buffett-letter-2006.md) — $143M worldwide profit; European turnaround under Mark Booth; 589 new European customers; 596% revenue growth since 1998; fleet dominance
+**[2010 Letter]** Dave Sokol produces a **$207M pre-tax profit** — a swing of **$918M** from 2009's losses. Berkshire charges a **$38M annual guarantee fee** for backing NetJets' operations.
+
+The turnaround validates Buffett's oft-stated principle that the right manager in a good business can produce dramatic results. NetJets moves from Berkshire's worst-performing subsidiary to a meaningful profit contributor in a single year[^10].
+
+[^9]: [2009 Letter](../sources/buffett-letter-2009.md) — $157M cumulative loss; $1.9B debt; Dave Sokol takeover August 2009; Santulli departs
+
+[^10]: [2010 Letter](../sources/buffett-letter-2010.md) — $207M profit; $918M swing; $38M guarantee fee; Dave Sokol turnaround

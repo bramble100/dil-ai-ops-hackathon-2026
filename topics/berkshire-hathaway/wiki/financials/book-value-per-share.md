@@ -141,6 +141,10 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 
 - **[2008 Letter]** Net worth loss $11.5B (−9.6%); per-share book value $70,530; 44-year CAGR 20.3%. **Worst year in company history.** S&P fell 37% — Berkshire outperformed by 27.4pp, but absolute performance was deeply negative. The −9.6% decline was only the second negative year since 1964 (after 2001's −6.2%). "This table, however, is not the scorecard by which we measure our performance." Operating earnings cushioned the blow: manufacturing/service/retail $5.6B, utilities $2.2B, finance $1.2B. The crisis produced $14.5B in crisis investments (Goldman/GE/Wrigley). Float remained stable at $58.5B with $2.792B underwriting profit. Book value dropped from $78,008 to $70,530 — but the majority of the decline was unrealized equity losses, not operating deterioration. "America's best days lie ahead." Overall gain 1964-2008: 362,319% vs. S&P 4,276%.
 
+- **[2009 Letter]** Net worth gain $21.8B (+19.8%); per-share book value $84,487; 45-year CAGR 20.3%. Strong rebound from crisis year. Overall gain 1964-2009: 434,057%. BNSF acquisition announced — adds 65,000 new shareholders. Float $62B with $1.559B underwriting profit (seven consecutive profitable years). The letter serves as "freshman orientation" for the flood of new shareholders joining via the BNSF deal.
+
+- **[2010 Letter]** Net worth gain +13.0%; per-share book value $95,453; 46-year CAGR 20.2%. Overall gain 1964-2010: 490,409%. BNSF first full year adds ~40% to normal pre-tax earning power (~$17B pre-tax, ~$12B after-tax). Three-pillar intrinsic value framework introduced: (1) $158B investments at market, (2) $5,926/share non-insurance pre-tax earnings (21.0% CAGR over 40 years), (3) retained-earnings deployment efficacy. Float $65.8B with $2.013B underwriting profit (eight consecutive profitable years; $17B cumulative). "Ignore our net income figure" — operating earnings are the meaningful metric.
+
 ## The Inflation Caveat
 
 - **[1979 Letter]** Book value in 1964 bought ~½ ounce of gold; in 1979, after 15 years of retained earnings, it still bought ~½ ounce

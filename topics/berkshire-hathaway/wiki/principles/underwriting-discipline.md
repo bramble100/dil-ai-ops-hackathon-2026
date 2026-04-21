@@ -443,3 +443,28 @@ Buffett warns: "Our managers must be vigilant" — the industry is swimming towa
 [^16]: [2007 Letter](../sources/buffett-letter-2007.md) — float $58.5B; $3.374B underwriting profit; six consecutive years; sea change warning
 
 [^17]: [2008 Letter](../sources/buffett-letter-2008.md) — float $58.5B; $2.792B profit; BHAC $15.6B muni bonds; $400M premiums; AAA advantage; seven consecutive years
+
+### Float $62B-$66B and Eight Consecutive Profitable Years (2009-2010)
+
+**[2009 Letter]** Float reaches **$62B** across four segments: General Re $21.0B, BH Reinsurance $26.2B, GEICO $9.6B, Other Primary $5.1B. Underwriting profit: **$1.559B** — seven consecutive profitable years.
+
+Ajit Jain executes two landmark deals: a single **$7.1B Lloyds premium** contract (possibly the largest single policy in history) and negotiations for a **$50B potential life reinsurance** contract. His 30-person staff continues to generate results no organization of any size can match. "If Charlie, I and Ajit are ever in a sinking boat — and you can only save one of us — swim to Ajit" (restated).
+
+General Re has an "outstanding year" under Tad Montross — Berkshire acquires the remaining **100% of Cologne Re**, consolidating the global reinsurance platform.
+
+**CEO risk control principle articulated:** "It's my job to keep Berkshire far away from such problems... If Berkshire ever gets in trouble, it will be my fault. It will not be because of misjudgments made by a risk committee or a Chief Risk Officer." Risk control must never be delegated[^18].
+
+**[2010 Letter]** Float surges to **$65.8B** — eight consecutive profitable years; **$17B cumulative underwriting profit** over those eight years. Annual profit: **$2.013B**.
+
+Tad Montross articulates the **four insurance commandments:**
+
+1. Understand all exposures that might cause a policy to incur losses
+2. Conservatively assess the likelihood of any exposure actually causing a loss and the probable cost if it does
+3. Set a premium that, on average, will deliver a profit after both prospective loss costs and operating expenses are covered
+4. Be willing to walk away if the appropriate premium can't be obtained
+
+Ajit Jain's operation: **$30B float** built from a standing start in 1985 with no actuaries, no back office — just Ajit. He now writes ~$2B annually in life reinsurance premium. The $17B cumulative underwriting profit across eight years "comes close to tripling the net income that UPS and FedEx reported during that same period" — the comparison illustrates how valuable costless float truly is[^19].
+
+[^18]: [2009 Letter](../sources/buffett-letter-2009.md) — float $62B; $1.559B profit; seven years; Ajit $7.1B Lloyds/$50B life; 100% Cologne Re; CEO risk control
+
+[^19]: [2010 Letter](../sources/buffett-letter-2010.md) — float $65.8B; $2.013B profit; eight years; $17B cumulative; four commandments; Ajit $30B float from standing start

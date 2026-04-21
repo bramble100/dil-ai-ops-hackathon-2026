@@ -160,25 +160,18 @@ Partnership unchanged: "We will make major moves only when we are unanimous" (Bu
 
 [^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $1.718B pre-tax; PacifiCorp first year $356M; 86.6% interest; HomeServices -50%; housing crisis foreshadowed; four-party partnership
 
-## 2006: PacifiCorp First Full Year and $1.718B Pre-Tax
+## 2009: $1.846B Operating Earnings and Wind Investment
 
-**[2006 Letter]** MidAmerican's pre-tax earnings reach **$1.718B** (up from $1.168B) with PacifiCorp consolidated for its first full year:
+**[2009 Letter]** MidAmerican delivers **$1.846B operating earnings** before interest and taxes. Dave Sokol and Greg Abel lead the partnership. Wind investment reaches **$3B spent** against $2.5B earned over three years — reflecting Berkshire's willingness to reinvest all earnings plus additional capital.
 
-| Unit                           | 2006 Pre-Tax | 2005 Pre-Tax |
-| ------------------------------ | ------------ | ------------ |
-| UK utilities                   | $338M        | $308M        |
-| Iowa utility                   | $348M        | $288M        |
-| Western utilities (PacifiCorp) | $356M        | N/A          |
-| Pipelines                      | $376M        | $309M        |
-| HomeServices                   | $74M         | $148M        |
-| Other (net)                    | $226M        | $115M        |
-| **Earnings before int/tax**    | **$1,718M**  | **$1,168M**  |
-| Net earnings to Berkshire      | $885M        | $523M        |
+MidAmerican's economics parallel BNSF: both are regulated, capital-intensive businesses operating under a "social compact" — large ongoing investment in exchange for reasonable returns and societal benefit[^10].
 
-**86.6% economic interest** (fully diluted). MidAmerican's four major utility platforms: (1) Yorkshire/Northern Electric, 3.7M UK customers (#3 UK distributor); (2) MidAmerican Energy, 706K Iowa customers; (3) PacifiCorp (Pacific Power/Rocky Mountain Power), 1.7M customers in six Western states; (4) Kern River/Northern Natural pipelines, ~8% of US natural gas.
+## 2010: $5.4B Wind and Iowa Rate Stability
 
-**HomeServices** profits fell 50% ($74M vs. $148M) as residential real estate slowed. Buffett critiques lending practices: "optional" contracts and "teaser" rates let borrowers defer payments — "a rolling loan gathers no loss." The Scarlett O'Hara scenario: "I'll think about that tomorrow." For many homeowners, "tomorrow has now arrived" — a prescient 2006 observation of the emerging housing crisis.
+**[2010 Letter]** MidAmerican reaches **2,909 MW** of wind capacity by year-end 2011, with **$5.4B invested** in wind energy. Iowa utility rates have **not increased since 1999** — among the lowest in the nation. Northern Natural pipeline ranked **#2** in customer satisfaction (from #43 at purchase).
 
-Partnership unchanged: "We will make major moves only when we are unanimous" (Buffett/Walter Scott/Dave Sokol/Greg Abel)[^9].
+Dave Sokol also takes over NetJets in August 2009. Greg Abel increasingly visible as a standalone leader. The MidAmerican/BNSF pairing now represents Berkshire's regulated capital-intensive sector — together generating the bulk of non-insurance operating earnings[^11].
 
-[^9]: [2006 Letter](../sources/buffett-letter-2006.md) — $1.718B pre-tax; PacifiCorp first year $356M; 86.6% interest; HomeServices -50%; housing crisis foreshadowed; four-party partnership
+[^10]: [2009 Letter](../sources/buffett-letter-2009.md) — $1.846B operating earnings; $3B wind spent; Sokol/Abel; social compact parallel with BNSF
+
+[^11]: [2010 Letter](../sources/buffett-letter-2010.md) — 2,909 MW wind; $5.4B invested; Iowa rates unchanged since 1999; Northern Natural #2 satisfaction; Sokol/Abel

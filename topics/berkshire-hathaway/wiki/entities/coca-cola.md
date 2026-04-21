@@ -108,3 +108,11 @@ Buffett uses his Coke board experience to deliver a forceful essay on **board in
 **[2005 Letter]** Coca-Cola remains one of the Big Four holdings: market value $8,062M on $1,299M cost (200M shares). Coke's value ($8.1B) is still well below its 1998 peak ($13.4B), underscoring Buffett's repeated caution about overpaying for even great businesses. Berkshire received $240M in dividends from Coke in 2005 [^8].
 
 [^8]: [2005 Letter](../sources/buffett-letter-2005.md) — $8,062M value on $1,299M cost; 200M shares; still below $13.4B 1998 peak; $240M dividends
+
+### 2010: $13.2B Market Value and Dividend Growth Case Study
+
+**[2010 Letter]** Coca-Cola position: **200M shares** with market value **$13.2B**. Expected 2011 dividends: **$376M** (up from $88M in 1995). Buffett uses Coke as the definitive case study for patient ownership of wonderful businesses: "Time is the friend of the wonderful business." At the current dividend growth rate, Coke dividends could **double within a decade** — eventually the annual cash return would approach Berkshire's original $1.3B cost basis.
+
+The Goldman Sachs and GE preferred stocks, by contrast, are being called — producing a ~$1.4B aggregate premium but reducing Berkshire's ongoing investment income. The comparison highlights why equity ownership of great businesses (Coke) compounds better than fixed-income positions (preferreds) over long horizons[^9].
+
+[^9]: [2010 Letter](../sources/buffett-letter-2010.md) — $13.2B value; $376M expected dividends; "time is the friend"; patient ownership compounding

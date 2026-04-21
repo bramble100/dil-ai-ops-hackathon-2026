@@ -89,3 +89,17 @@ On the manufacturing side: original 20 plants + 12 (Oakwood 2004) + 4 (Karsten 2
 Berkshire's financial strength continues as the driving force: Clayton's $10B financing portfolio exists because of Berkshire's balance sheet. Acquisitions have more than doubled the workforce since purchase[^4].
 
 [^4]: [2006 Letter](../sources/buffett-letter-2006.md) — $513M pre-tax; $86M Berkshire fee; $10B portfolio; 14,787 employees; industry lowest since 1962
+
+## 2009: Housing Crisis and Financing Discrimination
+
+**[2009 Letter]** Housing starts collapse to **554,000** — lowest in 50 years. Clayton weathers the storm through disciplined lending, but Buffett devotes extensive space to **manufactured-home financing discrimination**: government-backed financing offers site-built homes ~5¼% rates while manufactured-home buyers (often lower-income) pay ~9%. "This differential is unfair and borders on discriminatory." Clayton's borrowers perform well despite the rate gap — evidence that manufactured-home lending, properly underwritten, is sound[^5].
+
+## 2010: 47% Industry Share and 200,804 Mortgages
+
+**[2010 Letter]** Clayton builds **23,343 homes** — an astonishing **47% of the entire manufactured-housing industry**. The lending portfolio encompasses **200,804 mortgages** with an average FICO score of **648** and net loss rates of only **1.17-1.86%** — performance that contradicts the conventional wisdom that sub-prime borrowers inevitably default at high rates.
+
+Kevin Clayton continues as CEO. The Berkshire financing advantage is now massive: Clayton's competitors can't match the rates Clayton offers because they lack Berkshire's credit standing and cost of funds[^6].
+
+[^5]: [2009 Letter](../sources/buffett-letter-2009.md) — 554,000 housing starts; financing discrimination; 9% vs. 5¼% rate gap; manufactured-home lending defense
+
+[^6]: [2010 Letter](../sources/buffett-letter-2010.md) — 23,343 homes (47% industry); 200,804 mortgages; FICO 648; 1.17-1.86% loss rates; Kevin Clayton

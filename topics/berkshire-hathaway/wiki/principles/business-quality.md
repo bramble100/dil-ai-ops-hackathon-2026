@@ -345,3 +345,24 @@ The Buffalo News retains highest market penetration among large US papers, but "
 **Institutional size critique:** Of the ten non-oil companies with largest market cap in 1965, only one made the 2006 list. Quoting Churchill: "We shape our buildings, and afterwards our buildings shape us"[^14].
 
 [^14]: [2006 Letter](../sources/buffett-letter-2006.md) — newspaper decline analysis; "good business" quote; 25% tangible ROE; MiTek $10K→$71.7K; institutional size; Churchill
+
+### Record-Setting Subsidiaries and the Capital-Intensive Welcome (2009-2010)
+
+**[2009 Letter]** NetJets serves as a cautionary tale of a good business badly managed: **$157M cumulative pre-tax loss** over 11 years, with **$1.9B debt** accumulated. Dave Sokol takes over in August 2009 and begins immediate transformation. "Luckily, I have been bailed out" — Buffett admits the mistake of tolerating losses for too long.
+
+Capital-intensive businesses now explicitly welcomed: Berkshire's cash generation exceeds its ability to deploy in asset-light acquisitions. BNSF and MidAmerican form a new category — regulated, capital-heavy, earning reasonable returns on enormous invested capital. The business-quality framework expands beyond "wonderful business at a fair price" to include "irreplaceable infrastructure at a reasonable regulated return"[^15].
+
+**[2010 Letter]** Record-setting performances across the manufacturing, service, and retail segments:
+
+- **TTI:** +21% above prior sales peak; earnings +58%. Paul Andrews demonstrates the "wonderful business" at small scale
+- **Forest River:** ~$2B revenue in recreational vehicles
+- **CTB:** $106M pre-tax on a $140M acquisition cost — one of the highest return-on-purchase-price records in Berkshire history
+- **H.H. Brown:** record performance despite footwear headwinds
+
+The construction downturn illustrates moat resilience under stress: Shaw + Johns Manville + Acme + MiTek combined **$362M** pre-tax (vs. **$1.3B** in 2006). The businesses survive because their competitive positions are intact; the earnings depression is cyclical, not structural.
+
+**NetJets turnaround:** Dave Sokol produces **$207M pre-tax profit** — a swing of **$918M** from 2009. Berkshire charges a $38M annual guarantee fee. The turnaround validates Buffett's principle that the right manager in a good business can produce dramatic results[^16].
+
+[^15]: [2009 Letter](../sources/buffett-letter-2009.md) — NetJets $157M cumulative loss; Dave Sokol takeover; capital-intensive welcome; BNSF/MidAmerican new category
+
+[^16]: [2010 Letter](../sources/buffett-letter-2010.md) — TTI/Forest River/CTB records; construction downturn $362M vs. $1.3B; NetJets $207M turnaround; Dave Sokol

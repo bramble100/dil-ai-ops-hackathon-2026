@@ -36,3 +36,11 @@ Marmon demonstrates Berkshire's "buyer of choice" advantage at its purest: a Chr
 [^1]: [2007 Letter](../sources/buffett-letter-2007.md) — Christmas Day deal; 60% for $4.5B; Pritzker family; Rockwood Chocolate 1954 origin; Byron Trott; "Indy 500"
 
 [^2]: [2008 Letter](../sources/buffett-letter-2008.md) — closed at 64%; remaining stock over six years
+
+## 2010: Moving to 80% and Frank Ptak's Record
+
+**[2010 Letter]** Berkshire pays **$1.5B for an additional 17%** of Marmon, bringing ownership to **~80%**. The company now operates **130 businesses** (up from 125 at acquisition). Full ownership (100%) expected by **2013-2014**.
+
+Frank Ptak delivers a **13.5% operating margin** — a record under his leadership. The staged acquisition structure, unique in Berkshire's history, is working exactly as designed: Berkshire acquires increasing ownership at formula prices tied to earnings, aligning incentives for the operating team[^3].
+
+[^3]: [2010 Letter](../sources/buffett-letter-2010.md) — $1.5B for 17% (to ~80%); 130 businesses; Frank Ptak 13.5% margin; 100% expected 2013-14

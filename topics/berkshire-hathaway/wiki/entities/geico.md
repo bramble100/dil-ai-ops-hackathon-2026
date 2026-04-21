@@ -251,6 +251,30 @@ Buffett: Don Keough suggested shareholders "immediately change the names of thei
 
 [^18]: [2006 Letter](../sources/buffett-letter-2006.md) — 8.1M policies; 47% productivity gain; $631M advertising; $1,314M profit; float $7,171M
 
+### 2009: Credit Card Fiasco and 8.1% Market Share
+
+**[2009 Letter]** GEICO reaches **8.1% market share** (#3 US auto insurer) with **$800M annual advertising** and 7M net policyholders added since 1996. Float: $9.6B.
+
+The **GEICO credit card fiasco** is confessed: a credit card program launched with an outside partner produced ~$6.3M in pre-tax losses and forced the sale of $98M in receivables at 55¢ on the dollar ($44M loss). Buffett: the idea was outside GEICO's circle of competence[^19].
+
+### 2010: $14B Economic Goodwill and 60-Year Retrospective
+
+**[2010 Letter]** GEICO delivers its most comprehensive retrospective — 60 years of Buffett's association:
+
+- **Market share:** **8.8%** (from 2.0% under Tony Nicely's leadership since 1993)
+- **Premium volume:** $14.3B
+- **Underwriting profit:** $1,117M
+- **Float:** included in the $65.8B total
+- **New homeowner policies:** 769,898 sold via agency arrangement
+
+**Economic goodwill case study:** GEICO's carried goodwill is **$1.4B** (from the 1996 acquisition), but Buffett estimates the true economic goodwill at **~$14B** — a 10x difference. This is the teaching masterpiece on intrinsic value vs. book value: "An asset — or a company — can be worth far more than its carrying amount."
+
+**Lou Simpson retires** at 74 after running GEICO's investment portfolio for 25+ years (20.3% CAGR vs. S&P 13.5%). Todd Combs hired as the first investment manager successor[^20].
+
+[^19]: [2009 Letter](../sources/buffett-letter-2009.md) — 8.1% market share; $800M advertising; credit card fiasco $6.3M + $44M; float $9.6B
+
+[^20]: [2010 Letter](../sources/buffett-letter-2010.md) — 8.8% share; $14.3B premium; $14B economic goodwill vs. $1.4B carried; 60-year retrospective; Lou Simpson retires; Todd Combs
+
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
 
 [^16]: [2004 Letter](../sources/buffett-letter-2004.md) — GEICO 69-year history; ~6% market share 2005; New Jersey re-entry 140K policyholders; $970M underwriting profit; float $5,960M; Lou Simpson 25-year 20.3% CAGR; profit-sharing $191M (24.3%)

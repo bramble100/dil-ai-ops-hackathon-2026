@@ -55,3 +55,9 @@ Buffett and five Berkshire associates visited ISCAR in Israel in September 2006 
 [^2]: [2007 Letter](../sources/buffett-letter-2007.md) — Dalian China plant; Korea visit; continued global expansion
 
 [^3]: [2008 Letter](../sources/buffett-letter-2008.md) — Tungaloy acquisition; Japanese expansion; global cutting-tool platform
+
+## 2010: Profits Up 159%
+
+**[2010 Letter]** ISCAR's profits surge **159%** above the recession trough as industrial demand recovers. Tungaloy integration proceeding well. The consumable-tool model proves highly resilient: customers need cutting tools whenever they manufacture anything, making demand recovery swift when industrial production rebounds. Under Eitan Wertheimer and Jacob Harpaz, ISCAR continues to expand globally[^4].
+
+[^4]: [2010 Letter](../sources/buffett-letter-2010.md) — profits up 159%; Tungaloy integration; demand recovery
