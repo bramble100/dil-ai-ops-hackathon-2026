@@ -103,3 +103,17 @@ Kevin Clayton continues as CEO. The Berkshire financing advantage is now massive
 [^5]: [2009 Letter](../sources/buffett-letter-2009.md) — 554,000 housing starts; financing discrimination; 9% vs. 5¼% rate gap; manufactured-home lending defense
 
 [^6]: [2010 Letter](../sources/buffett-letter-2010.md) — 23,343 homes (47% industry); 200,804 mortgages; FICO 648; 1.17-1.86% loss rates; Kevin Clayton
+
+## 2011: 7% National Share and Continued Depression
+
+**[2011 Letter]** Clayton builds **7% of all homes nationally**. The manufactured-housing depression continues, but Clayton's disciplined lending — old-fashioned underwriting that validates sensible credit practices — produces solid results even as competitors fail. Five housing-related Berkshire businesses (including Clayton) earned $513M combined vs. $1.8B in 2006[^7].
+
+## 2012: America's #1 Homebuilder
+
+**[2012 Letter]** Clayton builds **25,872 homes** (+13.5%), representing ~**4.8% of all US single-family homes**. The lending portfolio: **332,000 mortgages** totaling **$13.7B**. Clayton is now **America's #1 homebuilder** by units.
+
+Kevin Clayton continues as CEO. The Berkshire financing advantage remains decisive: competitors cannot match Clayton's rates and terms because they lack Berkshire's credit standing and cost of funds[^8].
+
+[^7]: [2011 Letter](../sources/buffett-letter-2011.md) — 7% national share; housing depression continues; $513M combined housing earnings
+
+[^8]: [2012 Letter](../sources/buffett-letter-2012.md) — 25,872 homes (+13.5%); 332,000 mortgages/$13.7B; America's #1 homebuilder; Kevin Clayton

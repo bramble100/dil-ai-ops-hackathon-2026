@@ -54,3 +54,19 @@ BNSF's 2010 results — $3.988B pre-tax on $16.85B revenue — added roughly 40%
 [^1]: [2009 Letter](../sources/buffett-letter-2009.md) — acquisition announced; $22B cash + 6.1% stock; stock issuance analysis; capital-intensive embrace; 65,000 shareholders
 
 [^2]: [2010 Letter](../sources/buffett-letter-2010.md) — $16.85B revenue; $3.988B pre-tax; 40% earning power increase; social compact; better than expected
+
+## 2011: $4.74B Pre-Tax and 15% of US Freight
+
+**[2011 Letter]** BNSF delivers **$19.5B revenue** and **$4.74B pre-tax earnings**. The railroad moves approximately **15% of all US inter-city freight** (measured in ton-miles) — an irreplaceable transportation artery. Capital spending: **$1.8B excess** over depreciation — the social compact in action.
+
+BSNF joins the **Fabulous Five** (with Iscar, Lubrizol, Marmon, MidAmerican) earning **>$9B pre-tax** combined. Interest coverage: **9.5x** — comfortably strong[^3].
+
+## 2012: $6.0B Operating Earnings and Oil Transport
+
+**[2012 Letter]** BNSF posts **$20.8B revenue** and **$6.0B operating earnings** ($5.4B pre-tax, **9.6x interest coverage**). Oil transport has become a significant new business line: BNSF moves **~500,000 barrels/day** — roughly **10% of lower-48 US oil production**. Planned capex for 2013: **$4B**.
+
+BNSF and Marmon both benefit from the US oil production resurgence — BNSF through transport and Marmon through tank cars (Union Tank Car/Procor: 97,000 cars). Together with MidAmerican, the capital-intensive regulated businesses generate the bulk of Berkshire's non-insurance operating earnings[^4].
+
+[^3]: [2011 Letter](../sources/buffett-letter-2011.md) — $19.5B revenue; $4.74B pre-tax; 15% US ton-miles; Fabulous Five; $1.8B excess capex
+
+[^4]: [2012 Letter](../sources/buffett-letter-2012.md) — $20.8B revenue; $6.0B operating earnings; 9.6x coverage; 500K bbl/day oil; $4B planned capex

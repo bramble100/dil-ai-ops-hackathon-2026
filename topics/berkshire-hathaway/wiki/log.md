@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-21] ingest-batch | Batch 17: 2011-2012 Letters
+
+- Sources: raw/articles/buffett-letter-2011.md, raw/articles/buffett-letter-2012.md
+- Created: sources/buffett-letter-2011, sources/buffett-letter-2012, entities/lubrizol, entities/ibm
+- Updated: principles/capital-allocation, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/owner-earnings, principles/inflation-and-investing, entities/geico, entities/bnsf, entities/midamerican-energy, entities/sees-candies, entities/marmon-group, entities/iscar, entities/clayton-homes, entities/executive-jet, entities/general-re, entities/wells-fargo, entities/coca-cola, entities/nebraska-furniture-mart, entities/buffalo-evening-news, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
+- Key themes: Three investment categories essay (gold cube $9.6T), share repurchase 110%→120%, dividend policy essay, Lubrizol/IBM/BofA/Heinz, Fabulous Five→Powerhouse Five $10.1B, float $73.1B (ten consecutive years), non-real amortization, newspaper resurgence $344M
+
 ## [2026-04-21] ingest-batch | Batch 16: 2009-2010 Letters
 
 - Sources: raw/articles/buffett-letter-2009.md, raw/articles/buffett-letter-2010.md

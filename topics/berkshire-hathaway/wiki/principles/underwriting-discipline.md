@@ -33,9 +33,11 @@ sources:
     buffett-letter-2006,
     buffett-letter-2007,
     buffett-letter-2008,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [insurance, management, risk, principle]
 ---
@@ -468,3 +470,36 @@ Ajit Jain's operation: **$30B float** built from a standing start in 1985 with n
 [^18]: [2009 Letter](../sources/buffett-letter-2009.md) — float $62B; $1.559B profit; seven years; Ajit $7.1B Lloyds/$50B life; 100% Cologne Re; CEO risk control
 
 [^19]: [2010 Letter](../sources/buffett-letter-2010.md) — float $65.8B; $2.013B profit; eight years; $17B cumulative; four commandments; Ajit $30B float from standing start
+
+### Float $70.6B-$73.1B and Nine-to-Ten Consecutive Profitable Years (2011-2012)
+
+**[2011 Letter]** Float surges to **$70.6B** — nine consecutive years of underwriting profit totaling **~$17B** cumulative. The growth trajectory continues:
+
+| Entity         | Underwriting Profit  | Float |
+| -------------- | -------------------- | ----- |
+| General Re     | (approx. profitable) | ~$22B |
+| BH Reinsurance | (approx. profitable) | ~$33B |
+| GEICO          | (profitable)         | ~$11B |
+| Other Primary  | (profitable)         | ~$4B  |
+
+**Ajit Jain:** Float now **$34B**, built from a standing start in 1985 with no actuaries — "a feat that no CEO of any other insurer has come close to matching." His contract portfolio is insurance-like derivatives: $3.4B premiums received vs. $2.6B payments to date.
+
+**GEICO:** Market share reaches **9.3%** (from 2.0% when Tony Nicely became CEO 18 years earlier). Premiums: $15.4B. Tony Nicely completes 50 years of service.
+
+**General Re:** Tad Montross observes all four insurance commandments. "Now it's a treasure."
+
+**Princeton Insurance** acquired (~$600M float) — workers compensation specialty insurer[^20].
+
+**[2012 Letter]** Float reaches **$73.1B** — **ten consecutive years** of underwriting profit, totaling **$18.6B cumulative** pre-tax. This is the longest profitable streak in Berkshire's insurance history.
+
+**GEICO:** Market share **9.7%** (from 2.5% when taken under control in 1995). Premiums: $16.7B. **Hurricane Sandy** is the largest single catastrophe loss in GEICO's history — **46,906 vehicles** processed, more than 3x Katrina. Despite Sandy, GEICO delivers another profitable year.
+
+**Ajit Jain:** Float reaches **$35B** plus significant cumulative underwriting profit.
+
+**Guard Insurance** acquired (~$300M premiums) — workers comp specialty extending the primary insurance platform.
+
+**General Re:** "Enthusiastic about international life reinsurance business" — the global platform consolidated after 100% Cologne Re acquisition in 2009 continues to expand[^21].
+
+[^20]: [2011 Letter](../sources/buffett-letter-2011.md) — float $70.6B; nine consecutive years; $17B cumulative; Ajit $34B; GEICO 9.3%/Tony Nicely 50 years; General Re treasure; Princeton Insurance
+
+[^21]: [2012 Letter](../sources/buffett-letter-2012.md) — float $73.1B; ten consecutive years; $18.6B cumulative; GEICO 9.7%/Hurricane Sandy 46,906 vehicles; Ajit $35B; Guard Insurance

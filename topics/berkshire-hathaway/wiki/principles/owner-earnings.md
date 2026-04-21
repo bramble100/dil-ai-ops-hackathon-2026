@@ -30,9 +30,11 @@ sources:
     buffett-letter-2006,
     buffett-letter-2007,
     buffett-letter-2008,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [valuation, accounting, compounding, principle]
 ---
@@ -340,3 +342,28 @@ The investment column's growth rate is decelerating while operating earnings acc
 **"Ignore our net income figure"** — a direct application of the owner-earnings principle: GAAP net income includes unrealized derivative gains/losses and mark-to-market fluctuations that obscure the true economic earnings power of the business[^18].
 
 [^18]: [2010 Letter](../sources/buffett-letter-2010.md) — three-pillar intrinsic value framework; $158B investments; $5,926/share non-insurance earnings; 19.9% vs. 21.0% CAGRs; $17B/$12B normal earning power; "ignore net income"
+
+### Big Four Look-Through and Non-Real Amortization (2011-2012)
+
+**[2011 Letter]** The Big Four equity positions — now **American Express (13.0%), Coca-Cola (8.8%), IBM (5.5%), Wells Fargo (7.6%)** — demonstrate the look-through framework at scale. Berkshire receives **$862M in dividends** but its share of retained earnings is **$3.3B** — meaning **$2.4B in unreported earnings** that "create at least that amount of value" annually. IBM replaces Gillette/P&G as a permanent pillar.
+
+The two-column update continues. Berkshire now owns **eight subsidiaries** that individually qualify for the Fortune 500 by revenue — the non-insurance earnings pillar grows with each acquisition[^19].
+
+**[2012 Letter]** The **intangible amortization essay** extends the owner-earnings framework into a new domain. Berkshire's $600M annual amortization charge splits roughly 80/20:
+
+- **~20% "real"** — patents, licensing agreements that genuinely deplete
+- **~80% "non-real"** — customer relationships, trade names, core deposits that do not decline with time
+
+The "non-real" amortization creates a systematic understatement of reported earnings. IBM's practice of reporting "adjusted operating earnings" (excluding non-real amortization) is cited approvingly.
+
+**Wells Fargo:** Berkshire's 456.2M shares at $15.6B value. The core deposit intangible ($1.5B/year amortization) is entirely "non-real" — "the deposit base typically grows, it doesn't shrink" — yet GAAP treats it as a wasting asset. Understanding this distinction is "essential to any calculation of intrinsic value."
+
+Big Four updated: **AmEx 13.7%, Coke 8.9%, IBM 6.0%, Wells Fargo 8.7%** — $3.9B share of earnings; $1.1B dividends received; $26.7B unrealized gains. The gap between dividends received and earnings share widens to $2.8B annually.
+
+**Investment record:** Per-share investments grew at **19.4% CAGR** since 1970; per-share non-insurance earnings grew at **20.8% CAGR**. The operating-earnings column now dominates — confirming the structural transformation from investment vehicle to operating conglomerate.
+
+**Derivatives:** Credit-protection contracts expiring next year (~$1B expected profit). Equity puts: $3.9B settlement value (down from $6.2B in 2011), $7.5B GAAP liability — the Black-Scholes overstatement continues to wind down[^20].
+
+[^19]: [2011 Letter](../sources/buffett-letter-2011.md) — Big Four $862M dividends/$3.3B earnings share/$2.4B unreported; IBM replaces Gillette; eight Fortune 500 subsidiaries
+
+[^20]: [2012 Letter](../sources/buffett-letter-2012.md) — non-real amortization essay ($600M; 80% phantom); Wells Fargo core deposit $1.5B; Big Four $3.9B earnings/$1.1B dividends; 19.4%/20.8% CAGRs; derivatives winding down

@@ -13,9 +13,10 @@ sources:
     buffett-letter-1988,
     buffett-letter-1989,
     buffett-letter-2004,
+    buffett-letter-2011,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [inflation, valuation, risk, taxes, principle]
 ---
@@ -118,3 +119,17 @@ This essay extends the inflation principle from domestic purchasing power to int
 [^6]: [1989 Letter](../sources/buffett-letter-1989.md) — Rip Van Winkle tax advantage
 
 [^7]: [2004 Letter](../sources/buffett-letter-2004.md) — $618B current account deficit; $21.4B foreign currency / 12 currencies; "Sharecropper's Society"; $3T foreign net ownership; $11T projection; $1.8B/day wealth transfer; budget vs. trade deficit; Keynes "fail conventionally"; W.C. Fields
+
+### The Three Investment Categories — Definitive Treatment (2011)
+
+**[2011 Letter]** The **"Basic Choices for Investors"** essay supersedes the 1981 tapeworm analysis as Buffett's most comprehensive statement on inflation and asset selection. Three categories:
+
+**Category 1: Currency-denominated investments** — bonds, money markets, bank deposits. "Most of these are thought of as 'safe.' In truth they are among the most dangerous of assets." The purchasing-power proof: $1 in 1965 now buys what 14¢ did then. Even with a tax-free return of 2% against 2% inflation, investors maintain purchasing power — barely. But governments printing money to fund deficits will inevitably produce inflation: "The raging bull market in [currency investments] that we've recently experienced has been in large part produced by an insatiable desire for 'safety.'"
+
+**Category 2: Nonproductive assets** — gold, tulips, Bitcoin, etc. The **gold cube** thought experiment is the centerpiece: all the world's gold (170,000 metric tons) forms a 68-foot cube worth ~$9.6T. For the same price, "Pile B" buys: (a) all U.S. cropland (~$400B, producing $200B/year output); (b) 16 Exxon Mobils (~$400B each, $6.4T, earning $40B/year each); and (c) $1T walking-around money. "A century from now... the 16 Exxons will probably have delivered trillions of dollars in dividends... Can you imagine anyone selecting Pile A?"
+
+**Category 3: Productive assets** — businesses, farmland, real estate. "The runaway winner over any extended period of time... and by far the safest." The critical insight connecting to the 1979-1981 inflation analysis: productive assets deliver output measured in _real units_ (bushels, barrels, widgets), not nominal currency. Inflation changes the price tag; it doesn't destroy the output. Businesses with pricing power and low capital requirements (See's Candies, Coca-Cola) pass inflation through to customers while requiring minimal additional capital.
+
+This essay resolves the earlier tension between the 1981 tapeworm pessimism (inflation destroys all equity returns) and the 1983 Goodwill optimism (some businesses thrive in inflation). The synthesis: productive assets with strong competitive positions are the only reliable inflation defense. Currency-denominated assets are the most dangerous precisely when they feel safest. And nonproductive assets (gold) are a bet on fear — "What motivates most gold purchasers is their belief that the ranks of the fearful will grow"[^8].
+
+[^8]: [2011 Letter](../sources/buffett-letter-2011.md) — three investment categories essay; gold cube $9.6T vs. Pile B; currency "most dangerous"; productive assets "runaway winner and safest"; purchasing power proof

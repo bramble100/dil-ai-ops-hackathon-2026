@@ -44,3 +44,17 @@ Marmon demonstrates Berkshire's "buyer of choice" advantage at its purest: a Chr
 Frank Ptak delivers a **13.5% operating margin** — a record under his leadership. The staged acquisition structure, unique in Berkshire's history, is working exactly as designed: Berkshire acquires increasing ownership at formula prices tied to earnings, aligning incentives for the operating team[^3].
 
 [^3]: [2010 Letter](../sources/buffett-letter-2010.md) — $1.5B for 17% (to ~80%); 130 businesses; Frank Ptak 13.5% margin; 100% expected 2013-14
+
+## 2011: To 80% and 10 of 11 Sectors Gain
+
+**[2011 Letter]** Berkshire consolidates at **80% ownership**. A **$614M GAAP write-off** results from the formula-price mechanics — "no economic reality" to the charge. 10 of 11 Marmon sectors gained earnings year-over-year. The staged acquisition continues to align incentives perfectly[^4].
+
+## 2012: To 90% and Union Tank Car Spotlight
+
+**[2012 Letter]** Berkshire pays an additional increment to reach **90% ownership** ($700M additional write-off; implied total enterprise value: **$12.6B for 90%**, ~$4.6B in excess of book). Marmon now operates **~150 businesses**.
+
+**Union Tank Car/Procor** spotlighted: **97,000 tank cars** with **$4B net book value**, branded under the iconic **UTLX** logo. BNSF and Marmon both benefit from the US oil production resurgence — BNSF transports oil, Marmon's tank cars carry it[^5].
+
+[^4]: [2011 Letter](../sources/buffett-letter-2011.md) — 80% ownership; $614M GAAP write-off; 10 of 11 sectors gained
+
+[^5]: [2012 Letter](../sources/buffett-letter-2012.md) — 90% ownership; $700M write-off; $12.6B implied value; 150 businesses; Union Tank Car 97,000 cars/$4B; UTLX

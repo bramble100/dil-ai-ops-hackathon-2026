@@ -28,9 +28,11 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [moats, valuation, principle, mental-model]
 ---
@@ -366,3 +368,25 @@ The construction downturn illustrates moat resilience under stress: Shaw + Johns
 [^15]: [2009 Letter](../sources/buffett-letter-2009.md) — NetJets $157M cumulative loss; Dave Sokol takeover; capital-intensive welcome; BNSF/MidAmerican new category
 
 [^16]: [2010 Letter](../sources/buffett-letter-2010.md) — TTI/Forest River/CTB records; construction downturn $362M vs. $1.3B; NetJets $207M turnaround; Dave Sokol
+
+### Fabulous Five, See's Record, and Newspaper Resurgence (2011-2012)
+
+**[2011 Letter]** The **"Fabulous Five"** — BNSF, Iscar, Lubrizol, Marmon, and MidAmerican — earn **>$9B pre-tax**, up from $393M when only MidAmerican was owned seven years earlier. Eight Berkshire subsidiaries now individually qualify for the Fortune 500. The capital-intensive pivot produces ever-larger moats: these businesses require enormous capital but earn reasonable returns on it, and their competitive positions strengthen with scale.
+
+**See's Candies** posts a **record $83M pre-tax** with **$1.65B cumulative** pre-tax profits since the $25M purchase. Brad Kinstler continues as CEO. The "buy commodities, sell brands" franchise model still delivers 40+ years after acquisition.
+
+**Housing depression continues:** Five housing-related businesses (Shaw, Johns Manville, Acme, MiTek, Clayton) earned $513M vs. $1.8B in 2006, with 43,315 employees vs. 58,769. "When the housing recovery comes, these companies will again show fine earnings" — the moats are intact; the economics are cyclically depressed.
+
+**Clayton:** 7% of all homes built nationally; old-fashioned lending validates that sensible underwriting survives when bubble-era competitors fail.
+
+**CTB** sets a record at $124M pre-tax. **TTI** records $2.1B in sales[^17].
+
+**[2012 Letter]** The **Powerhouse Five** (renamed from Fabulous Five) earn **$10.1B aggregate pre-tax** — ~$600M more than 2011. Record **$9.8B capex** (88% US) and record **$2.3B bolt-on acquisitions** (26 companies) demonstrate that these capital-intensive franchises grow their moats through reinvestment.
+
+**Newspaper acquisition essay:** Buffett acquires **28 daily newspapers for $344M** — a stunning reversal of the 2006 "obituary." His thesis: local news retains "primacy" in communities; the Internet destroyed national and classified advertising but cannot replicate community coverage. The pay model emerging (Arkansas Democrat-Gazette as exemplar) can work for papers with strong local franchises. The original insight holds: "Survival of the Fattest" created these monopolies; Internet disrupted them — but local papers may be the surviving subspecies of a once-great franchise.
+
+**HomeServices:** $42B in home sales (+33%); acquired Prudential/Real Living franchise operations (67% of US realtors). Rebranding to "Berkshire Hathaway HomeServices" — leveraging the Berkshire name for franchise value[^18].
+
+[^17]: [2011 Letter](../sources/buffett-letter-2011.md) — Fabulous Five $9B+; eight Fortune 500 subsidiaries; See's $83M record/$1.65B cumulative; housing $513M vs. $1.8B; CTB $124M; TTI $2.1B
+
+[^18]: [2012 Letter](../sources/buffett-letter-2012.md) — Powerhouse Five $10.1B; $9.8B capex; $2.3B bolt-ons (26 cos); newspaper $344M/28 dailies; HomeServices $42B; Berkshire Hathaway HomeServices

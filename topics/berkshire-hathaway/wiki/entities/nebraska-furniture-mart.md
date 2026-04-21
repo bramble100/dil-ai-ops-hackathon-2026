@@ -113,3 +113,9 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 [^5]: [1993 Letter](../sources/buffett-letter-1993.md) — ~$200M sales; Mrs. B turns 100
 
 [^6]: [2003 Letter](../sources/buffett-letter-2003.md) — Kansas City store — country's largest-volume home-furnishings store; President Bush visit; Mrs. B quote
+
+### 2011: Record Earnings and Dallas Expansion
+
+**[2011 Letter]** NFM posts **record earnings** — 10x the level of 1983 (the year of acquisition). A **433-acre tract** is acquired north of Dallas for a new store — "almost certain to be the highest-volume home-furnishings store in the country" when completed. The Kansas City model (massive destination store) is being replicated in the DFW market[^7].
+
+[^7]: [2011 Letter](../sources/buffett-letter-2011.md) — record earnings (10x 1983); 433-acre Dallas tract; highest-volume prediction

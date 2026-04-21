@@ -1113,3 +1113,43 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Our headquarters expense amounts to about $270,000 for rent and $301,000 for other costs — furniture, art, Cokes, candy, and Charlie's New York Times." — 2010 Letter
 >
 > Context: The 20-person Omaha office that manages a $200B+ enterprise. → [Business Quality](principles/business-quality.md)
+
+### Inflation & Asset Categories (2011)
+
+> "Most of these currency-based investments are thought of as 'safe.' In truth they are among the most dangerous of assets." — 2011 Letter
+>
+> Context: The three investment categories essay — bonds and money-market funds feel safe but destroy purchasing power. → [Inflation and Investing](principles/inflation-and-investing.md)
+
+> "Can you imagine anyone selecting Pile A?" — 2011 Letter
+>
+> Context: The gold cube ($9.6T) vs. Pile B (all US cropland + 16 Exxon Mobils + $1T cash). The rhetorical question that demolishes gold as an investment. → [Mr. Market](principles/mr-market.md)
+
+> "What motivates most gold purchasers is their belief that the ranks of the fearful will grow." — 2011 Letter
+>
+> Context: Nonproductive assets are a bet on fear, not fundamentals. → [Inflation and Investing](principles/inflation-and-investing.md)
+
+### Capital Allocation (2011-2012)
+
+> "A major unforced error." — 2011 Letter
+>
+> Context: On the ~$2B Energy Future Holdings bond position (natural gas price bet gone wrong). $1.4B in cumulative writedowns. → [Capital Allocation](principles/capital-allocation.md)
+
+> "The first law of capital allocation — whether the money is slated for acquisitions or share repurchases — is that what is smart at one price is dumb at another." — 2012 Letter
+>
+> Context: On raising the share repurchase threshold from 110% to 120% of book value. → [Capital Allocation](principles/capital-allocation.md)
+
+### Dividends & Ownership (2012)
+
+> "America's destiny has always been clear: ever-increasing abundance." — 2012 Letter
+>
+> Context: Connecting his first stock purchase (spring 1942, Pacific war setbacks) to the present — acting on fear would have been catastrophically wrong. → [Mr. Market](principles/mr-market.md)
+
+> "Every storm runs out of rain." — 2012 Letter
+>
+> Context: Closing optimism restated — the American economic engine endures through all crises. → [Mr. Market](principles/mr-market.md)
+
+### Business Quality (2011-2012)
+
+> "Now it's a treasure." — 2011 Letter
+>
+> Context: On General Re's transformation from a $1.4B+ loss-making acquisition to a consistently profitable pillar of Berkshire's insurance operations under Tad Montross. → [General Re](entities/general-re.md)

@@ -33,9 +33,11 @@ sources:
     buffett-letter-2006,
     buffett-letter-2007,
     buffett-letter-2008,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [capital-allocation, buybacks, valuation, principle]
 ---
@@ -651,3 +653,41 @@ These advantages compound: managers stay because of the culture; the culture att
 [^19]: [2009 Letter](../sources/buffett-letter-2009.md) — BNSF $26.5B; stock issuance analysis; capital-intensive pivot; "raining gold"; Berkadia
 
 [^20]: [2010 Letter](../sources/buffett-letter-2010.md) — BNSF +40% earning power; $17B normal pre-tax; three advantages; $6B/$8B capex; Todd Combs; Goldman/GE preferreds called
+
+### Share Repurchase Formalized and Dividend Policy Definitive Statement (2011-2012)
+
+**[2011 Letter]** The share repurchase framework — discussed theoretically for decades — is formalized as Berkshire policy. Two conditions: (1) ample liquidity (minimum $20B cash after repurchase) and (2) stock trading at a "material discount" to intrinsic value. The initial threshold is set at **110% of book value**. Berkshire repurchases $67M before the stock advances above the limit.
+
+**The IBM repurchase math:** Buffett devotes an entire section to explaining why shareholders of a repurchasing company should hope for _lower_ stock prices during the buyback period. Using IBM (63.9M shares, $10.9B cost, 5.5% ownership), he constructs a five-year scenario: if IBM earnings grow 20% and shares outstanding decline 20%, Berkshire's earnings share rises dramatically — but only if the stock stays low during the repurchase period. "In the end, the math is simple: If the business does well over time, so will the stock."
+
+**Crisis preferreds redeemed:** Swiss Re, Goldman Sachs, and GE preferreds called at $12.8B aggregate — producing ~$1.2B premium but eliminating ~$1.2B in annual pre-tax income. The preferreds served their purpose as crisis-era capital deployment.
+
+**Energy Future Holdings:** ~$2B bond position (natural gas price bet); $1B writedown in 2010, $390M in 2011. "A major unforced error" — the only deployment-of-capital mistake Buffett confesses this year.
+
+**Fabulous Five:** BNSF, Iscar, Lubrizol, Marmon, and MidAmerican earn **>$9B pre-tax** — only MidAmerican was owned seven years earlier ($393M pre-tax then). Eight subsidiaries now qualify individually for the Fortune 500.
+
+**Record $8.2B capex** (95% in US), smashing the previous record by $2B+. The capital-intensive pivot continues to accelerate.
+
+**Todd Combs + Ted Weschler:** Both now managing portfolios ($1.75B each at cost). Compensation: 80% of salary from a fixed amount, 20% based on outperformance vs. S&P over a rolling period. Succession advanced: one CEO candidate + two backups; three CIO candidates; "when a transfer of responsibility is required, it will be seamless"[^21].
+
+**[2012 Letter]** The repurchase threshold is **raised from 110% to 120%** of book value (December 2012; a large block was available at ~116%). Buffett explains: "The first law of capital allocation — whether the money is slated for acquisitions or share repurchases — is that what is smart at one price is dumb at another."
+
+**Five building blocks** for increasing per-share intrinsic value codified:
+
+1. Improve subsidiary earnings
+2. Increase value through bolt-on acquisitions
+3. Benefit from investee growth (Big Four + others)
+4. Repurchase shares at a discount to intrinsic value
+5. Make occasional large acquisitions
+
+"We rarely issue shares" — the anti-dilution discipline from 1982 remains ironclad.
+
+**Dividend policy essay — definitive treatment:** Mathematical proof that a sell-off policy (selling 3.2% of shares annually) outperforms a dividend for a company earning 12% ROE trading at 125% of book. Buffett's personal case: gave away 4¼% of shares annually for seven years; the book value of his remaining shares grew from $28.2B to $40.2B. "The sell-off policy would generate $600,000 cash annually vs. $270,000 from a 40% payout ratio" — and the seller retains a larger share of a growing pie.
+
+**Heinz:** $12B investment (50% with Jorge Paulo Lemann): $4B common equity each + $8B 9% preferred with warrants for 5% at nominal cost. The partnership model — operational excellence (Lemann/3G) combined with permanent capital (Berkshire) — extends the acquisition playbook into a new structure.
+
+**Record $9.8B capex** (88% US, 19% above 2011 record); record **$2.3B in bolt-on acquisitions** (26 companies). The capital deployment machine at full throttle[^22].
+
+[^21]: [2011 Letter](../sources/buffett-letter-2011.md) — share repurchase 110% threshold; IBM math; crisis preferreds redeemed $12.8B; Energy Future Holdings $2B error; Fabulous Five $9B+; $8.2B capex; Todd/Ted hired; succession
+
+[^22]: [2012 Letter](../sources/buffett-letter-2012.md) — repurchase raised 120%; five building blocks; dividend essay (sell-off math); Heinz $12B with Lemann; $9.8B capex; $2.3B bolt-ons (26 companies)

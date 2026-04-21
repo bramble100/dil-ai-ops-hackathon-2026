@@ -275,6 +275,20 @@ The **GEICO credit card fiasco** is confessed: a credit card program launched wi
 
 [^20]: [2010 Letter](../sources/buffett-letter-2010.md) — 8.8% share; $14.3B premium; $14B economic goodwill vs. $1.4B carried; 60-year retrospective; Lou Simpson retires; Todd Combs
 
+### 2011: 9.3% Market Share and Tony Nicely's 50 Years
+
+**[2011 Letter]** GEICO reaches **9.3% market share** — up from 2.0% when Tony Nicely became CEO 18 years earlier. Premiums: **$15.4B**. Tony Nicely completes **50 years of service** at GEICO — one of the longest tenures in the insurance industry. The GEICO growth machine continues to demonstrate that a low-cost operator with strong advertising ($800M+ annually) can steadily gain share in a commodity market[^21].
+
+### 2012: 9.7% Share and Hurricane Sandy
+
+**[2012 Letter]** Market share advances to **9.7%** (from 2.5% when Berkshire took control in 1995). Premiums: **$16.7B**.
+
+**Hurricane Sandy** is the **largest single catastrophe loss in GEICO's history** — **46,906 vehicles** processed, more than **3x Hurricane Katrina**. Despite this unprecedented event, GEICO delivers another profitable year — validating the underwriting discipline that has produced profitable results in 10+ consecutive years[^22].
+
+[^21]: [2011 Letter](../sources/buffett-letter-2011.md) — 9.3% share; $15.4B premiums; Tony Nicely 50 years
+
+[^22]: [2012 Letter](../sources/buffett-letter-2012.md) — 9.7% share; $16.7B premiums; Hurricane Sandy 46,906 vehicles (3x Katrina); largest single loss in history
+
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
 
 [^16]: [2004 Letter](../sources/buffett-letter-2004.md) — GEICO 69-year history; ~6% market share 2005; New Jersey re-entry 140K policyholders; $970M underwriting profit; float $5,960M; Lou Simpson 25-year 20.3% CAGR; profit-sharing $191M (24.3%)

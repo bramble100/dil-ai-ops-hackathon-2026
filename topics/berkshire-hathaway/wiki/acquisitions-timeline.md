@@ -2,7 +2,7 @@
 title: "Acquisitions & Major Investments Timeline"
 type: overview
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [capital-allocation, retrospective]
 ---
 
@@ -118,6 +118,17 @@ Chronological list of acquisitions and major investment positions as documented 
 | 2009    | BNSF (Burlington Northern Santa Fe)     | ~$26.5B total                            | —                 | ~$22B cash + 6.1% new Berkshire shares; 23,000 miles track; 38,000 employees; largest Berkshire deal ever                 | [BNSF](entities/bnsf.md)                                         |
 | 2009    | Berkadia (50/50 with Leucadia)          | undisclosed                              | —                 | $235B commercial mortgage servicing portfolio; joint venture                                                              | [Capital Allocation](principles/capital-allocation.md)           |
 | 2010    | Marmon Group (to ~80%)                  | $1.5B (for additional 17%)               | —                 | 130 businesses; staged formula-price acquisition; 100% expected 2013-14                                                   | [Marmon Group](entities/marmon-group.md)                         |
+| 2011    | Lubrizol                                | ~$4.5B                                   | —                 | Specialty chemicals; James Hambrick CEO; pre-tax $147M→$1,085M; three bolt-ons ($493M) agreed immediately                 | [Lubrizol](entities/lubrizol.md)                                 |
+| 2011    | IBM (63.9M shares, 5.5%)                | $10.9B                                   | —                 | Big Four member; repurchase-math essay vehicle; services/software transformation                                          | [IBM](entities/ibm.md)                                           |
+| 2011    | Bank of America preferred               | $5B                                      | —                 | 6% preferred + warrants for 700M shares at $7.14 (expire Sept 2, 2021); crisis-era structure                              | [Capital Allocation](principles/capital-allocation.md)           |
+| 2011    | Swiss Re/Goldman/GE preferreds redeemed | $12.8B aggregate                         | —                 | ~$1.2B premium; ~$1.2B annual pre-tax income lost; crisis preferreds served their purpose                                 | [Capital Allocation](principles/capital-allocation.md)           |
+| 2011    | Princeton Insurance                     | undisclosed                              | —                 | Workers compensation specialty insurer; ~$600M float                                                                      | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2011    | Marmon Group (to ~80% consolidated)     | formula price                            | —                 | $614M GAAP write-off; 10 of 11 sectors gained earnings; no economic reality to write-off                                  | [Marmon Group](entities/marmon-group.md)                         |
+| 2012    | 28 daily newspapers                     | $344M total                              | —                 | Local news primacy thesis; pay model emerging; Arkansas Democrat-Gazette exemplar                                         | [Buffalo Evening News](entities/buffalo-evening-news.md)         |
+| 2012    | Guard Insurance                         | undisclosed                              | —                 | Workers comp; ~$300M premiums; extends primary insurance platform                                                         | [Underwriting Discipline](principles/underwriting-discipline.md) |
+| 2012    | Marmon Group (to 90%)                   | formula price                            | —                 | $700M write-off; implied $12.6B total value for 90%; 150 businesses; Union Tank Car 97,000 cars                           | [Marmon Group](entities/marmon-group.md)                         |
+| 2012    | 26 bolt-on acquisitions                 | $2.3B total (record)                     | —                 | Record bolt-on year; part of five building blocks strategy                                                                | [Capital Allocation](principles/capital-allocation.md)           |
+| 2013\*  | H.J. Heinz (50%, with 3G Capital)       | $12B ($4B equity + $8B preferred)        | —                 | Announced Feb 2013 in 2012 letter; 9% preferred + warrants for 5% at nominal; Jorge Paulo Lemann partnership              | [Capital Allocation](principles/capital-allocation.md)           |
 
 ## Connections
 

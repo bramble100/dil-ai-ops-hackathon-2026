@@ -116,3 +116,11 @@ Buffett uses his Coke board experience to deliver a forceful essay on **board in
 The Goldman Sachs and GE preferred stocks, by contrast, are being called — producing a ~$1.4B aggregate premium but reducing Berkshire's ongoing investment income. The comparison highlights why equity ownership of great businesses (Coke) compounds better than fixed-income positions (preferreds) over long horizons[^9].
 
 [^9]: [2010 Letter](../sources/buffett-letter-2010.md) — $13.2B value; $376M expected dividends; "time is the friend"; patient ownership compounding
+
+### 2011-2012: Big Four Pillar
+
+**[2011 Letter]** Coca-Cola remains a Big Four holding at **8.8% ownership**. Berkshire's share of Coke's retained earnings is part of the $3.3B combined Big Four look-through (vs. $862M dividends). The dividend compounding thesis continues to play out exactly as Buffett described in 2010.
+
+**[2012 Letter]** Ownership rises to **8.9%**. Part of the $3.9B combined Big Four earnings share. The patient-ownership model — hold a wonderful business forever, let dividends compound — remains the foundational Coca-Cola case study[^10].
+
+[^10]: [2011 Letter](../sources/buffett-letter-2011.md) & [2012 Letter](../sources/buffett-letter-2012.md) — Big Four; 8.8%/8.9% ownership; look-through earnings growing

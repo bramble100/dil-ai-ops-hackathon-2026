@@ -33,9 +33,11 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [valuation, compounding]
 ---
@@ -144,6 +146,10 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 - **[2009 Letter]** Net worth gain $21.8B (+19.8%); per-share book value $84,487; 45-year CAGR 20.3%. Strong rebound from crisis year. Overall gain 1964-2009: 434,057%. BNSF acquisition announced — adds 65,000 new shareholders. Float $62B with $1.559B underwriting profit (seven consecutive profitable years). The letter serves as "freshman orientation" for the flood of new shareholders joining via the BNSF deal.
 
 - **[2010 Letter]** Net worth gain +13.0%; per-share book value $95,453; 46-year CAGR 20.2%. Overall gain 1964-2010: 490,409%. BNSF first full year adds ~40% to normal pre-tax earning power (~$17B pre-tax, ~$12B after-tax). Three-pillar intrinsic value framework introduced: (1) $158B investments at market, (2) $5,926/share non-insurance pre-tax earnings (21.0% CAGR over 40 years), (3) retained-earnings deployment efficacy. Float $65.8B with $2.013B underwriting profit (eight consecutive profitable years; $17B cumulative). "Ignore our net income figure" — operating earnings are the meaningful metric.
+
+- **[2011 Letter]** Net worth gain $10.9B (+4.6%); per-share book value $99,860; 47-year CAGR 19.8%. Overall gain 1964-2011: 513,055%. The modest +4.6% reflects a subpar year for equity markets — but Buffett notes that the five building blocks of per-share value creation all produced gains. Record $8.2B capex (95% US). Fabulous Five (BNSF, Iscar, Lubrizol, Marmon, MidAmerican) earned >$9B pre-tax. Share repurchase policy formalized at 110% of book value ($67M purchased). Energy Future Holdings: ~$1.4B cumulative writedown on a $2B position — "a major unforced error." Float $70.6B with nine consecutive profitable underwriting years ($17B cumulative).
+
+- **[2012 Letter]** Net worth gain $24.1B (+14.4%); per-share book value $114,214; 48-year CAGR 19.7%. Overall gain 1964-2012: 586,817%. "Our book-value gain of 14.4% fell short of the S&P index's 16.0% gain" — ninth time in 48 years Berkshire underperformed. Buffett warns the five-year rolling comparison may soon snap. Five building blocks codified. Powerhouse Five earned $10.1B. Record $9.8B capex (88% US). Record $2.3B bolt-on acquisitions (26 companies). Share repurchase limit raised to 120% of book value. Investment record: per-share investments 19.4% CAGR since 1970; per-share non-insurance earnings 20.8% CAGR. Float $73.1B with ten consecutive profitable years ($18.6B cumulative). 288,462 total employees.
 
 ## The Inflation Caveat
 

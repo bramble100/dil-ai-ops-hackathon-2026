@@ -112,3 +112,11 @@ But cable, satellite, and internet destroyed the information monopoly: "if cable
 Stan Lipsey praised alongside editor Margaret Sullivan — the News retains highest market penetration among the country's large newspapers. But "unrelenting pressures will cause profit margins to slide." Buffett commits to keeping the paper (economic principle 11) but is blunt: "the days of lush profits from our newspaper are over." Non-economic buyers will emerge "just as we have seen such buyers acquire major sports franchises" — but "there's no rule that says a newspaper's revenues can't fall below its expenses"[^10].
 
 [^10]: [2006 Letter](../sources/buffett-letter-2006.md) — newspaper industry decline; "Survival of the Fattest" history; internet disruption; Stan Lipsey; Margaret Sullivan; "days of lush profits over"
+
+### 2012: Stan Lipsey Retires and Newspaper Resurgence
+
+**[2012 Letter]** **Stan Lipsey retires** as publisher of the Buffalo News after **30+ years**. Buffett recounts the dramatic history: the 1977 launch of a Sunday edition triggered the Courier-Express's lawsuit and a four-year near-death struggle. The Courier-Express folded in 1982; the News became Buffalo's sole daily — but the victory was hard-fought and "came close to not happening."
+
+The same letter announces Berkshire's acquisition of **28 daily newspapers for $344M** — a stunning reversal of the 2006 obituary. Buffett's new thesis: local news retains "primacy" even as national papers decline. The Buffalo News's long history under Lipsey illustrates both the old-era franchise power and the new-era challenges of local journalism[^11].
+
+[^11]: [2012 Letter](../sources/buffett-letter-2012.md) — Stan Lipsey retires; 30+ years; 1977 Sunday edition history; 28 dailies acquired/$344M

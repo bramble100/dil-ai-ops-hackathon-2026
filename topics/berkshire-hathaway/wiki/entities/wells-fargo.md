@@ -67,3 +67,17 @@ The Reichardt/Hazen parallel to Murphy/Burke at Capital Cities: each pair is "st
 **[2010 Letter]** Berkshire holds **358.9 million shares** with a market value of **$11.1B**. Wells Fargo demonstrates "enormous financial strength" through the crisis, but the Federal Reserve freezes its dividend as part of the industry-wide stress testing regime. Buffett notes the dividend freeze reduces Berkshire's income but does not diminish his confidence in Wells Fargo's long-term value[^4].
 
 [^4]: [2010 Letter](../sources/buffett-letter-2010.md) — 358.9M shares; $11.1B market value; Fed dividend freeze; "enormous financial strength"
+
+### 2011: Big Four Member at 7.6% Ownership
+
+**[2011 Letter]** Wells Fargo is one of the **Big Four** (AmEx 13.0%, Coke 8.8%, IBM 5.5%, **Wells Fargo 7.6%**). Berkshire's share of retained earnings from all four: $3.3B (vs. $862M dividends received). Wells Fargo continues to demonstrate strong fundamentals through the post-crisis recovery[^5].
+
+### 2012: 456.2M Shares and Non-Real Amortization
+
+**[2012 Letter]** Berkshire holds **456.2 million shares** at **$15.6B market value**. Ownership: **8.7%**. Wells Fargo is the centerpiece of the **non-real amortization teaching essay**: the bank carries ~$1.5B/year in core deposit intangible amortization that is entirely phantom — "the deposit base typically grows, it doesn't shrink." Understanding this distinction is "essential to any calculation of intrinsic value."
+
+Big Four earnings share: $3.9B total; $1.1B dividends received; $26.7B unrealized gains across all four positions[^6].
+
+[^5]: [2011 Letter](../sources/buffett-letter-2011.md) — Big Four; 7.6% ownership; $3.3B combined earnings share
+
+[^6]: [2012 Letter](../sources/buffett-letter-2012.md) — 456.2M shares; $15.6B value; 8.7%; non-real amortization ~$1.5B; core deposit teaching

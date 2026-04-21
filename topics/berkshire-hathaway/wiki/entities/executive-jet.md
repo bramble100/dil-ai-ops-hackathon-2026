@@ -114,3 +114,9 @@ The turnaround validates Buffett's oft-stated principle that the right manager i
 [^9]: [2009 Letter](../sources/buffett-letter-2009.md) — $157M cumulative loss; $1.9B debt; Dave Sokol takeover August 2009; Santulli departs
 
 [^10]: [2010 Letter](../sources/buffett-letter-2010.md) — $207M profit; $918M swing; $38M guarantee fee; Dave Sokol turnaround
+
+### 2011: Jordan Hansell and $227M Pre-Tax
+
+**[2011 Letter]** **Jordan Hansell** takes over as CEO in April (succeeding Dave Sokol). NetJets earns **$227M pre-tax** — sustaining the turnaround momentum. China expansion planned. The business is now a meaningful contributor to Berkshire's earnings[^11].
+
+[^11]: [2011 Letter](../sources/buffett-letter-2011.md) — Jordan Hansell CEO April; $227M pre-tax; China expansion planned

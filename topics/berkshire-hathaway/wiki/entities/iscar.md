@@ -61,3 +61,11 @@ Buffett and five Berkshire associates visited ISCAR in Israel in September 2006 
 **[2010 Letter]** ISCAR's profits surge **159%** above the recession trough as industrial demand recovers. Tungaloy integration proceeding well. The consumable-tool model proves highly resilient: customers need cutting tools whenever they manufacture anything, making demand recovery swift when industrial production rebounds. Under Eitan Wertheimer and Jacob Harpaz, ISCAR continues to expand globally[^4].
 
 [^4]: [2010 Letter](../sources/buffett-letter-2010.md) — profits up 159%; Tungaloy integration; demand recovery
+
+## 2011-2012: Fabulous Five / Powerhouse Five Member
+
+**[2011 Letter]** ISCAR joins BNSF, Lubrizol, Marmon, and MidAmerican as one of the **"Fabulous Five"** earning **>$9B pre-tax** combined. Three bolt-on acquisitions ($493M) agreed immediately after the Lubrizol deal. ISCAR's consumable-tool model continues to deliver strong recurring revenues across the global industrial recovery.
+
+**[2012 Letter]** Renamed as part of the **"Powerhouse Five"** earning **$10.1B aggregate pre-tax**. ISCAR contributes meaningfully to the ~$600M year-over-year earnings increase. The global platform — Israel, China, Japan, Korea, and dozens of other countries — is among the most diversified in Berkshire's portfolio[^5].
+
+[^5]: [2011 Letter](../sources/buffett-letter-2011.md) & [2012 Letter](../sources/buffett-letter-2012.md) — Fabulous Five / Powerhouse Five member; $9B+/$10.1B combined; bolt-on acquisitions

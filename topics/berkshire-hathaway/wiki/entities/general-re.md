@@ -141,3 +141,15 @@ General Re's turnaround from the 1999-2001 crisis years to consistent profitabil
 [^10]: [2009 Letter](../sources/buffett-letter-2009.md) — outstanding year; Tad Montross; 100% Cologne Re; float $21.0B
 
 [^11]: [2010 Letter](../sources/buffett-letter-2010.md) — four insurance commandments; continued excellence under Montross
+
+## 2011: "Now It's a Treasure"
+
+**[2011 Letter]** Tad Montross observes all four insurance commandments. Buffett's verdict: **"Now it's a treasure"** — a remarkable rehabilitation from the 1999-2001 crisis years when General Re posted $1.4B+ in losses. The transformation from troubled acquisition to prized subsidiary is one of the great turnaround stories in insurance history[^12].
+
+## 2012: International Life Reinsurance Growth
+
+**[2012 Letter]** General Re is **"enthusiastic about international life reinsurance business"** — the global platform (100% Cologne Re since 2009) continues to expand. Tad Montross maintains disciplined underwriting. General Re's consistent profitability since the Brandon/Montross reforms is integral to Berkshire's ten consecutive years of aggregate underwriting profit[^13].
+
+[^12]: [2011 Letter](../sources/buffett-letter-2011.md) — "now it's a treasure"; Tad Montross; four commandments
+
+[^13]: [2012 Letter](../sources/buffett-letter-2012.md) — international life reinsurance growth; Cologne Re platform; Montross discipline

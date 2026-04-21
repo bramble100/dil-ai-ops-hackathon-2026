@@ -162,3 +162,11 @@ Brad Kinstler now CEO (succeeding Chuck Huggins in 2005); profits increased more
 **[2005 Letter]** Chuck Huggins retires after **34 years** running See's (from day one of Berkshire's ownership). Brad Kinstler succeeds him as CEO. Under Huggins's tenure, See's grew from $4.2M pre-tax (1972) to a multi-decade run of excellent earnings, generating well over $1B in cumulative pre-tax profits that funded Berkshire's growth. Buffett's tribute is characteristically understated but implicit in the context: Huggins was one of the longest-serving and most successful managers in Berkshire history[^8].
 
 [^8]: [2005 Letter](../sources/buffett-letter-2005.md) — Chuck Huggins retires after 34 years; Brad Kinstler succeeds
+
+### 2011: Record $83M and $1.65B Cumulative
+
+**[2011 Letter]** See's posts a **record $83M pre-tax** — extending the four-decade run of excellence. Cumulative pre-tax profits since the $25M purchase: **$1.65B**. Brad Kinstler continues as CEO (since 2006).
+
+The See's case study remains the foundational teaching example: $25M purchase price, $32M total reinvestment, $1.65B in cumulative cash extracted. "Buy commodities, sell brands" — the franchise model that generates ever-increasing cash on minimal capital[^10].
+
+[^10]: [2011 Letter](../sources/buffett-letter-2011.md) — record $83M pre-tax; $1.65B cumulative; Brad Kinstler CEO

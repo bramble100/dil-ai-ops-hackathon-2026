@@ -175,3 +175,21 @@ Dave Sokol also takes over NetJets in August 2009. Greg Abel increasingly visibl
 [^10]: [2009 Letter](../sources/buffett-letter-2009.md) — $1.846B operating earnings; $3B wind spent; Sokol/Abel; social compact parallel with BNSF
 
 [^11]: [2010 Letter](../sources/buffett-letter-2010.md) — 2,909 MW wind; $5.4B invested; Iowa rates unchanged since 1999; Northern Natural #2 satisfaction; Sokol/Abel
+
+## 2011: 3,316 MW Wind and Solar Expansion
+
+**[2011 Letter]** MidAmerican delivers **$1.98B operating earnings**. Wind capacity reaches **3,316 MW** by end of 2012, with **$6B+ invested** in wind energy. Two new **solar projects** totaling ~$3B announced. Greg Abel increasingly leads the operation[^12].
+
+## 2012: 6% US Wind and 14% US Solar Planned
+
+**[2012 Letter]** MidAmerican posts **$1.96B operating earnings**. Berkshire's ownership: **89.8%**. The renewables portfolio has reached scale:
+
+- **6% of all US wind generation**
+- **Solar projects** planned to reach **14% of US solar capacity**
+- **$13B total renewables portfolio** cost
+
+Greg Abel leads the utility platform. The MidAmerican/BNSF pairing now generates the bulk of Berkshire's regulated capital-intensive earnings[^13].
+
+[^12]: [2011 Letter](../sources/buffett-letter-2011.md) — $1.98B operating earnings; 3,316 MW wind; $6B invested; solar ~$3B; Greg Abel
+
+[^13]: [2012 Letter](../sources/buffett-letter-2012.md) — $1.96B operating earnings; 89.8% owned; 6% US wind; 14% US solar planned; $13B renewables; Greg Abel

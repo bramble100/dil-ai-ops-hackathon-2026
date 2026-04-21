@@ -23,9 +23,11 @@ sources:
     buffett-letter-2006,
     buffett-letter-2007,
     buffett-letter-2008,
+    buffett-letter-2011,
+    buffett-letter-2012,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [market-psychology, valuation, principle, mental-model]
 ---
@@ -338,3 +340,25 @@ Common stocks: **$59B** in publicly traded equities plus **$21.1B** in non-trade
 [^20]: [2009 Letter](../sources/buffett-letter-2009.md) — $6.3B derivatives float; $59B common stocks; $21.1B non-traded; CEO risk control; banking chihuahua/Saint Bernard
 
 [^21]: [2010 Letter](../sources/buffett-letter-2010.md) — "ignore net income"; Black-Scholes continued; "Life and Debt"; Ernest Buffett's $1,000 letter; $10B/$20B cash pledges; leverage lethal
+
+### Three Investment Categories and IBM Repurchase Logic (2011-2012)
+
+**[2011 Letter]** The **"Basic Choices for Investors"** essay — Buffett's most comprehensive taxonomy of asset classes:
+
+**Category 1: Currency-denominated investments** (money-market funds, bonds, mortgages, bank deposits, etc.). "Most of these are thought of as 'safe.' In truth they are among the most dangerous of assets." The purchasing-power math: $1 invested in 1965 is worth only 14¢ in today's dollars. Tax-exempt bonds yielding 2% in a 2% inflation world produce zero real return. "It takes no courage to be a Treasury buyer at today's rates."
+
+**Category 2: Nonproductive assets** (gold, other commodities). These "will never produce anything." The gold thought experiment: all the world's gold forms a 68-foot cube worth ~$9.6T. For that price you could instead buy **(a)** all US cropland (~$400B), **(b)** 16 Exxon Mobils ($400B each, $6.4T total), and **(c)** still have $1T left over. "A century from now the 400 million acres of farmland will have produced staggering amounts of corn, wheat, cotton, and other crops... the 16 Exxons will probably have delivered trillions of dollars in dividends... and you will still have your $1 trillion to play with. Can you imagine anyone selecting Pile A?"
+
+**Category 3: Productive assets** (businesses, farmland, real estate). "The runaway winner over any extended period of time... and by far the safest." These are assets that deliver output regardless of the currency unit — farms produce food, businesses deliver goods and services.
+
+The IBM section applies this framework to equity investing: Berkshire owns 63.9M shares ($10.9B, 5.5%). If IBM continues aggressive repurchasing, Berkshire's ownership rises automatically. **The counterintuitive insight:** existing shareholders should root for a _lower_ stock price during the repurchase period, because more shares are retired per dollar spent. "When Berkshire buys cattle, I hope the price of beef goes down"[^22].
+
+**[2012 Letter]** The optimism-despite-uncertainty theme is restated with full force:
+
+> "America's destiny has always been clear: ever-increasing abundance." — 2012 Letter
+
+Buffett connects his first stock purchase (spring 1942, during Pacific war setbacks) to the present: "During every decade since, a host of very smart people have been certain that stocks were too high. All they accomplished was shrinking their own participation in a rising tide." The lesson: short-term fears create long-term buying opportunities. Berkshire's investment record (per-share investments: 19.4% CAGR since 1970; per-share non-insurance earnings: 20.8% CAGR) was built by acting during uncertainty, not waiting for clarity[^23].
+
+[^22]: [2011 Letter](../sources/buffett-letter-2011.md) — three investment categories; gold cube $9.6T vs. Pile B; currency-based "most dangerous"; productive assets "runaway winner"; IBM repurchase math
+
+[^23]: [2012 Letter](../sources/buffett-letter-2012.md) — "America's destiny"; first stock purchase spring 1942; 19.4%/20.8% investment CAGRs; acting during uncertainty
