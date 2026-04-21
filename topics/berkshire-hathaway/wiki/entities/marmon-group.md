@@ -2,7 +2,7 @@
 title: "Marmon Group"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2007, buffett-letter-2008]
+sources: [buffett-letter-2007, buffett-letter-2008, buffett-letter-2013]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -58,3 +58,13 @@ Frank Ptak delivers a **13.5% operating margin** — a record under his leadersh
 [^4]: [2011 Letter](../sources/buffett-letter-2011.md) — 80% ownership; $614M GAAP write-off; 10 of 11 sectors gained
 
 [^5]: [2012 Letter](../sources/buffett-letter-2012.md) — 90% ownership; $700M write-off; $12.6B implied value; 150 businesses; Union Tank Car 97,000 cars/$4B; UTLX
+
+## 2013: 100% Ownership Completed
+
+**[2013 Letter]** Berkshire completes the purchase of Marmon's remaining shares, reaching **100% ownership** — fulfilling the staged acquisition agreement signed on Christmas Day 2007. Combined with the ISCAR completion, the two purchases cost **$3.5B** total, adding **~$300M pre-tax** earning power and delivering **$800M cash**.
+
+The **$1.8B accounting charge** (shared with ISCAR) "reduced Berkshire's book value" but is "meaningless economically" — "this weird accounting instantly increased Berkshire's excess of intrinsic value over book value by the same $1.8B."
+
+Marmon remains a **Powerhouse Five** member contributing to the group's record **$10.8B pre-tax** earnings. The staged acquisition structure worked exactly as designed: formula prices aligned incentives throughout the six-year transition[^6].
+
+[^6]: [2013 Letter](../sources/buffett-letter-2013.md) — 100% ownership completed; $3.5B combined with ISCAR; $300M added pre-tax; $1.8B accounting charge; Powerhouse Five $10.8B

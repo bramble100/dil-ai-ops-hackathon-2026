@@ -32,6 +32,7 @@ sources:
     buffett-letter-2008,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -367,3 +368,19 @@ Big Four updated: **AmEx 13.7%, Coke 8.9%, IBM 6.0%, Wells Fargo 8.7%** — $3.9
 [^19]: [2011 Letter](../sources/buffett-letter-2011.md) — Big Four $862M dividends/$3.3B earnings share/$2.4B unreported; IBM replaces Gillette; eight Fortune 500 subsidiaries
 
 [^20]: [2012 Letter](../sources/buffett-letter-2012.md) — non-real amortization essay ($600M; 80% phantom); Wells Fargo core deposit $1.5B; Big Four $3.9B earnings/$1.1B dividends; 19.4%/20.8% CAGRs; derivatives winding down
+
+### Two-Pillar Intrinsic Value, Big Four $4.4B, and EBITDA Takedown (2013)
+
+**[2013 Letter]** The two quantitative pillars of intrinsic value updated: per-share investments **$129,253** (+13.6%) and per-share pre-tax operating earnings **$9,116** (+12.8%). Since 1970: investments 19.3% CAGR, operating earnings 20.6% CAGR. "It is no coincidence that the price of Berkshire stock over the 43-year period has increased at a rate very similar."
+
+**Big Four look-through deepened:** AmEx 14.2%, Coca-Cola 9.1%, IBM 6.3%, Wells Fargo 9.2% — combined **$4.4B** of 2013 earnings attributable to Berkshire. Only **$1.4B** reported as dividends; the unreported **$3B** "is every bit as valuable." The retained earnings fund share repurchases (enhancing Berkshire's ownership percentage automatically) and business reinvestment. Unrealized gains: **$39B**. Each 0.1% ownership increase = **$50M** additional annual earnings.
+
+> "It's better to have a partial interest in the Hope diamond than to own all of a rhinestone." — 2013 Letter
+
+**Non-real amortization continued:** The MSR segment's $648M amortization charges are only **~20% "real"** (software, patents that genuinely deplete). The remaining ~80% (customer relationships, trade names) "are clearly not real costs." The gap between GAAP and economic earnings grows with each acquisition. "Eventually, the non-real charges disappear when the assets become fully amortized. But this usually takes 15 years."
+
+**EBITDA critique sharpened:** "Every dime of depreciation expense we report is a real cost... When Wall Streeters tout EBITDA as a valuation guide, button your wallet." This echoes and intensifies the 1986 owner-earnings formula warning against ignoring maintenance capex.
+
+**Float-as-intrinsic-value analysis:** Insurance float ($77.2B) is deducted as a full liability in book value calculations, but if costless and long-enduring, "the true value of this liability is dramatically less than the accounting liability." The counterpart $15.5B insurance goodwill asset understates true economic value. This creates a systematic gap between book value and intrinsic value that _widens_ as float grows — "one reason — a huge reason — why we believe Berkshire's intrinsic business value substantially exceeds its book value"[^21].
+
+[^21]: [2013 Letter](../sources/buffett-letter-2013.md) — two-pillar update ($129,253/$9,116); Big Four $4.4B/$1.4B dividends/$39B unrealized; non-real amortization $648M (20% real); EBITDA "button your wallet"; float-as-intrinsic-value

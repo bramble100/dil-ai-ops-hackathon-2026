@@ -31,6 +31,7 @@ sources:
     buffett-letter-2003,
     buffett-letter-2004,
     buffett-letter-2006,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -189,3 +190,13 @@ Total Berkshire float $50.9B; Equitas adds another $7B. Retroactive reinsurance 
 [^15]: [2006 Letter](../sources/buffett-letter-2006.md) — 40th anniversary; float from $17M to $50.9B; Ringwalt parking meter; Equitas +$7B; insurance Hall of Fame roster
 
 [^14]: [2003 Letter](../sources/buffett-letter-2003.md) — PepsiCo $1B prize policy; $1.4B underwriting profit; total float $44.2B at zero cost; smaller primaries $1.3B float
+
+### 2013: BHSI Launch and Ajit's $37B Float
+
+**[2013 Letter]** **Berkshire Hathaway Specialty Insurance (BHSI)** formed June 2013 under Peter Eastwood — Berkshire's entry into **commercial insurance**. Instantly accepted by major insurance brokers and corporate risk managers because "no other insurer can match the financial strength of Berkshire." Expected to generate "volume in the billions within a few years."
+
+**Ajit Jain:** BH Reinsurance float reaches **$37.2B** with **$1,294M underwriting profit** — built from a standing start in 1985 with no actuaries. "A feat no other insurance CEO has come close to matching." Ajit's "idea factory" continues to identify new lines of business.
+
+**$250B mega-catastrophe test:** If the insurance industry experienced a $250B loss (triple anything it has ever seen), "Berkshire as a whole would likely record a significant profit for the year" while "all other major insurers and reinsurers would meanwhile be far in the red, with some facing insolvency." This is the ultimate expression of NICO's cultural DNA: financial strength as competitive moat[^16].
+
+[^16]: [2013 Letter](../sources/buffett-letter-2013.md) — BHSI formed (Peter Eastwood); Ajit $37.2B float/$1,294M profit; $250B mega-cat test; commercial insurance entry

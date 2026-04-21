@@ -18,6 +18,7 @@ sources:
     buffett-letter-1991,
     buffett-letter-1992,
     buffett-letter-2005,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -83,3 +84,11 @@ In these early letters, Munger appears primarily as a named partner rather than 
 **[2005 Letter]** Charlie, age 82, referenced in the succession discussion: "Humans age at greatly varying rates — Charlie is a wonder at 82." His sharpest moment in the letter is calling Buffett's dithering on Gen Re Securities a case of "thumb-sucking" — a characteristically blunt Mungerism for delayed action when the correct course was obvious. Buffett agrees: "When a problem exists, whether in personnel or in business operations, the time to act is now" [^4].
 
 [^4]: [2005 Letter](../sources/buffett-letter-2005.md) — age 82; "wonder" in succession context; "thumb-sucking" critique of Gen Re Securities delay
+
+### 2013: 90/10 Will Instruction
+
+**[2013 Letter]** Buffett reveals his instructions to the trustee of his wife's bequest: **"Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.)"** While Charlie is mentioned as partner throughout, the 90/10 will instruction implicitly reflects their shared view that active management adds little value for most investors — a principle Charlie has reinforced throughout his career.
+
+Buffett writes: "Both Charlie and I believe it's important that Berkshire's outside shareholders have investment beliefs that match ours" — reaffirming the two-person partnership as the philosophical core[^5].
+
+[^5]: [2013 Letter](../sources/buffett-letter-2013.md) — 90/10 will instruction; shared investment beliefs; partnership reaffirmed

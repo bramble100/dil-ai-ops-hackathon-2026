@@ -25,6 +25,7 @@ sources:
     buffett-letter-2008,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -362,3 +363,42 @@ Buffett connects his first stock purchase (spring 1942, during Pacific war setba
 [^22]: [2011 Letter](../sources/buffett-letter-2011.md) — three investment categories; gold cube $9.6T vs. Pile B; currency-based "most dangerous"; productive assets "runaway winner"; IBM repurchase math
 
 [^23]: [2012 Letter](../sources/buffett-letter-2012.md) — "America's destiny"; first stock purchase spring 1942; 19.4%/20.8% investment CAGRs; acting during uncertainty
+
+### "Some Thoughts About Investing" — Farm and NYU Parables (2013)
+
+**[2013 Letter]** The 2013 letter contains one of Buffett's most important standalone investing essays — six principles derived from two personal real-estate investments:
+
+**The Nebraska Farm (1986):** Purchased 400 acres from the FDIC for $280,000 after the farm-price bubble burst. Buffett knew nothing about farming but his son did; normalized return estimated ~10%. "I needed no unusual knowledge or intelligence." Twenty-eight years later: earnings tripled, worth 5x+ purchase price.
+
+**The NYU Retail Property (1993):** Purchased from the Resolution Trust Corp after the commercial real estate bubble. Unleveraged yield ~10%; largest tenant paying $5/ft vs. $70/ft for others (lease expiring in nine years). Annual distributions now exceed 35% of original equity.
+
+**Six principles derived:**
+
+1. **You don't need to be an expert** — "recognize your limitations and follow a course certain to work reasonably well. Keep things simple and don't swing for the fences."
+2. **Focus on future productivity** — "If you don't feel comfortable making a rough estimate of the asset's future earnings, just forget it and move on."
+3. **Price speculation is not investing** — "If you instead focus on the prospective price change of a contemplated purchase, you are speculating."
+4. **Ignore daily valuations** — "Games are won by players who focus on the playing field — not by those whose eyes are glued to the scoreboard."
+5. **Macro opinions are a waste of time** — "it is dangerous because it may blur your vision of the facts that are truly important."
+6. **Ignore the economic calendar** — "I can't remember what the headlines or pundits were saying at the time. Whatever the chatter, corn would keep growing in Nebraska and students would flock to NYU."
+
+**The moody neighbor analogy:** "If a moody fellow with a farm bordering my property yelled out a price every day... how in the world could I be other than benefited by his erratic behavior?" This extends Mr. Market to real estate — the principle is universal, not stock-specific.
+
+> "A climate of fear is your friend when investing; a euphoric world is your enemy." — 2013 Letter
+
+### The 90/10 Will Instruction and Index Fund Advice (2013)
+
+**[2013 Letter]** Buffett reveals his testamentary instruction: "Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.)" He believes this will outperform most investors who "employ high-fee managers."
+
+The non-professional's path: "The goal of the non-professional should not be to pick winners... but should rather be to own a cross-section of businesses that in aggregate are bound to do well. A low-cost S&P 500 index fund will achieve this goal." The "when" matters too: accumulate over time, never sell during fear. "The 'know-nothing' investor who both diversifies and keeps his costs minimal is virtually certain to get satisfactory results."
+
+The frictional cost argument extended: "If 'investors' frenetically bought and sold farmland to each other, neither the yields nor prices of their crops would be increased" — only costs would rise.
+
+### Ben Graham Tribute and GEICO-BNSF Connection (2013)
+
+**[2013 Letter]** Buffett traces his investing life to Graham's _The Intelligent Investor_ (purchased 1949): "My financial life changed with that purchase." Before Graham, Buffett tried charting and market indicia — "fun, but I couldn't shake the feeling that I wasn't getting anywhere." Graham's "elegantly logical" prose transformed him.
+
+Two connections to Berkshire: (1) Graham's unnamed bonanza investment in the 1949 edition was **GEICO** — "If Ben had not recognized the special qualities of GEICO when it was still in its infancy, my future and Berkshire's would have been far different." (2) Graham recommended **Northern Pacific** at $17/share (~$40M market cap) — the predecessor to BNSF, which now earns $40M every four days.
+
+> "Price is what you pay, value is what you get. Of all the investments I ever made, buying Ben's book was the best (except for my purchase of two marriage licenses)." — 2013 Letter[^24]
+
+[^24]: [2013 Letter](../sources/buffett-letter-2013.md) — farm/NYU parables; six investing principles; moody neighbor; 90/10 will instruction; Ben Graham tribute; GEICO/BNSF connection; "fear is your friend"

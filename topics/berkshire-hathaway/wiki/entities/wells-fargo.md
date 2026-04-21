@@ -81,3 +81,11 @@ Big Four earnings share: $3.9B total; $1.1B dividends received; $26.7B unrealize
 [^5]: [2011 Letter](../sources/buffett-letter-2011.md) — Big Four; 7.6% ownership; $3.3B combined earnings share
 
 [^6]: [2012 Letter](../sources/buffett-letter-2012.md) — 456.2M shares; $15.6B value; 8.7%; non-real amortization ~$1.5B; core deposit teaching
+
+### 2013: 9.2% Ownership and $21.9B Market Value
+
+**[2013 Letter]** Berkshire holds **483,470,853 shares** (9.2% ownership) at **$21,950M market value** on $11,871M cost. Wells Fargo is the largest of the **Big Four** by market value. Combined Big Four look-through earnings: **$4.4B** (vs. $1.4B dividends received). Total unrealized gains across all four: **$39B**.
+
+Buffett reaffirms the principle: "when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever." The Big Four represent "large and growing" positions that Berkshire intends to hold indefinitely[^7].
+
+[^7]: [2013 Letter](../sources/buffett-letter-2013.md) — 483M shares; 9.2%; $21.9B value; Big Four $4.4B look-through; $39B unrealized; forever holding

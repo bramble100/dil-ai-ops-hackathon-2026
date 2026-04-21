@@ -23,6 +23,7 @@ sources:
     buffett-letter-1994,
     buffett-letter-1995,
     buffett-letter-1996,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -151,3 +152,13 @@ The college education analogy: identical spending on two children produces ident
 [^3]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — scale drag at $8-12B equity; look-through earnings track against 15% goal; Scott Fetzer Fortune 500 ROE benchmark
 
 [^4]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 43.1% and 31.8% gains; stock-price overvaluation warning; GEICO $478.4M step-acquisition adjustment; Class B shares; 32-year CAGR 23.8%
+
+### 2013: $134,973 Per Share, 18.2% Gain, 49-Year CAGR 19.7%
+
+**[2013 Letter]** Per-share book value reaches **$134,973** — an **18.2% gain** for the year. 49-year CAGR: **19.7%**. Overall gain since 1964: **693,518%** (vs. S&P 500's 9,841% including dividends).
+
+Net worth increased by **$34.2B** during 2013 — the largest single-year dollar gain in Berkshire's history. However, Buffett acknowledges book value underperformed the S&P 500 (+32.4%) for the fifth time in his 49-year tenure — "all five instances occurred during bull-market periods," reflecting Berkshire's pattern of outperforming in bad years and lagging in frothy markets.
+
+The 2013 result affirms the structural tension at massive scale: 18.2% book value growth on a $221B enterprise is extraordinary, but the percentage cannot match Berkshire's early decades. "Our advantage has shrunk"; the probabilistic forecast is "modestly better" than S&P 500, not dramatically better[^5].
+
+[^5]: [2013 Letter](../sources/buffett-letter-2013.md) — $134,973/share; +18.2%; 49-year CAGR 19.7%; 693,518% overall; $34.2B net worth gain; S&P underperformance in bull markets

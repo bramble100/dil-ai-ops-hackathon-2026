@@ -2,7 +2,7 @@
 title: "American Express Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1994]
+sources: [buffett-letter-1994, buffett-letter-2013]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -40,3 +40,13 @@ At 5.5% ownership, AmEx contributes ~$25M in look-through undistributed earnings
 - [Capital Allocation](../principles/capital-allocation.md) — largest position by cost at yearend 1994; 40-year relationship converted into conviction
 
 [^1]: [1994 Letter](../sources/buffett-letter-1994.md) — American Express history, current position, IDS connection
+
+### 2011-2013: Big Four Pillar
+
+**[2011 Letter]** AmEx at 13.0% ownership — the largest Big Four stake by percentage. Combined Big Four look-through: $3.3B.
+
+**[2012 Letter]** Ownership rises further. Part of $3.9B combined Big Four earnings; $26.7B unrealized gains.
+
+**[2013 Letter]** Berkshire holds **151,610,700 shares** (14.2% ownership) at **$13,756M market value** on $8,749M cost. Big Four combined look-through earnings: **$4.4B**; total unrealized gains: **$39B**. "We very much like the businesses we currently own and expect to acquire additional properties — but only when they meet our criteria"[^2].
+
+[^2]: [2011 Letter](../sources/buffett-letter-2011.md), [2012 Letter](../sources/buffett-letter-2012.md), [2013 Letter](../sources/buffett-letter-2013.md) — 13.0%/14.2% ownership; Big Four $3.3B/$3.9B/$4.4B look-through; $39B unrealized

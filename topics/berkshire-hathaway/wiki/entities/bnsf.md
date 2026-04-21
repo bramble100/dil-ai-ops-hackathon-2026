@@ -2,6 +2,7 @@
 title: "Burlington Northern Santa Fe (BNSF)"
 type: entity
 entity_kind: organization
+sources: [buffett-letter-2013]
 created: 2026-04-21
 updated: 2026-04-21
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
@@ -70,3 +71,15 @@ BNSF and Marmon both benefit from the US oil production resurgence — BNSF thro
 [^3]: [2011 Letter](../sources/buffett-letter-2011.md) — $19.5B revenue; $4.74B pre-tax; 15% US ton-miles; Fabulous Five; $1.8B excess capex
 
 [^4]: [2012 Letter](../sources/buffett-letter-2012.md) — $20.8B revenue; $6.0B operating earnings; 9.6x coverage; 500K bbl/day oil; $4B planned capex
+
+## 2013: $22B Revenue, $4B Record Capex, and Economic Artery
+
+**[2013 Letter]** BNSF delivers **$22.0B revenue** and **$3.8B net earnings** ($6.66B operating earnings before interest/taxes). Interest coverage: **9:1** (pre-tax earnings/interest — "our definition of coverage is pre-tax earnings/interest, not EBITDA/interest, a commonly-used measure we view as seriously flawed").
+
+BNSF carries **~15% of all US inter-city freight** (measured by ton-miles) — "the most important artery in our economy's circulatory system." Capex: **$4B** (double depreciation, a single-year record for any railroad). "We will spend considerably more in 2014." The social compact: Berkshire invests heavily, regulators allow reasonable returns, society gets irreplaceable infrastructure.
+
+Fuel efficiency: moves a ton of freight ~500 miles on a single gallon of diesel — **4x more fuel-efficient** than trucks. Matt Rose and Carl Ice lead the operation.
+
+"Like Noah, who foresaw early on the need for dependable transportation, we know it's our job to plan ahead"[^5].
+
+[^5]: [2013 Letter](../sources/buffett-letter-2013.md) — $22B revenue; $3.8B net; $4B capex (record); 15% US freight; 9:1 coverage; social compact; Matt Rose/Carl Ice

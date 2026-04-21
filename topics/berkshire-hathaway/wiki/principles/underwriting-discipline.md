@@ -35,6 +35,7 @@ sources:
     buffett-letter-2008,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -503,3 +504,29 @@ Ajit Jain's operation: **$30B float** built from a standing start in 1985 with n
 [^20]: [2011 Letter](../sources/buffett-letter-2011.md) — float $70.6B; nine consecutive years; $17B cumulative; Ajit $34B; GEICO 9.3%/Tony Nicely 50 years; General Re treasure; Princeton Insurance
 
 [^21]: [2012 Letter](../sources/buffett-letter-2012.md) — float $73.1B; ten consecutive years; $18.6B cumulative; GEICO 9.7%/Hurricane Sandy 46,906 vehicles; Ajit $35B; Guard Insurance
+
+### Eleven Consecutive Years, BHSI, and $77.2B Float (2013)
+
+**[2013 Letter]** Float reaches **$77.2B** — **eleven consecutive years** of underwriting profit, totaling **$22B cumulative** pre-tax (including $3B in 2013). The detailed breakdown:
+
+| Entity         | Underwriting Profit | Float        |
+| -------------- | ------------------- | ------------ |
+| BH Reinsurance | $1,294M             | $37,231M     |
+| General Re     | $283M               | $20,013M     |
+| GEICO          | $1,127M             | $12,566M     |
+| Other Primary  | $385M               | $7,430M      |
+| **Total**      | **$3,089M**         | **$77,240M** |
+
+**BHSI (Berkshire Hathaway Specialty Insurance)** formed June 2013 under Peter Eastwood — Berkshire's entry into **commercial insurance**, targeting Fortune 500 companies and smaller operations. "Instantly accepted by both major insurance brokers and corporate risk managers" because "no other insurer can match the financial strength of Berkshire." Expected to generate "volume in the billions within a few years."
+
+**Ajit Jain:** Float of **$37B** from a standing start in 1985 with no actuaries — "a feat no other insurance CEO has come close to matching." His "idea factory" continues to expand lines of business.
+
+**General Re:** Tad Montross. Four insurance commandments restated: (1) understand all exposures; (2) conservatively assess loss probability and cost; (3) set premiums to deliver profit after losses and expenses; (4) **walk away** if appropriate premium can't be obtained. "Many insurers pass the first three tests and flunk the fourth." General Re is "now a gem."
+
+**GEICO:** Tony Nicely completes **52 years** of service. GEICO passes Allstate to become **#2 US auto insurer**. The low-cost moat remains "enduring" — "competitors are unable to cross." Buffett estimates GEICO's true economic goodwill is approaching **$20B** (vs. $15.5B carried on books).
+
+**Float as intrinsic value:** Buffett explains that while float is deducted as a full liability on the balance sheet, "to think of float as strictly a liability is incorrect; it should instead be viewed as a revolving fund." If costless and long-enduring, "the true value of this liability is dramatically less than the accounting liability" — making insurance goodwill far more valuable than its $15.5B book value.
+
+**$250B mega-catastrophe test:** If the insurance industry experienced a loss triple anything it has ever seen, "Berkshire as a whole would likely record a significant profit for the year" due to its many earnings streams. "All other major insurers and reinsurers would meanwhile be far in the red, with some facing insolvency"[^22].
+
+[^22]: [2013 Letter](../sources/buffett-letter-2013.md) — float $77.2B; eleven years; $22B cumulative; $3B in 2013; BHSI Peter Eastwood; Ajit $37B; General Re "gem"; four commandments; GEICO #2 passed Allstate; $20B economic goodwill; $250B mega-cat test

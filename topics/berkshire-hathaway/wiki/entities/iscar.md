@@ -2,7 +2,13 @@
 title: "ISCAR Metalworking"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2006, buffett-letter-2007, buffett-letter-2008]
+sources:
+  [
+    buffett-letter-2006,
+    buffett-letter-2007,
+    buffett-letter-2008,
+    buffett-letter-2013,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -69,3 +75,13 @@ Buffett and five Berkshire associates visited ISCAR in Israel in September 2006 
 **[2012 Letter]** Renamed as part of the **"Powerhouse Five"** earning **$10.1B aggregate pre-tax**. ISCAR contributes meaningfully to the ~$600M year-over-year earnings increase. The global platform — Israel, China, Japan, Korea, and dozens of other countries — is among the most diversified in Berkshire's portfolio[^5].
 
 [^5]: [2011 Letter](../sources/buffett-letter-2011.md) & [2012 Letter](../sources/buffett-letter-2012.md) — Fabulous Five / Powerhouse Five member; $9B+/$10.1B combined; bolt-on acquisitions
+
+## 2013: 100% Ownership — Wertheimer Put Exercised
+
+**[2013 Letter]** The Wertheimer family exercises its **put option**, selling Berkshire the remaining **20%** of ISCAR. Combined with the Marmon completion, the two purchases cost **$3.5B** total, adding **~$300M pre-tax** to Berkshire's earning power and delivering **$800M cash**.
+
+A **$1.8B accounting charge** (against "capital in excess of par value") reduced book value — Buffett calls it "nonsensical" and notes it "instantly increased Berkshire's excess of intrinsic value over book value by the same $1.8B."
+
+ISCAR remains a **Powerhouse Five** member contributing to the group's record **$10.8B pre-tax** earnings. Berkshire now owns 100% of the global cutting-tool platform spanning Israel, China, Japan, Korea, and dozens of other countries[^6].
+
+[^6]: [2013 Letter](../sources/buffett-letter-2013.md) — 100% ownership; Wertheimer put exercised; $300M added pre-tax; $1.8B accounting charge; Powerhouse Five $10.8B

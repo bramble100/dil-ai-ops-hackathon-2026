@@ -2,7 +2,7 @@
 title: Index
 type: overview
 created: 2026-04-19
-updated: 2026-04-21
+updated: 2026-04-22
 ---
 
 # Buffett's Letters — Investor Education Wiki
@@ -47,66 +47,68 @@ updated: 2026-04-21
 - [2010 Letter](sources/buffett-letter-2010.md) - Three-pillar intrinsic value, BNSF +40% earning power, GEICO $14B goodwill, float $66B, Todd Combs, "Life and Debt" leverage essay, four insurance commandments, NetJets turnaround (2010)
 - [2011 Letter](sources/buffett-letter-2011.md) - Three investment categories essay, Lubrizol $4.5B, IBM $10.9B, share repurchase 110%, Fabulous Five $9B+, float $70.6B, nine consecutive years, "Basic Choices for Investors" (2011)
 - [2012 Letter](sources/buffett-letter-2012.md) - Dividend policy essay, Heinz $12B with Lemann, Powerhouse Five $10.1B, five building blocks, 28 newspapers $344M, non-real amortization, float $73.1B, ten consecutive years (2012)
+- [2013 Letter](sources/buffett-letter-2013.md) - Heinz/3G template, NV Energy $5.6B, Marmon/ISCAR 100%, Powerhouse Five record $10.8B, BHSI launched, farm/NYU investing essay, 90/10 will, Ben Graham tribute, float $77.2B (2013)
 
 ## Principles
 
-- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (20 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Three-pillar intrinsic value framework; non-real amortization; Big Four look-through $3.9B (31 sources)
-- [Four Filters](principles/four-filters.md) - Moat essay deepened; crisis as filter test; Goldman/GE at crisis terms; ConocoPhillips filter failure (23 sources)
-- [Business Quality](principles/business-quality.md) - Powerhouse Five $10.1B; newspaper resurgence $344M; See's $83M record; capital-intensive moats (33 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $73.1B; ten consecutive profitable years; $18.6B cumulative; Hurricane Sandy (34 sources)
+- [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (21 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Three-pillar intrinsic value framework; non-real amortization; Big Four look-through $4.4B (32 sources)
+- [Four Filters](principles/four-filters.md) - Moat essay deepened; crisis as filter test; farm/NYU parables; ConocoPhillips filter failure (24 sources)
+- [Business Quality](principles/business-quality.md) - Powerhouse Five $10.8B record; MSR economics; NFM Dallas 1.8M sqft (34 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $77.2B; eleven consecutive profitable years; $22B cumulative; BHSI launched (35 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - Three investment categories essay; gold cube $9.6T; "Sharecropper's Society"; tapeworm (11 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Dividend essay; five building blocks; share repurchase 120%; Heinz $12B with Lemann (34 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Heinz/3G template; Marmon/ISCAR 100%; five building blocks; EFH final loss (35 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Three investment categories; IBM repurchase math; "America's destiny"; Black-Scholes critique (24 sources)
+- [Mr. Market](principles/mr-market.md) - Farm/NYU parables; 90/10 will instruction; Ben Graham tribute; index fund endorsement (25 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations; NICO as anti-imperative exemplar (2004) (2 sources)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - 9.7% market share; Hurricane Sandy 46,906 vehicles; $16.7B premiums; Tony Nicely 50 years (34 sources)
-- [National Indemnity](entities/national-indemnity.md) - 40th anniversary (1967); float $17M→$50.9B; Jack Ringwalt; Don Wurster (29 sources)
+- [GEICO](entities/geico.md) - #2 US auto insurer (passed Allstate); $20B economic goodwill; Tony Nicely 52 years (35 sources)
+- [National Indemnity](entities/national-indemnity.md) - BHSI formed (Peter Eastwood); Ajit $37B float; $250B mega-cat test (30 sources)
 - [See's Candies](entities/sees-candies.md) - Record $83M pre-tax; $1.65B cumulative on $25M; Brad Kinstler; "buy commodities sell brands" (22 sources)
-- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; age 82 (2005); "thumb-sucking" critique; permanent two-person partnership (14 sources)
-- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Kansas City store: "country's largest-volume home-furnishings store" (2003); Mrs. B turns 100 (Dec 1993) (13 sources)
+- [Charlie Munger](entities/charlie-munger.md) - Vice Chairman; 90/10 will instruction; "thumb-sucking" critique; permanent partnership (15 sources)
+- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend (14 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - Stan Lipsey retires; 28 dailies $344M; newspaper decline/resurgence (13 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
 - [Scott & Fetzer](entities/scott-fetzer.md) - Ralph Schey retires 2000; $1.03B cumulative distributions vs. $230M net purchase price; 86% ROE record (12 sources)
-- [Coca-Cola](entities/coca-cola.md) - Big Four 8.9% ownership (2012); patient ownership compounding; dividends $88M→$376M (13 sources)
+- [Coca-Cola](entities/coca-cola.md) - Big Four 9.1% ownership (2013); patient ownership compounding; dividends $88M→$488M (14 sources)
 - [Fechheimer Bros.](entities/fechheimer.md) - $13.7M pre-tax (1992 record); clean Heldman succession (7 sources)
 - [Salomon Inc](entities/salomon-inc.md) - $140M partial redemption (1995); Travelers merger; "negative overall" experience (8 sources)
 - [Gillette](entities/gillette.md) - Merged into P&G Q4 2005; Jim Kilts praised; $5B paper gain dismissed; moat castle archetype (7 sources)
-- [Wells Fargo](entities/wells-fargo.md) - 456.2M shares/$15.6B (2012); Big Four 8.7%; non-real amortization teaching (9 sources)
+- [Wells Fargo](entities/wells-fargo.md) - 483M shares/$21.9B (2013); Big Four 9.2%; forever holding period (10 sources)
 - [Borsheim's](entities/borsheims.md) - 18% sales growth (1990); ~#2 US fine jewelry by volume; 18% operating cost ratio (3 sources)
 - [H.H. Brown](entities/hh-brown.md) - Record profits up 35% (1993); Frank Rooney brokered Dexter introduction; Lowell Shoe acquired 1992 (3 sources)
 - [Dexter Shoe](entities/dexter-shoe.md) - $3.5B revised cost (2007); worst stock-for-stock deal; 1.6% of Berkshire (5 sources)
 - [FlightSafety International](entities/flightsafety.md) - $270M pre-tax; 273 simulators/$1.635B; "Good Business" benchmark (10 sources)
 - [Helzberg's Diamond Shops](entities/helzbergs.md) - Acquired 1995 (stock); 134 stores, $282M sales; sidewalk encounter (1 source)
 - [R.C. Willey](entities/rc-willey.md) - Boise +21% (2005); Reno opened; Sacramento planned; Scott Hymas CEO (4 sources)
-- [American Express](entities/american-express.md) - 27.76M shares at $723.9M cost by yearend 1994; 40-year Buffett relationship (1 source)
+- [American Express](entities/american-express.md) - 151.6M shares; 14.2% ownership; Big Four; 40-year Buffett relationship (2 sources)
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
-- [General Re](entities/general-re.md) - "Now it's a treasure"; international life reinsurance; Tad Montross; four commandments (15 sources)
+- [General Re](entities/general-re.md) - "Now a gem"; four commandments; Tad Montross; $283M profit; $20B float (16 sources)
 - [Executive Jet Aviation](entities/executive-jet.md) - Jordan Hansell CEO; $227M profit (2011); China expansion; turnaround sustained (13 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - 6% US wind; 14% US solar planned; $13B renewables; Greg Abel; social compact (14 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - NV Energy $5.6B; 7% US wind; $15B renewables; #1 satisfaction; Greg Abel (15 sources)
 - [Shaw Industries](entities/shaw-industries.md) - Bob Shaw retires at 75; Vance Bell succeeds; world's largest carpet maker (7 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
 - [Justin Industries](entities/justin-industries.md) - $570M cash; Acme Brick + Western boot brands; "clicks and bricks" joke; serendipitous fax (1 source)
-- [Clayton Homes](entities/clayton-homes.md) - America's #1 homebuilder; 332,000 mortgages/$13.7B; financing discrimination; Kevin Clayton (10 sources)
+- [Clayton Homes](entities/clayton-homes.md) - 29,547 homes (4.7% US); 326,569 mortgages/$13.6B; $416M pre-tax; Kevin Clayton (11 sources)
 - [McLane Company](entities/mclane.md) - $23B sales wholesale distribution; Wal-Mart sale in 29 days; no due diligence; Byron Trott (1 source)
 - [Fruit of the Loom](entities/fruit-of-the-loom.md) - Russell Corp acquired; VF intimate apparel agreed; 48.7% men's underwear share (5 sources)
 - [Lou Simpson](entities/lou-simpson.md) - GEICO CIO; 25-year track record 20.3% CAGR vs. S&P 13.5%; ~$2.5B portfolio (1 source)
 - [Forest River](entities/forest-river.md) - RV manufacturer; $1.6B revenue; Pete Liegl; two-page fax acquisition (2005) (1 source)
 - [Business Wire](entities/business-wire.md) - Press release distribution; Lorry Lokey; 25,000 clients; WSJ article triggered (2005) (1 source)
-- [ISCAR](entities/iscar.md) - Powerhouse Five member; Tungaloy integrated; global cutting-tool platform in 61+ countries (5 sources)
+- [ISCAR](entities/iscar.md) - 100% ownership; Powerhouse Five member; Tungaloy; global cutting-tool platform (6 sources)
 - [TTI](entities/tti.md) - Electronic components distributor; Fort Worth; $1.3B revenue; deal before lunch (1 source)
-- [Marmon Group](entities/marmon-group.md) - To 90%; Union Tank Car 97,000 cars; $12.6B implied value; 150 businesses (5 sources)
-- [BNSF](entities/bnsf.md) - $20.8B revenue; $6.0B operating earnings; 500K bbl/day oil; Powerhouse Five member (4 sources)
+- [Marmon Group](entities/marmon-group.md) - 100% ownership completed; staged acquisition fulfilled; Powerhouse Five member (6 sources)
+- [BNSF](entities/bnsf.md) - $22B revenue; $3.8B net; $4B record capex; 15% US freight; Powerhouse Five (5 sources)
 - [Lubrizol](entities/lubrizol.md) - Specialty chemicals; $4.5B; James Hambrick; Powerhouse Five member (2 sources)
-- [IBM](entities/ibm.md) - $10.9B; Big Four 6.0%; repurchase-math essay vehicle; non-real amortization (2 sources)
-- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Record earnings (10x 1983); 433-acre Dallas expansion; Kansas City model (14 sources)
+- [IBM](entities/ibm.md) - 68.1M shares; Big Four 6.3%; repurchase-math essay vehicle (3 sources)
+- [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend (14 sources)
+- [Heinz](entities/heinz.md) - H.J. Heinz; 50/50 with 3G Capital; $8B preferred + ~$4.25B common; Lemann partnership template (1 source)
 
 ## Case Studies
 
@@ -115,7 +117,7 @@ updated: 2026-04-21
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $114,214 (2012), 19.7% CAGR; five building blocks; investment record 19.4%/20.8% (36 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $134,973 (2013), 19.7% CAGR; five building blocks; investment record 19.4%/20.8% (37 sources)
 
 ## Standalone Pages
 

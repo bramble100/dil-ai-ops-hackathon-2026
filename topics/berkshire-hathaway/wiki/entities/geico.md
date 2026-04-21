@@ -34,6 +34,7 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -288,6 +289,18 @@ The **GEICO credit card fiasco** is confessed: a credit card program launched wi
 [^21]: [2011 Letter](../sources/buffett-letter-2011.md) — 9.3% share; $15.4B premiums; Tony Nicely 50 years
 
 [^22]: [2012 Letter](../sources/buffett-letter-2012.md) — 9.7% share; $16.7B premiums; Hurricane Sandy 46,906 vehicles (3x Katrina); largest single loss in history
+
+### 2013: #2 US Auto Insurer and $20B Economic Goodwill
+
+**[2013 Letter]** GEICO passes Allstate to become the **#2 US auto insurer** (from #7 at the 1995 acquisition). Tony Nicely completes **52 years of service**. Underwriting profit: **$1,127M**; float: **$12,566M**.
+
+Buffett's economic goodwill estimate: approaching **$20B** (vs. $15.5B carried on books as accounting goodwill). "As GEICO's business grows, so does its true economic goodwill." The gap between true economic value and book value is "one reason — a huge reason — why we believe Berkshire's intrinsic business value substantially exceeds its book value."
+
+The cost advantage moat remains central: "GEICO's cost advantage is the factor that has enabled the company to gobble up market share year after year. Its low costs create a moat — an enduring one — that competitors are unable to cross."
+
+Buffett recalls first being introduced to GEICO in January 1951 — "63 years ago" — and traces the connection to Ben Graham, who owned GEICO as an unnamed investment bonanza in _The Intelligent Investor_. "If Ben had not recognized the special qualities of GEICO when it was still in its infancy, my future and Berkshire's would have been far different"[^23].
+
+[^23]: [2013 Letter](../sources/buffett-letter-2013.md) — #2 US (passed Allstate); Tony Nicely 52 years; $1,127M profit; $12.6B float; $20B economic goodwill; cost advantage moat; Graham connection
 
 [^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
 

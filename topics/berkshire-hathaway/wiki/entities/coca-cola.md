@@ -124,3 +124,9 @@ The Goldman Sachs and GE preferred stocks, by contrast, are being called — pro
 **[2012 Letter]** Ownership rises to **8.9%**. Part of the $3.9B combined Big Four earnings share. The patient-ownership model — hold a wonderful business forever, let dividends compound — remains the foundational Coca-Cola case study[^10].
 
 [^10]: [2011 Letter](../sources/buffett-letter-2011.md) & [2012 Letter](../sources/buffett-letter-2012.md) — Big Four; 8.8%/8.9% ownership; look-through earnings growing
+
+### 2013: 9.1% Ownership and $16.5B Market Value
+
+**[2013 Letter]** Coca-Cola: **400,000,000 shares** (9.1% ownership) at **$16,524M market value** on $1,299M cost. Big Four member with combined look-through earnings of **$4.4B**. Dividends received from Coke: **$488M** (vs. $88M in 1995). The patient-ownership compounding thesis continues to play out: Berkshire's yield on original cost is now **~37.5% annually**[^11].
+
+[^11]: [2013 Letter](../sources/buffett-letter-2013.md) — 400M shares; 9.1%; $16.5B value on $1.3B cost; $488M dividends; Big Four

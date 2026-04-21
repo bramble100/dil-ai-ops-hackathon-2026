@@ -119,3 +119,15 @@ Buffett emphasizes the Blumkin family's "business ability, work ethic, and, most
 **[2011 Letter]** NFM posts **record earnings** — 10x the level of 1983 (the year of acquisition). A **433-acre tract** is acquired north of Dallas for a new store — "almost certain to be the highest-volume home-furnishings store in the country" when completed. The Kansas City model (massive destination store) is being replicated in the DFW market[^7].
 
 [^7]: [2011 Letter](../sources/buffett-letter-2011.md) — record earnings (10x 1983); 433-acre Dallas tract; highest-volume prediction
+
+### 2013: Dallas 1.8M Sqft, $450M Stores, and Mrs. B
+
+**[2013 Letter]** The Dallas store is under construction: **1.8 million square feet on 433 acres** north of DFW — when completed, expected to be "the highest-volume home-furnishings store in the country." The single-store model: **~$450 million** in annual volume.
+
+Buffett recounts classic Mrs. B stories: arriving in Seattle from Russia at age 23 with no English and no money; building NFM from a $500 start to a business dominating Omaha; competitors who agreed among themselves "This is crazy. How can she sell at those prices and make a profit?" They couldn't figure it out. Mrs. B also couldn't have told you her gross margin; "she would sell at whatever her cost of doing business told her she had to charge."
+
+**Berkshire weekend:** The Omaha store does **$40.2 million** during the annual shareholder meeting weekend — evidence of NFM's extraordinary drawing power.
+
+The acquisition lesson: "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." NFM is the inverse — extraordinary economics run by extraordinary operators[^8].
+
+[^8]: [2013 Letter](../sources/buffett-letter-2013.md) — Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend

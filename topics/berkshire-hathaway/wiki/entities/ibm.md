@@ -47,3 +47,11 @@ Buffett constructs a five-year scenario: if IBM earnings grow 20% and shares out
 [^1]: [2011 Letter](../sources/buffett-letter-2011.md) — $10.9B/63.9M shares/5.5%; repurchase math essay; Big Four $3.3B earnings/$862M dividends
 
 [^2]: [2012 Letter](../sources/buffett-letter-2012.md) — 6.0% ownership; Big Four $3.9B/$1.1B; DIRECTV first Todd/Ted $1B+ holding; non-real amortization
+
+### 2013: 6.3% Ownership and Big Four Pillar
+
+**[2013 Letter]** Berkshire holds **68,121,984 shares** (6.3% ownership) at **$12,778M market value** on $11,681M cost. IBM remains a Big Four member with combined look-through earnings of **$4.4B** and total unrealized gains of **$39B** across all four positions.
+
+The share repurchase math from the 2011 essay continues to compound: IBM's ongoing buybacks steadily increase Berkshire's ownership percentage. The "counterintuitive" insight — shareholders should prefer lower prices during buyback periods — remains the defining framework[^3].
+
+[^3]: [2013 Letter](../sources/buffett-letter-2013.md) — 68.1M shares; 6.3%; $12.8B value; Big Four $4.4B look-through; $39B combined unrealized

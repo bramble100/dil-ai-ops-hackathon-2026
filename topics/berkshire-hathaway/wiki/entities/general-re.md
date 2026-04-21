@@ -12,6 +12,7 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2013,
   ]
 source_count: 9
 created: 2026-04-20
@@ -153,3 +154,13 @@ General Re's turnaround from the 1999-2001 crisis years to consistent profitabil
 [^12]: [2011 Letter](../sources/buffett-letter-2011.md) — "now it's a treasure"; Tad Montross; four commandments
 
 [^13]: [2012 Letter](../sources/buffett-letter-2012.md) — international life reinsurance growth; Cologne Re platform; Montross discipline
+
+## 2013: "Now a Gem" Restated and Four Commandments
+
+**[2013 Letter]** Buffett reiterates: "General Re is now a gem." Under Tad Montross, the four insurance commandments are fully observed: (1) understand all exposures; (2) conservatively assess loss probability and cost; (3) set premiums to deliver profit; (4) **walk away** if appropriate premium can't be obtained. "Many insurers pass the first three tests and flunk the fourth."
+
+Financials: **$283M underwriting profit**; float **$20,013M**. International life reinsurance continues to grow "consistently and profitably since we acquired the company in 1998."
+
+Buffett acknowledges the journey: "It can be remembered that soon after we purchased General Re, the company was beset by problems that caused commentators — and me as well, briefly — to believe I had made a huge mistake. That day is long gone"[^14].
+
+[^14]: [2013 Letter](../sources/buffett-letter-2013.md) — "now a gem"; Tad Montross; four commandments; $283M profit; $20B float; international life reinsurance; turnaround complete

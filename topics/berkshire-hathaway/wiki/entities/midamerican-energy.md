@@ -11,6 +11,7 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2013,
   ]
 source_count: 8
 created: 2026-04-20
@@ -193,3 +194,19 @@ Greg Abel leads the utility platform. The MidAmerican/BNSF pairing now generates
 [^12]: [2011 Letter](../sources/buffett-letter-2011.md) — $1.98B operating earnings; 3,316 MW wind; $6B invested; solar ~$3B; Greg Abel
 
 [^13]: [2012 Letter](../sources/buffett-letter-2012.md) — $1.96B operating earnings; 89.8% owned; 6% US wind; 14% US solar planned; $13B renewables; Greg Abel
+
+## 2013: NV Energy $5.6B, 7% Wind, and #1 Customer Satisfaction
+
+**[2013 Letter]** MidAmerican acquires **NV Energy for $5.6B**, serving **88% of Nevada's population**. The acquisition "fits nicely into our existing electric-utility operation and offers many possibilities for large investments in renewable energy. NV Energy will not be MidAmerican's last major acquisition."
+
+Operating earnings: **$2,102M** before corporate interest and taxes. Berkshire's share: **$1,470M**. MidAmerican now accounts for **7% of the country's wind generation capacity**, with more on the way. Solar share (mostly in construction) is "even larger." Planned renewables portfolio: **$15B** total cost.
+
+MidAmerican retains **all of its earnings** — "Last year MidAmerican retained more dollars of earnings — by far — than any other American electric utility." This earnings retention is "an important advantage — one almost certain to exist five, ten and twenty years from now."
+
+**#1 customer satisfaction:** In a poll covering 52 holding companies and 101 operating utilities, MidAmerican's group ranked **#1 with 95.3%** "very satisfied" — "not a single customer rating us 'dissatisfied.'" Bottom score in survey: 34.5%. All three MidAmerican companies were ranked far lower before acquisition.
+
+**HomeServices:** 22,114 agents (+38%); Fox & Roach (Philadelphia) acquired; rebranding to Berkshire Hathaway HomeServices underway.
+
+Greg Abel leads MidAmerican; "the three [Abel, Rose, Ice] are extraordinary managers"[^14].
+
+[^14]: [2013 Letter](../sources/buffett-letter-2013.md) — NV Energy $5.6B; 88% Nevada; $2.1B operating earnings; 7% US wind; $15B renewables; #1 satisfaction 95.3%; HomeServices 22,114 agents; Greg Abel

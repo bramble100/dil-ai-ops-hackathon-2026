@@ -35,6 +35,7 @@ sources:
     buffett-letter-2008,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -691,3 +692,29 @@ These advantages compound: managers stay because of the culture; the culture att
 [^21]: [2011 Letter](../sources/buffett-letter-2011.md) — share repurchase 110% threshold; IBM math; crisis preferreds redeemed $12.8B; Energy Future Holdings $2B error; Fabulous Five $9B+; $8.2B capex; Todd/Ted hired; succession
 
 [^22]: [2012 Letter](../sources/buffett-letter-2012.md) — repurchase raised 120%; five building blocks; dividend essay (sell-off math); Heinz $12B with Lemann; $9.8B capex; $2.3B bolt-ons (26 companies)
+
+### Heinz Partnership Template, Bolt-Ons, and EFH Final Loss (2013)
+
+**[2013 Letter]** The Heinz acquisition closes in June — Berkshire's new "partnership template" in action. Berkshire paid $8B for preferred stock (9% coupon, estimated ~12% annual return) plus $4.25B for half the common equity. 3G Capital (Jorge Paulo Lemann, Bernardo Hees, Alex Behring) operates; Berkshire finances. "Berkshire never intends to sell a share of the company" — unlike private equity, there is no exit timeline. Buffett explicitly states this template "may be used by Berkshire in future acquisitions of size." With Heinz, Berkshire owns 8½ Fortune 500-qualifying companies.
+
+**NV Energy:** MidAmerican acquires for **$5.6B**, serving 88% of Nevada's population. Broadens MidAmerican's earnings base and offers "many possibilities for large investments in renewable energy."
+
+**Marmon and ISCAR reach 100% ownership** for combined $3.5B. Marmon's remaining shares purchased per the 2008 formula; ISCAR via the Wertheimer family's put option. Added ~$300M pre-tax earning power and $800M cash. The $1.8B accounting charge (reducing book value) is "nonsensical" — it instantly _increased_ intrinsic value over book value by the same $1.8B.
+
+**Powerhouse Five** (BNSF, MidAmerican, ISCAR, Lubrizol, Marmon) earn record **$10.8B pre-tax**, up $758M from 2012. Only MidAmerican ($393M pre-tax) was owned nine years ago — the other four were acquired entirely for cash except for 6.1% dilution via BNSF.
+
+**25 bolt-on acquisitions** contracted for **$3.1B aggregate** ($1.9M to $1.1B each). "Charlie and I encourage these deals. They deploy capital in activities that fit with our existing businesses."
+
+**Record $11B capex** on plant and equipment (~2x depreciation); 89% in US. BNSF alone spent $4B — double its depreciation, a single-year record for any railroad.
+
+**Big Four passive investing:** AmEx 14.2%, Coca-Cola 9.1%, IBM 6.3%, Wells Fargo 9.2% — combined $4.4B of 2013 earnings attributable to Berkshire (only $1.4B reported as dividends). $39B unrealized gains. Each 0.1% share increase = $50M annual earnings. "Our flexibility in capital allocation — our willingness to invest large sums passively in non-controlled businesses — gives us a significant advantage." The Woody Allen analogy: "The advantage of being bi-sexual is that it doubles your chances for a date on Saturday night."
+
+**Bank of America warrants:** 700M shares at $5B before Sept 2021; worth $10.9B at yearend — "in effect, our fifth largest equity investment."
+
+**Energy Future Holdings — final reckoning:** Sold for $259M; total pre-tax loss $873M ($2B invested − $837M interest received − $259M sale). "Next time I'll call Charlie." The loss closes a chapter that began in 2007 and was first confessed as a "major unforced error" in 2011.
+
+**Five building blocks restated:** (1) improve subsidiary earnings, (2) bolt-on acquisitions, (3) investee growth, (4) share repurchases at discount, (5) occasional large acquisitions — plus "rarely, if ever, issuing Berkshire shares." Repurchase at 120% of book value active; no shares purchased in 2013 (price didn't descend to threshold). "If it does, we will be aggressive."
+
+**Todd Combs and Ted Weschler** each running >$7B; outperformed both the S&P and Buffett. "Charlie says I should add 'by a lot'"[^23].
+
+[^23]: [2013 Letter](../sources/buffett-letter-2013.md) — Heinz 3G template; NV Energy $5.6B; Marmon/ISCAR 100%; Powerhouse Five $10.8B; 25 bolt-ons $3.1B; $11B capex; Big Four $4.4B; BofA $10.9B; EFH $873M final; Todd/Ted >$7B

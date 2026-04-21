@@ -12,6 +12,7 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2013,
   ]
 ---
 
@@ -117,3 +118,11 @@ Kevin Clayton continues as CEO. The Berkshire financing advantage remains decisi
 [^7]: [2011 Letter](../sources/buffett-letter-2011.md) — 7% national share; housing depression continues; $513M combined housing earnings
 
 [^8]: [2012 Letter](../sources/buffett-letter-2012.md) — 25,872 homes (+13.5%); 332,000 mortgages/$13.7B; America's #1 homebuilder; Kevin Clayton
+
+## 2013: 29,547 Homes, $416M Pre-Tax, and Housing Recovery
+
+**[2013 Letter]** Clayton builds **29,547 homes** — about **4.7% of all single-family residences** built in the US. The mortgage portfolio: **326,569 mortgages** totaling **$13.6B**. Pre-tax earnings: **$416M** (up 63% from $255M in 2012).
+
+"The sale of new homes began to pick up and earnings from both manufacturing and retailing are again becoming significant." Clayton remains America's **#1 homebuilder**. Kevin Clayton "has done a magnificent job of guiding the company through the severe housing depression. Now, his job — definitely more fun these days — includes the prospect of another earnings gain in 2014"[^9].
+
+[^9]: [2013 Letter](../sources/buffett-letter-2013.md) — 29,547 homes (4.7% US); 326,569 mortgages/$13.6B; $416M pre-tax; housing recovery; Kevin Clayton

@@ -26,6 +26,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2007,
     buffett-letter-2008,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -264,3 +265,18 @@ This sharpens filter (1) (understandable business): understanding a business mea
 [^12]: [2007 Letter](../sources/buffett-letter-2007.md) — moat essay; widening moats; buyer of choice; Marmon via Trott; anti-PE model
 
 [^13]: [2008 Letter](../sources/buffett-letter-2008.md) — crisis as filter test; Goldman/GE/Wrigley at crisis terms; ConocoPhillips filter (4) failure; Gibraltar advantage
+
+### Farm/NYU Parables as Filter Application (2013)
+
+**[2013 Letter]** The "Some Thoughts About Investing" essay applies the four filters to non-stock investments, proving the framework's universality:
+
+- **Nebraska farm (1986):** Filter (1) — simple, knowable (corn/soybean output and expenses calculable); Filter (2) — productivity likely to improve over time; Filter (3) — irrelevant (no management to evaluate; land produces regardless); Filter (4) — FDIC distress sale at $280K, "no downside and potentially substantial upside."
+- **NYU retail property (1993):** Filter (1) — simple (rental income, occupancy rates); Filter (2) — location is permanent ("NYU wasn't going anywhere") plus below-market lease expiring in nine years; Filter (3) — Fred Rose's family would manage competently; Filter (4) — RTC distress sale, ~10% unleveraged yield.
+
+Both investments share a critical feature: **productivity focus trumps price focus.** "If you instead focus on the prospective price change of a contemplated purchase, you are speculating." The circle of competence applies here too: "you only need to understand the actions you undertake" — omniscience isn't necessary.
+
+**Stock analysis identical:** "When Charlie and I buy stocks — which we think of as small portions of businesses — our analysis is very similar to that which we use in buying entire businesses." The four filters again: (1) "decide whether we can sensibly estimate an earnings range for five years out, or more"; (2) if yes, buy if it sells at a reasonable price relative to the bottom boundary. "In the 54 years we have worked together, we have never foregone an attractive purchase because of the macro or political environment."
+
+> "It's vital, however, that we recognize the perimeter of our 'circle of competence' and stay well inside of it." — 2013 Letter[^14]
+
+[^14]: [2013 Letter](../sources/buffett-letter-2013.md) — farm/NYU parables as four-filter application; productivity over price; circle of competence restated; macro irrelevance

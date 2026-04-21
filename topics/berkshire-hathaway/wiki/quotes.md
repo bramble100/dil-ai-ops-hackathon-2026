@@ -1153,3 +1153,41 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Now it's a treasure." — 2011 Letter
 >
 > Context: On General Re's transformation from a $1.4B+ loss-making acquisition to a consistently profitable pillar of Berkshire's insurance operations under Tad Montross. → [General Re](entities/general-re.md)
+
+### Investing Principles (2013)
+
+> "A climate of fear is your friend when investing; a euphoric world is your enemy." — 2013 Letter
+>
+> Context: From the "Some Thoughts About Investing" essay, distilling the farm and NYU real estate parables into timeless principles. → [Mr. Market](principles/mr-market.md)
+
+> "You don't need to be an expert in order to achieve satisfactory investment returns. But if you aren't, you must recognize your limitations and follow a course certain to work reasonably well. Keep things simple and don't swing for the fences." — 2013 Letter
+>
+> Context: Advice for the non-expert investor, drawing on the farm/NYU lesson that focus on productivity beats focus on price. → [Mr. Market](principles/mr-market.md)
+
+> "Games are won by players who focus on the playing field — not by those whose eyes are glued to the scoreboard." — 2013 Letter
+>
+> Context: A metaphor for investors who obsess over daily stock prices rather than business fundamentals. → [Mr. Market](principles/mr-market.md)
+
+### Will & Index Fund (2013)
+
+> "My advice to the trustee could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.)" — 2013 Letter
+>
+> Context: The 90/10 will instruction — Buffett's advice for his wife's bequest, implicitly endorsing passive investing for most. → [Mr. Market](principles/mr-market.md)
+
+### EBITDA & Accounting (2013)
+
+> "When Wall Streeters tout EBITDA as a valuation guide, button your wallet." — 2013 Letter
+>
+> Context: Rejecting EBITDA as a coverage metric (BNSF earns 9:1 pre-tax/interest; EBITDA/interest would be higher but misleading). → [Owner Earnings](principles/owner-earnings.md)
+
+### Ben Graham (2013)
+
+> "I owe Ben Graham many things. I learned from Ben the basic ideas of investing: think of stocks as fractionalized businesses, use market fluctuations to your advantage, and seek a margin of safety. He showed me the road to Omaha." — 2013 Letter
+>
+> Context: The closing tribute to Ben Graham, linking to the specific lesson from _The Intelligent Investor_ that led to GEICO and BNSF. → [Mr. Market](principles/mr-market.md)
+
+### Capital Allocation (2013)
+
+> "Next time I'll call Charlie." — 2013 Letter
+>
+> Context: On the Heinz/3G partnership — Lemann called Buffett to propose the deal. Buffett's instant response: said yes before calling Munger. → [Capital Allocation](principles/capital-allocation.md)

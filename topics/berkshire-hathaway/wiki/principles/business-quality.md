@@ -30,6 +30,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2013,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -390,3 +391,19 @@ The construction downturn illustrates moat resilience under stress: Shaw + Johns
 [^17]: [2011 Letter](../sources/buffett-letter-2011.md) — Fabulous Five $9B+; eight Fortune 500 subsidiaries; See's $83M record/$1.65B cumulative; housing $513M vs. $1.8B; CTB $124M; TTI $2.1B
 
 [^18]: [2012 Letter](../sources/buffett-letter-2012.md) — Powerhouse Five $10.1B; $9.8B capex; $2.3B bolt-ons (26 cos); newspaper $344M/28 dailies; HomeServices $42B; Berkshire Hathaway HomeServices
+
+### Powerhouse Five Record, MSR Economics, and NFM Dallas (2013)
+
+**[2013 Letter]** The **Powerhouse Five** (BNSF, MidAmerican, ISCAR, Lubrizol, Marmon) post a record **$10.8B pre-tax**, up $758M from 2012. Only MidAmerican was owned nine years ago. The other four were acquired "on an all-cash basis" (except BNSF's 6.1% stock component) — "the $10.4 billion gain in annual earnings delivered Berkshire by the five companies over the nine-year span has been accompanied by only minor dilution."
+
+**MSR segment economics:** $95.3B revenue on $25B average net tangible assets — **16.7% after-tax ROE** with large excess cash and little leverage. Returns range from "25% after-tax to far more than 100%" for the best to poor returns on some that reflect "serious mistakes I made in my job of capital allocation." "Viewed as a single entity, the companies in this group are an excellent business."
+
+**NFM Dallas:** A 433-acre site at The Colony; **1.8 million square feet** under one roof — the largest home-furnishings store in the country upon completion in 2014. Existing Omaha and Kansas City stores each do ~$450M annually. Mrs. B's 1946 financials: $72,264 net worth and $50 cash. "Aspiring business managers should look hard at the plain, but rare, attributes that produced Mrs. B's incredible success."
+
+**Clayton Homes recovery:** 29,547 new homes (4.7% US single-family); 326,569 mortgages/$13.6B; pre-tax earnings $416M (up 63% from $255M). "Kevin Clayton's CEO, has done a magnificent job of guiding the company through the severe housing depression."
+
+**BNSF as economic artery:** Carries **~15% of all US inter-city freight** (measured by ton-miles) — "the most important artery in our economy's circulatory system." $4B capex (double depreciation, record for any railroad). Moves a ton of freight ~500 miles on one gallon of diesel — 4x more fuel-efficient than trucks.
+
+**MidAmerican:** 7% of US wind generation capacity; renewables portfolio to cost $15B; NV Energy acquisition ($5.6B) adds 88% of Nevada. **#1 customer satisfaction** (95.3%) in a 52-company survey — "not a single customer rating us 'dissatisfied.'"[^19]
+
+[^19]: [2013 Letter](../sources/buffett-letter-2013.md) — Powerhouse Five $10.8B; MSR 16.7% ROE on $25B; NFM Dallas 1.8M sqft; Mrs. B $72,264; Clayton $416M; BNSF 15% freight/$4B capex; MidAmerican 7% wind/#1 satisfaction
