@@ -1,9 +1,9 @@
 ---
 title: "The Institutional Imperative"
 type: principle
-sources: [buffett-letter-1989, buffett-letter-2004]
+sources: [buffett-letter-1989, buffett-letter-2004, buffett-letter-2017]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [management, corporate-governance, principle, mental-model, warning]
 ---
@@ -60,3 +60,15 @@ Berkshire's structural support enables this discipline: the no-layoff guarantee 
 [^1]: [1989 Letter](../sources/buffett-letter-1989.md) — "Mistakes of the First Twenty-five Years"
 
 [^2]: [2004 Letter](../sources/buffett-letter-2004.md) — NICO 25-year premium table as anti-imperative exemplar; $7.4M to $975.4M range; no-layoff guarantee; "institutional imperative rejects extended decreases in volume"
+
+### "Can-Do" CEOs and the Boardroom Silence Problem (2017)
+
+**[2017 Letter]** The most explicit description of the institutional imperative's **acquisition channel** since the 1989 essay. Buffett dissects how the imperative operates through CEO psychology and board dynamics:
+
+- **"Can-do" self-selection:** The CEOs who rise to the top are precisely those with bias toward action. "Subtracted from his managerial skills is a tendency to pay too much for businesses." Action bias is an asset in operations but a liability in capital allocation.
+- **Advisory ecosystem alignment:** "Don't ask the barber whether you need a haircut." Investment bankers, lawyers, and accountants all profit from deal completion — "fees never falter" regardless of outcome. The advisors who should check the imperative instead amplify it.
+- **Boardroom social dynamics:** "It is almost impossible in a boardroom populated by well-mannered people to raise the question of whether the CEO's acquisition hunger should be curbed." Social norms suppress the dissent that would counter the imperative.
+
+The 2017 formulation is the most operational version of the concept: the imperative operates through a specific, identifiable chain (CEO bias → advisory reinforcement → board silence → value-destroying deal)[^3].
+
+[^3]: [2017 Letter](../sources/buffett-letter-2017.md) — "can-do" CEO self-selection; barber/haircut advisory alignment; boardroom silence; fees never falter; acquisition-mania as institutional imperative in action

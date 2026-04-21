@@ -38,6 +38,8 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -781,3 +783,26 @@ These advantages compound: managers stay because of the culture; the culture att
 **Retained earnings test:** "By the end of 2015, the retained earnings that had been reinvested in operating businesses had delivered more than a dollar of market value for every dollar retained." 340,499 employees; 25 at HQ[^25].
 
 [^25]: [2015 Letter](../sources/buffett-letter-2015.md) — PCC $32.1B all-cash; Todd Combs identified; six-point blueprint; 3G Kraft Heinz $5B/$15.8B; 29 bolt-ons $634M; $16B infrastructure capex; Mungerism on amortization; stock-comp critique; retained earnings >$1
+
+### Share Repurchase Essay, Acquisition-Mania Critique, and Succession (2016-2017)
+
+**[2016 Letter]** Buffett devotes a full essay to **share repurchase discipline**. Three conditions must be met: (1) company has ample funds for operations and liquidity; (2) stock sells at "a meaningful discount to conservatively calculated intrinsic value"; (3) the business will not need cash for other attractive opportunities. The **120% of book value** repurchase threshold is a "crude but useful" proxy — management should communicate a specific buy/don't-buy threshold. "Buying dollar bills for $1.10 is not good business for those who stick around."
+
+**Dexter Shoe: the $6B+ blunder quantified.** The 1993 Dexter acquisition ($433M in BRK stock) has become Buffett's "worst deal" — the stock issued is now worth $6B+. Compounding the error: paying with shares for a business whose competitive advantage would evaporate. "That was a contributing factor to my error" — the real lesson is that using stock amplifies mistakes.
+
+**Leverage aversion restated:** "If a CEO is enthused about a particularly foolish acquisition, both his internal staff and his outside advisors will come up with whatever projections are needed to justify his stance." The 2008 crisis proved leverage is a match in an oxygen-rich room: "It is insane to risk what you have and need in order to obtain what you don't need."
+
+**[2017 Letter]** The **acquisition-mania critique** becomes Buffett's most explicit warning on deal-making psychology:
+
+- "Once a CEO hungers for a deal, he or she will never lack for forecasts that justify the purchase." Wall Street is an "eager supplier of exactly that drug."
+- **"Can-do" CEO self-selection:** High-IQ high-confidence CEOs rise precisely because they act decisively, but this "can-do" bias becomes a liability in acquisitions — "subtracted from his managerial skills is a tendency to pay too much for businesses."
+- The **barber analogy:** "Don't ask the barber whether you need a haircut" — directors, investment bankers, and accountants all have fees that "never falter" regardless of deal quality.
+- The **boardroom silence problem:** it is "almost impossible in a boardroom populated by well-mannered people to raise the question of whether the CEO's acquisition hunger should be curbed."
+
+**Succession crystallized:** **Ajit Jain** (insurance) and **Greg Abel** (non-insurance) named Vice Chairmen of all operations — the clearest succession signal in the letters. Both will operate with "a culture that is rare among giant companies" — minimal bureaucracy, no strategic planning department, no investor relations.
+
+**Cash deployment patience:** $116B in cash and equivalents at yearend. "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it's imperative that we rush outdoors carrying washtubs, not teaspoons." Meanwhile, Berkshire will avoid "value-destroying acquisitions" and continue repurchasing when stock trades below 120% of book[^26][^27].
+
+[^26]: [2016 Letter](../sources/buffett-letter-2016.md) — share repurchase three conditions/120% threshold; Dexter $6B+ blunder; leverage aversion; "insane to risk"; all-equity evaluation
+
+[^27]: [2017 Letter](../sources/buffett-letter-2017.md) — acquisition-mania critique; "can-do" CEOs; barber analogy; boardroom silence; Jain/Abel Vice Chairmen; $116B cash; "rain gold" washtubs

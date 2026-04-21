@@ -12,9 +12,11 @@ sources:
     buffett-letter-2005,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [management, valuation, risk]
 ---
@@ -109,3 +111,11 @@ Combined Big Four look-through earnings: **$4.7B** (vs. $4.4B in 2013). Total un
 Combined Big Four look-through earnings: **$4.7B**; dividends received: $1.8B. "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." Bank of America warrants (700M shares at $5B, worth **$11.8B**) make BofA "in effect, our fourth largest equity investment" alongside the formal Big Four[^9].
 
 [^9]: [2015 Letter](../sources/buffett-letter-2015.md) — 500M shares; 9.8%; $27.2B value on $12.7B cost; Big Four $4.7B; BofA $11.8B
+
+### 2016-2017: Share Reduction and BofA Warrant
+
+**[2016 Letter]** Berkshire reduces its Wells Fargo holdings from **500M to 479.7M shares** via sales. The 2016 letter does not dwell on the account-fraud scandal, but Buffett's share repurchase essay addresses the principle that companies should only buy back stock at a discount to intrinsic value.
+
+**[2017 Letter]** Wells Fargo holdings: **482.5M shares** (9.4% ownership), market value **$29.3B** on $11.8B cost. Bank of America's warrant is exercised — 700M shares at $7.14/share, converting a $5B preferred investment into a **$20.7B common stock position**. BofA effectively joins the Big Four, and Apple ($28.2B market value) becomes Berkshire's **largest equity holding**, signaling the portfolio's shift from financials toward technology[^10].
+
+[^10]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — WF 500M→482.5M shares; BofA warrant exercised ($5B→$20.7B); Apple $28.2B largest holding

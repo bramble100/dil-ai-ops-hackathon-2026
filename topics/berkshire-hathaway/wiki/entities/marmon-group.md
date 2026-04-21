@@ -9,9 +9,10 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [acquisition, industrial, mega-cap-era]
 ---
@@ -95,3 +96,9 @@ Chemicals and refined petroleum products are the lead transported items — only
 Marmon remains a **Powerhouse Five** member (Powerhouse Six with PCC in 2016), contributing to the group's **$13.1B** aggregate earnings[^8].
 
 [^8]: [2015 Letter](../sources/buffett-letter-2015.md) — 133,220 railcars; 25,085 from GE; 97% leased; $546M railcars/$192M containers; chemicals/refined petroleum lead; Powerhouse Five
+
+### 2016: Railcar Slowdown
+
+**[2016 Letter]** Marmon's railcar fleet experiences a slowdown — utilization at **91%** (down from higher levels), reflecting weaker commodity transport volumes. Marmon remains a Powerhouse Six member (now including Precision Castparts). The core business model — owning and leasing railcars — is inherently cyclical but benefits from long asset lives and Berkshire's ability to deploy capital counter-cyclically[^9].
+
+[^9]: [2016 Letter](../sources/buffett-letter-2016.md) — railcar utilization 91%; Powerhouse Six member; commodity slowdown

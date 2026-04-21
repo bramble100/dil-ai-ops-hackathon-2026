@@ -15,10 +15,12 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
-source_count: 9
+source_count: 14
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [entity, insurance, reinsurance, acquisition]
 ---
 
@@ -186,3 +188,11 @@ General Re's float "has been considerably better than cost-free under his leader
 The turnaround narrative: "It can be remembered that soon after we purchased General Re, it was beset by problems that caused commentators — and me as well, briefly — to believe I had made a huge mistake. That day is long gone. General Re is now a gem"[^16].
 
 [^16]: [2015 Letter](../sources/buffett-letter-2015.md) — $132M profit; $18.6B float; four commandments; international life reinsurance; "now a gem" confirmed; Tad Montross
+
+### 2016-2017: Montross Retires, Kara Raiguel Succeeds
+
+**[2016 Letter]** **Tad Montross retires** after **39 years**, having transformed General Re from near-disgrace into a "gem." **Kara Raiguel** succeeds him — she spent 16 years working with Ajit Jain before taking the General Re helm. Buffett restates the four insurance commandments and notes: "Many insurers pass the first three tests and flunk the fourth."
+
+**[2017 Letter]** Kara Raiguel's first full year as CEO. General Re contributes to the group's $114.5B total float. The three-hurricane year tests discipline — General Re's reserving and underwriting processes hold[^17].
+
+[^17]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — Montross retires (39 years); Kara Raiguel succeeds; four commandments restated; Raiguel first full year

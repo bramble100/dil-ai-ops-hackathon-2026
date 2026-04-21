@@ -50,26 +50,28 @@ updated: 2026-04-22
 - [2013 Letter](sources/buffett-letter-2013.md) - Heinz/3G template, NV Energy $5.6B, Marmon/ISCAR 100%, Powerhouse Five record $10.8B, BHSI launched, farm/NYU investing essay, 90/10 will, Ben Graham tribute, float $77.2B (2013)
 - [2014 Letter](sources/buffett-letter-2014.md) - Golden Anniversary, conglomerate defense, Munger 15-point system, Van Tuyl $9B, Powerhouse Five $12.4B, float $83.9B (12 years), GEICO 10.8%, volatility≠risk 50-year proof, Jain/Abel named (2014)
 - [2015 Letter](sources/buffett-letter-2015.md) - PCC $32.1B all-cash (largest ever), Kraft Heinz/3G, productivity essay, Powerhouse Five $13.1B, float $87.7B (13 years), GEICO 11.4%/founding history, Noah's Law, EBITDA noses, six-point blueprint (2015)
+- [2016 Letter](sources/buffett-letter-2016.md) - Float $91.6B→$100B+ (14 years/$28B), GEICO 12%, Montross retires/Raiguel CEO, BHSI $1.3B, Powerhouse Six $17.8B, Clayton largest builder, share repurchase essay, Dexter $6B+, The Bet Year 9, Bogle statue (2016)
+- [2017 Letter](sources/buffett-letter-2017.md) - AIG $10.2B world record, float $114.5B, $3.2B hurricane loss ends 14-year streak, Pilot Flying J 38.6%, Jain/Abel Vice Chairmen, The Bet concludes 125.8% vs 36.3%, GAAP unrealized gains rule, acquisition-mania critique, Apple $28.2B (2017)
 
 ## Principles
 
 - [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (21 sources)
-- [Owner Earnings](principles/owner-earnings.md) - Three-pillar intrinsic value framework; Pillar 2 includes underwriting; non-real amortization $1.1B; Big Four look-through $4.7B (34 sources)
-- [Four Filters](principles/four-filters.md) - Moat essay deepened; PCC as filter exemplar; Important Risks section; farm/NYU parables (25 sources)
-- [Business Quality](principles/business-quality.md) - Powerhouse Five $13.1B; MSR 18.4% ROE; productivity essay (farming/railroads/insurance) (36 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $87.7B; thirteen consecutive profitable years; $26.2B cumulative; BHSI $1B (37 sources)
+- [Owner Earnings](principles/owner-earnings.md) - GAAP unrealized gains rule; adjusted earnings critique; non-real amortization $1.5B; Big Four look-through $4.7B (36 sources)
+- [Four Filters](principles/four-filters.md) - Acquisition-mania as filter failure; all-equity evaluation; PCC exemplar; Pilot Flying J (27 sources)
+- [Business Quality](principles/business-quality.md) - Powerhouse Six $17.8B; MSR 24% ROE; Clayton largest builder; Shaw $5.7B (38 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $114.5B; AIG $10.2B world record; 14-year streak ends; $400B mega-cat (39 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - Three investment categories essay; gold cube $9.6T; "Sharecropper's Society"; tapeworm (11 sources)
-- [Capital Allocation](principles/capital-allocation.md) - PCC $32.1B; six-point successor blueprint; 3G/Kraft Heinz; $16B infrastructure capex (37 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Acquisition-mania critique; share repurchase essay; Jain/Abel succession; $116B cash (39 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - Noah's Law (Pascal's Wager on climate); America optimism; annual meeting webcast; 50-year proof (27 sources)
-- [Institutional Imperative](principles/institutional-imperative.md) - Four manifestations; NICO as anti-imperative exemplar (2004) (2 sources)
+- [Mr. Market](principles/mr-market.md) - The Bet concludes 125.8% vs 36.3%; Bogle statue; four BRK declines; risk ≠ volatility (29 sources)
+- [Institutional Imperative](principles/institutional-imperative.md) - "Can-do" CEOs; barber analogy; boardroom silence; NICO anti-exemplar (3 sources)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - 11.4% market share; Tony Nicely 54 years; founding history (Goodwins 1936); driverless car risk (37 sources)
-- [National Indemnity](entities/national-indemnity.md) - Ajit 1986 Saturday origin; BHSI $1B premium; $250B mega-cat; $44.1B float (32 sources)
+- [GEICO](entities/geico.md) - ~12% market share; Tony Nicely 55 years; 36,085 employees; hurricane losses 2017 (39 sources)
+- [National Indemnity](entities/national-indemnity.md) - AIG $10.2B world record; float $114.5B; $400B mega-cat; BHSI $1.3B (35 sources)
 - [See's Candies](entities/sees-candies.md) - $1.9B cumulative on $40M; "rabbits breeding"; brand education led to Coca-Cola (23 sources)
-- [Charlie Munger](entities/charlie-munger.md) - Independent Golden Anniversary letter; 15-point Berkshire system; Jain/Abel "world-leading" (16 sources)
+- [Charlie Munger](entities/charlie-munger.md) - Succession formalized: Jain/Abel Vice Chairmen; 15-point system; "world-leading" (17 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend (14 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - Stan Lipsey retires; 28 dailies $344M; newspaper decline/resurgence (13 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
@@ -78,7 +80,7 @@ updated: 2026-04-22
 - [Fechheimer Bros.](entities/fechheimer.md) - $13.7M pre-tax (1992 record); clean Heldman succession (7 sources)
 - [Salomon Inc](entities/salomon-inc.md) - $140M partial redemption (1995); Travelers merger; "negative overall" experience (8 sources)
 - [Gillette](entities/gillette.md) - Merged into P&G Q4 2005; Jim Kilts praised; $5B paper gain dismissed; moat castle archetype (7 sources)
-- [Wells Fargo](entities/wells-fargo.md) - 500M shares/$27.2B (2015); Big Four 9.8%; Hope Diamond analogy (12 sources)
+- [Wells Fargo](entities/wells-fargo.md) - 482.5M shares/$29.3B (2017); BofA warrant exercised; Apple largest holding (10 sources)
 - [Borsheim's](entities/borsheims.md) - 18% sales growth (1990); ~#2 US fine jewelry by volume; 18% operating cost ratio (3 sources)
 - [H.H. Brown](entities/hh-brown.md) - Record profits up 35% (1993); Frank Rooney brokered Dexter introduction; Lowell Shoe acquired 1992 (3 sources)
 - [Dexter Shoe](entities/dexter-shoe.md) - $5.7B revised cost (2014); Guinness Book; worst stock-for-stock deal (6 sources)
@@ -89,15 +91,15 @@ updated: 2026-04-22
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
-- [General Re](entities/general-re.md) - "Now a gem" confirmed; four commandments; $132M profit; $18.6B float (18 sources)
+- [General Re](entities/general-re.md) - Montross retires (39 years); Kara Raiguel CEO; four commandments; "now a gem" (14 sources)
 - [Executive Jet Aviation](entities/executive-jet.md) - Jordan Hansell CEO; $227M profit (2011); China expansion; turnaround sustained (13 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - BHE; 7% US wind/6% solar; Iowa 47% wind/6.8¢ KWH; Paris commitments; Greg Abel (17 sources)
-- [Shaw Industries](entities/shaw-industries.md) - Bob Shaw retires at 75; Vance Bell succeeds; world's largest carpet maker (7 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - BHE; Iowa 55% wind→89% by 2020; 7.1¢ rate freeze to 2029; "Saudi Arabia of wind" (13 sources)
+- [Shaw Industries](entities/shaw-industries.md) - $5.7B revenue; USFloors acquisition; world's largest flooring company (8 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
 - [Justin Industries](entities/justin-industries.md) - $570M cash; Acme Brick + Western boot brands; "clicks and bricks" joke; serendipitous fax (1 source)
-- [Clayton Homes](entities/clayton-homes.md) - 34,397 homes (45% US manufactured); $12.8B portfolio; 100% risk retention; Kevin Clayton (13 sources)
+- [Clayton Homes](entities/clayton-homes.md) - America's largest home builder (42,075 homes); 49% manufactured; $744M pre-tax (9 sources)
 - [McLane Company](entities/mclane.md) - $23B sales wholesale distribution; Wal-Mart sale in 29 days; no due diligence; Byron Trott (1 source)
 - [Fruit of the Loom](entities/fruit-of-the-loom.md) - Russell Corp acquired; VF intimate apparel agreed; 48.7% men's underwear share (5 sources)
 - [Lou Simpson](entities/lou-simpson.md) - GEICO CIO; 25-year track record 20.3% CAGR vs. S&P 13.5%; ~$2.5B portfolio (1 source)
@@ -105,14 +107,15 @@ updated: 2026-04-22
 - [Business Wire](entities/business-wire.md) - Press release distribution; Lorry Lokey; 25,000 clients; WSJ article triggered (2005) (1 source)
 - [ISCAR](entities/iscar.md) - 100% ownership; Powerhouse Five member; Tungaloy; global cutting-tool platform (6 sources)
 - [TTI](entities/tti.md) - Electronic components distributor; Fort Worth; $1.3B revenue; deal before lunch (1 source)
-- [Marmon Group](entities/marmon-group.md) - 133,220 railcars; GE fleet purchase; Powerhouse Five member (8 sources)
-- [BNSF](entities/bnsf.md) - Record $6.8B pre-tax; $5.8B capex; 17% US freight; productivity essay (7 sources)
+- [Marmon Group](entities/marmon-group.md) - 133,220 railcars; utilization 91%; Powerhouse Six member (6 sources)
+- [BNSF](entities/bnsf.md) - BNSF+BHE 44% of BRK earnings; $21.4B revenue; 3¢/ton-mile (5 sources)
 - [Lubrizol](entities/lubrizol.md) - Specialty chemicals; $4.5B; James Hambrick; Powerhouse Five member (2 sources)
-- [IBM](entities/ibm.md) - 81M shares; Big Four 8.4%; $2.6B below cost; repurchase-math vehicle (5 sources)
+- [IBM](entities/ibm.md) - Largely sold in 2017; $13.8B cost; Apple replaces as largest holding (4 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend (14 sources)
 - [Heinz](entities/heinz.md) - H.J. Heinz; 50/50 with 3G Capital; $8B preferred + ~$4.25B common; Lemann partnership template (1 source)
 - [Van Tuyl Automotive](entities/van-tuyl-automotive.md) - 78 dealerships; $9B sales; 5th-largest US auto group; permanent home thesis (1 source)
-- [Precision Castparts](entities/precision-castparts.md) - $32.1B all-cash; largest Berkshire acquisition; Mark Donegan; 162 plants/13 countries (1 source)
+- [Precision Castparts](entities/precision-castparts.md) - $32.1B all-cash; largest Berkshire acquisition; Mark Donegan; Powerhouse Six (2 sources)
+- [Pilot Flying J](entities/pilot-flying-j.md) - 38.6% partnership (→80% by 2023); Haslam family; North America's largest travel centers (1 source)
 
 ## Case Studies
 
@@ -121,7 +124,7 @@ updated: 2026-04-22
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $155,501 (2015), 19.2% CAGR; two-pillar intrinsic value; Pillar 2 includes underwriting (39 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $211,750 (2017), ~19% CAGR; two-pillar intrinsic value; $29B tax reform windfall (41 sources)
 
 ## Standalone Pages
 

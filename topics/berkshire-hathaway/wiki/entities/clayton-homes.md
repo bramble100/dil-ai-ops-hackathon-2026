@@ -4,7 +4,7 @@ type: entity
 entity_kind: subsidiary
 source_count: 3
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [manufactured-housing, finance, acquisition]
 sources:
   [
@@ -15,6 +15,8 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 ---
 
@@ -150,3 +152,11 @@ A noteworthy detail: Clayton's blue-collar borrowers — often unable to qualify
 Kevin Clayton continues as CEO. Pre-tax earnings: **$706M** (up from $558M)[^11].
 
 [^11]: [2015 Letter](../sources/buffett-letter-2015.md) — 34,397 homes; 45% US; $12.8B portfolio; 100% risk retention; $59,942 avg loan; 8,444 foreclosures/$157M; 65 exams/$38,200 fines; $706M pre-tax; Kevin Clayton
+
+### 2016: America's Largest Home Builder
+
+**[2016 Letter]** Clayton becomes **America's largest home builder** — **42,075 homes** (19,168 site-built + 22,907 manufactured), representing **~49% of US manufactured homes** and a growing share of site-built. The site-built expansion came through bolt-on acquisitions (Oakwood Homes, Harris Doyle). Mortgage portfolio: $14.0B origination and servicing. Pre-tax earnings: **$744M** (up from $706M).
+
+Clayton's dominance validates the original investment thesis: a business with a structural cost advantage (manufactured housing) in a fragmented industry, managed by an exceptional operator (Kevin Clayton), with Berkshire's credit backing enabling 100% risk retention. The manufactured-housing stigma works as a competitive moat — other lenders avoid the sector, leaving Clayton as effectively the industry's bank[^12].
+
+[^12]: [2016 Letter](../sources/buffett-letter-2016.md) — 42,075 homes (largest builder); 49% manufactured; site-built expansion; $14.0B portfolio; $744M pre-tax; Oakwood/Harris Doyle bolt-ons

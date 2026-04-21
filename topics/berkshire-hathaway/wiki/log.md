@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-22] ingest-batch | Batch 21: 2016-2017 Letters
+
+- Sources: raw/articles/buffett-letter-2016.md, raw/articles/buffett-letter-2017.md
+- Created: sources/buffett-letter-2016, sources/buffett-letter-2017, entities/pilot-flying-j
+- Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/owner-earnings, principles/business-quality, principles/four-filters, principles/institutional-imperative, entities/geico, entities/general-re, entities/national-indemnity, entities/clayton-homes, entities/bnsf, entities/midamerican-energy, entities/shaw-industries, entities/marmon-group, entities/precision-castparts, entities/wells-fargo, entities/ibm, entities/charlie-munger, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
+- Key themes: Float $91.6B→$114.5B (AIG $10.2B world-record premium); 14-year underwriting streak ends (3 hurricanes $3.2B); $400B mega-cat framework; Powerhouse Six $17.8B; MSR 24% ROE; Clayton largest US builder (42,075 homes); GEICO ~12% share; Montross retires/Raiguel CEO; BHSI $1.3B; BHE Iowa 55%→89% wind target, 7.1¢ rate freeze to 2029; Shaw $5.7B/USFloors; share repurchase essay (120% threshold); Dexter $6B+ blunder; acquisition-mania critique ("can-do" CEOs, barber analogy, boardroom silence); Jain/Abel Vice Chairmen (succession crystallized); The Bet concludes 125.8% vs 36.3%; Bogle statue; GAAP unrealized gains rule; IBM sold/Apple $28.2B; BofA warrant exercised; Pilot Flying J 38.6%; $116B cash; risk ≠ volatility
+
 ## [2026-04-22] ingest-batch | Batch 20: 2015 Letter
 
 - Source: raw/articles/buffett-letter-2015.md

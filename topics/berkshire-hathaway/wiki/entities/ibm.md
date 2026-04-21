@@ -5,7 +5,8 @@ entity_kind: product
 created: 2026-04-21
 updated: 2026-04-21
 tags: [equity-investment, big-four, mega-cap-era]
-sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015]
+sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015, buffett-letter-2017]
+updated: 2026-04-21
 ---
 
 ## Overview
@@ -72,3 +73,9 @@ Combined Big Four look-through earnings: **$4.7B**; unrealized gains across all 
 IBM remains a Big Four member with combined look-through earnings of **$4.7B**. The stock's underperformance vs. cost has not triggered any disposition — the long-term thesis on share retirement math remains intact[^5].
 
 [^5]: [2015 Letter](../sources/buffett-letter-2015.md) — 81M shares; 8.4%; $11.2B value on $13.8B cost; $2.6B below cost; buyback thesis intact
+
+### 2017: Exit Largely Complete
+
+**[2017 Letter]** Berkshire **largely exits IBM** during 2017, selling most of its ~81M shares. The position — which cost $13.8B and was carried at below cost for multiple years — is quietly wound down as Buffett shifts capital toward Apple. IBM was Berkshire's first major technology bet and its most prominent "Big Four" member to be unwound. The buyback thesis (lower prices = faster ownership accumulation) ultimately could not compensate for the business's declining competitive position. Apple ($28.2B) replaces IBM as Berkshire's largest equity holding[^6].
+
+[^6]: [2017 Letter](../sources/buffett-letter-2017.md) — IBM position largely sold; $13.8B cost; Apple replaces as largest holding

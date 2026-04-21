@@ -28,6 +28,8 @@ sources:
     buffett-letter-2008,
     buffett-letter-2013,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -289,3 +291,19 @@ Both investments share a critical feature: **productivity focus trumps price foc
 The **Important Risks** section applies filter thinking to Berkshire's own vulnerabilities: BNSF will lose coal volume; driverless cars may shrink GEICO; print circulation declining; online retail threatens consumer brands. None is "crucial to Berkshire's long-term well-being" because the conglomerate form provides adaptation capacity. "When we took over the company in 1965, its risks could have been encapsulated in a single sentence... That development, however, was no death knell. We simply adapted"[^15].
 
 [^15]: [2015 Letter](../sources/buffett-letter-2015.md) — PCC as filter exemplar; Important Risks section (coal/driverless/print/online); adaptation capacity; cyber/bio/nuclear as sole existential risk
+
+### Acquisition-Mania as Filter Failure and All-Equity Evaluation (2016-2017)
+
+**[2016 Letter]** Buffett introduces the **all-equity acquisition evaluation**: "Our aversion to leverage has dampened our returns over the years. But Charlie and I sleep well." Every acquisition is evaluated as if it were 100% equity-financed — eliminating the temptation to manufacture attractive returns through financial engineering. This adds a structural check to filter (4), "sensible price."
+
+**[2017 Letter]** The most explicit treatment of **filter failure in the acquisition market**. Buffett explains why the filters are so rarely applied by other companies:
+
+- **Filter (1) breakdown:** "Once a CEO hungers for a deal, he or she will never lack for forecasts that justify the purchase." The analysis becomes motivated reasoning.
+- **Filter (3) inversion:** Instead of evaluating management quality, acquiring CEOs project their own confidence onto the target. The "can-do" personality bias.
+- **Filter (4) abandonment:** "Don't ask the barber whether you need a haircut" — the entire advisory ecosystem (bankers, lawyers, accountants) profits from deal completion, not deal quality.
+
+The **Pilot Flying J partnership** (38.6% initially, becoming ~80% in 2023) illustrates patient application of all four filters: simple, understandable business (truck stops); durable advantage (prime interstate locations); proven management (Haslam family); and a price that reflects partnership rather than auction dynamics[^16][^17].
+
+[^16]: [2016 Letter](../sources/buffett-letter-2016.md) — all-equity acquisition evaluation; leverage aversion; Dexter as filter (4) failure
+
+[^17]: [2017 Letter](../sources/buffett-letter-2017.md) — acquisition-mania as systematic filter failure; "can-do" CEO bias; barber analogy; Pilot Flying J as patient filter application

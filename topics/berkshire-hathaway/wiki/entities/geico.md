@@ -37,9 +37,11 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [insurance, moats, management]
 ---
@@ -198,6 +200,14 @@ Expected **~6% market share in 2005** — a tripling from the 1.9% when Nicely t
 [^6]: [1992 Letter](../sources/buffett-letter-1992.md) — $2,226.3M market value; 49x return; 5-for-1 stock split
 
 [^7]: [1993 Letter](../sources/buffett-letter-1993.md) & [1994 Letter](../sources/buffett-letter-1994.md) — $1,760M → $1,678M market value; 48.4% → 50.2% ownership (via GEICO buybacks); negative-cost float
+
+### 2016-2017: 12% Market Share, Tony Nicely 55 Years, Hurricane Losses
+
+**[2016 Letter]** Market share reaches **~12%** (from 2.5% in 1995, 2.0% when Tony Nicely became CEO). **36,085 employees.** Tony Nicely completes 55 years at GEICO. Growth accelerated in H2 2016 as competitors pulled back from rising loss costs — "when they shop, GEICO wins; we like to make hay while the sun sets."
+
+**[2017 Letter]** Three hurricanes (Harvey, Irma, Maria) contribute to a significant loss year for GEICO. Berkshire's overall insurance loss of $3.2B pre-tax includes substantial GEICO catastrophe claims. Despite the hurricanes, the underlying business model — 14.7¢ expense ratio vs. industry 25-40¢ — remains the durable competitive advantage[^8].
+
+[^8]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — 12% market share; 36,085 employees; Tony Nicely 55 years; H2 acceleration; hurricane losses 2017
 
 [^8]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — 100% acquisition for $2.3B; Lorimer Davidson origin story; Tony Nicely 10% policy growth; Lou Simpson 22.8% CAGR; float $2.9B; incentive comp 16.9%
 

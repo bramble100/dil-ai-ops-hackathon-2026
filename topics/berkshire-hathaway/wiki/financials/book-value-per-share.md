@@ -157,6 +157,10 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 
 - **[2015 Letter]** Net worth gain **$15.4B (+6.4%)**; per-share book value **$155,501**; 51-year CAGR **19.2%**. Overall gain 1964-2015: **798,981%** (vs. S&P 500's 12,104%). Berkshire's +6.4% outperformed S&P 500's +1.4%. Two-pillar intrinsic value updated: (1) $159,794/share investments at market (+8.3%); (2) $12,304/share non-insurance pre-tax earnings (+2.1%, now includes underwriting for first time). Insurance underwriting income ($1,118/share) added to Pillar 2. Since 1970: investments 18.9% CAGR, earnings 23.7% CAGR. Powerhouse Five: $13.1B pre-tax. $16B infrastructure capex (BNSF + BHE). 29 bolt-ons ($634M). Float $87.7B with thirteen consecutive profitable years ($26.2B cumulative). PCC $32.1B acquisition — largest in Berkshire history.
 
+- **[2016 Letter]** Per-share book value **$172,108** — **+10.7%** for the year. Powerhouse Six earn $17.8B pre-tax. Float $91.6B→$100B+; fourteen consecutive years of underwriting profit ($28B cumulative). MSR segment: $120B revenue, 24% ROE. Clayton Homes becomes America's largest home builder (42,075 homes). Share repurchase essay: three conditions; 120% book threshold. Dexter Shoe $6B+ blunder quantified. GEICO ~12% market share.
+
+- **[2017 Letter]** Per-share book value **$211,750** — **+23.0%** for the year, though approximately **$29B** of the gain reflects the Tax Cuts and Jobs Act revaluation of deferred tax liabilities (a non-cash, one-time windfall). Excluding tax reform, underlying book value growth was ~$36.4B → ~13%. Float $114.5B. AIG $10.2B world-record premium. Underwriting loss $3.2B (three hurricanes end 14-year streak). Pilot Flying J 38.6% partnership. Jain/Abel named Vice Chairmen. IBM largely sold; Apple $28.2B becomes largest holding; BofA warrant exercised. Cash: $116B. GAAP unrealized gains rule (effective 2018) will cause wild quarterly swings.
+
 ## The Inflation Caveat
 
 - **[1979 Letter]** Book value in 1964 bought ~½ ounce of gold; in 1979, after 15 years of retained earnings, it still bought ~½ ounce

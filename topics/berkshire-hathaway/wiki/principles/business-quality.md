@@ -33,6 +33,8 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -466,3 +468,19 @@ The construction downturn illustrates moat resilience under stress: Shaw + Johns
 The human cost acknowledged: Dexter workers in Maine, New Bedford textile workers who "spoke Portuguese and knew little, if any, English" — "They had no Plan B." Buffett favors "a reformed and expanded Earned Income Tax Credit" over restraining productivity gains[^20].
 
 [^20]: [2015 Letter](../sources/buffett-letter-2015.md) — Powerhouse Five $13.1B; PCC Powerhouse Six; MSR 18.4% on $25.6B; productivity essay (farming/railroads/insurance/utilities); Dexter/textile human cost; EITC; $107.8B revenue
+
+### Powerhouse Six $17.8B, MSR 24% ROE, and Clayton Largest Builder (2016-2017)
+
+**[2016 Letter]** **Powerhouse Six** (adding Precision Castparts): combined pre-tax earnings **$17.8B** (up from $13.1B). BNSF + BHE alone earned **$9.8B** pre-tax, accounting for **44% of Berkshire's after-tax operating earnings**. The "Powerhouse" group demonstrates the core thesis: businesses with durable competitive advantages compound at high rates when retained earnings can be redeployed.
+
+**MSR segment:** $120B revenue; **24% ROE** on net tangible assets with modest leverage — "a number that would make their competitors envious." The portfolio's strength: diversity across dozens of businesses means individual setbacks are absorbed. Berkshire's 2016 bolt-on acquisitions totaled $535M.
+
+**Clayton Homes:** Now America's **largest home builder** — 42,075 homes (19,168 site-built + 22,907 manufactured), representing **~49% of US manufactured homes**. Site-built expansion accelerated through bolt-on acquisitions. Pre-tax: $744M. The manufactured-housing stigma has not stopped Clayton's dominance, validating the thesis that a well-run business in a misunderstood industry creates compounding advantage.
+
+**[2017 Letter]** **Shaw Industries** reaches **$5.7B revenue** (from $3.2B in 2000) — acquired USFloors for laminate/luxury vinyl plank diversification. Shaw's trajectory illustrates business quality through continuous reinvestment: one-time carpet company now covers all flooring categories.
+
+BNSF revenue: $21.4B; capital expenditures continue above depreciation. BHE: Iowa wind reaches **55% of generation** (target: **89% by 2020**); Iowa retail rate frozen at **7.1¢/KWH** through 2029 — lowest among state peers. "We told Iowans that our rates would not increase before 2029 — that is 11 years without an increase"; $3.6B in wind investment[^21][^22].
+
+[^21]: [2016 Letter](../sources/buffett-letter-2016.md) — Powerhouse Six $17.8B; BNSF+BHE 44% earnings; MSR 24% ROE/$120B; Clayton largest builder 42,075; $535M bolt-ons
+
+[^22]: [2017 Letter](../sources/buffett-letter-2017.md) — Shaw $5.7B/USFloors; BNSF $21.4B; BHE Iowa 55% wind→89% by 2020; 7.1¢ rate freeze to 2029

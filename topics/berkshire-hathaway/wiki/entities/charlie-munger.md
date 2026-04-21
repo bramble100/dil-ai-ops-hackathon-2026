@@ -20,9 +20,10 @@ sources:
     buffett-letter-2005,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [management, corporate-governance]
 ---
@@ -129,3 +130,9 @@ The **Wooden analogy:** Buffett concentrated all playing time on the best player
 Charlie's blueprint restated: "Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices." Met Buffett in 1959; 56 years later, "we've never had an argument." On disagreements: "Warren, think it over and you'll agree with me because you're smart and I'm right"[^6].
 
 [^6]: [2014 Letter](../sources/buffett-letter-2014.md) — independent Golden Anniversary letter; 15-point Berkshire system; Wooden/Federer analogies; Jain/Abel "world-leading"; $50B errors of omission; blueprint restated
+
+### 2017: Succession Formalized — Jain and Abel Named Vice Chairmen
+
+**[2017 Letter]** The succession Munger previewed in his 2014 letter is formalized: **Ajit Jain** (insurance) and **Greg Abel** (non-insurance) are named **Vice Chairmen** of all Berkshire operations. Buffett writes that both will operate with "a culture that is rare among giant companies" — no bureaucracy, no strategic planning department, no investor relations office. This is the clearest succession signal in the letters and confirms Munger's 2014 assessment that both are "world-leading" executives. At 93, Munger remains Vice Chairman of the Berkshire board[^7].
+
+[^7]: [2017 Letter](../sources/buffett-letter-2017.md) — Jain/Abel named Vice Chairmen; succession formalized; culture preservation; Munger's 2014 preview confirmed

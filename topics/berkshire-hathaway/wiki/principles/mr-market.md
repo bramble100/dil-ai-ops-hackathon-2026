@@ -28,6 +28,8 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -462,3 +464,23 @@ Two connections to Berkshire: (1) Graham's unnamed bonanza investment in the 194
 **First webcast:** Annual meeting streamed via Yahoo! for the first time — extending the Mr. Market educational platform to a global audience[^25].
 
 [^25]: [2015 Letter](../sources/buffett-letter-2015.md) — climate change/insurance repricing; Noah's Law (Pascal's Wager); America optimism (GDP 6x/2% = 34.4%); annual meeting webcast; "luckiest crop in history"
+
+### "The Bet" Conclusion, Jack Bogle Statue, and Four BRK Price Drops (2016-2017)
+
+**[2016 Letter]** The **Graham weighing machine** proved right again: after nine years, the Protegé Partners hedge-fund-of-funds bet trails the unmanaged Vanguard S&P 500 index fund **85.4% vs. 22.0%**. The compounding advantage of low fees illustrated: hypothetical $1B into hedge funds over those nine years would have generated **$60M** for managers while the "do-nothing" index investors earned far more.
+
+**Jack Bogle statue:** "If a statue is ever erected to honor the person who has done the most for American investors, the hands-down choice should be Jack Bogle." Bogle created the first index fund in 1975 against industry ridicule. "In his early years, Jack was frequently mocked by the investment-management industry. Today, however, he has the satisfaction of knowing that he helped millions of investors realize far better returns on their savings than they otherwise would have earned. He is a hero to them and to me."
+
+**Four BRK price declines:** Buffett tabulates the four occasions when Berkshire stock fell 37-59% from high to low (1973-75: -59%; 1987-88: -37%; 1998-2000: -49%; 2008-09: -51%). "In the next 53 years our shares (and others) will experience declines resembling those in the table. No one can tell you when these will happen." Kipling's _If_ invoked: "keep your head when all about you are losing theirs." Market declines are the investor's friend — "The light can at any time go from green to red without pausing at yellow."
+
+**Risk redefined:** "Volatility is far from synonymous with risk" — the real risk is permanent capital loss. A diversified equity portfolio held for decades is "far less risky than government bonds with a maturity date of a few decades."
+
+**America optimism $90T:** US GDP per capita real growth $5,000 → $56,000 since 1776. Berkshire itself is proof: "Where else could this have happened?" The next generation will gain $19,000+ per capita in real terms. "This all-powerful trend is certain to continue."
+
+**[2017 Letter]** **"The Bet" concludes** (2008-2017): the Vanguard S&P 500 index fund returned **125.8% cumulative** vs. the five hedge fund-of-funds at **36.3% average** (range: 2.8% to 87.7%). Protegé conceded before year-end. Buffett donates the $2.2M pot to Girls Inc. of Omaha.
+
+The structural critique deepened: $1B invested with hedge funds would have paid **~$100M in management fees** while the index cost virtually nothing. "Performance comes, performance goes. Fees never falter." This is the Mr. Market teaching applied to the investment management industry itself[^26][^27].
+
+[^26]: [2016 Letter](../sources/buffett-letter-2016.md) — The Bet 9-year; Bogle statue; four BRK declines (37-59%); Kipling; risk ≠ volatility; America $90T
+
+[^27]: [2017 Letter](../sources/buffett-letter-2017.md) — The Bet conclusion 125.8% vs 36.3%; "fees never falter"; Girls Inc. donation

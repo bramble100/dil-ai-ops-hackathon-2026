@@ -2,7 +2,14 @@
 title: "Burlington Northern Santa Fe (BNSF)"
 type: entity
 entity_kind: organization
-sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015]
+sources:
+  [
+    buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
+  ]
 created: 2026-04-21
 updated: 2026-04-21
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
@@ -111,3 +118,11 @@ The **productivity essay** uses BNSF as a centerpiece: in 1947, 1.35M railroad w
 Interest coverage: **>8:1** (pre-tax earnings/interest, not EBITDA/interest). BHE and BNSF combined: **$11.6B** in plant and equipment, accounting for **37% of Berkshire's after-tax operating earnings**[^7].
 
 [^7]: [2015 Letter](../sources/buffett-letter-2015.md) — record $6.8B pre-tax; $5.8B capex; 17% US freight; productivity essay (1.35M→187K workers); BNSF +71% ton-miles/+4% employees; coal risk; 8:1 coverage
+
+### 2016-2017: Powerhouse Six and 44% of Berkshire Earnings
+
+**[2016 Letter]** BNSF + BHE combined pre-tax earnings: **$9.8B**, accounting for **44% of Berkshire's after-tax operating earnings**. BNSF moves a ton of freight ~500 miles on a single gallon of diesel — roughly **3¢ per ton-mile**. Capital expenditures continue at levels far exceeding depreciation, consistent with the railroad's capital-intensive nature.
+
+**[2017 Letter]** Revenue: **$21.4B**. BNSF joins the Powerhouse Six (with PCC) as one of Berkshire's crown jewels. The interplay between BNSF's regulated, predictable cash flows and Berkshire's float-funded capital allocation continues to be the company's structural advantage[^8].
+
+[^8]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — BNSF+BHE $9.8B/44% of BRK earnings; 3¢/ton-mile; $21.4B revenue 2017

@@ -586,3 +586,25 @@ Smaller insurance companies: $2.95B cumulative underwriting profit over the past
 **Smaller primaries:** 13-year cumulative underwriting profit of **$4B** (~13% of premium volume); float grown from $943M to $9.9B. BHSI (Peter Eastwood) reaches **$1B annual premium** in under three years — "destined to become one of the world's leading P/C insurers"[^24].
 
 [^24]: [2015 Letter](../sources/buffett-letter-2015.md) — float $87.7B; thirteen years; $26.2B cumulative; $1.8B in 2015; revolving fund; float plateau acknowledged; low-rate outlook; $250B mega-cat; BHSI $1B premium; smaller primaries $4B/13 years; Old Testament religion
+
+### 2016-2017: Float Surpasses $100B, AIG World Record, Hurricane Reckoning
+
+**[2016 Letter]** Float reaches **$91,577M** — a huge policy written in late 2016 pushes it past **$100B**. **Fourteen consecutive years** of underwriting profit, totaling **$28B pre-tax cumulative**. Berkshire's insurance economics explained: float is a "revolving fund" — $27B paid daily to 6M+ claimants, replaced by new premiums. The true value of this liability is "dramatically less than the accounting liability" because it will "in effect never leave the premises."
+
+**GEICO:** Market share reaches **~12%** (from 2.5% in 1995). Tony Nicely completes 55 years. 36,085 employees. Growth accelerated in H2 2016 as competitors retreated from rising loss costs — "we like to make hay while the sun sets."
+
+**General Re:** Tad Montross retires after **39 years**. **Kara Raiguel** (16 years with Ajit) named CEO. The four disciplines restated — "many insurers pass the first three tests and flunk the fourth."
+
+**BHSI:** $1.3B volume (+40%); Peter Eastwood; "destined to become one of the world's leading P/C insurers." Underwriting profits throughout the start-up period.
+
+Berkshire's low-rate-environment advantage: most P/C portfolios are bond-heavy — as legacy yields mature, industry earnings decline. Berkshire's flexibility in investing is "far more" than generally available.
+
+**[2017 Letter]** Float reaches **$114,500M** — boosted by the **AIG retroactive reinsurance deal**: $10.2B premium to reinsure up to $20B of long-tail losses. **World-record single premium.** Premium volume: $60.6B (up from ~$45B in 2016).
+
+**2017 underwriting loss: $3.2B pre-tax** — ending the 14-year profit streak. Three hurricanes (Harvey, Irma, Maria) cost Berkshire ~$3B (~$2B after tax). Industry-wide losses ~$100B; Berkshire's ~3% share "is also what we may reasonably expect to be our share of losses in future American mega-cats."
+
+**$400B mega-cat scenario:** Berkshire estimates ~2% annual probability; its share would be ~$12B, "far below the annual earnings we expect from our non-insurance activities." No company comes close to Berkshire's financial preparedness for such an event[^25][^26].
+
+[^25]: [2016 Letter](../sources/buffett-letter-2016.md) — float $91.6B→$100B+; 14 years/$28B cumulative; GEICO 12%; Montross retires/Raiguel; BHSI $1.3B; revolving fund
+
+[^26]: [2017 Letter](../sources/buffett-letter-2017.md) — AIG $10.2B world record; float $114.5B; $3.2B hurricane loss; 14-year streak ends; $400B mega-cat 2%/year; $60.6B premiums

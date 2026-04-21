@@ -35,6 +35,8 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -438,3 +440,19 @@ Since 1970: investments 18.9% CAGR, earnings 23.7% CAGR. "It is no coincidence t
 **Big Four:** AmEx 15.6%, Coke 9.3%, IBM 8.4%, Wells Fargo 9.8% — combined **$4.7B** look-through; $1.8B dividends. "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." BofA warrants: 700M shares at $5B, worth **$11.8B** — "in effect, our fourth largest equity investment." Likely to exercise just before September 2021 expiration[^23].
 
 [^23]: [2015 Letter](../sources/buffett-letter-2015.md) — Pillar 2 now includes underwriting ($1,118/share); investments $159,794/earnings $12,304; non-real amortization $1.1B (80% non-real); EBITDA noses; stock-comp critique; Big Four $4.7B; BofA $11.8B; 120% repurchase threshold; 18.9%/23.7% since 1970
+
+### GAAP Unrealized Gains Rule, Adjusted Earnings Critique, and Amortization (2016-2017)
+
+**[2016 Letter]** The share repurchase essay reinforces owner-earnings discipline: companies should only buy back stock below intrinsic value. "Buying dollar bills for $1.10 is not good business" — the same economic logic that drives the owner-earnings framework.
+
+**Non-real amortization restated:** Berkshire's $15.4B purchase-accounting amortization charges include ~$1.5B annually that are "not a true economic cost." These charges systematically understate GAAP earnings. "The non-real charges will eventually be eliminated." The correction for owner-earnings: add back non-real amortization, subtract true maintenance capex.
+
+**[2017 Letter]** The new **GAAP rule on unrealized gains** (ASC 2016-01, effective 2018) will force recognition of unrealized equity gains/losses through the income statement. Buffett warns this will produce "truly wild and capricious swings" in reported net income — $10B+ quarterly swings in either direction. "We have regularly told you that these market fluctuations are meaningless in calculating what we call Berkshire's 'intrinsic business value.'"
+
+The **"adjusted earnings" critique**: Buffett attacks companies that highlight non-GAAP "adjusted" figures — "too many managements — and the number seems to grow every year — are using 'adjusted' figures that are far more favorable than their GAAP earnings." Stock compensation is singled out: "If compensation isn't an expense, what is it? And, if real and recurring expenses don't belong in the calculation of earnings, where in the world do they belong?"
+
+**Normalized earning power framework:** With $116B in cash, $170B in equities, and $140B+ in non-insurance operating earnings power, Buffett emphasizes that the "four building blocks" remain the right way to assess intrinsic value — not GAAP net income, which will now gyrate with equity markets[^24][^25].
+
+[^24]: [2016 Letter](../sources/buffett-letter-2016.md) — repurchase below intrinsic value; non-real amortization $1.5B; Dexter blunder amplified by shares
+
+[^25]: [2017 Letter](../sources/buffett-letter-2017.md) — GAAP unrealized gains rule (ASC 2016-01); $10B+ quarterly swings; "adjusted earnings" critique; stock-comp expense; four building blocks

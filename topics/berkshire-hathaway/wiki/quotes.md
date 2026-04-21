@@ -1301,3 +1301,51 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Next time I'll call Charlie." — 2013 Letter
 >
 > Context: On the Heinz/3G partnership — Lemann called Buffett to propose the deal. Buffett's instant response: said yes before calling Munger. → [Capital Allocation](principles/capital-allocation.md)
+
+### Jack Bogle Statue (2016)
+
+> "If a statue is ever erected to honor the person who has done the most for American investors, the hands-down choice should be Jack Bogle." — 2016 Letter
+>
+> Context: Tribute to the founder of Vanguard and the index fund, in the context of The Bet's nine-year results. → [Mr. Market](principles/mr-market.md)
+
+### Risk and Leverage (2016)
+
+> "It is insane to risk what you have and need in order to obtain what you don't need." — 2016 Letter
+>
+> Context: On leverage and the 2008 crisis — the risk of permanent capital loss outweighs any return. → [Capital Allocation](principles/capital-allocation.md)
+
+### Four BRK Price Drops (2016)
+
+> "The light can at any time go from green to red without pausing at yellow." — 2016 Letter
+>
+> Context: After tabulating four occasions when BRK stock fell 37-59%. Paired with Kipling's _If_: "keep your head when all about you are losing theirs." → [Mr. Market](principles/mr-market.md)
+
+### GEICO's Cost Advantage (2016)
+
+> "When they shop, GEICO wins." — 2016 Letter
+>
+> Context: GEICO's 12% market share growth driven by cost advantage — competitors retreating from rising loss costs while GEICO accelerated. → [GEICO](entities/geico.md)
+
+### Fees Never Falter (2017)
+
+> "Performance comes, performance goes. Fees never falter." — 2017 Letter
+>
+> Context: The Bet's conclusion — hedge funds returned 36.3% cumulative vs. index fund's 125.8% over ten years. The fee structure guaranteed advisor wealth regardless of performance. → [Mr. Market](principles/mr-market.md)
+
+### Acquisition-Mania (2017)
+
+> "Once a CEO hungers for a deal, he or she will never lack for forecasts that justify the purchase." — 2017 Letter
+>
+> Context: The most explicit warning on deal-making psychology — "can-do" CEOs, compliant boards, eager Wall Street. → [Capital Allocation](principles/capital-allocation.md)
+
+### The Barber Analogy (2017)
+
+> "Don't ask the barber whether you need a haircut." — 2017 Letter
+>
+> Context: On investment bankers, lawyers, and accountants who profit from deal completion regardless of quality. → [Institutional Imperative](principles/institutional-imperative.md)
+
+### Rain Gold (2017)
+
+> "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it's imperative that we rush outdoors carrying washtubs, not teaspoons." — 2017 Letter
+>
+> Context: On Berkshire's $116B cash pile — maintaining the ability to act massively during crises. → [Capital Allocation](principles/capital-allocation.md)

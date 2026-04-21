@@ -34,9 +34,11 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [insurance, management, moats]
 ---
@@ -195,9 +197,15 @@ Total Berkshire float $50.9B; Equitas adds another $7B. Retroactive reinsurance 
 
 [^15]: [2006 Letter](../sources/buffett-letter-2006.md) — 40th anniversary; float from $17M to $50.9B; Ringwalt parking meter; Equitas +$7B; insurance Hall of Fame roster
 
-### 2006: 40th Anniversary and $50.9B Float
+### 2016-2017: AIG $10.2B World Record, Float $114.5B, Hurricane Reckoning
 
-**[2006 Letter]** Buffett marks National Indemnity's **40th anniversary** under Berkshire ownership (purchased March 9, 1967 from Jack Ringwalt for $8.6M). Float has grown from $17M to $50.9B. The origin story retold: Charlie Heider alerted Buffett when Ringwalt was "in heat"; deal closed with a handshake, no audit, no due diligence. At the closing, Ringwalt arrived late — he'd been "driving around looking for a parking meter with some unexpired time."
+**[2016 Letter]** Total Berkshire float reaches **$91,577M** — a huge policy written in late 2016 pushes it past $100B. The NICO/BH Reinsurance group remains the centerpiece of float generation.
+
+**[2017 Letter]** The **AIG retroactive reinsurance deal** sets a **world record**: $10.2B single premium to cover up to $20B of AIG's long-tail loss reserves. This is the largest insurance policy ever written — only National Indemnity/BH Reinsurance has the balance sheet to write it. Total premium volume: $60.6B.
+
+Float reaches **$114,500M**. Three hurricanes (Harvey, Irma, Maria) produce industry losses of ~$100B; Berkshire absorbs ~$3B (∼3% market share). Berkshire's catastrophe exposure framework updated: a **$400B mega-cat** (estimated ~2% annual probability) would cost Berkshire ~$12B — "far below the annual earnings we expect from our non-insurance activities." No other company has comparable single-event capacity[^16].
+
+[^16]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — float $91.6B→$114.5B; AIG $10.2B world-record premium; $400B mega-cat/$12B exposure; three hurricanes $3B; $60.6B premiums
 
 The insurance roster reads like "Cooperstown" — Tony Nicely (GEICO), Ajit Jain (B-H Reinsurance), Joe Brandon and Tad Montross (General Re), Don Wurster (NICO Primary), plus Tom Nerney, Tim Kenesey, Rod Eldred, Sid Ferenc, Steve Menzies, John Kizer, and Don Towle.
 

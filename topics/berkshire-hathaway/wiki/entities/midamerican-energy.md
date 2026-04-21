@@ -14,10 +14,12 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
   ]
-source_count: 8
+source_count: 13
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [entity, utilities, energy, acquisition]
 ---
 
@@ -242,3 +244,13 @@ BHE now owns **7% of US wind generation and 6% of solar generation**. The **4,42
 BHE's efficiency and safety records make it "welcomed by regulators when it proposes to buy a utility in their jurisdiction." Low prices + unlimited capital + no dividends paid to Berkshire = decisive regulatory advantage[^16].
 
 [^16]: [2015 Letter](../sources/buffett-letter-2015.md) — $3.35B operating earnings; 7% wind/6% solar; Iowa 47% wind/6.8¢ KWH; 16 years no rate increase; Paris commitments; PacifiCorp productivity; safety top decile
+
+### 2016-2017: "Saudi Arabia of Wind" and Rate Freeze to 2029
+
+**[2016 Letter]** Iowa wind generation reaches **55% of total output**. BHE remains the dominant renewable-energy investor among US utilities. Combined BNSF + BHE pre-tax earnings: **$9.8B**.
+
+**[2017 Letter]** BHE commits $3.6B in additional Iowa wind investment, targeting **89% wind generation by 2020**. Iowa retail rate frozen at **7.1¢/KWH through 2029** — "We told Iowans that our rates would not increase before 2029 — that is 11 years without an increase." This extends the 16-year rate freeze to 30 years total.
+
+Buffett dubs Iowa "the Saudi Arabia of wind energy." The regulatory advantage deepens: no dividends to Berkshire + unlimited capital + lowest rates = a utility welcome mat in every jurisdiction. BHE's total renewable investment: **$16B** across wind and solar[^17].
+
+[^17]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — Iowa 55% wind→89% by 2020; $3.6B wind investment; 7.1¢ rate freeze to 2029; "Saudi Arabia of wind"; $16B renewables

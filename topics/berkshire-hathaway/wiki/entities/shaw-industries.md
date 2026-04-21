@@ -11,9 +11,10 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [acquisition, manufacturing, mega-cap-era]
 ---
@@ -73,3 +74,9 @@ Shaw illustrates Berkshire's acquisition model in manufacturing: identify the in
 **[2006 Letter]** Bob Shaw retires at age 75 after building Shaw Industries from a standing start into the country's largest carpet producer. Vance Bell, a 31-year Shaw veteran, succeeds him. Housing weakness slows the carpet business, but "Shaw remains a powerhouse and a major contributor to Berkshire's earnings." Tuck-in acquisitions continue[^6].
 
 [^6]: [2006 Letter](../sources/buffett-letter-2006.md) — Bob Shaw retires at 75; Vance Bell succeeds (31-year veteran); housing weakness; still major earner
+
+### 2017: $5.7B Revenue and USFloors Acquisition
+
+**[2017 Letter]** Shaw reaches **$5.7B revenue** (from $3.2B in 2000 when acquired). The **USFloors acquisition** diversifies Shaw into laminate and luxury vinyl plank flooring — moving beyond its carpet-industry origins into the fastest-growing flooring categories. Shaw's trajectory from single-product carpet company to full-spectrum flooring leader demonstrates [business quality](../principles/business-quality.md) through continuous reinvestment[^7].
+
+[^7]: [2017 Letter](../sources/buffett-letter-2017.md) — $5.7B revenue (from $3.2B in 2000); USFloors acquisition; laminate/luxury vinyl diversification

@@ -2,7 +2,7 @@
 title: "Precision Castparts Corp. (PCC)"
 type: entity
 entity_kind: organization
-sources: [buffett-letter-2015]
+sources: [buffett-letter-2015, buffett-letter-2016]
 created: 2026-04-21
 updated: 2026-04-21
 status: draft
