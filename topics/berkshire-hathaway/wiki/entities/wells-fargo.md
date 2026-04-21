@@ -14,9 +14,12 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [management, valuation, risk]
 ---
@@ -119,3 +122,13 @@ Combined Big Four look-through earnings: **$4.7B**; dividends received: $1.8B. "
 **[2017 Letter]** Wells Fargo holdings: **482.5M shares** (9.4% ownership), market value **$29.3B** on $11.8B cost. Bank of America's warrant is exercised — 700M shares at $7.14/share, converting a $5B preferred investment into a **$20.7B common stock position**. BofA effectively joins the Big Four, and Apple ($28.2B market value) becomes Berkshire's **largest equity holding**, signaling the portfolio's shift from financials toward technology[^10].
 
 [^10]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — WF 500M→482.5M shares; BofA warrant exercised ($5B→$20.7B); Apple $28.2B largest holding
+
+### 2018-2020: Steady Reduction and Exit from Top 15
+
+**[2018 Letter]** Holdings: **449,349,102 shares** (market value $20,706M on $10,639M cost). Wells Fargo remains in the top-15 holdings table but the position continues to shrink from the 500M peak.
+
+**[2019 Letter]** Holdings: **323,212,918 shares** — a significant reduction from 449M. The position is declining faster than in prior years.
+
+**[2020 Letter]** Wells Fargo is **absent from the top-15 holdings table** entirely. The position has been reduced below the threshold. This marks the end of a 30-year relationship that began with Buffett's $290M panic purchase in 1990[^11].
+
+[^11]: [2018-2020 Letters](../sources/buffett-letter-2018.md) — 449M→323M→below top-15 threshold; 30-year position winds down

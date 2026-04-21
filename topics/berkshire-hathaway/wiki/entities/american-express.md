@@ -8,9 +8,12 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-22
 status: draft
 tags: [investment, management, compounding]
 ---
@@ -72,3 +75,13 @@ Combined Big Four look-through earnings: **$4.7B** (vs. $4.4B in 2013). Total un
 The 2015 letter notes the Important Risks section: "online retailing threatens the business model of our retailers and certain of our consumer brands." While not specific to AmEx, the payment/retail ecosystem disruption is relevant context. Combined Big Four look-through earnings: **$4.7B**[^4].
 
 [^4]: [2015 Letter](../sources/buffett-letter-2015.md) — 151.6M shares; 15.6%; $10.5B value on $1.3B cost; Big Four $4.7B; market value declined
+
+### 2018-2020: Buyback-Driven Ownership Growth
+
+**[2018 Letter]** Berkshire holds **151,610,700 shares** at **$14,452M market value** — ownership rises to **17.9%** without Berkshire buying a single share. The mechanism: American Express's own share repurchases reduce outstanding shares, automatically increasing Berkshire's percentage.
+
+**[2019 Letter]** Ownership: **18.7%** on the same 151.6M shares. AmEx retained **$1.2B** of earnings attributable to Berkshire's share (out of $6.9B total earned). The 10 largest holdings table shows retained investee earnings ($8.3B total) far exceeding dividends ($3.8B) — AmEx as a prime example of this invisible compounding engine.
+
+**[2020 Letter]** Ownership: **18.8%**. Cost remains **$1.287B**; market value **$18,331M** (→ 14.2x cost). AmEx listed third in the top-15 holdings table. The buyback-driven ownership growth from 15.6% (2015) to 18.8% (2020) exemplifies Buffett's teaching: when an excellent company repurchases shares at reasonable prices, non-selling shareholders benefit automatically. "Gains in the value of our investment in AmEx have been considerable — and we haven't bought a share since 1998!"[^5]
+
+[^5]: [2018-2020 Letters](../sources/buffett-letter-2018.md) — 17.9%→18.7%→18.8% via AmEx buybacks; $1.2B retained/$6.9B earned; $18.3B value on $1.3B cost; 14.2x

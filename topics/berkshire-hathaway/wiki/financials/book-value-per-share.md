@@ -161,6 +161,17 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 
 - **[2017 Letter]** Per-share book value **$211,750** — **+23.0%** for the year, though approximately **$29B** of the gain reflects the Tax Cuts and Jobs Act revaluation of deferred tax liabilities (a non-cash, one-time windfall). Excluding tax reform, underlying book value growth was ~$36.4B → ~13%. Float $114.5B. AIG $10.2B world-record premium. Underwriting loss $3.2B (three hurricanes end 14-year streak). Pilot Flying J 38.6% partnership. Jain/Abel named Vice Chairmen. IBM largely sold; Apple $28.2B becomes largest holding; BofA warrant exercised. Cash: $116B. GAAP unrealized gains rule (effective 2018) will cause wild quarterly swings.
 
+### 2018: Book Value Per Share Abandoned as Primary Metric
+
+- **[2018 Letter]** After 54 years of leading with per-share book value change, Buffett **discontinues the metric** as the primary scorecard. Three reasons: (1) Berkshire has morphed from a company whose assets are concentrated in marketable securities to one whose value resides primarily in operating businesses, which GAAP carries "far below their current value"; (2) the equity portfolio still has market-value impact, but GAAP carries operating subsidiaries at historical cost regardless of their real worth; (3) share repurchases above book value but below intrinsic value widen the gap between the two measures. "In the future, we will focus on Berkshire's market price." The final reported figure: book value per share grew just **+0.4%** in 2018, while market price per share fell **−2.8%**. Operating earnings: $24.8B. GAAP net: only $4B (Kraft Heinz impairment + $20.6B unrealized equity losses). The table in the annual report now shows market price change vs. S&P 500 instead of book value vs. S&P 500.
+
+### 2019-2020: Market Price Era
+
+- **[2019 Letter]** Market price per share: **+11.0%** (vs. S&P 500 +31.5%). GAAP: $81.4B (“1,900% increase”) — driven entirely by $53.7B unrealized equity gains, proving the 2017 warning correct.
+- **[2020 Letter]** Market price per share: **+2.4%** (vs. S&P 500 +18.4%). GAAP: $42.5B (including $11B PCC writedown). Operating earnings: $21.9B (−9%). The book value table is no longer published as Berkshire's lead performance measure.
+
+_The book value per share series (1964-2017) remains the canonical historical record of Berkshire's compounding. Post-2018, market price per share is the primary tracking metric._
+
 ## The Inflation Caveat
 
 - **[1979 Letter]** Book value in 1964 bought ~½ ounce of gold; in 1979, after 15 years of retained earnings, it still bought ~½ ounce

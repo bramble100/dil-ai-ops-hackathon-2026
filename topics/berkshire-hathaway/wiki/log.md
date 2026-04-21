@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-22] ingest-batch | Batch 22: 2018-2020 Letters
+
+- Sources: raw/articles/buffett-letter-2018.md, raw/articles/buffett-letter-2019.md, raw/articles/buffett-letter-2020.md
+- Created: sources/buffett-letter-2018, sources/buffett-letter-2019, sources/buffett-letter-2020
+- Updated: principles/capital-allocation, principles/owner-earnings, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/four-filters, principles/institutional-imperative, entities/geico, entities/national-indemnity, entities/bnsf, entities/midamerican-energy, entities/precision-castparts, entities/clayton-homes, entities/pilot-flying-j, entities/wells-fargo, entities/american-express, entities/charlie-munger, entities/sees-candies, entities/nebraska-furniture-mart, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
+- Key themes: Book value ABANDONED as primary metric (54-year run ends); five groves framework; American Tailwind ($114.75→$606,811); conglomerate defense ("two strings to our bow"); four "family jewels"; $24.7B repurchases (5.2%, largest buyback year); PCC $11B writedown ("I paid too much"); GUARD $221M→$1.9B (+379%); float $122.7B→$129.4B→$138B (costless); BHE 20th anniversary/wind self-sufficiency/18B grid; Katie Farmer BNSF CEO; retained earnings power (Smith/Keynes); board governance essay (21 companies/62 years, cocker spaniel directors); succession "urgent zone"; Apple compounding (5.2%→5.4%→10% more); origin stories retold (GEICO/NICO/NFM/See's); "never bet against America"
+
 ## [2026-04-22] ingest-batch | Batch 21: 2016-2017 Letters
 
 - Sources: raw/articles/buffett-letter-2016.md, raw/articles/buffett-letter-2017.md

@@ -35,9 +35,12 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [moats, valuation, principle, mental-model]
 ---
@@ -484,3 +487,25 @@ BNSF revenue: $21.4B; capital expenditures continue above depreciation. BHE: Iow
 [^21]: [2016 Letter](../sources/buffett-letter-2016.md) — Powerhouse Six $17.8B; BNSF+BHE 44% earnings; MSR 24% ROE/$120B; Clayton largest builder 42,075; $535M bolt-ons
 
 [^22]: [2017 Letter](../sources/buffett-letter-2017.md) — Shaw $5.7B/USFloors; BNSF $21.4B; BHE Iowa 55% wind→89% by 2020; 7.1¢ rate freeze to 2029
+
+### Five Groves, Two Redwoods, Four Jewels, and Asset-Heavy Pivot (2018-2020)
+
+**[2018 Letter]** Berkshire's non-insurance businesses restructured into the **"five groves" framework**. Non-insurance operating earnings: **$20.8B pre-tax** (+24%). The two "towering redwoods" — BNSF + BHE — earned **$9.3B pre-tax** (+6%). Next five (Clayton, ISCAR, Lubrizol, Marmon, PCC): **$6.4B** (up from $5.5B). Record **$14.5B capex** (89% in America) — asset-heavy businesses requiring sustained reinvestment.
+
+EBITDA critique sharpened: Lincoln's tail/leg quote. Stock-based compensation singled out: "What else could it be — a gift from shareholders?" Restructuring charges are "all-too-real costs."
+
+**[2019 Letter]** BNSF + BHE: **$8.3B** (+6%). Total non-insurance net: **$17.7B** (+3%). Tom Murphy maxim: "To achieve a reputation as a good manager, just be sure you buy good businesses." Acquisitions-as-marriage: "the 'poor' business tends to stagnate... meanwhile, our 'good' businesses often tend to grow." The natural portfolio effect: winners' assets gradually become "an expanding portion of our total capital."
+
+Lubrizol Rouen fire and Berkshire self-insurance: "Let not the left hand know what the right hand doeth" (Matthew 6:3).
+
+**[2020 Letter]** **Four "family jewels"** identified: P/C insurance, BNSF, Apple 5.4%, BHE 91%. Asset-heavy businesses "can be good investments" — BNSF + BHE combined earnings: **$4.2B** (2011) → **$8.3B** (2020). Berkshire's US PP&E: **$154B** (#1, ahead of AT&T's $127B).
+
+BNSF: 15% of non-local US ton-miles; **$41B invested** since purchase; **$41.8B dividends paid** to Berkshire; Katie Farmer CEO. BHE: **$18B western grid project** (2006-2030); never paid a dividend; $28B retained. "Whatever the obstacles, BHE will be a leader in delivering ever-cleaner energy."
+
+Clayton + Pilot Flying J: both earn **>$1B pre-tax**; 47,000 combined employees. NFM: three largest US furniture stores; record sales in 2020 despite six-week COVID closure[^23][^24][^25].
+
+[^23]: [2018 Letter](../sources/buffett-letter-2018.md) — five groves; two redwoods $9.3B; non-insurance $20.8B; $14.5B capex; EBITDA/Lincoln
+
+[^24]: [2019 Letter](../sources/buffett-letter-2019.md) — BNSF+BHE $8.3B; total $17.7B; Murphy maxim; acquisitions-as-marriage; Lubrizol self-insured
+
+[^25]: [2020 Letter](../sources/buffett-letter-2020.md) — four jewels; $154B PP&E; BNSF $41B/$41.8B; BHE $18B grid; Clayton+Pilot >$1B each; NFM COVID record

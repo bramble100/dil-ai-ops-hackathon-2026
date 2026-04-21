@@ -19,7 +19,7 @@ sources:
   ]
 source_count: 13
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [entity, utilities, energy, acquisition]
 ---
 
@@ -254,3 +254,15 @@ BHE's efficiency and safety records make it "welcomed by regulators when it prop
 Buffett dubs Iowa "the Saudi Arabia of wind energy." The regulatory advantage deepens: no dividends to Berkshire + unlimited capital + lowest rates = a utility welcome mat in every jurisdiction. BHE's total renewable investment: **$16B** across wind and solar[^17].
 
 [^17]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — Iowa 55% wind→89% by 2020; $3.6B wind investment; 7.1¢ rate freeze to 2029; "Saudi Arabia of wind"; $16B renewables
+
+### 2019-2020: 20th Anniversary, Wind Self-Sufficiency, $18B Grid, $100B+ Readiness
+
+**[2019 Letter]** BHE celebrates its **20th year** under Berkshire ownership. Iowa wind generation will reach **self-sufficiency by 2021**: 25.2M MWh produced vs. 24.6M MWh consumed by Iowa customers. "We know of no other investor-owned utility, wherever located, that by 2021 will have achieved a position of wind self-sufficiency." Three of five largest Iowa customers are now **high-tech giants** — siting decisions partly based on BHE's renewable, low-cost energy.
+
+Iowa residential rates: <1%/year increase since 2000 (8.8¢ kWh). Competitor: **61% higher** (to widen to **70%**). BHE has retained **$28B** in earnings (never paid a dividend). Ready for **$100B+ utility projects** — "We stand ready, willing and able to take on such opportunities." Berkshire now owns **91%** (with Walter Scott Jr. and Greg Abel).
+
+**[2020 Letter]** BHE commits to an **$18B western grid project** (2006-2030) — reworking and expanding transmission for renewable energy. "Very few companies or governmental entities were in a financial position to raise their hand after they tallied the project's cost." The project required trust in America's political, economic, and judicial systems — billions invested before meaningful revenue.
+
+BHE **never paid a dividend** on common stock in 21 years of ownership. "The country's electric utilities need a massive makeover in which the ultimate costs will be staggering." Berkshire's US PP&E: **$154B** (#1, AT&T $127B #2). BHE + BNSF combined earnings: **$8.3B** (2020) vs. $4.2B (2011)[^18].
+
+[^18]: [2019 Letter](../sources/buffett-letter-2019.md) & [2020 Letter](../sources/buffett-letter-2020.md) — 20th anniversary; Iowa wind self-sufficiency 2021; <1%/yr rates; 61% competitor gap; $28B retained; $100B+ ready; $18B grid; $154B PP&E; no dividends ever

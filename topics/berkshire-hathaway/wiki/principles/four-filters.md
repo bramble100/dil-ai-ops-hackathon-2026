@@ -30,9 +30,12 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-22
 status: draft
 tags: [valuation, principle, mental-model]
 ---
@@ -307,3 +310,17 @@ The **Pilot Flying J partnership** (38.6% initially, becoming ~80% in 2023) illu
 [^16]: [2016 Letter](../sources/buffett-letter-2016.md) — all-equity acquisition evaluation; leverage aversion; Dexter as filter (4) failure
 
 [^17]: [2017 Letter](../sources/buffett-letter-2017.md) — acquisition-mania as systematic filter failure; "can-do" CEO bias; barber analogy; Pilot Flying J as patient filter application
+
+### Sky-High Prices, GUARD Discovery, and PCC Overpayment (2018-2020)
+
+**[2018 Letter]** Filter (4) — sensible price — remains the binding constraint: "Prices are sky-high for businesses possessing decent long-term prospects." Berkshire purchases **$43B in marketable equities** instead, finding "far more for our money" in partial ownership. The elephant-sized acquisition search continues: "Just writing about the possibility of a huge purchase has caused my pulse rate to soar."
+
+**[2019 Letter]** **GUARD Insurance** illustrates quiet filter application: Ajit Jain found the company in Wilkes-Barre, PA; $221M purchase (2012) → $1.9B premium by 2019. Sy Foguel was the manager Ajit trusted — filter (3) in action. Three acquisition criteria restated compactly: good returns on net tangible capital, able and honest managers, sensible price.
+
+**[2020 Letter]** PCC exposes the consequences of **filter (4) failure at mega-scale**: "I paid too much for the company" — $11B writedown. The error was in estimating normalized earnings potential, not in filters (1)-(3): PCC is "the best in its business" with an excellent CEO. The conglomerate defense explains why non-controlling positions sometimes satisfy the filters better than whole acquisitions: "owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work"[^18][^19][^20].
+
+[^18]: [2018 Letter](../sources/buffett-letter-2018.md) — sky-high prices; $43B equities; elephant sought; pulse rate
+
+[^19]: [2019 Letter](../sources/buffett-letter-2019.md) — GUARD as quiet filter application; three criteria restated
+
+[^20]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC filter (4) failure; $11B writedown; non-controlling > full ownership sometimes

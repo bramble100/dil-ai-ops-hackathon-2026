@@ -1,9 +1,15 @@
 ---
 title: "The Institutional Imperative"
 type: principle
-sources: [buffett-letter-1989, buffett-letter-2004, buffett-letter-2017]
+sources:
+  [
+    buffett-letter-1989,
+    buffett-letter-2004,
+    buffett-letter-2017,
+    buffett-letter-2019,
+  ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [management, corporate-governance, principle, mental-model, warning]
 ---
@@ -72,3 +78,33 @@ Berkshire's structural support enables this discipline: the no-layoff guarantee 
 The 2017 formulation is the most operational version of the concept: the imperative operates through a specific, identifiable chain (CEO bias → advisory reinforcement → board silence → value-destroying deal)[^3].
 
 [^3]: [2017 Letter](../sources/buffett-letter-2017.md) — "can-do" CEO self-selection; barber/haircut advisory alignment; boardroom silence; fees never falter; acquisition-mania as institutional imperative in action
+
+### Board Governance and Director Independence Theater (2019)
+
+**[2019 Letter]** The most comprehensive board governance essay in the letters — drawing on Buffett's experience as director of **21 public companies** over 62 years. The institutional imperative now operates through structural conflicts:
+
+- **Director compensation as corrupting force:** $250,000-300,000 annually for "a pleasant couple of days six or so times a year" = 3-4x median household income. Non-wealthy directors (NWDs) yearn for a second board seat ($500-600K class) — ensuring they won't challenge the CEO who controls referrals.
+- **"Cocker spaniel" selection:** "If the NWD has seriously challenged his/her present CEO's compensation or acquisition dreams, his or her candidacy will silently die. When seeking directors, CEOs don't look for pit bulls."
+- **Independence theater:** Directors with no personal investment classified as "independent" while those with substantial personal stakes are deemed "lacking in independence" — eight directors of one large laggard had "never purchased a share using their own money."
+- **Acquisition advisor reform:** Hire two advisors, one pro and one con, with the winner receiving 10x the loser's token sum. "Don't hold your breath awaiting this reform."
+
+> "If you are Bobby Fischer, you must play only chess for money." — 2019 Letter
+
+Buffett's prescription: business-savvy, owner-oriented directors with "a strong specific interest" in the company. "Thought and principles, not robot-like 'process,' will guide their actions"[^4].
+
+[^4]: [2019 Letter](../sources/buffett-letter-2019.md) — 62-year/21-company board experience; NWD compensation conflict; cocker spaniel selection; independence theater; acquisition pro/con advisors; Bobby Fischer
+
+### Board Governance and Director Independence Theater (2019)
+
+**[2019 Letter]** The most comprehensive board governance essay in the letters — drawing on Buffett's experience as director of 21 public companies over 62 years. The institutional imperative now operates through structural conflicts:
+
+- **Director compensation as corrupting force:** $250,000-300,000 annually for "a pleasant couple of days six or so times a year" = 3-4x median household income. Non-wealthy directors (NWDs) yearn for a second board seat ($500-600K class) — ensuring they won't challenge the CEO who controls referrals.
+- **"Cocker spaniel" selection:** "If the NWD has seriously challenged his/her present CEO's compensation or acquisition dreams, his or her candidacy will silently die. When seeking directors, CEOs don't look for pit bulls."
+- **Independence theater:** Directors with no personal investment classified as "independent" while those with substantial personal stakes are deemed "lacking in independence" — eight directors of one large laggard had "never purchased a share using their own money."
+- **Acquisition advisor reform:** "Hire two 'expert' advisors, one pro and one con, to deliver views — with the winning advisor to receive ten times a token sum paid to the loser." Current system: "The current system, whatever its shortcomings for shareholders, works magnificently for CEOs and the many advisors and other professionals who feast on deals."
+
+> "In baseball lingo... if you are Bobby Fischer, you must play only chess for money." — 2019 Letter
+
+Buffett's prescription: business-savvy, owner-oriented directors with a "strong specific interest" in the company. "Thought and principles, not robot-like 'process,' will guide their actions"[^4].
+
+[^4]: [2019 Letter](../sources/buffett-letter-2019.md) — 62-year/21-company board experience; NWD compensation conflict; cocker spaniel selection; independence theater; acquisition pro/con advisors; Bobby Fischer

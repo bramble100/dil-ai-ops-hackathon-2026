@@ -36,8 +36,11 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
+updated: 2026-04-22
 updated: 2026-04-21
 status: draft
 tags: [insurance, management, moats]
@@ -236,3 +239,17 @@ BH Reinsurance float: **$44,108M**; underwriting profit: **$421M**. Ajit "insure
 **BHSI** (Peter Eastwood) reaches **$1B annual premium** in under three years — "destined to become one of the world's leading P/C insurers." Smaller primaries: **$4B cumulative underwriting profit** over 13 years (~13% of premium), float grown from $943M to $9.9B[^17].
 
 [^17]: [2015 Letter](../sources/buffett-letter-2015.md) — Ajit 1986 Saturday origin; BH Reinsurance $44.1B float/$421M profit; $250B mega-cat; BHSI $1B premium; smaller primaries $4B/13 years
+
+### 2019: GUARD Insurance — The Quiet Discovery
+
+**[2019 Letter]** GUARD Insurance spotlighted as a standout within NICO's smaller-operations segment. Purchased for **$221M in 2012** by Ajit Jain from Wilkes-Barre, Pennsylvania. By 2019: premium volume **$1.9B** — a **379% increase**; float up 265%. CEO **Sy Foguel** was "a star at Berkshire" — "Bingo and bingo." Buffett marvels: GUARD "may well deliver a similar surprise" to National Indemnity's own Omaha origins. A demonstration of Ajit's eye for undervalued insurance franchises[^18].
+
+### 2020: Ringwalt Story Retold and Insurance as Core
+
+**[2020 Letter]** Jack Ringwalt founding retold: started National Indemnity in 1940 with **$125,000**, insuring "odd-ball risks" from Omaha. Ringwalt attended Omaha Central High (same as Buffett). "The National Indemnity building, across the street from Berkshire's home office, will forever deserve the accolade: Hallowed Ground."
+
+Insurance described as **"core of Berkshire"** for 53 years. Total float: **$138B** — the culmination of Ringwalt's $125K investment. Berkshire's insurance managers are "first-class professionals, every one of them"[^19].
+
+[^18]: [2019 Letter](../sources/buffett-letter-2019.md) — GUARD $221M→$1.9B premium; 379% growth; Sy Foguel; Wilkes-Barre origins
+
+[^19]: [2020 Letter](../sources/buffett-letter-2020.md) — Ringwalt retold; $125K/1940; Omaha Central High; insurance core 53 years; float $138B

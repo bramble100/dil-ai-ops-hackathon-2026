@@ -26,8 +26,10 @@ sources:
     buffett-letter-2005,
     buffett-letter-2007,
     buffett-letter-2014,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
+updated: 2026-04-22
 updated: 2026-04-20
 status: draft
 tags: [moats, compounding, capital-allocation]
@@ -181,3 +183,11 @@ The See's education: "Through watching See's in action, I gained a business educ
 The See's case study remains the foundational teaching example: $25M purchase price, $32M total reinvestment, $1.65B in cumulative cash extracted. "Buy commodities, sell brands" — the franchise model that generates ever-increasing cash on minimal capital[^10].
 
 [^10]: [2011 Letter](../sources/buffett-letter-2011.md) — record $83M pre-tax; $1.65B cumulative; Brad Kinstler CEO
+
+### 2020: 100th Year and Mary See's Founding
+
+**[2020 Letter]** See's celebrates its **100th year**. Founding history retold: **Mrs. See (Mary See)** created the company in Los Angeles. Buffett recounts that See's has been a source of "pleasure and profit" for Berkshire for nearly 50 years of ownership. The centennial is presented alongside other origin stories (NFM's Mrs. B, GEICO's Goodwins, NICO's Ringwalt) as part of the "American story" theme.
+
+"Don't mess with my candy" — See's enduring brand moat. The company's competitive position after 100 years demonstrates the permanence of strong consumer brands when supported by quality product and operational consistency[^11].
+
+[^11]: [2020 Letter](../sources/buffett-letter-2020.md) — 100th year; Mary See founding; origin-stories theme; brand permanence

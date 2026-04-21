@@ -21,8 +21,11 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2017,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
+updated: 2026-04-22
 updated: 2026-04-21
 status: draft
 tags: [management, corporate-governance]
@@ -136,3 +139,11 @@ Charlie's blueprint restated: "Forget what you know about buying fair businesses
 **[2017 Letter]** The succession Munger previewed in his 2014 letter is formalized: **Ajit Jain** (insurance) and **Greg Abel** (non-insurance) are named **Vice Chairmen** of all Berkshire operations. Buffett writes that both will operate with "a culture that is rare among giant companies" — no bureaucracy, no strategic planning department, no investor relations office. This is the clearest succession signal in the letters and confirms Munger's 2014 assessment that both are "world-leading" executives. At 93, Munger remains Vice Chairman of the Berkshire board[^7].
 
 [^7]: [2017 Letter](../sources/buffett-letter-2017.md) — Jain/Abel named Vice Chairmen; succession formalized; culture preservation; Munger's 2014 preview confirmed
+
+### 2019-2020: "Urgent Zone" and LA Meeting
+
+**[2019 Letter]** "Charlie and I long ago entered the urgent zone." At ages **95 (Munger) and 88 (Buffett)**, succession planning moves from theoretical to imminent. Five factors for optimism: (1) Berkshire assets deployed in "an extraordinarily wide variety of partly or wholly-owned businesses," (2) component businesses have good competitive positions, (3) multiple earnings streams reduce risk, (4) exceptional managers, (5) Jain and Abel are world-class. Buffett's 99% net worth in BRK; will directs 12-15 year distribution period.
+
+**[2020 Letter]** Munger, now 97, participates in the **annual meeting from Los Angeles** (COVID pivot). He and Buffett maintain the partnership publicly despite distance. At the heart of the 2020 letter: "Never bet against America" — a sentiment Munger has reinforced throughout his decades of co-leadership. The letter's emphasis on American entrepreneurship (origin stories of Omaha, Knoxville, Washington businesses) carries Munger's characteristic historical lens[^8].
+
+[^8]: [2019 Letter](../sources/buffett-letter-2019.md) & [2020 Letter](../sources/buffett-letter-2020.md) — "urgent zone" at 95/88→97/90; five succession factors; 99% net worth; LA meeting; "never bet against America"

@@ -1349,3 +1349,87 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it's imperative that we rush outdoors carrying washtubs, not teaspoons." — 2017 Letter
 >
 > Context: On Berkshire's $116B cash pile — maintaining the ability to act massively during crises. → [Capital Allocation](principles/capital-allocation.md)
+
+### Lincoln's Tail (2018)
+
+> "If you call a dog's tail a leg, how many legs does it have? Four, because calling a tail a leg doesn't make it one." — 2018 Letter (attributed to Lincoln)
+>
+> Context: On EBITDA — calling amortization a non-expense doesn't make it one. Non-real amortization $1.4B; depreciation $8.4B understates true costs. → [Owner Earnings](principles/owner-earnings.md)
+
+### The American Tailwind (2018)
+
+> "Those who regularly preach doom because of government 'ichts' (deficits, taxes, spending) might note that our country's national debt has increased roughly 400-fold during the last of my 77-year periods. That's 40,000%! Suppose you had foreseen this increase and panicked at the prospect of runaway deficits and a worthless currency. To 'protect' yourself, you might have eschewed stocks and opted instead to buy 3 1/4 ounces of gold with your $114.75. And what would that supposed protection have delivered? You would now have an asset worth about $4,200, less than 1% of what would have been realized from a simple unmanaged investment in American business. The magical metal was no match for the American mettle." — 2018 Letter
+>
+> Context: The core of the American Tailwind essay — $114.75 → $606,811 vs. gold's $4,200. → [Mr. Market](principles/mr-market.md)
+
+### Normandy (2018)
+
+> "It is beyond arrogance for American businesses or individuals to boast that they have 'done it alone.' The tidy rows of simple white crosses at Normandy should shame those who make such claims." — 2018 Letter
+>
+> Context: American Tailwind essay — individual success is inseparable from collective infrastructure and sacrifice. → [Mr. Market](principles/mr-market.md)
+
+### Never Sell Wonderful Businesses (2018)
+
+> "It would be foolish for us to sell any of our wonderful companies even if no tax would be payable on its sale. Truly good businesses are exceptionally hard to find." — 2018 Letter
+>
+> Context: On permanent ownership — even tax-free, the replacement problem is unsolvable. → [Business Quality](principles/business-quality.md)
+
+### Russian Roulette on Leverage (2018)
+
+> "Rational people don't risk what they have and need for what they don't have and don't need." — 2018 Letter
+>
+> Context: On leverage and the danger of blowing up an existing fortune chasing incremental returns. → [Capital Allocation](principles/capital-allocation.md)
+
+### Marriage Analogy (2019)
+
+> "Deals often fail in practice because they start out with a joyful wedding — but then reality tends to diverge from pre-nuptial expectations. Sometimes, the new spouse I've selected has had some prior shortcomings... Many of our subsequent investments in new acquisitions have caused me to wonder what I was thinking when I proposed." — 2019 Letter
+>
+> Context: On the sober reality of acquisitions — even good managers and businesses underperform rosy projections. → [Capital Allocation](principles/capital-allocation.md)
+
+### Cocker Spaniel Directors (2019)
+
+> "When seeking directors, CEOs don't look for pit bulls. It's the cocker spaniel that gets taken home." — 2019 Letter
+>
+> Context: Board governance essay — on why directors who challenge CEOs don't get second board seats. → [Institutional Imperative](principles/institutional-imperative.md)
+
+### Bobby Fischer (2019)
+
+> "If you are Bobby Fischer, you must play only chess for money." — 2019 Letter
+>
+> Context: On staying within your circle of competence — directors should only evaluate businesses they understand. → [Four Filters](principles/four-filters.md)
+
+### PCC Mistake (2020)
+
+> "I paid too much for the company. PCC is far from my first error of that sort. But it's a big one." — 2020 Letter
+>
+> Context: The $11B Precision Castparts writedown — Buffett's most candid acquisition-error confession. → [Capital Allocation](principles/capital-allocation.md)
+
+### Cats for Dogs (2020)
+
+> "I'll pay you $10,000 for your dog by giving you two of my $5,000 cats." — 2020 Letter
+>
+> Context: On traditional conglomerate failures — using overvalued stock to acquire businesses is disguised dilution. → [Capital Allocation](principles/capital-allocation.md)
+
+### Mae West on Repurchases (2020)
+
+> "Too much of a good thing can be... wonderful." — Mae West, quoted in 2020 Letter
+>
+> Context: On share repurchases compounding ownership — Berkshire's Apple stake grew from 5.2% to 5.4% costlessly via Apple's buybacks. → [Capital Allocation](principles/capital-allocation.md)
+
+### Phil Fisher's Restaurant (2020)
+
+> "A restaurant that featured four-star cuisine along with half-portions at bargain prices would, in time, develop a loyal clientele. We believe that the same approach will draw and retain long-term owners to Berkshire." — 2020 Letter (paraphrasing Phil Fisher)
+>
+> Context: On investor relations philosophy — a business serving hamburgers for 56 years shouldn't suddenly offer French cuisine. → [Mr. Market](principles/mr-market.md)
+
+### Never Bet Against America (2020)
+
+> "In its brief 232 years of existence, however, there has been no incubator for unleashing human potential like America. Despite some severe interruptions, our country's economic progress has been breathtaking. Our unwavering conclusion: Never bet against America." — 2020 Letter
+>
+> Context: The culminating statement of three years of American optimism essays. → [Mr. Market](principles/mr-market.md)
+
+### Dart-Throwing Monkey (2020)
+
+> "A patient and level-headed monkey, who constructs a portfolio by throwing 50 darts at a board listing all of the S&P 500, will — over time — enjoy dividends and capital gains, just as long as it never gets tempted to make changes in its original 'selections.'" — 2020 Letter
+>
+> Context: On the superiority of passive investing — Wall Street's fees are their income, your expense. → [Mr. Market](principles/mr-market.md)

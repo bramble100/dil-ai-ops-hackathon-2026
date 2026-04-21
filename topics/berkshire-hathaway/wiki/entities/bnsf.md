@@ -11,7 +11,7 @@ sources:
     buffett-letter-2017,
   ]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
 ---
 
@@ -126,3 +126,17 @@ Interest coverage: **>8:1** (pre-tax earnings/interest, not EBITDA/interest). BH
 **[2017 Letter]** Revenue: **$21.4B**. BNSF joins the Powerhouse Six (with PCC) as one of Berkshire's crown jewels. The interplay between BNSF's regulated, predictable cash flows and Berkshire's float-funded capital allocation continues to be the company's structural advantage[^8].
 
 [^8]: [2016 Letter](../sources/buffett-letter-2016.md) & [2017 Letter](../sources/buffett-letter-2017.md) — BNSF+BHE $9.8B/44% of BRK earnings; 3¢/ton-mile; $21.4B revenue 2017
+
+### 2018-2020: Two Redwoods, $41.8B Dividends, and Katie Farmer CEO
+
+**[2018 Letter]** BNSF and BHE described as the **"two towering redwoods"** in the non-insurance grove. Combined pre-tax earnings: **$9.3B** (+6% from 2017).
+
+**[2020 Letter]** BNSF carries **~15% of all non-local ton-miles** moved in the US (by rail, truck, pipeline, barge, or aircraft) — "by a significant margin, BNSF's loads top those of any other carrier." The railroad has **390 antecedent railroads** and **23,000 miles of track** across 28 states.
+
+Since Berkshire's acquisition: **$41B invested** in fixed assets ($20B above depreciation); **$41.8B dividends paid** to Berkshire. "The railroad pays us only what remains after it both fulfills the needs of its business and maintains a cash balance of about $2 billion."
+
+**Carl Ice retired** at yearend 2020; **Katie Farmer** takes over as CEO. During 2020's 7% volume decline, Ice and Farmer increased profit margin by **2.9 percentage points** through expense control. "Your railroad is in good hands."
+
+BNSF + BHE combined 2020 earnings: **$8.3B** (up from $4.2B in 2011, Berkshire's first full year of BNSF ownership)[^9].
+
+[^9]: [2018 Letter](../sources/buffett-letter-2018.md) & [2020 Letter](../sources/buffett-letter-2020.md) — two redwoods $9.3B; 15% ton-miles; 390 antecedents; $41B invested/$41.8B dividends; Katie Farmer CEO; 23K miles; +2.9pp margin on -7% volume

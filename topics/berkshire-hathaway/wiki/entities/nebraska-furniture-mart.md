@@ -17,9 +17,10 @@ sources:
     buffett-letter-1993,
     buffett-letter-2002,
     buffett-letter-2003,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-22
 status: draft
 tags: [moats, management, capital-allocation, anecdote]
 ---
@@ -131,3 +132,11 @@ Buffett recounts classic Mrs. B stories: arriving in Seattle from Russia at age 
 The acquisition lesson: "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact." NFM is the inverse — extraordinary economics run by extraordinary operators[^8].
 
 [^8]: [2013 Letter](../sources/buffett-letter-2013.md) — Dallas 1.8M sqft/433 acres; $450M/store; Mrs. B stories; $40.2M Berkshire weekend
+
+### 2020: Mrs. B and Louie Retold, COVID Record, Three Largest Stores
+
+**[2020 Letter]** Buffett retells the full Mrs. B/Louie origin: Rose Blumkin arrived from Russia, starting with **$2,500 in 1937** (corrected from some earlier tellings of $500). By 1946, her net worth was **$72,264**. Her story is paired with son Louie Blumkin's: Louie landed at Normandy, earned a **Purple Heart**, and returned to build the business alongside his mother. "God Bless America."
+
+NFM now operates the **three largest home-furnishings stores in the United States** (Omaha, Kansas City, Dallas). Despite a **six-week COVID closure** in 2020, the stores posted **record sales** — testament to the destination-store model's resilience. "With numbers like those, our competitors don't have a prayer" — echoing the original "grizzly" assessment from 37 years earlier[^9].
+
+[^9]: [2020 Letter](../sources/buffett-letter-2020.md) — Mrs. B $2,500/1937; $72,264 net worth 1946; Louie Normandy/Purple Heart; three largest US stores; COVID record sales

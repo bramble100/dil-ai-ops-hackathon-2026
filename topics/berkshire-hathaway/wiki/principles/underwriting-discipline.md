@@ -38,9 +38,19 @@ sources:
     buffett-letter-2013,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2016,
+    buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
+    buffett-letter-2016,
+    buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [insurance, management, risk, principle]
 ---
@@ -608,3 +618,51 @@ Berkshire's low-rate-environment advantage: most P/C portfolios are bond-heavy �
 [^25]: [2016 Letter](../sources/buffett-letter-2016.md) — float $91.6B→$100B+; 14 years/$28B cumulative; GEICO 12%; Montross retires/Raiguel; BHSI $1.3B; revolving fund
 
 [^26]: [2017 Letter](../sources/buffett-letter-2017.md) — AIG $10.2B world record; float $114.5B; $3.2B hurricane loss; 14-year streak ends; $400B mega-cat 2%/year; $60.6B premiums
+
+### 2018-2020: Float Approaches $138B, GUARD Spotlight, and Costless Float Sustained
+
+**[2018 Letter]** Float reaches **$122,732M**. Underwriting profit: **$2B** — 15 of the last 16 profitable years; **$27B cumulative pre-tax** underwriting profit. Float growth table extended from $39M (1970) through the $122.7B milestone. Maximum potential decline: 3% per year. "That structure is by design and is a key component in the unequaled financial strength of our insurance companies."
+
+**Disciplined risk evaluation** restated: "the daily focus of our insurance managers, who know that the benefits of float can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old Testament style."
+
+Mega-catastrophe preparation: "The Big One" may come from wind, earthquake, or "a cyber attack having disastrous consequences beyond anything insurers now contemplate." Berkshire's response: "we will be looking to add business the next day."
+
+**[2019 Letter]** Float reaches **$129,423M**. Underwriting profit: **$400M** — 16 of the last 17 profitable years; **$27.5B cumulative**.
+
+**GUARD Insurance spotlight:** Purchased for **$221M** in 2012 by Ajit Jain; premium volume grew **379% to $1.9B** by 2019; float +265%. Sy Foguel, CEO, was "a star at Berkshire" — "Bingo and bingo." Launched from Wilkes-Barre, Pennsylvania — "may well deliver a similar surprise" to National Indemnity's Omaha origins.
+
+Low-rate environment: standard P/C investment strategy (high-grade bonds) now yields 2-3¢ per dollar of float (down from 5-6¢). Berkshire's "unrivaled mountain of capital" and "huge and diverse stream of non-insurance earnings" allow equity-heavy float deployment unavailable to competitors.
+
+**[2020 Letter]** Float reaches **$138B** — costless on cumulative basis. "That happy result, of course, could change — but, over time, I like our odds." Bond market context: 10-year Treasury at **0.93%** (down 94% from 15.8% in September 1981). "Bonds are not the place to be these days."
+
+Insurance described as the "core of Berkshire" for 53 years. Equity-heavy investment strategy enabled by financial strength — "not feasible for the overwhelming majority of insurers" who must focus on bonds for regulatory and credit-rating reasons[^27][^28][^29].
+
+[^27]: [2018 Letter](../sources/buffett-letter-2018.md) — float $122.7B; 15/16 years; $27B cumulative; $2B profit; cyber-cat warning; Old Testament religion
+
+[^28]: [2019 Letter](../sources/buffett-letter-2019.md) — float $129.4B; 16/17 years; $27.5B cumulative; GUARD $221M→$1.9B; Sy Foguel; low-rate environment
+
+[^29]: [2020 Letter](../sources/buffett-letter-2020.md) — float $138B; costless cumulative; 10-year at 0.93%; equity-heavy strategy; insurance as core 53 years
+
+### 2018-2020: Float Approaches $138B, GUARD Spotlight, and Costless Float Sustained
+
+**[2018 Letter]** Float reaches **$122,732M**. Underwriting profit: **$2B** — 15 of the last 16 profitable years; **$27B cumulative pre-tax** underwriting profit. Float growth table extended from $39M (1970) through the $122.7B milestone. Maximum potential decline: 3% per year. "That structure is by design and is a key component in the unequaled financial strength of our insurance companies."
+
+**Disciplined risk evaluation** restated: "the daily focus of our insurance managers, who know that the benefits of float can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old Testament style."
+
+Mega-catastrophe preparation: "The Big One" may come from wind, earthquake, or "a cyber attack having disastrous consequences beyond anything insurers now contemplate." Berkshire's response: "we will be looking to add business the next day."
+
+**[2019 Letter]** Float reaches **$129,423M**. Underwriting profit: **$400M** — 16 of the last 17 profitable years; **$27.5B cumulative**.
+
+**GUARD Insurance spotlight:** Purchased for **$221M** in 2012 by Ajit Jain; premium volume grew **379% to $1.9B** by 2019; float +265%. Sy Foguel, CEO, was "a star at Berkshire" — "Bingo and bingo." Launched from Wilkes-Barre, Pennsylvania — "may well deliver a similar surprise" to National Indemnity's Omaha origins.
+
+Low-rate environment: standard P/C investment strategy (high-grade bonds) now yields 2-3¢ per dollar of float (down from 5-6¢). Berkshire's "unrivaled mountain of capital" and "huge and diverse stream of non-insurance earnings" allow equity-heavy float deployment unavailable to competitors.
+
+**[2020 Letter]** Float reaches **$138B** — costless on cumulative basis. "That happy result, of course, could change — but, over time, I like our odds." Bond market context: 10-year Treasury at **0.93%** (down 94% from 15.8% in September 1981). "Bonds are not the place to be these days."
+
+Insurance described as the "core of Berkshire" for 53 years. Equity-heavy investment strategy enabled by financial strength — "not feasible for the overwhelming majority of insurers" who must focus on bonds for regulatory and credit-rating reasons[^27][^28][^29].
+
+[^27]: [2018 Letter](../sources/buffett-letter-2018.md) — float $122.7B; 15/16 years; $27B cumulative; $2B profit; cyber-cat warning; Old Testament religion
+
+[^28]: [2019 Letter](../sources/buffett-letter-2019.md) — float $129.4B; 16/17 years; $27.5B cumulative; GUARD $221M→$1.9B; Sy Foguel; low-rate environment
+
+[^29]: [2020 Letter](../sources/buffett-letter-2020.md) — float $138B; costless cumulative; 10-year at 0.93%; equity-heavy strategy; insurance as core 53 years

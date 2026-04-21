@@ -4,7 +4,7 @@ type: entity
 entity_kind: subsidiary
 source_count: 3
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [manufactured-housing, finance, acquisition]
 sources:
   [
@@ -17,6 +17,7 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2020,
   ]
 ---
 
@@ -160,3 +161,11 @@ Kevin Clayton continues as CEO. Pre-tax earnings: **$706M** (up from $558M)[^11]
 Clayton's dominance validates the original investment thesis: a business with a structural cost advantage (manufactured housing) in a fragmented industry, managed by an exceptional operator (Kevin Clayton), with Berkshire's credit backing enabling 100% risk retention. The manufactured-housing stigma works as a competitive moat — other lenders avoid the sector, leaving Clayton as effectively the industry's bank[^12].
 
 [^12]: [2016 Letter](../sources/buffett-letter-2016.md) — 42,075 homes (largest builder); 49% manufactured; site-built expansion; $14.0B portfolio; $744M pre-tax; Oakwood/Harris Doyle bolt-ons
+
+### 2020: >$1B Pre-Tax, Jim Clayton Story, and COVID Resilience
+
+**[2020 Letter]** Clayton earns **>$1B pre-tax** — crossing the billion-dollar threshold. Paired with Pilot Flying J as Berkshire's Knoxville success stories, with **47,000 combined employees**.
+
+Jim Clayton's origin retold: born in a house "literally without floors" on a Tennessee farm. Clayton built an empire of manufactured homes from nothing — the story brought Kevin Clayton into Buffett's orbit, who later referred the Haslam family (Pilot Flying J). Clayton's culture of treating homebuyers with dignity — 100% risk retention on mortgages — remains the competitive backbone[^13].
+
+[^13]: [2020 Letter](../sources/buffett-letter-2020.md) — >$1B pre-tax; Jim Clayton origin story; 47,000 combined employees with Pilot; Kevin Clayton→Haslam referral

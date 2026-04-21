@@ -37,9 +37,15 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
+    buffett-letter-2018,
+    buffett-letter-2019,
+    buffett-letter-2020,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [valuation, accounting, compounding, principle]
 ---
@@ -456,3 +462,51 @@ The **"adjusted earnings" critique**: Buffett attacks companies that highlight n
 [^24]: [2016 Letter](../sources/buffett-letter-2016.md) — repurchase below intrinsic value; non-real amortization $1.5B; Dexter blunder amplified by shares
 
 [^25]: [2017 Letter](../sources/buffett-letter-2017.md) — GAAP unrealized gains rule (ASC 2016-01); $10B+ quarterly swings; "adjusted earnings" critique; stock-comp expense; four building blocks
+
+### GAAP Swings Realized, Retained Earnings Power, and PCC Writedown (2018-2020)
+
+**[2018 Letter]** The GAAP unrealized gains rule predicted in 2017 delivers its first impact: quarterly results swing from **−$25.4B (Q4) to +$18.5B (Q3)** while operating earnings remain steady. "Focus on operating earnings, paying little attention to gains or losses of any variety." Operating earnings: **$24.8B** (+41% from 2016 high of $17.6B).
+
+Book value per share ABANDONED as primary metric — a fundamental shift in how Berkshire communicates owner earnings. The switch to market price reflects that operating businesses (valued at historical cost under GAAP) now dominate Berkshire's value, making book value "increasingly out of touch with economic reality."
+
+Non-real amortization: **$1.4B** — "not a true economic cost." Lincoln's leg/tail quote applied: "If you call a dog's tail a leg, how many legs does it have? Four, because calling a tail a leg doesn't make it one." Depreciation ($8.4B) conversely "understates our true economic cost" — Berkshire needs to spend more just to stay competitive.
+
+**[2019 Letter]** GAAP swings amplified: $4B (2018) → **$81.4B** (2019) — a **"crazy 1,900% increase"** driven entirely by unrealized equity gains ($53.7B). Operating earnings: **$24B**, "little changed." The disconnect validates the 2017 warning.
+
+**Retained earnings power essay:** Traces the insight to Edgar Lawrence Smith's 1924 _Common Stocks as Long Term Investments_. Keynes's review: "there is an element of compound interest operating in favour of a sound industrial investment." Before Smith, stocks were "speculations" and "Gentlemen preferred bonds." Berkshire's deployment: $65B depreciation vs. $121B internal reinvestment over the past decade — "Reinvestment in productive operational assets will forever remain our top priority."
+
+10 largest holdings: dividends **$3.8B** vs. retained earnings **$8.3B** — the invisible engine. "What's out of sight should not be out of mind."
+
+**[2020 Letter]** GAAP: $42.5B — including **$11B writedown** of PCC and other subsidiaries. The PCC impairment is "almost entirely the quantification of a mistake I made in 2016" — overpaying for normalized profit potential. "I was wrong in my calculation of the proper price to pay for the business." The writedown demonstrates that owner earnings are not immune to valuation errors at purchase — even when the underlying business is excellent.
+
+Operating earnings: **$21.9B** (−9%). "Operating earnings are what count most." Non-insurance businesses grouped into transparent tiers. Retained investee earnings emphasized: "Those unrecorded retained earnings are usually building value — lots of value — for Berkshire." The cumulative record: retained earnings have delivered "more than one dollar" of capital gains for each dollar reinvested[^26][^27][^28].
+
+[^26]: [2018 Letter](../sources/buffett-letter-2018.md) — GAAP quarterly swings $25.4B; operating $24.8B; book value abandoned; non-real amortization $1.4B; Lincoln leg/tail; depreciation understates
+
+[^27]: [2019 Letter](../sources/buffett-letter-2019.md) — GAAP 1,900% swing; operating $24B; Smith/Keynes retained earnings; $121B reinvestment; $8.3B retained vs $3.8B dividends
+
+[^28]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC $11B writedown; operating $21.9B (−9%); retained earnings >$1 capital gains per $1 reinvested
+
+### GAAP Swings Realized, Retained Earnings Power, and PCC Writedown (2018-2020)
+
+**[2018 Letter]** The GAAP unrealized gains rule predicted in 2017 delivers its first impact: quarterly results swing from **−$25.4B (Q4) to +$18.5B (Q3)** while operating earnings remain steady. "Focus on operating earnings, paying little attention to gains or losses of any variety." Operating earnings: **$24.8B** (+41% from 2016 high of $17.6B).
+
+Book value per share ABANDONED as primary metric — a fundamental shift in how Berkshire communicates owner earnings. The switch to market price reflects that operating businesses (valued at historical cost under GAAP) now dominate Berkshire's value, making book value "increasingly out of touch with economic reality."
+
+Non-real amortization: **$1.4B** — "not a true economic cost." Lincoln's leg/tail quote applied: "If you call a dog's tail a leg, how many legs does it have? Four, because calling a tail a leg doesn't make it one." Depreciation ($8.4B) conversely "understates our true economic cost" — Berkshire needs to spend more just to stay competitive.
+
+**[2019 Letter]** GAAP swings amplified: $4B (2018) → **$81.4B** (2019) — a **"crazy 1,900% increase"** driven entirely by unrealized equity gains ($53.7B). Operating earnings: **$24B**, "little changed." The disconnect validates the 2017 warning.
+
+**Retained earnings power essay:** Traces the insight to Edgar Lawrence Smith's 1924 _Common Stocks as Long Term Investments_. Keynes's review: "there is an element of compound interest operating in favour of a sound industrial investment." Before Smith, stocks were "speculations" and "Gentlemen preferred bonds." Berkshire's deployment: $65B depreciation vs. $121B internal reinvestment over the past decade — "Reinvestment in productive operational assets will forever remain our top priority."
+
+10 largest holdings: dividends **$3.8B** vs. retained earnings **$8.3B** — the invisible engine. "What's out of sight should not be out of mind."
+
+**[2020 Letter]** GAAP: $42.5B — including **$11B writedown** of PCC and other subsidiaries. The PCC impairment is "almost entirely the quantification of a mistake I made in 2016" — overpaying for normalized profit potential. "I was wrong in my calculation of the proper price to pay for the business." The writedown demonstrates that owner earnings are not immune to valuation errors at purchase — even when the underlying business is excellent.
+
+Operating earnings: **$21.9B** (−9%). "Operating earnings are what count most." Non-insurance businesses grouped into transparent tiers. Retained investee earnings emphasized: "Those unrecorded retained earnings are usually building value — lots of value — for Berkshire." The cumulative record: retained earnings have delivered "more than one dollar" of capital gains for each dollar reinvested[^26][^27][^28].
+
+[^26]: [2018 Letter](../sources/buffett-letter-2018.md) — GAAP quarterly swings $25.4B; operating $24.8B; book value abandoned; non-real amortization $1.4B; Lincoln leg/tail; depreciation understates
+
+[^27]: [2019 Letter](../sources/buffett-letter-2019.md) — GAAP 1,900% swing; operating $24B; Smith/Keynes retained earnings; $121B reinvestment; $8.3B retained vs $3.8B dividends
+
+[^28]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC $11B writedown; operating $21.9B (−9%); retained earnings >$1 capital gains per $1 reinvested

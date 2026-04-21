@@ -41,7 +41,7 @@ sources:
     buffett-letter-2017,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [insurance, moats, management]
 ---
@@ -341,3 +341,19 @@ Buffett's target: "On August 30, 2030 — my 100th birthday — I plan to announ
 [^24]: [2014 Letter](../sources/buffett-letter-2014.md) — 10.8% share; Tony Nicely 53 years; low-cost moat enduring
 
 [^25]: [2015 Letter](../sources/buffett-letter-2015.md) — 11.4% share; $22.6B premium; 14.7% expense; 14M policyholders; 34K employees; founding history (Goodwins/USAA/1936); driverless car risk; 2030 #1 target
+
+### 2018: Tony Nicely Retires, $50B Value-Added
+
+**[2018 Letter]** Tony Nicely retires as CEO on June 30; **Bill Roberts** succeeds him. Buffett's tribute: Nicely's management "increased Berkshire's intrinsic value by more than **$50 billion**." GEICO is now **#2 US auto insurer** with sales **1,200% greater** than at 1995 acquisition. Cumulative underwriting profits: **$15.5B** pre-tax. Float: **$2.5B → $22.1B**. 40,000 associates.
+
+The Nicely retrospective: promoted to CEO in 1993 when GEICO had only 1.9M policies (vs. pre-crisis high). Ranked seventh. Late 1995 Berkshire acquired remaining 50% for **$2.3B** — "about 50 times what we had paid for the first half (and people say I never pay up!)." Nicely is "a model for everything a manager should be, helping his 40,000 associates to identify and polish abilities they didn't realize they possessed." Nicely remains Chairman[^26].
+
+### 2020: Founding Retold, $35B Revenue
+
+**[2020 Letter]** GEICO founding history retold through the origin-stories lens. Leo and Lillian Goodwin, convinced auto insurance could be sold directly at lower cost, started with **$100,000** in 1936. First full year (1937): **$238,288** of business. 2020: **$35 billion**. At 84 years of age, GEICO is "constantly fine-tuning — but not changing — the vision of Leo and Lillian."
+
+Buffett notes he was "exposed to the company's potential a full 70 years ago. It instantly became my first love (of an investment sort)." The Goodwin/GEICO story is paired with National Indemnity's Ringwalt/Omaha story as complementary origin tales[^27].
+
+[^26]: [2018 Letter](../sources/buffett-letter-2018.md) — Tony Nicely retires; Bill Roberts CEO; $50B value-added; #2 US auto; 1,200% sales growth; $15.5B UW profit; $22.1B float
+
+[^27]: [2020 Letter](../sources/buffett-letter-2020.md) — founding retold (Goodwins/$100K/1936); $238K→$35B; 70-year Buffett exposure; paired with NICO origin
