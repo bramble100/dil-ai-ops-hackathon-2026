@@ -2,9 +2,9 @@
 title: "H.J. Heinz Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2013]
+sources: [buffett-letter-2013, buffett-letter-2025]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [acquisition, consumer-brands, partnership, late-buffett]
 ---
@@ -50,3 +50,11 @@ With Heinz, Berkshire owns 8½ companies that would individually qualify for the
 ## Sources
 
 [^1]: [2013 Letter](../sources/buffett-letter-2013.md) — $8B preferred + $4.25B common; 3G partnership template; Lemann/Hees/Behring; "will be prospering a century from now"
+
+### 2025: "Disappointing... Well Short of Adequate Return"
+
+**[2025 Letter]** Abel delivers a blunt assessment: Kraft Heinz has been **"disappointing"** and delivered results **"well short of an adequate return"** on Berkshire's investment, even including the preferred stock's income. This is the most negative language used about any Berkshire holding in the 2025 letter.
+
+The candid admission contrasts sharply with the 2013 letter's optimism ("will be prospering a century from now") and underscores a recurring Buffett/Abel theme: the willingness to publicly acknowledge investment mistakes. KHC joins the ranks of PCC, Dexter Shoe, and Energy Future Holdings as major investments that fell short of expectations[^2].
+
+[^2]: [2025 Letter](../sources/buffett-letter-2025.md) — "disappointing"; "well short of adequate return" even with preferred; most negative holding assessment in 2025 letter

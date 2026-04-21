@@ -38,3 +38,13 @@ The Pilot Flying J deal illustrates several Berkshire principles:
 **[2021 Letter]** Pilot Corp had revenues of **$45 billion** in 2021. Berkshire holds **38.6%** and will purchase an additional interest in early 2023, raising ownership to **80%**, at which point Pilot's earnings, assets, and liabilities will be fully consolidated into Berkshire's financial statements[^2].
 
 [^2]: [2021 Letter](../sources/buffett-letter-2021.md) — $45B revenue; 38.6%→80% by early 2023; full consolidation
+
+### 2025: Pro Preference 35%, $1.7B Cash, and EV Charging
+
+**[2025 Letter]** Pilot strengthens operations as North America's largest travel center operator. **Pro Preference score** (third-party driver preference study) rises from **27% (2022) to 35% (2025)**, placing second in the industry. Abel: "We should be #1 and we will not be pleased until that standard is achieved."
+
+Net operating cash flows: **$1.7B** (improvement from 2024). Management focus: store-level execution, customer experience for professional drivers and everyday travelers, store upgrades, food offerings, customer loyalty. Capital spending increased since 2023 to modernize facilities and expand **EV charging network**.
+
+Abel's candid assessment of the acquisition structure: "We first invested in Pilot in 2017; however, our ability to manage it was contractually delayed until 2023. That mistake will not happen again." As operations strengthen and capital needs normalize, "we expect more cash to be returned to Berkshire"[^3].
+
+[^3]: [2025 Letter](../sources/buffett-letter-2025.md) — Pro Preference 27%→35%; $1.7B operating cash; EV charging; #1 goal; management delay confession; store-level execution

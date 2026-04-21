@@ -18,6 +18,7 @@ sources:
     buffett-letter-2016,
     buffett-letter-2017,
     buffett-letter-2020,
+    buffett-letter-2025,
   ]
 ---
 
@@ -169,3 +170,11 @@ Clayton's dominance validates the original investment thesis: a business with a 
 Jim Clayton's origin retold: born in a house "literally without floors" on a Tennessee farm. Clayton built an empire of manufactured homes from nothing — the story brought Kevin Clayton into Buffett's orbit, who later referred the Haslam family (Pilot Flying J). Clayton's culture of treating homebuyers with dignity — 100% risk retention on mortgages — remains the competitive backbone[^13].
 
 [^13]: [2020 Letter](../sources/buffett-letter-2020.md) — >$1B pre-tax; Jim Clayton origin story; 47,000 combined employees with Pilot; Kevin Clayton→Haslam referral
+
+### 2025: Resilient Business Model
+
+**[2025 Letter]** Clayton's **"resilient business model"** continues to deliver results through efficient manufacturing combined with integrated financing and a focus on affordable housing. The combination of building and financing under one roof — with 100% risk retention on Berkshire's balance sheet — remains the structural advantage that competitors cannot replicate.
+
+Clayton is cited as a prime example of Berkshire's decentralized operating model, where subsidiary CEOs run their businesses with full autonomy while benefiting from Berkshire's financial strength[^14].
+
+[^14]: [2025 Letter](../sources/buffett-letter-2025.md) — resilient business model; efficient manufacturing + integrated financing; affordable housing; decentralized autonomy

@@ -12,6 +12,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-21
 updated: 2026-04-21
@@ -167,3 +169,21 @@ Despite all this: "A century from now, BNSF will continue to be a major asset of
 [^11]: [2022 Letter](../sources/buffett-letter-2022.md) — $5.9B; S&P 500 member equivalent; ten behemoths
 
 [^12]: [2023 Letter](../sources/buffett-letter-2023.md) — $5.1B; $70B book/$500B+ replacement; $22B over-depreciation/14 years; margin erosion vs. peers; labor/wage challenges; rail suicides; century prediction repeated
+
+### 2024-2025: Margin Improvement, UP-NS Merger, and Swinomish Resolution
+
+**[2024 Letter]** BNSF earns **$5,031M** (essentially flat from $5,087M in 2023). Buffett notes that "railroad and utility operations, our two largest businesses outside of insurance, improved their aggregate earnings. Both, however, have much left to accomplish"[^13].
+
+**[2025 Letter]** Abel provides the most performance-focused BNSF assessment. Key metrics: **$8.1B net operating cash flows**, **$4.4B dividends returned** to Berkshire (5-year average $4.1B). Acquired at $34.5B equity value in 2010.
+
+Operating margin improved to **34.5%** (from 32.0% in 2024), "modestly above its five-year average." But Abel is blunt: **"The gap to the industry's best remains too wide."** Each 1pp margin improvement = **~$230M** incremental cash flow. "The team recognizes the significance of this opportunity, and we will be disappointed if we do not deliver a substantial improvement over the next few years."
+
+Operational progress: safety is industry-leading (past decade); shipments spent less time idling; network speed "faster than in nearly any year in the company's history." But "these gains matter, but they are not enough; more progress is needed to translate operational improvements into stronger financial results."
+
+**Union Pacific–Norfolk Southern merger** proposed. Berkshire's position: "not interested in acquiring one of the other Class I railroads, since the current economics would not work in our shareholders' favor." BNSF's focus: ensuring competitive access to Eastern markets.
+
+**Swinomish Indian Tribal Community resolution:** BNSF acknowledged past mistakes in crude oil shipments across Tribal lands and apologized, "paving the way for mutually beneficial agreements." Abel presents this as proof of integrity in action[^14].
+
+[^13]: [2024 Letter](../sources/buffett-letter-2024.md) — $5,031M earnings; "much left to accomplish"
+
+[^14]: [2025 Letter](../sources/buffett-letter-2025.md) — $8.1B operating cash; $4.4B dividends; 34.5% margin (gap too wide); $230M per pp; UP-NS merger; safety leader; Swinomish resolution; $34.5B acquisition value

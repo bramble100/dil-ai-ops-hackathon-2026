@@ -25,10 +25,12 @@ sources:
     buffett-letter-2020,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
+updated: 2026-04-22
 status: draft
 tags: [management, corporate-governance]
 ---
@@ -181,3 +183,19 @@ Biographical details: born and raised in Omaha (like Buffett), ~2 miles from the
 [^9]: [2022 Letter](../sources/buffett-letter-2022.md) — wisdom collection; 14+ aphorisms; leverage/zero; railroads confession; partner rule
 
 [^10]: [2023 Letter](../sources/buffett-letter-2023.md) — died Nov 28, 2023 (age 99); architect/contractor; 1965 advice (abandon Graham at scale); "never reminded me of my mistake"; born Omaha; 15 presidents
+
+### 2024: Thumb-Sucking and the Valedictory
+
+**[2024 Letter]** Buffett invokes Munger's "thumb-sucking" critique once more — the characteristic Mungerism for delayed action when the correct course is obvious. Buffett admits to multiple instances of delayed decision-making throughout his career, and credits Munger with "spotted my obvious error immediately" on several occasions.
+
+Munger's intellectual presence pervades the 2024 letter even in death: the "mistakes fade away; winners can forever blossom" observation reflects decades of Munger's teaching about the asymmetry of outcomes in quality investing[^11].
+
+### 2025: "Greg Will Keep the Culture"
+
+**[2025 Letter]** Abel's first letter quotes Munger from **May 2021**: **"Greg will keep the culture."** This four-word endorsement carries enormous weight as the foundational mandate for post-Buffett Berkshire. Abel frames his entire leadership approach around preserving the culture Munger and Buffett built.
+
+Munger's legacy is embedded in Abel's six foundational values and the decentralized operating model he pledges to maintain. The architect's blueprint endures[^12].
+
+[^11]: [2024 Letter](../sources/buffett-letter-2024.md) — thumb-sucking; "spotted my obvious error immediately"; mistakes fade/winners blossom
+
+[^12]: [2025 Letter](../sources/buffett-letter-2025.md) — "Greg will keep the culture" (May 2021 quote); cultural preservation mandate; six foundational values

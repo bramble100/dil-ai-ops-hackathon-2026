@@ -36,6 +36,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -540,3 +542,21 @@ Market context: +15.8% in 2023. Buffett acknowledges "no possibility of eye-popp
 [^32]: [2022 Letter](../sources/buffett-letter-2022.md) — weeds/flowers; one decision/5 years; Secret Sauce patience; Schumpeter creative destruction; −18.1% S&P vs +4.0% BRK
 
 [^33]: [2023 Letter](../sources/buffett-letter-2023.md) — "casino in many homes"; Rip Van Winkle; patience pays; Bertie thought experiment; no eye-popping performance
+
+### American Capitalism, Paper Money Warning, and Stewardship (2024-2025)
+
+**[2024 Letter]** Buffett's most sustained defense of American capitalism as the context for market returns. From 4 million people and a "brutal internal war" to a nation that "changed the world in the blink of a celestial eye." Berkshire's participation: "foregoing dividends, thereby electing to reinvest rather than consume" — the mixture of "a sustained culture of savings, combined with the magic of long-term compounding."
+
+The anti-Mr. Market argument: **"Paper money can see its value evaporate if fiscal folly prevails... Fixed-coupon bonds provide no protection against runaway currency."** Businesses and individuals with desired talents "will usually find a way to cope with monetary instability." Therefore equities — always. "I have had to rely on equities throughout my life. In effect, I have depended on the success of American businesses and I will continue to do so."
+
+Capitalism "has its faults and abuses — in certain respects more egregious now than ever — but it also can work wonders unmatched by other economic systems." The caution: "our country has forever had many scoundrels and promoters who seek to take advantage of those who mistakenly trust them with their savings." Market returns +25.5% vs. S&P +25.0%[^34].
+
+**[2025 Letter]** Abel positions equity ownership as stewardship, not speculation: "Your capital is commingled with ours, but it does not belong to us. Our role is stewardship." The culture "is not the result of our success, but the reason for it."
+
+Financial strength as market anchor: cash/Treasuries exceed **$370B** — "a strategic asset to be deployed at the right time... act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through." The fortress balance sheet exists precisely for Mr. Market's panics.
+
+"At Berkshire's scale, the math of compounding works against us — a reality long understood and best acknowledged plainly." Market return +10.9% vs. S&P +17.9%. 60-year record: **19.7% CAGR**, **6,099,294% overall gain** vs. S&P 10.5% / 46,061%[^35].
+
+[^34]: [2024 Letter](../sources/buffett-letter-2024.md) — American capitalism defense; paper money warning; equities always; 25.5% vs 25.0%; scoundrels caution; compounding magic
+
+[^35]: [2025 Letter](../sources/buffett-letter-2025.md) — stewardship not speculation; $370B fortress; deploy when fearful; compounding math at scale; 19.7% CAGR / 6,099,294%

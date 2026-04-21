@@ -168,3 +168,11 @@ Both companies "traveled" — becoming worldwide brands. "The consumption of liq
 [^14]: [2022 Letter](../sources/buffett-letter-2022.md) — Secret Sauce; $1.3B→$25B; $75M→$704M dividends; weeds/flowers; #1 owner
 
 [^15]: [2023 Letter](../sources/buffett-letter-2023.md) — Rip Van Winkle 20+ years; patience pays; products "traveled"; timeless essentials
+
+### 2025: $28B Market Value and $816M Dividends
+
+**[2025 Letter]** Abel's equity portfolio disclosure: Coca-Cola at **$28.0B market value** on **$1.3B cost basis** (9.3% ownership). Dividends: **$816M** in 2025. Part of the four-stock US core (with Apple, AmEx, Moody's) totaling $158.6B on $9.1B cost, yielding $1.7B in dividends.
+
+"A large portion of our portfolio is concentrated in a small number of American companies... businesses we understand well, have a high regard for their leaders, and expect will compound over decades. This concentrated approach will continue, with limited activity in these holdings." Coca-Cola remains the longest-held core position[^16].
+
+[^16]: [2025 Letter](../sources/buffett-letter-2025.md) — $28.0B market/$1.3B cost; 9.3%; $816M dividends; four-stock core; "compound over decades"

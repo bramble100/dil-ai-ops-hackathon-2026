@@ -42,6 +42,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -374,3 +376,21 @@ Buffett notes he was "exposed to the company's potential a full 70 years ago. It
 [^29]: [2022 Letter](../sources/buffett-letter-2022.md) — Todd Combs CEO; Alleghany float boost; $164B
 
 [^30]: [2023 Letter](../sources/buffett-letter-2023.md) — record $83B premiums/$5.4B UW profit/$9.6B investment income; 5,000-fold growth; operational improvements
+
+### 2024: "Spectacular" Reshaping Under Todd Combs
+
+**[2024 Letter]** GEICO delivers a "spectacular" improvement. Insurance-underwriting profit surges to **$9,020M** (from $5,428M in 2023) across all P/C operations, with GEICO as the primary driver. "In five years, Todd Combs has reshaped GEICO in a major way, increasing efficiency and bringing underwriting practices up to date. GEICO was a long-held gem that needed major repolishing, and Todd has worked tirelessly in getting the job done. Though not yet complete, the 2024 improvement was spectacular."
+
+The reshaping validates the 70-year thesis: a great franchise with a structural cost advantage can survive management problems and emerge stronger. Buffett places GEICO among his three transformative decisions (alongside Ajit Jain and Charlie Munger): "Mistakes fade away; winners can forever blossom"[^31].
+
+### 2025: Retention vs. Margin Tension
+
+**[2025 Letter]** Abel provides the most candid assessment of GEICO's strategic tension: "GEICO's broad rate increases in recent years have restored margins but come at the cost of lower retention. Competitors' rate reductions may extend that pressure into 2026."
+
+Key improvements: cost structure improved, underwriting discipline strengthened, customer risk segmentation enhanced. Industrywide rate increases (end-2022 through 2024) continued to benefit 2025 performance. But the pricing environment is shifting: "The GEICO team remains focused on pricing risks correctly for both existing and new customers. Restoring retention while maintaining underwriting discipline will take time."
+
+GEICO is investing in technology to improve efficiency and service "while preserving its position as the industry's low-cost provider." The combined ratio across all P/C businesses: **87.1%** (GEICO a significant contributor to the improvement)[^32].
+
+[^31]: [2024 Letter](../sources/buffett-letter-2024.md) — $9,020M P/C UW profit; GEICO "spectacular" improvement; Todd Combs 5-year reshaping; three transformative decisions
+
+[^32]: [2025 Letter](../sources/buffett-letter-2025.md) — margins restored/retention reduced; competitor rate cuts; risk segmentation improved; technology investment; low-cost provider; 87.1% combined ratio

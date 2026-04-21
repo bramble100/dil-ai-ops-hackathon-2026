@@ -2,10 +2,10 @@
 title: "Forest River, Inc."
 type: entity
 entity_kind: company
-sources: [buffett-letter-2005]
-source_count: 1
+sources: [buffett-letter-2005, buffett-letter-2024]
+source_count: 2
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [acquisition, manufacturing, four-filters]
 ---
 
@@ -41,3 +41,18 @@ Liegl's quip captures why owner-operators choose Berkshire: "It was easier to se
 - [Business Quality](../principles/business-quality.md) — manufacturing business with strong market position
 
 [^1]: [2005 Letter](../sources/buffett-letter-2005.md) — acquisition Aug 31, 2005; $1.6B revenue; 60 plants; 5,400 employees; Pete Liegl; two-page fax; LBO buyback story; "easier to sell than renew driver's license"
+
+## Pete Liegl Tribute (2024)
+
+**[2024 Letter]** Pete Liegl died in November 2024 at age 80, still working. Buffett devotes the largest individual-manager tribute in the letter to Liegl's story, revealing new details:
+
+- **June 21, 2005:** Buffett receives letter from intermediary with Forest River data. Liegl "specifically wanted to sell to Berkshire" and named his price. "I liked this no-nonsense approach."
+- **June 28, 2005:** Meeting in Omaha. Pete brought wife Sharon and daughter Lisa. He wanted to "keep running the business but would feel more comfortable if he could assure financial security for his family."
+- **Real estate add-on:** Liegl mentioned additional real estate leased to Forest River. Buffett accepted his valuation without appraisal: "I expressed no need for appraisal by Berkshire but would simply accept his valuation."
+- **Compensation:** Asked what his salary should be, Liegl paused and said: **"Well, I looked at Berkshire's proxy statement and I wouldn't want to make more than my boss, so pay me $100,000 per year."** Plus 10% bonus on earnings above baseline. Buffett: "OK Pete, but if Forest River makes any significant acquisitions we will make an appropriate adjustment." "I didn't define 'appropriate' or 'significant,' but those vague terms never caused a problem."
+- **"The four of us then went to dinner at Omaha's Happy Hollow Club and lived happily ever after."**
+- **19 years of results:** "Pete shot the lights out. No competitor came close to his performance."
+
+Buffett uses Liegl to teach the management selection principle: "I never look at where a candidate has gone to school. Never!" Nature swamps nurture in business talent. "Pete Liegl was a natural." He contributed "many billions" to shareholder wealth[^2].
+
+[^2]: [2024 Letter](../sources/buffett-letter-2024.md) — Pete Liegl died Nov 2024 (age 80); $100K salary/10% bonus; real estate accepted at his valuation; Happy Hollow dinner; "no competitor came close"; nature swamps nurture; "many billions" to shareholders

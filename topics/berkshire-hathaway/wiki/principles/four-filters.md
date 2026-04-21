@@ -36,6 +36,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -349,3 +351,22 @@ The honest confession: "no possibility of eye-popping performance." At $561B net
 [^22]: [2022 Letter](../sources/buffett-letter-2022.md) — one decision/5 years; Alleghany passes all four; largest owner 8 S&P 500 companies
 
 [^23]: [2023 Letter](../sources/buffett-letter-2023.md) — OXY filter application; Japanese companies 9% each; no eye-popping performance; handful of companies; $561B constraint
+
+### Pete Liegl as Filter Exemplar, and Abel's Filter Codification (2024-2025)
+
+**[2024 Letter]** Pete Liegl's Forest River story becomes the definitive filter-application parable. Filter (3) — management quality — shines brightest: Liegl asked for **$100K salary** ("I wouldn't want to make more than my boss") plus 10% of earnings above baseline. Buffett's response: "OK Pete." No defined terms for "appropriate" or "significant" — and "those vague terms never caused a problem" over 19 years. Liegl died in November 2024 at 80, still working, having contributed "many billions" to shareholder wealth.
+
+Filter (3) expanded to **fidelity**: "At other times, I've made mistakes when assessing the abilities or fidelity of the managers Berkshire is hiring. The fidelity disappointments can hurt beyond their financial impact, a pain that can approach that of a failed marriage." The cardinal sin is **thumb-sucking** (delaying correction of mistakes), per Munger.
+
+Marketable equities as filter application: "household names such as Apple, American Express, Coca-Cola and Moody's" — "Many of these companies earn very high returns on the net tangible equity required for their operations." The filter for partial ownership: they "very occasionally sell at bargain prices"[^24].
+
+**[2025 Letter]** Abel codifies the filters into five explicit capital allocation principles (see Capital Allocation). Two new acquisitions demonstrate the filters in action:
+
+- **OxyChem:** encountered through OXY investment; chlorine/caustic soda for construction/industrial; management prioritizes "efficient execution over volume"; translates into "cash flows from a compelling addition"
+- **Bell Laboratories:** Steve Levy's cold letter to Buffett; rodent control; "high operating margins, very good historical growth and future growth potential, easy to understand and always needed, and a strong management team" — Abel: "a business with durable advantages and long-term economic prospects run by excellent managers. We only wish it had been ten times bigger."
+
+The speed/decisiveness filter maintained: "big investment opportunities can be confidentially shared with us, with a prompt response assured (and if we like it, no financing contingency attached). We quickly say 'no' to those that do not align with our principles"[^25].
+
+[^24]: [2024 Letter](../sources/buffett-letter-2024.md) — Pete Liegl filter exemplar ($100K/10%); fidelity as filter (3); thumb-sucking cardinal sin; household-name equities
+
+[^25]: [2025 Letter](../sources/buffett-letter-2025.md) — five principles codified; OxyChem/Bell Labs filter application; speed/decisiveness maintained; "ten times bigger"

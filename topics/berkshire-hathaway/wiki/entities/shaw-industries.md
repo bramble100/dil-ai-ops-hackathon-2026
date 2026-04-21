@@ -12,9 +12,10 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
     buffett-letter-2017,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [acquisition, manufacturing, mega-cap-era]
 ---
@@ -80,3 +81,11 @@ Shaw illustrates Berkshire's acquisition model in manufacturing: identify the in
 **[2017 Letter]** Shaw reaches **$5.7B revenue** (from $3.2B in 2000 when acquired). The **USFloors acquisition** diversifies Shaw into laminate and luxury vinyl plank flooring — moving beyond its carpet-industry origins into the fastest-growing flooring categories. Shaw's trajectory from single-product carpet company to full-spectrum flooring leader demonstrates [business quality](../principles/business-quality.md) through continuous reinvestment[^7].
 
 [^7]: [2017 Letter](../sources/buffett-letter-2017.md) — $5.7B revenue (from $3.2B in 2000); USFloors acquisition; laminate/luxury vinyl diversification
+
+### 2025: "Self-Inflicted" Difficulties
+
+**[2025 Letter]** Abel describes Shaw's challenges as **"self-inflicted"** — the company struggled in its transition from carpet to hard-surface flooring. Shaw is "rebuilding its manufacturing" capabilities in the hard-surface categories (luxury vinyl plank, laminate). The difficulties are operational rather than market-driven — Shaw chose to diversify into fast-growing categories but execution faltered.
+
+Abel's candor about self-inflicted problems echoes Buffett's tradition of transparent mistake acknowledgment. Shaw remains one of Berkshire's largest non-insurance subsidiaries but is in a recovery phase[^8].
+
+[^8]: [2025 Letter](../sources/buffett-letter-2025.md) — "self-inflicted" difficulties; hard-surface transition; rebuilding manufacturing

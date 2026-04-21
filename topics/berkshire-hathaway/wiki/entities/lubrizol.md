@@ -3,8 +3,9 @@ title: "Lubrizol"
 type: entity
 entity_kind: product
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [subsidiary, chemicals, mega-cap-era]
+sources: [buffett-letter-2011, buffett-letter-2012, buffett-letter-2025]
 ---
 
 ## Overview
@@ -40,3 +41,9 @@ James Hambrick's track record (7x profit growth) exemplifies the Berkshire acqui
 [^1]: [2011 Letter](../sources/buffett-letter-2011.md) — acquisition September 16; $147M→$1,085M under Hambrick; Fabulous Five >$9B; three bolt-ons $493M
 
 [^2]: [2012 Letter](../sources/buffett-letter-2012.md) — Powerhouse Five $10.1B combined
+
+### 2025: OxyChem Responsibility
+
+**[2025 Letter]** Rebecca Liebert, Lubrizol's CEO, assumes additional responsibility for **OxyChem** (acquired by Berkshire from Occidental Petroleum). This consolidation of chemical operations under one leader signals Lubrizol's importance as Berkshire's chemical platform. Liebert's expanded role demonstrates the trust placed in her management capabilities[^3].
+
+[^3]: [2025 Letter](../sources/buffett-letter-2025.md) — Rebecca Liebert assumes OxyChem responsibility alongside Lubrizol CEO role

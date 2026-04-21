@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-22] ingest-batch | Batch 24 (FINAL): 2024-2025 Letters
+
+- Sources: raw/articles/buffett-letter-2024.md, raw/articles/buffett-letter-2025.md
+- Created: sources/buffett-letter-2024, sources/buffett-letter-2025, entities/greg-abel
+- Updated: ALL 7 principles (capital-allocation, owner-earnings, underwriting-discipline, business-quality, four-filters, mr-market, institutional-imperative), entities/geico, entities/bnsf, entities/forest-river, entities/precision-castparts, entities/pilot-flying-j, entities/coca-cola, entities/midamerican-energy, entities/american-express, entities/shaw-industries, entities/executive-jet, entities/lubrizol, entities/occidental-petroleum, entities/heinz, entities/charlie-munger, entities/clayton-homes, quotes, timeline, acquisitions-timeline, financials/book-value-per-share, index.md
+- Fixed: midamerican-energy.md duplicate 2021-2023 section (pre-existing artifact); institutional-imperative.md duplicate Board Governance section
+- Key themes: Buffett's valedictory (2024) — record $47.4B operating, $26.8B tax (5% US corporate), GEICO "spectacular" under Todd Combs, Pete Liegl tribute ($100K/10%), P/C insurance essay, American capitalism, "mistakes fade/winners blossom," 19.9% CAGR / 5,502,284%. Abel's first CEO letter (2025) — six foundational values, $44.5B operating, float $176B at CR 87.1%, OxyChem + Bell Labs acquired, $370B+ cash/Treasuries, BNSF 34.5% margin (gap too wide), PCC $2.4B cash/Jenkintown fire, Shaw "self-inflicted," Pilot Pro Preference 35%, 9-holding $194B equity portfolio on $24.5B cost, KHC "disappointing," 19.7% CAGR / 6,099,294%. Munger quoted: "Greg will keep the culture." Marc Hamburg retirement. BHE to 100% ownership ($3.9B). This completes all 49 letters (1977-2025).
+
 ## [2026-04-21] ingest-batch | Batch 23: 2021-2023 Letters
 
 - Sources: raw/articles/buffett-letter-2021.md, raw/articles/buffett-letter-2022.md, raw/articles/buffett-letter-2023.md

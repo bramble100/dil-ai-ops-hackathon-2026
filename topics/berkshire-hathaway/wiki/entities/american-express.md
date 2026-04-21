@@ -14,9 +14,11 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 status: draft
 tags: [investment, management, compounding]
 ---
@@ -104,3 +106,13 @@ Berkshire listed as **largest owner** of AmEx among eight S&P 500 companies wher
 [^7]: [2022 Letter](../sources/buffett-letter-2022.md) — Secret Sauce; $1.3B→$22B; $41M→$302M dividends; ~5% of net worth; #1 owner
 
 [^8]: [2023 Letter](../sources/buffett-letter-2023.md) — earnings exceed $1.3B cost; 16% dividend increase; 1850 founding; Rip Van Winkle; patience pays
+
+### 2024-2025: Four-Stock Core and $56B Market Value
+
+**[2024 Letter]** AmEx named as one of four core equity holdings (with Apple, Coca-Cola, and Moody's) that Berkshire has "no intent to sell." The four-stock portfolio represents the culmination of 30+ years of patient accumulation.
+
+**[2025 Letter]** Berkshire holds **151,610,700 shares** (22.1% ownership) at **$56,137M market value** on **$1,287M cost** — a **43.6x** return. Annual dividends: **$479M** (37.2% yield on original cost). AmEx is one of only nine holdings in Berkshire's $194B equity portfolio, built on just $24.5B total cost — delivering **~10% yield on cost** across the entire portfolio.
+
+Abel notes: "The values of the businesses underlying these nine holdings far exceed their carrying costs" — AmEx as a prime example of compounding through patience and buyback-driven ownership growth[^9].
+
+[^9]: [2024 Letter](../sources/buffett-letter-2024.md) & [2025 Letter](../sources/buffett-letter-2025.md) — four-stock core; 22.1% ownership; $56.1B on $1.3B cost; $479M dividends; 9-holding concentrated portfolio

@@ -2,7 +2,7 @@
 title: "Timeline"
 type: overview
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [retrospective]
 ---
 
@@ -532,3 +532,17 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 2023 | BNSF $5.1B; $22B over-depreciation in 14 years; $500B replacement cost; margin erosion vs peers                                                           | Business    | [BNSF](entities/bnsf.md)                                           |
 | 2023 | **"No possibility of eye-popping performance"** — scale constraint fully acknowledged; "casino in many homes"                                             | Philosophy  | [Capital Allocation](principles/capital-allocation.md)             |
 | 2023 | Pilot Flying J reaches 80% ownership; full consolidation                                                                                                  | Acquisition | [Pilot Flying J](entities/pilot-flying-j.md)                       |
+| 2024 | **Record $47.4B operating earnings**; $26.8B taxes (5% of all US corporate tax); BRK +25.5% vs S&P +25.0%                                                 | Financial   | [Owner Earnings](principles/owner-earnings.md)                     |
+| 2024 | **BHE to 100% ownership** (~$3.9B: $2.9B cash + BRK B shares); $3,730M earnings (recovery from wildfire year)                                             | Acquisition | [MidAmerican Energy](entities/midamerican-energy.md)               |
+| 2024 | **Pete Liegl dies** (Nov 2024, age 80) — Forest River founder; $100K salary, 10% bonus; "many billions" created                                           | People      | [Forest River](entities/forest-river.md)                           |
+| 2024 | GEICO **"spectacular"** under Todd Combs; P/C insurance essay (float, pricing, reserve); American capitalism defense                                      | Insurance   | [GEICO](entities/geico.md)                                         |
+| 2024 | Japanese trading companies: $13.8B cost / $23.5B market value; four-stock core (Apple, AmEx, Coke, Moody's) designated                                    | Investment  | [Capital Allocation](principles/capital-allocation.md)             |
+| 2024 | 19.9% CAGR / 5,502,284% overall gain (1964-2024); "mistakes fade away; winners can forever blossom"                                                       | Financial   | [Book Value](financials/book-value-per-share.md)                   |
+| 2025 | **Greg Abel writes first CEO letter** — six foundational values codified; "stewardship" framing; Munger quote "Greg will keep the culture"                | Corporate   | [Greg Abel](entities/greg-abel.md)                                 |
+| 2025 | **OxyChem acquired** (carved out from Occidental Petroleum); **Bell Laboratories acquired**                                                               | Acquisition | [Occidental Petroleum](entities/occidental-petroleum.md)           |
+| 2025 | Operating earnings $44.5B; float **$176B**; combined ratio **87.1%**; $46B cash flows from operations                                                     | Financial   | [Owner Earnings](principles/owner-earnings.md)                     |
+| 2025 | **$370B+ cash/Treasuries**; equity portfolio $194B in 9 holdings on $24.5B cost (~10% yield on cost)                                                      | Financial   | [Capital Allocation](principles/capital-allocation.md)             |
+| 2025 | BNSF margin 34.5% (gap vs peers "too wide"); UP-NS merger proposed by Union Pacific                                                                       | Business    | [BNSF](entities/bnsf.md)                                           |
+| 2025 | PCC $2.4B cash; Jenkintown fire response; 700+ sole-sourced aerospace parts                                                                               | Business    | [Precision Castparts](entities/precision-castparts.md)             |
+| 2025 | KHC **"disappointing... well short of adequate return"**; Shaw **"self-inflicted"** difficulties                                                          | Business    | [Heinz](entities/heinz.md)                                         |
+| 2025 | Marc Hamburg retirement announced (CFO since 1992); BRK +10.9% vs S&P +17.9%; 19.7% CAGR / 6,099,294% overall                                             | Corporate   | [Book Value](financials/book-value-per-share.md)                   |

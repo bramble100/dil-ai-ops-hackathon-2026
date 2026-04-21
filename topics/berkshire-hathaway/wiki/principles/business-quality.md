@@ -41,6 +41,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -536,3 +538,25 @@ BHE's crisis reveals that even excellent businesses face existential risks from 
 [^27]: [2022 Letter](../sources/buffett-letter-2022.md) — creative destruction; Secret Sauce; Coke $25B/AmEx $22B; $30.8B operating record
 
 [^28]: [2023 Letter](../sources/buffett-letter-2023.md) — BNSF $22B over-depreciation/$500B replacement; BHE regulatory crisis; five Japanese companies ~9% each; ¥1.3T yen bonds
+
+### Winners Blossom, GEICO Reshaped, and Decentralized Model Codified (2024-2025)
+
+**[2024 Letter]** Buffett's capstone quality assessment: 189 subsidiaries include "a few rare gems, many good-but-far-from-fabulous businesses and some laggards." The key lesson: **"Mistakes fade away; winners can forever blossom."** Three transformative winners: GEICO (business decision), Ajit Jain (managerial decision), Charlie Munger (partnership). A single winning decision "can make a breathtaking difference over time."
+
+GEICO's 2024 improvement was "spectacular" — Todd Combs has "reshaped GEICO in a major way" in five years, increasing efficiency and modernizing underwriting. This validates Buffett's longstanding thesis: a great franchise with temporary management problems can be fixed, while a bad business with great management cannot.
+
+"Companies die for many reasons but, unlike the fate of humans, old age itself is not lethal. Berkshire today is far more youthful than it was in 1965." The American capitalism essay reinforces that business quality compounds across generations when savings are wisely deployed[^29].
+
+**[2025 Letter]** Abel formally codifies **Operational Excellence** as a foundational value: "the result of disciplined decision making across our businesses... starts with safety and carries through to how we serve customers, make products, and compete — every day."
+
+PCC as proof: the Jenkintown, PA fire destroyed a facility producing 700+ sole-sourced aerospace parts. Mark Donegan's team redistributed production across US and international sites without any customer experiencing a production line stoppage — "decentralized leadership, clear accountability, and exceptional execution under pressure."
+
+Shaw as cautionary tale: "some of its difficulties were self-inflicted" — execution slipped during hard-surface expansion, affecting quality and service. "Shaw is now rebuilding its manufacturing organization and restoring the operational discipline needed to regain customer confidence."
+
+NetJets transformation: from "a challenged business model into a successful enterprise" under Adam Johnson's 10 years as CEO. Now ~1,100 aircraft in 150+ countries. Clayton remains resilient as America's largest builder of affordable homes.
+
+The **Decentralized Model** codified: "autonomy grounded in deserved trust... minimize bureaucracy... in return, we expect accountability and integrity." Decisions are "made faster, with better knowledge and greater conviction, when they are made by those who are closest to the business." This will not change[^30].
+
+[^29]: [2024 Letter](../sources/buffett-letter-2024.md) — "mistakes fade/winners blossom"; 189 subsidiaries; GEICO spectacular reshaping; companies don't die of old age; capitalism essay
+
+[^30]: [2025 Letter](../sources/buffett-letter-2025.md) — operational excellence codified; PCC Jenkintown fire; Shaw self-inflicted; NetJets transformation; decentralized model; Clayton affordable housing

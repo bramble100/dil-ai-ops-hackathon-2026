@@ -7,6 +7,8 @@ sources:
     buffett-letter-2004,
     buffett-letter-2017,
     buffett-letter-2019,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-22
@@ -94,17 +96,18 @@ Buffett's prescription: business-savvy, owner-oriented directors with "a strong 
 
 [^4]: [2019 Letter](../sources/buffett-letter-2019.md) — 62-year/21-company board experience; NWD compensation conflict; cocker spaniel selection; independence theater; acquisition pro/con advisors; Bobby Fischer
 
-### Board Governance and Director Independence Theater (2019)
+### Thumb-Sucking, and Abel's Decentralized Anti-Imperative (2024-2025)
 
-**[2019 Letter]** The most comprehensive board governance essay in the letters — drawing on Buffett's experience as director of 21 public companies over 62 years. The institutional imperative now operates through structural conflicts:
+**[2024 Letter]** Buffett introduces the **thumb-sucking** diagnostic (from Munger): "Problems cannot be wished away. They require action, however uncomfortable that may be." The cardinal sin is delaying correction of mistakes. This is the individual-level corollary to the institutional imperative — where organizations resist change through momentum, individuals resist it through avoidance.
 
-- **Director compensation as corrupting force:** $250,000-300,000 annually for "a pleasant couple of days six or so times a year" = 3-4x median household income. Non-wealthy directors (NWDs) yearn for a second board seat ($500-600K class) — ensuring they won't challenge the CEO who controls referrals.
-- **"Cocker spaniel" selection:** "If the NWD has seriously challenged his/her present CEO's compensation or acquisition dreams, his or her candidacy will silently die. When seeking directors, CEOs don't look for pit bulls."
-- **Independence theater:** Directors with no personal investment classified as "independent" while those with substantial personal stakes are deemed "lacking in independence" — eight directors of one large laggard had "never purchased a share using their own money."
-- **Acquisition advisor reform:** "Hire two 'expert' advisors, one pro and one con, to deliver views — with the winning advisor to receive ten times a token sum paid to the loser." Current system: "The current system, whatever its shortcomings for shareholders, works magnificently for CEOs and the many advisors and other professionals who feast on deals."
+Buffett's candor audit: he used "mistake" or "error" 16 times in his 2019-2023 letters. "Many other huge companies have never used either word over that span." Amazon gets credit for 2021 candor; "elsewhere, it has generally been happy talk and pictures." The taboo against admitting mistakes "always made me nervous"[^5].
 
-> "In baseball lingo... if you are Bobby Fischer, you must play only chess for money." — 2019 Letter
+**[2025 Letter]** Abel codifies the **Decentralized Model** as an explicit anti-imperative structure: "autonomy grounded in deserved trust... minimize bureaucracy." "Our CEOs will never have to navigate layers of bureaucracy or have short-term earnings expectations dictated to them, leading to long-term value destruction."
 
-Buffett's prescription: business-savvy, owner-oriented directors with a "strong specific interest" in the company. "Thought and principles, not robot-like 'process,' will guide their actions"[^4].
+The Salomon testimony still echoes: "For over 25 years, at each shareholder meeting we played a clip from Warren's 1991 Salomon Brothers Congressional testimony: 'Lose money for the firm, and I will be understanding; lose a shred of reputation for the firm, and I will be ruthless.'" Integrity defined as "an active quality that must be earned, re-earned, and maintained daily."
 
-[^4]: [2019 Letter](../sources/buffett-letter-2019.md) — 62-year/21-company board experience; NWD compensation conflict; cocker spaniel selection; independence theater; acquisition pro/con advisors; Bobby Fischer
+BNSF's Swinomish Indian Tribal Community resolution as institutional correction: "The BNSF decisions that sparked the dispute were made long ago, but the current BNSF leadership built a partnership rooted in communication, understanding, and respect. BNSF acknowledged its past mistakes and apologized." Proof that the anti-imperative works: correct errors publicly rather than defending them[^6].
+
+[^5]: [2024 Letter](../sources/buffett-letter-2024.md) — thumb-sucking (Munger); 16 times "mistake/error" in 5 years; Amazon candor credit; happy talk/pictures elsewhere
+
+[^6]: [2025 Letter](../sources/buffett-letter-2025.md) — decentralized model codified; no bureaucracy/no short-term targets; Salomon testimony 25+ years; integrity re-earned daily; BNSF Swinomish resolution

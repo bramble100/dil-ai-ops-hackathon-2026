@@ -12,10 +12,11 @@ sources:
     buffett-letter-2004,
     buffett-letter-2005,
     buffett-letter-2006,
+    buffett-letter-2025,
   ]
-source_count: 9
+source_count: 10
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-22
 tags: [entity, aviation, acquisition]
 ---
 
@@ -120,3 +121,11 @@ The turnaround validates Buffett's oft-stated principle that the right manager i
 **[2011 Letter]** **Jordan Hansell** takes over as CEO in April (succeeding Dave Sokol). NetJets earns **$227M pre-tax** — sustaining the turnaround momentum. China expansion planned. The business is now a meaningful contributor to Berkshire's earnings[^11].
 
 [^11]: [2011 Letter](../sources/buffett-letter-2011.md) — Jordan Hansell CEO April; $227M pre-tax; China expansion planned
+
+### 2025: ~1,100 Aircraft and Transformation
+
+**[2025 Letter]** NetJets now operates **~1,100 aircraft** serving **150+ countries** — a dramatic expansion from the 163 aircraft at acquisition. Abel describes the business as having been "transformed from a challenged operation to a highly successful one" — a complete arc from the $157M cumulative loss through 2009 to sustained profitability.
+
+Adam Johnson serves as president of the consumer, service, and retailing group (32 companies including NetJets). The business is now a core example of Berkshire's operational excellence philosophy — the right management team turning a good business into a great one[^12].
+
+[^12]: [2025 Letter](../sources/buffett-letter-2025.md) — ~1,100 aircraft; 150+ countries; transformed from challenged to successful; Adam Johnson president

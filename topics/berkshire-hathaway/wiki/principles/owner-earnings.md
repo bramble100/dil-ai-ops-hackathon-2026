@@ -43,6 +43,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -508,3 +510,19 @@ Berkshire's total GAAP net worth: **$561B** — largest in US corporate history.
 [^30]: [2022 Letter](../sources/buffett-letter-2022.md) — record operating $30.8B; GAAP $22.8B (includes $53.6B unrealized losses); GAAP "cannot be accurate"; quarterly misleading
 
 [^31]: [2023 Letter](../sources/buffett-letter-2023.md) — record operating $37.4B; BNSF $22B over-depreciation; $500B replacement cost; BHE regulatory decline; $561B GAAP net worth; EBITDA banned
+
+### New Records, $26.8B Tax, and Abel's Cash Flow Emphasis (2024-2025)
+
+**[2024 Letter]** Record operating earnings of **$47.4B** (from $37.4B in 2023), broken down: insurance-underwriting $9,020M, insurance-investment income $13,670M, BNSF $5,031M, BHE $3,730M, other controlled $13,072M. "We regularly — endlessly, some readers may groan — emphasize this measure rather than the GAAP-mandated earnings."
+
+The tax payment as owner-earnings proof: Berkshire paid **$26.8B** in federal income tax — more than any US company ever — ~5% of all corporate income tax collected. Aggregate since 1965: **>$101B**. This was only possible because shareholders "endorsed continuous reinvestment" for 60 years (only one dividend ever paid: $101,755 on January 3, 1967). EBITDA dismissed once again: "a flawed favorite of Wall Street, is not for us"[^32].
+
+**[2025 Letter]** Abel introduces a complementary measure: **net cash flows from operating activities** at **$46B** (5-year average >$40B). "Equally important is the cash our businesses generate." Operating earnings: **$44.5B** (below 2024's $47.4B, above $37.5B 5-year avg).
+
+The GAAP caution reiterated: "GAAP net earnings — with its sometimes-large annual swings from realized and unrealized investment gains and losses — must be assessed with caution." Abel maintains Buffett's framework but adds operational cash generation as a co-equal metric.
+
+BNSF's capital reality continues: $8.1B net operating cash, but operating margin only 34.5% — each 1pp improvement generates ~$230M incremental cash flow. PCC rebounds to **$2.4B operating cash** (from $0.9B avg in 2021-22). BHE produces $8.4B operating cash "even as it absorbed" wildfire challenges. Pilot delivers $1.7B[^33].
+
+[^32]: [2024 Letter](../sources/buffett-letter-2024.md) — record $47.4B operating; $26.8B tax (5% of all corporate); $101B cumulative; EBITDA dismissed; one dividend ever
+
+[^33]: [2025 Letter](../sources/buffett-letter-2025.md) — $44.5B operating; $46B cash flows; GAAP caution; BNSF 34.5% margin/$230M per pp; PCC $2.4B; BHE $8.4B; Pilot $1.7B

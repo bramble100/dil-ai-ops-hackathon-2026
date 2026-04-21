@@ -2,9 +2,9 @@
 title: "Occidental Petroleum"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2023]
+sources: [buffett-letter-2023, buffett-letter-2025]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [equity-holding, energy, carbon-capture]
 ---
 
@@ -37,3 +37,11 @@ Importantly, Berkshire holds both common stock and warrants — a structure that
 ## Sources
 
 [^1]: [2023 Letter](../sources/buffett-letter-2023.md) — 27.8% + warrants; Vicki Hollub; carbon capture; US energy holdings; debt repayment discipline
+
+### 2025: OxyChem Carved Out to Berkshire
+
+**[2025 Letter]** Berkshire acquires **OxyChem** — Occidental Petroleum's chemical subsidiary — carving it out from OXY. The acquisition deepens Berkshire's chemical capabilities (OxyChem is placed under Lubrizol CEO Rebecca Liebert). OXY continues as an equity-method investment for Berkshire.
+
+The OxyChem deal demonstrates the evolving relationship between Berkshire and OXY: from passive equity holder to active acquirer of subsidiary businesses. Berkshire's willingness to acquire individual business units from portfolio companies is rare and reflects deep operational knowledge[^2].
+
+[^2]: [2025 Letter](../sources/buffett-letter-2025.md) — OxyChem acquired (carved out from OXY); Rebecca Liebert oversight; OXY remains equity-method investment

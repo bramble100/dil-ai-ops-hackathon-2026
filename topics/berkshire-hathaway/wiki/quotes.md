@@ -2,7 +2,7 @@
 title: "Buffett's Greatest Quotes"
 type: overview
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [principle, mental-model, anecdote]
 ---
 
@@ -1505,3 +1505,51 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "I did not anticipate or even consider the adverse developments in regulatory returns and, along with Berkshire's two partners at BHE, I made a costly mistake in not doing so." — 2023 Letter
 >
 > Context: Buffett's confession about failing to foresee the regulatory reckoning in western utilities. → [MidAmerican Energy](entities/midamerican-energy.md)
+
+### Mistakes Fade, Winners Blossom (2024)
+
+> "Mistakes fade away; winners can forever blossom." — 2024 Letter
+>
+> Context: Buffett's valedictory observation on portfolio asymmetry — losers are finite, winners compound indefinitely. → [Business Quality](principles/business-quality.md)
+
+### Paper Money Warning (2024)
+
+> "Paper money can see its value evaporate if fiscal folly prevails." — 2024 Letter
+>
+> Context: Warning about fiscal irresponsibility's threat to paper wealth — echoing decades of inflation commentary. → [Mr. Market](principles/mr-market.md)
+
+### Corporate Suicide (2024)
+
+> "A determination that our managers describe as 'corporate suicide' — they come to work nervous but not paralyzed." — 2024 Letter (Ajit Jain / Peter Goldberg paraphrased)
+>
+> Context: On the mindset of great underwriters — taking existential risk seriously without being frozen by it. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Pete Liegl's Deal (2024)
+
+> "Pete suggested that $100,000 and a 10% bonus would be fine." — 2024 Letter
+>
+> Context: Forest River founder Pete Liegl's compensation after selling to Berkshire — epitomizing the owner-operator culture. → [Forest River](entities/forest-river.md)
+
+### American Capitalism (2024)
+
+> "America, it should be emphasized, has made the vast majority of its citizens far, far richer than those who preceded them." — 2024 Letter
+>
+> Context: Buffett's defense of American capitalism as an engine for broad-based prosperity. → [Mr. Market](principles/mr-market.md)
+
+### Greg Will Keep the Culture (2025)
+
+> "Greg will keep the culture." — Charlie Munger, May 2021, quoted in 2025 Letter
+>
+> Context: Munger's four-word endorsement of Greg Abel as Buffett's successor, the foundational mandate for post-Buffett Berkshire. → [Charlie Munger](entities/charlie-munger.md)
+
+### Stewardship (2025)
+
+> "Our obligation is to be stewards of what many of you have entrusted to us." — 2025 Letter (Greg Abel)
+>
+> Context: Abel's framing of the CEO role as stewardship rather than empire-building. → [Capital Allocation](principles/capital-allocation.md)
+
+### Underwriters Nervous but Not Paralyzed (2025)
+
+> "Our underwriters come to work nervous but not paralyzed." — 2025 Letter (Greg Abel, quoting Peter Goldberg)
+>
+> Context: Abel codifies the underwriting culture philosophy — seriousness about risk without freezing into inaction. → [Underwriting Discipline](principles/underwriting-discipline.md)

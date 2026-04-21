@@ -46,6 +46,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -870,3 +872,33 @@ Operating earnings hit a new record of **$37.4B**. Total taxes paid in the decad
 [^32]: [2022 Letter](../sources/buffett-letter-2022.md) — Alleghany; one decision/5 years; $30.8B operating earnings; #1 owner of 8 S&P 500 companies; Apple compounding
 
 [^33]: [2023 Letter](../sources/buffett-letter-2023.md) — $561B net worth; no eye-popping performance; OXY + Japanese companies; $37.4B operating earnings; $32B decade taxes; handful of companies
+
+### Valedictory, Japanese Expansion, and Abel's Five Principles (2024-2025)
+
+**[2024 Letter]** Buffett's final letter as primary author. Equities vs. cash declared definitively: "Berkshire will never prefer ownership of cash-equivalent assets over the ownership of good businesses, whether controlled or only partially owned." Despite commentators noting an "extraordinary cash position," the "great majority of your money remains in equities."
+
+Japanese investments receive their most detailed treatment: five companies (Itochu, Marubeni, Mitsubishi, Mitsui, Sumitomo) at **$13.8B cost / $23.5B market value**. The 10% ownership ceiling has been relaxed by all five. Yen-balanced strategy: fixed-rate borrowings approximate currency-neutrality; after-tax yen gains of $2.3B ($850M in 2024). Expected 2025 dividends: **$812M** vs. yen debt interest of **$135M** — a 6:1 income ratio.
+
+BHE increased from ~92% to **100% ownership** for ~$3.9B ($2.9B cash + B shares).
+
+Marketable equities: declined from $354B to $272B (net selling), but 189 subsidiaries worth "many hundreds of billions." Paper money warning: "Paper money can see its value evaporate if fiscal folly prevails... Fixed-coupon bonds provide no protection against runaway currency." The ultimate capital allocation lesson: continuous reinvestment over 60 years turned Berkshire from a dying textile mill into the largest corporate taxpayer in US history (**$26.8B** in 2024, ~5% of all corporate income tax)[^34].
+
+**[2025 Letter]** Abel's first letter codifies **five capital allocation principles**:
+
+1. Invest in businesses we thoroughly understand, with durable advantages
+2. Partner with high-integrity leaders who act like owners
+3. Avoid businesses that undermine society or jeopardize reputation
+4. Act quickly and concentrate in a few high-conviction ideas
+5. Maintain discipline and let compounding unfold
+
+Capital deployed: **OxyChem** acquired (chlorine/caustic soda from Occidental — "compelling addition"); **Bell Laboratories** acquired (rodent control — "we only wish it had been ten times bigger"). Cash/Treasuries exceed **$370B**: "our substantial cash position signals" not "a retreat from investing" but patience.
+
+Equity portfolio concentrated in nine core holdings: four US (Apple $62B, AmEx $56B, Coke $28B, Moody's $12.6B) and five Japanese ($35.4B total). Combined: **$194B market on $24.5B cost**, yielding **10%** on original investment, with **$2.5B annual dividends**. Yen borrowing at 1.2% avg, 5.75-year WAL.
+
+Share repurchases: "We will buy back Berkshire shares when they trade below our estimate of intrinsic value, conservatively determined." Dividend policy unchanged: no dividends while >$1 of market value per $1 retained is reasonably likely. Kraft Heinz: "disappointing... well short of adequate return."
+
+"At Berkshire's scale, the math of compounding works against us" — but improvement in per-share value over the long term remains the goal[^35].
+
+[^34]: [2024 Letter](../sources/buffett-letter-2024.md) — equities over cash; Japanese $13.8B/$23.5B; 10% ceiling relaxed; $812M dividends/$135M interest; BHE to 100%; $354B→$272B marketable; $26.8B tax; paper money warning
+
+[^35]: [2025 Letter](../sources/buffett-letter-2025.md) — five capital allocation principles; OxyChem/Bell Labs; $370B+ cash; $194B in 9 holdings/$24.5B cost/10% yield; KHC disappointing; compounding at scale

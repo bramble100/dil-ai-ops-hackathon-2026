@@ -48,3 +48,13 @@ Key distinctions: (1) PCC itself remains excellent — \"the best in its busines
 [^1]: [2015 Letter](../sources/buffett-letter-2015.md) — $32B+ all-cash acquisition; Mark Donegan; 162 plants/13 countries/30,466 employees; Todd Combs identified; Powerhouse Six; "fits perfectly into the Berkshire model"
 
 [^2]: [2020 Letter](../sources/buffett-letter-2020.md) — $11B writedown; "I paid too much"; aerospace downturn; normalized profit overestimate; Donegan retains passion; "a big one" among errors
+
+### 2025: Aerospace Recovery, $2.4B Operating Cash, and Jenkintown Fire
+
+**[2025 Letter]** PCC has "worked through the most challenging part of that period" — aerospace recovery driving results. Net operating cash flows: **$2.4B** (vs. $0.9B avg in 2021-22 and $1.7B in 2015, last pre-acquisition year).
+
+The **Jenkintown, Pennsylvania fire** (February 2025) destroyed a facility producing **700+ sole-sourced parts** critical to major aerospace customers. Mark Donegan's team responded by redistributing production across US and international sites "without compromising safety, quality, or delivery standards. No customer experienced a production line stoppage."
+
+Abel presents PCC's fire response as the exemplar of operational excellence: "decentralized leadership, clear accountability, and exceptional execution under pressure." The episode also demonstrated PCC's competitive moat — a facility producing 700+ sole-sourced parts is irreplaceable, and the ability to redistribute across a global network is the competitive advantage[^3].
+
+[^3]: [2025 Letter](../sources/buffett-letter-2025.md) — $2.4B operating cash; aerospace recovery; Jenkintown fire/700+ sole-sourced parts; Donegan execution; operational excellence exemplar

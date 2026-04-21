@@ -2,7 +2,7 @@
 title: "Acquisitions & Major Investments Timeline"
 type: overview
 created: 2026-04-20
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [capital-allocation, retrospective]
 ---
 
@@ -156,6 +156,9 @@ Chronological list of acquisitions and major investment positions as documented 
 | 2023    | **Occidental Petroleum buildup**                  | accumulated                              | Vicki Hollub      | 27.8% common + warrants; carbon capture; US energy independence                                                           | [Occidental Petroleum](entities/occidental-petroleum.md)         |
 | 2023    | **Five Japanese trading companies** (~9% each)    | funded via ¥1.3T yen bonds               | —                 | Itochu, Marubeni, Mitsubishi, Mitsui, Sumitomo; "somewhat similar to Berkshire"; near-zero cost yen funding               | [Business Quality](principles/business-quality.md)               |
 | 2023    | Pilot Flying J to 80%                             | step-up from 38.6%                       | Haslam family     | Full consolidation; $45B+ revenue                                                                                         | [Pilot Flying J](entities/pilot-flying-j.md)                     |
+| 2024    | **BHE remaining ~8% (to 100%)**                   | **~$3.9B ($2.9B cash + BRK B shares)**   | —                 | Full ownership of utility platform; $3,730M earnings; recovery from wildfire year                                         | [MidAmerican Energy](entities/midamerican-energy.md)             |
+| 2025    | **OxyChem** (carved out from OXY)                 | undisclosed                              | Rebecca Liebert   | Occidental Petroleum chemical subsidiary; placed under Lubrizol CEO                                                       | [Occidental Petroleum](entities/occidental-petroleum.md)         |
+| 2025    | **Bell Laboratories**                             | undisclosed                              | —                 | Acquired alongside OxyChem; details not elaborated in letter                                                              | —                                                                |
 
 ## Connections
 

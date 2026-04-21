@@ -46,6 +46,8 @@ sources:
     buffett-letter-2021,
     buffett-letter-2022,
     buffett-letter-2023,
+    buffett-letter-2024,
+    buffett-letter-2025,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -662,3 +664,23 @@ The BHE wildfire crisis provides a cautionary contrast: even regulated utility b
 [^31]: [2022 Letter](../sources/buffett-letter-2022.md) — Alleghany; float $164B; 8,000-fold since 1967; Joe Brandon; $30.8B operating earnings; Cooperstown comparison
 
 [^32]: [2023 Letter](../sources/buffett-letter-2023.md) — record $83B premiums/$5.4B UW profit/$9.6B investment income; 5,000-fold; "can't be optimists"; worldwide unmatched
+
+### Float $171B→$176B, Climate Risk, and Abel's Four Structural Advantages (2024-2025)
+
+**[2024 Letter]** Float reaches **$171B** (from $46B two decades ago). P/C underwriting generated **$32B in after-tax profits** over 20 years, ~3.3¢ per dollar of premiums — "float has a reasonable prospect of being costless."
+
+Insurance-underwriting profit: **$9,020M** (from $5,428M in 2023). GEICO's improvement was "spectacular" under Todd Combs. Climate change "may have been announcing its arrival" via convective storm damage — but "no monster event occurred during 2024." Warning: "someday, any day, a truly staggering insurance loss will occur."
+
+Risk capacity: "No private insurer has the willingness to take on the amount of risk that Berkshire can provide." But discipline paramount: "We must never write inadequately-priced policies in order to stay in the game. That policy is corporate suicide." Mike Goldberg's maxim: "We want our underwriters to daily come to work nervous, but not paralyzed." Berkshire is "not dependent on reinsurers" — an enduring cost advantage[^33].
+
+**[2025 Letter]** Float reaches **$176B** (from $88B in 2015). Combined ratio: **87.1%** across P/C businesses (5-year avg 90.7%, 10-year avg 93.0%, 20-year avg 92.2%). Insurance returned **$29B** to Berkshire (up to $31B permitted without regulatory approval).
+
+Abel codifies **four structural insurance advantages**: (1) significant capital enabling large/unusual risks, (2) manager autonomy without quarterly targets or growth mandates, (3) underwriting discipline as the most important ingredient, (4) long-term focus resisting "temporary industry enthusiasms."
+
+Pricing headwinds emerge: reinsurance attracts "significant increases in available capital" from traditional and alternative markets; property reinsurance prices decline; casualty inflation outpaces pricing. "We expect to write less reinsurance premium." GEICO's broad rate increases restored margins but reduced retention; competitors' rate cuts may extend pressure into 2026.
+
+Ajit Jain's contribution reaffirmed: "For nearly four decades, his judgment and discipline have shaped our ability to underwrite large and complex risks with care and precision." Abel on risk: "The CEO is responsible for serving as Chief Risk Officer — there is no more important duty." And on Ajit: "When it comes to risk, Ajit wrote the playbook... simply peerless"[^34].
+
+[^33]: [2024 Letter](../sources/buffett-letter-2024.md) — float $171B; $32B/20yr UW profits (3.3¢/$); $9,020M UW profit; climate risk; "corporate suicide"; Goldberg maxim; not dependent on reinsurers
+
+[^34]: [2025 Letter](../sources/buffett-letter-2025.md) — float $176B; CR 87.1% (5/10/20yr avgs); $29B returned; four structural advantages; pricing headwinds; Ajit peerless; CEO as CRO
