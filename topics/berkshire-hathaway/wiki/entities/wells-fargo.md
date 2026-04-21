@@ -10,6 +10,7 @@ sources:
     buffett-letter-1993,
     buffett-letter-1994,
     buffett-letter-2005,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -89,3 +90,13 @@ Big Four earnings share: $3.9B total; $1.1B dividends received; $26.7B unrealize
 Buffett reaffirms the principle: "when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever." The Big Four represent "large and growing" positions that Berkshire intends to hold indefinitely[^7].
 
 [^7]: [2013 Letter](../sources/buffett-letter-2013.md) — 483M shares; 9.2%; $21.9B value; Big Four $4.4B look-through; $39B unrealized; forever holding
+
+### 2014: 9.4% Ownership and $26.5B Market Value
+
+**[2014 Letter]** Berkshire holds **483,470,853 shares** (9.4% ownership) at **$26,504M market value** on $11,871M cost. Wells Fargo is the **largest of the Big Four** by market value.
+
+Combined Big Four look-through earnings: **$4.7B** (vs. $4.4B in 2013). Total unrealized gains across all four: **$42B**. Each 0.1% ownership increase in each of the four = **$50M additional earnings**.
+
+"It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." The Big Four represent Berkshire's version of wonderful businesses held forever[^8].
+
+[^8]: [2014 Letter](../sources/buffett-letter-2014.md) — 483M shares; 9.4%; $26.5B value; Big Four $4.7B look-through; $42B unrealized; Hope Diamond

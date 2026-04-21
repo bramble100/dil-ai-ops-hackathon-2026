@@ -396,6 +396,58 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: The stock-option accounting fraud — three rhetorical questions. → [Capital Allocation](principles/capital-allocation.md)
 
+---
+
+## 2014 Golden Anniversary
+
+### Capital Allocation & Conglomerates
+
+> "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — 2014 Letter
+>
+> Context: Why partial ownership of wonderful businesses beats full ownership of mediocre ones. → [Owner Earnings](principles/owner-earnings.md)
+
+> "Cash is to a business as oxygen is to an individual: never thought about when it is present, the only thing in mind when it is absent." — 2014 Letter
+>
+> Context: Financial staying power — Berkshire keeps $20B+ minimum in T-bills always. → [Capital Allocation](principles/capital-allocation.md)
+
+> "2+2 will always equal 4. And when someone tells you how old-fashioned that math is — zip up your wallet, take a vacation and buy stock on your return." — 2014 Letter
+>
+> Context: On 1960s conglomerate promoters (Jimmy Ling) who manufactured earnings growth through accounting tricks. → [Capital Allocation](principles/capital-allocation.md)
+
+> "Never underestimate the man who overestimates himself." — Charlie Munger, quoted in 2014 Letter
+>
+> Context: On Jimmy Ling's rise and fall with LTV. → [Capital Allocation](principles/capital-allocation.md)
+
+### Business Quality & Investment Philosophy
+
+> "Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices." — Munger's blueprint, quoted in 2014 Letter
+>
+> Context: Munger's codification of the shift from cigar-butt to franchise investing. → [Business Quality](principles/business-quality.md)
+
+> "Tell me where I'm going to die, so I'll never go there." — Charlie Munger, quoted in 2014 Letter
+>
+> Context: Munger's plea to Buffett's successor about avoiding the ABCs (arrogance, bureaucracy, complacency). → [Capital Allocation](principles/capital-allocation.md)
+
+### Mr. Market & Investing
+
+> "The unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency." — 2014 Letter
+>
+> Context: 50-year proof that equities are safer than bonds. S&P +11,196% while the dollar lost 87% purchasing power. → [Mr. Market](principles/mr-market.md)
+
+> "Borrowed money has no place in the investor's tool kit." — 2014 Letter
+>
+> Context: Berkshire stock fell ~50% three times since 1965. Leveraged investors face forced liquidation at the worst moment. → [Mr. Market](principles/mr-market.md)
+
+> "The fault, dear Brutus, is not in our stars, but in ourselves." — Ben Graham, quoted in 2014 Letter
+>
+> Context: Graham's Shakespeare quote on investor self-sabotage through fees, trading, and market timing. → [Mr. Market](principles/mr-market.md)
+
+### Accounting & EBITDA
+
+> "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test." — 2014 Letter
+>
+> Context: 80% of Berkshire's amortization charges are "phantom" — customer relationships and trade names that don't actually decline. EBITDA obscures the distinction between real and non-real charges. → [Owner Earnings](principles/owner-earnings.md)
+
 ### Management & Character
 
 > "Our goal is to work with managers who like their business, think like owners, and relish operating without a bureaucratic overlay or a second-guessing headquarters." — 1990 Letter

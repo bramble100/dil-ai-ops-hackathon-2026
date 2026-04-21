@@ -31,6 +31,8 @@ sources:
     buffett-letter-2011,
     buffett-letter-2012,
     buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -297,7 +299,47 @@ Other 2004 highlights:
 
 [^9]: [1995 Letter](../sources/buffett-letter-1995.md) & [1996 Letter](../sources/buffett-letter-1996.md) — "have-to-be-smart-once" vs. "-every-day"; "The Inevitables"; Coke 1896 report; retailing as competitive destruction
 
+### Powerhouse Five Record and the Conglomerate Advantage (2014)
+
+**[2014 Letter]** The Powerhouse Five — BHE, BNSF, IMC/Iscar, Lubrizol, Marmon — earn a record **$12.4B pre-tax**, up $1.6B from 2013. A decade earlier, only BHE ($393M) was owned. The $12B annual earnings gain was achieved with only 6.1% share dilution (from BNSF). This demonstrates the twin test: not just growing earnings, but growing _per-share_ results.
+
+**Manufacturing/service/retail segment:** $97.7B revenue, $6.8B pre-tax, **18.7% after-tax ROE on $24B average tangible assets** — despite holding "large quantities of excess cash and using little leverage." Two companies earn $400-600M, six earn $250-400M, seven earn $100-250M. "Our ambitions have no finish line."
+
+**Conglomerate as capital-allocation machine:** The conglomerate form, used judiciously, is "an ideal structure for maximizing long-term capital growth." Berkshire can move capital from low-opportunity businesses to high-opportunity ones instantly, without taxes or friction. The ability to buy pieces of wonderful businesses via common stocks doubles the opportunity set — "not a course of action open to most managements."
+
+> "If horses had controlled investment decisions, there would have been no auto industry." — 2014 Letter
+
+**The Berkshire "permanent home" pitch:** Families selling businesses have three choices: (1) sell to a competitor who fires their people, (2) sell to private equity who pile on debt and resell, or (3) sell to Berkshire for permanent ownership. "Berkshire offers a permanent home, in which the company's people and culture will be retained." This competitive advantage in deal sourcing compounds over time as reputation builds.
+
+**See's Candies retold at scale:** $25M purchase in 1972; $1.9B cumulative pre-tax earnings to date; only $40M of additional investment required. "See's has thus been able to distribute huge sums that have helped Berkshire buy other businesses that, in turn, have themselves produced large distributable profits. (Envision rabbits breeding.)" The See's insight opened Buffett's eyes to "the value of powerful brands" — an education that led to Coca-Cola and other franchise investments.
+
+**Historical retrospective — cigar-butt origins:** Berkshire textile purchase retold as "a monumentally stupid decision" driven by Seabury Stanton's $11.375 tender offer (an eighth of a point below the agreed $11.50). "I bristled at Stanton's behavior and didn't tender." The NICO purchase for Berkshire rather than BPL described as a "colossal mistake" that diverted ~$100B from BPL partners to legacy Berkshire shareholders.
+
+**Dexter Shoe cost revised to $5.7B:** The shares used for the 1993 purchase are now worth $5.7B — up from the $3.5B estimate in 2007. "As a financial disaster, this one deserves a spot in the Guinness Book of World Records"[^14].
+
+[^14]: [2014 Letter](../sources/buffett-letter-2014.md) — Powerhouse Five $12.4B; MSR 18.7% ROE on $24B; conglomerate as allocation machine; permanent home pitch; See's $1.9B rabbits breeding; cigar-butt origins retold; Dexter $5.7B
+
 [^10]: [2000 Letter](../sources/buffett-letter-2000.md) — GEICO low-cost moat as permanent structural advantage; State Farm 118% vs. GEICO profitable; tech as circle-of-competence test
+
+### Powerhouse Five Record and the Conglomerate Advantage (2014)
+
+**[2014 Letter]** The Powerhouse Five — BHE, BNSF, IMC/Iscar, Lubrizol, Marmon — earn a record **$12.4B pre-tax**, up $1.6B from 2013. A decade earlier, only BHE ($393M) was owned. The $12B annual earnings gain was achieved with only 6.1% share dilution (from BNSF). This demonstrates the twin test: not just growing earnings, but growing _per-share_ results.
+
+**Manufacturing/service/retail segment:** $97.7B revenue, $6.8B pre-tax, **18.7% after-tax ROE on $24B average tangible assets** — despite holding "large quantities of excess cash and using little leverage." Two companies earn $400-600M, six earn $250-400M, seven earn $100-250M. "Our ambitions have no finish line."
+
+**Conglomerate as capital-allocation machine:** The conglomerate form, used judiciously, is "an ideal structure for maximizing long-term capital growth." Berkshire can move capital from low-opportunity businesses to high-opportunity ones instantly, without taxes or friction. The ability to buy pieces of wonderful businesses via common stocks doubles the opportunity set — "not a course of action open to most managements."
+
+> "If horses had controlled investment decisions, there would have been no auto industry." — 2014 Letter
+
+**The Berkshire "permanent home" pitch:** Families selling businesses have three choices: (1) sell to a competitor who fires their people, (2) sell to private equity who pile on debt and resell, or (3) sell to Berkshire for permanent ownership. "Berkshire offers a permanent home, in which the company's people and culture will be retained." This competitive advantage in deal sourcing compounds over time as reputation builds.
+
+**See's Candies retold at scale:** $25M purchase in 1972; $1.9B cumulative pre-tax earnings to date; only $40M of additional investment required. "See's has thus been able to distribute huge sums that have helped Berkshire buy other businesses that, in turn, have themselves produced large distributable profits. (Envision rabbits breeding.)" The See's insight opened Buffett's eyes to "the value of powerful brands" — an education that led to Coca-Cola and other franchise investments.
+
+**Historical retrospective — cigar-butt origins:** Berkshire textile purchase retold as "a monumentally stupid decision" driven by Seabury Stanton's $11.375 tender offer (an eighth of a point below the agreed $11.50). "I bristled at Stanton's behavior and didn't tender." The NICO purchase for Berkshire rather than BPL described as a "colossal mistake" that diverted ~$100B from BPL partners to legacy Berkshire shareholders.
+
+**Dexter Shoe cost revised to $5.7B:** The shares used for the 1993 purchase are now worth $5.7B — up from the $3.5B estimate in 2007. "As a financial disaster, this one deserves a spot in the Guinness Book of World Records"[^14].
+
+[^14]: [2014 Letter](../sources/buffett-letter-2014.md) — Powerhouse Five $12.4B; MSR 18.7% ROE on $24B; conglomerate as allocation machine; permanent home pitch; See's $1.9B rabbits breeding; cigar-butt origins retold; Dexter $5.7B
 
 [^11]: [2001 Letter](../sources/buffett-letter-2001.md) — post-bubble vindication; experience vs. exposure failure in tech investing
 

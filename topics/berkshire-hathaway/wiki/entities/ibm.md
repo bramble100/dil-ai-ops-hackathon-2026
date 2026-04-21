@@ -5,6 +5,7 @@ entity_kind: product
 created: 2026-04-21
 updated: 2026-04-21
 tags: [equity-investment, big-four, mega-cap-era]
+sources: [buffett-letter-2013, buffett-letter-2014]
 ---
 
 ## Overview
@@ -55,3 +56,11 @@ Buffett constructs a five-year scenario: if IBM earnings grow 20% and shares out
 The share repurchase math from the 2011 essay continues to compound: IBM's ongoing buybacks steadily increase Berkshire's ownership percentage. The "counterintuitive" insight — shareholders should prefer lower prices during buyback periods — remains the defining framework[^3].
 
 [^3]: [2013 Letter](../sources/buffett-letter-2013.md) — 68.1M shares; 6.3%; $12.8B value; Big Four $4.4B look-through; $39B combined unrealized
+
+### 2014: 7.8% Ownership and Below-Cost Market Value
+
+**[2014 Letter]** Berkshire holds **76,971,817 shares** (7.8% ownership, up from 6.3%) at **$12,349M market value** on $13,157M cost — the only Big Four position carried **below cost** ($808M unrealized loss).
+
+Combined Big Four look-through earnings: **$4.7B**; unrealized gains across all four: **$42B**. The IBM stake's rising ownership percentage demonstrates the share-repurchase math from Buffett's 2011 essay — though the stock price decline has now pushed the position to an unrealized loss, the counterintuitive logic says Berkshire should welcome the lower prices as more shares are retired per buyback dollar[^4].
+
+[^4]: [2014 Letter](../sources/buffett-letter-2014.md) — 77M shares; 7.8%; $12.3B value on $13.2B cost; below cost; Big Four $4.7B; buyback math continues

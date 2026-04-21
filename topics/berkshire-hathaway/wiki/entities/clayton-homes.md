@@ -13,6 +13,7 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 ---
 
@@ -126,3 +127,11 @@ Kevin Clayton continues as CEO. The Berkshire financing advantage remains decisi
 "The sale of new homes began to pick up and earnings from both manufacturing and retailing are again becoming significant." Clayton remains America's **#1 homebuilder**. Kevin Clayton "has done a magnificent job of guiding the company through the severe housing depression. Now, his job — definitely more fun these days — includes the prospect of another earnings gain in 2014"[^9].
 
 [^9]: [2013 Letter](../sources/buffett-letter-2013.md) — 29,547 homes (4.7% US); 326,569 mortgages/$13.6B; $416M pre-tax; housing recovery; Kevin Clayton
+
+## 2014: 45% of US Manufactured Homes and Blue-Collar Borrower Performance
+
+**[2014 Letter]** Clayton builds **30,871 homes** — **45% of all manufactured homes** produced in the US (vs. 14% at the 2003 acquisition). Mortgage portfolio: **$13B**. Kevin Clayton leads the operation.
+
+A noteworthy detail: Clayton's blue-collar borrowers — often unable to qualify for conventional Fannie Mae/Freddie Mac mortgages — "earned their homes through payments that were well within their means." Their delinquency rates have been consistently favorable. This validates Clayton's underwriting approach against the skeptics who question manufactured-housing lending[^10].
+
+[^10]: [2014 Letter](../sources/buffett-letter-2014.md) — 30,871 homes; 45% US manufactured; $13B mortgage portfolio; blue-collar borrower performance; Kevin Clayton

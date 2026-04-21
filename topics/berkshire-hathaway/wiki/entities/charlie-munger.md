@@ -19,6 +19,7 @@ sources:
     buffett-letter-1992,
     buffett-letter-2005,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -92,3 +93,39 @@ In these early letters, Munger appears primarily as a named partner rather than 
 Buffett writes: "Both Charlie and I believe it's important that Berkshire's outside shareholders have investment beliefs that match ours" — reaffirming the two-person partnership as the philosophical core[^5].
 
 [^5]: [2013 Letter](../sources/buffett-letter-2013.md) — 90/10 will instruction; shared investment beliefs; partnership reaffirmed
+
+## 2014: Independent Golden Anniversary Letter and the Berkshire System
+
+**[2014 Letter]** Munger writes a fully independent letter — neither he nor Buffett changed a word after reading the other's. Munger codifies the **Berkshire system** into **15 elements:**
+
+1. Diffuse conglomerate, avoiding unpredictable activities
+2. Extreme CEO autonomy at separately incorporated subsidiaries
+3. Tiny headquarters (Chairman, CFO, a few assistants)
+4. Casualty insurers providing float for investment
+5. No system-wide personnel/option/incentive/retirement systems
+6. Chairman reserves only: (i) manage security investments, (ii) choose subsidiary CEOs and set comp, (iii) deploy excess cash, (iv) be available to subsidiary CEOs, (v) write annual letter, (vi) exemplify culture, (vii) prioritize quiet reading and thinking, (viii) admire others' accomplishments
+7. Cash acquisitions preferred over stock
+8. No dividends while retention creates >$1 market value per $1 retained
+9. Pay fair price for good business the Chairman can understand
+10. Seek trustworthiness, skill, energy, and love for the business in CEOs
+11. Almost never sell a subsidiary
+12. Almost never transfer a CEO between unrelated subsidiaries
+13. Never force CEO retirement for age
+14. Little debt; maintain perfect creditworthiness and easy cash availability
+15. Prompt, confidential response to prospective sellers
+
+**Munger's four factors** for Berkshire's success: (1) Buffett's constructive peculiarities, (2) the Berkshire system's constructive peculiarities, (3) good luck, (4) "weirdly intense, contagious devotion" of shareholders.
+
+The **Wooden analogy:** Buffett concentrated all playing time on the best players; he "out-Woodened Wooden" by concentrating skill in one person for 50 years. The Federer comparison: "Buffett succeeded for the same reason Roger Federer became good at tennis."
+
+**Successors named:** Ajit Jain and Greg Abel are **"world-leading"** — "In some important ways, each is a better business executive than Buffett." Neither would leave Berkshire nor desire much change in the system.
+
+**Errors of omission:** "Berkshire's net worth would now be at least **$50 billion higher** if it had seized several opportunities it was not quite smart enough to recognize as virtually sure things."
+
+> "Never underestimate the man who overestimates himself." — Munger on Jimmy Ling
+
+> "Tell me where I'm going to die, so I'll never go there." — Munger's plea to Buffett's successor, quoted in both letters
+
+Charlie's blueprint restated: "Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices." Met Buffett in 1959; 56 years later, "we've never had an argument." On disagreements: "Warren, think it over and you'll agree with me because you're smart and I'm right"[^6].
+
+[^6]: [2014 Letter](../sources/buffett-letter-2014.md) — independent Golden Anniversary letter; 15-point Berkshire system; Wooden/Federer analogies; Jain/Abel "world-leading"; $50B errors of omission; blueprint restated

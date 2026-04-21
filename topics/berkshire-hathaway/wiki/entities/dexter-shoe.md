@@ -9,6 +9,7 @@ sources:
     buffett-letter-2001,
     buffett-letter-2002,
     buffett-letter-2007,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -74,3 +75,11 @@ Shoe operations lost $46.2M pre-tax in 2001. Dexter placed under management of F
 - [Four Filters](../principles/four-filters.md) — filter (3) exemplified: Alfond/Lunder's multi-decade track record
 
 [^1]: [1993 Letter](../sources/buffett-letter-1993.md) — Dexter acquisition; Harold Alfond and Peter Lunder
+
+## 2014: Revised Cost to $5.7B and "Guinness Book of World Records"
+
+**[2014 Letter]** In the Golden Anniversary retrospective, Buffett revises the cost of the Dexter error yet again. The 25,203 Berkshire shares used for the 1993 purchase are now worth **$5.7B** (up from the $3.5B estimate in 2007 and the original $433M). The shoes themselves proved worthless when manufacturing moved offshore.
+
+"As a financial disaster, this one deserves a spot in the Guinness Book of World Records." The lesson (first drawn in the 2007 letter) remains the same: paying with Berkshire shares for a business without durable competitive advantage is compounded folly — you lose both the business and the compounding value of the shares[^6].
+
+[^6]: [2014 Letter](../sources/buffett-letter-2014.md) — revised cost $5.7B; Guinness Book; compounding regret

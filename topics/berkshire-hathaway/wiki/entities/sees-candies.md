@@ -25,6 +25,7 @@ sources:
     buffett-letter-1999,
     buffett-letter-2005,
     buffett-letter-2007,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -148,6 +149,16 @@ Brad Kinstler now CEO (succeeding Chuck Huggins in 2005); profits increased more
 [^9]: [2007 Letter](../sources/buffett-letter-2007.md) — 35-year retrospective; $1.35B cumulative; $32M reinvested; $82M pre-tax; Brad Kinstler +50% profits
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — 8% poundage increase; Sainted Seven Plus One
+
+## 2014: $1.9B Cumulative Earnings and "Rabbits Breeding"
+
+**[2014 Letter]** In the Golden Anniversary essay, Buffett retells the See's origin story with new emphasis on the capital allocation lesson. See's was purchased in 1972 for **$25M** (Charlie insisted it was worth $30M; Buffett "didn't want to pay more than $25M and wasn't all that enthusiastic even at that figure"). The sellers "luckily" accepted.
+
+Cumulative pre-tax earnings: **$1.9B** — on only **$40M of additional investment**. "See's has thus been able to distribute huge sums that have helped Berkshire buy other businesses that, in turn, have themselves produced large distributable profits. (Envision rabbits breeding.)"
+
+The See's education: "Through watching See's in action, I gained a business education about the value of powerful brands that opened my eyes to many other profitable investments" — including Coca-Cola[^10].
+
+[^10]: [2014 Letter](../sources/buffett-letter-2014.md) — $1.9B cumulative; $40M additional investment; rabbits breeding; brand education
 
 [^4]: [1990 Letter](../sources/buffett-letter-1990.md) — customer loyalty; NFM synergy; 1990 record
 

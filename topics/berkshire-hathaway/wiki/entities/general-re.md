@@ -13,6 +13,7 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 source_count: 9
 created: 2026-04-20
@@ -164,3 +165,13 @@ Financials: **$283M underwriting profit**; float **$20,013M**. International lif
 Buffett acknowledges the journey: "It can be remembered that soon after we purchased General Re, the company was beset by problems that caused commentators — and me as well, briefly — to believe I had made a huge mistake. That day is long gone"[^14].
 
 [^14]: [2013 Letter](../sources/buffett-letter-2013.md) — "now a gem"; Tad Montross; four commandments; $283M profit; $20B float; international life reinsurance; turnaround complete
+
+## 2014: Four Commandments, International Life Growth, and "A Gem" Restated
+
+**[2014 Letter]** Underwriting profit: **$277M**; float: **$19,280M**. Tad Montross continues to observe all four insurance commandments. "General Re's huge float has been considerably better than cost-free under his leadership, and we expect that, on average, to continue."
+
+"We are particularly enthusiastic about General Re's international life reinsurance business, which has grown consistently and profitably since we acquired the company in 1998."
+
+Buffett repeats: "It can be remembered that soon after we purchased General Re, it was beset by problems that caused commentators — and me as well, briefly — to believe I had made a huge mistake. That day is long gone. General Re is now a gem"[^15].
+
+[^15]: [2014 Letter](../sources/buffett-letter-2014.md) — $277M profit; $19.3B float; four commandments; international life reinsurance; "now a gem" restated

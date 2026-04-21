@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-22] ingest-batch | Batch 19: 2014 Letter (Golden Anniversary)
+
+- Source: raw/articles/buffett-letter-2014.md
+- Created: sources/buffett-letter-2014, entities/van-tuyl-automotive
+- Updated: principles/capital-allocation, principles/owner-earnings, principles/mr-market, principles/underwriting-discipline, principles/business-quality, entities/geico, entities/national-indemnity, entities/bnsf, entities/midamerican-energy, entities/general-re, entities/sees-candies, entities/charlie-munger, entities/clayton-homes, entities/marmon-group, entities/dexter-shoe, entities/wells-fargo, entities/coca-cola, entities/american-express, entities/ibm, quotes, timeline, acquisitions-timeline
+- Key themes: Golden Anniversary retrospective; conglomerate defense/PE critique/spin-off condemnation; Munger's independent 15-point Berkshire system letter; Jain/Abel named "world-leading"; Van Tuyl $9B (permanent home thesis); Powerhouse Five $12.4B record; float $83.9B (12 years/$24B cumulative); GEICO 10.8%; NICO $111B; 50-year volatility-≠-risk proof; index fund deepened; acquisition criteria raised to $75M; Tesco $444M cockroach; Dexter revised to $5.7B; See's $1.9B cumulative; ABCs of decay
+
 ## [2026-04-21] ingest-batch | Batch 17: 2011-2012 Letters
 
 - Sources: raw/articles/buffett-letter-2011.md, raw/articles/buffett-letter-2012.md

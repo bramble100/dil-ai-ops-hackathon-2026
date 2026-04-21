@@ -35,6 +35,7 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -147,6 +148,16 @@ Tony Nicely: "an owner's dream... Everything he does makes sense. He never engag
 **[2002 Letter]** Premiums surge to $6.9B (from $2.9B in 1996); underwriting profit $416M; float $4.7B. Internet new business +75%. Tony Nicely praised for 41-year devotion. 19,162 associates received profit-sharing at 19% of salary.
 
 A cautionary anecdote: GEICO's 1981-83 umbrella/product liability venture retained only $72K in net premium but generated $94.1M in losses (a 130,000% loss ratio). $90.3M came from deadbeat reinsurers who couldn't pay. "So much for 'cheap' reinsurance." [^14]
+
+## 2014: 10.8% Market Share and Tony Nicely's 53rd Year
+
+**[2014 Letter]** GEICO ends the year at **10.8% market share** (from 2.5% in 1995). Underwriting profit: **$1,159M**; float: **$13,569M**. Tony Nicely completed **53 years** of service. "There is no better manager than Tony."
+
+Buffett retells the origin story: "When I was first introduced to GEICO in January 1951, I was blown away by the huge cost advantage the company enjoyed." The low-cost moat is "enduring" — "competitors are unable to cross." The gecko "works without pay" and "never gets a swelled head from his fame."
+
+At least 40% of letter readers "can save money by insuring with GEICO." Smaller insurance companies: $2.95B cumulative underwriting profit over the decade, float grown from $1.7B to $8.6B[^15].
+
+[^15]: [2014 Letter](../sources/buffett-letter-2014.md) — 10.8% market share; $1,159M profit; $13.6B float; Tony Nicely 53 years; low-cost moat enduring; gecko
 
 ### 2003: 5% Market Share
 

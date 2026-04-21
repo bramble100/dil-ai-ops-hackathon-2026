@@ -2,7 +2,13 @@
 title: "Marmon Group"
 type: entity
 entity_kind: company
-sources: [buffett-letter-2007, buffett-letter-2008, buffett-letter-2013]
+sources:
+  [
+    buffett-letter-2007,
+    buffett-letter-2008,
+    buffett-letter-2013,
+    buffett-letter-2014,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -68,3 +74,13 @@ The **$1.8B accounting charge** (shared with ISCAR) "reduced Berkshire's book va
 Marmon remains a **Powerhouse Five** member contributing to the group's record **$10.8B pre-tax** earnings. The staged acquisition structure worked exactly as designed: formula prices aligned incentives throughout the six-year transition[^6].
 
 [^6]: [2013 Letter](../sources/buffett-letter-2013.md) — 100% ownership completed; $3.5B combined with ISCAR; $300M added pre-tax; $1.8B accounting charge; Powerhouse Five $10.8B
+
+## 2014: Rail Leasing Detail and Duracell Assignment
+
+**[2014 Letter]** Marmon features prominently in the Golden Anniversary discussion of Berkshire's Powerhouse Five, which collectively earn a record **$12.4B**.
+
+The rail leasing detail: Marmon's UTLX subsidiary operates **105,000 tank cars** and **29,000 other freight cars**. Tank cars carry diverse commodities, with **~8% carrying crude oil** (an important detail given post-Lac-Mégantic regulatory attention). Car life spans average **~30 years**. The fleet is worth **more than $5B** (carried at $5B). UTLX also manufactures tank cars — Marmon's industrial manufacturing capability.
+
+**Duracell to be assigned to Marmon:** Berkshire contracts to acquire Duracell from Procter & Gamble via a tax-efficient exchange of P&G stock (worth ~$4.7B at signing). Duracell will be placed under Marmon's industrial umbrella[^7].
+
+[^7]: [2014 Letter](../sources/buffett-letter-2014.md) — Powerhouse Five $12.4B; UTLX 105,000 tank cars; 8% crude; 30-year life; >$5B fleet; Duracell assigned to Marmon

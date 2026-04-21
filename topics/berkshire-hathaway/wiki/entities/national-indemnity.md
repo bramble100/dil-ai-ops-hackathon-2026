@@ -32,6 +32,7 @@ sources:
     buffett-letter-2004,
     buffett-letter-2006,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -148,6 +149,20 @@ Other Primary managers (2001): Rod Eldred, John Kizer, Tom Nerney, Michael Stear
 **[2002 Letter]** Ajit Jain's operation now holds **$13.4B in float** — built from a standing start in 1986 with a workforce of only 20 people. Underwriting profit $534M after absorbing a $428M retroactive insurance charge. "We would rather earn a lumpy 15% over time than a smooth 12%." Berkshire's total float: $41.2B at 1% cost.
 
 Smaller primary insurers (Rod Eldred, John Kizer, Tom Nerney, Don Towle, Don Wurster) collectively: float up 38% to $943M with $32M underwriting profit. [^13]
+
+## 2014: $111B GAAP Net Worth, BHSI Expansion, and $3B Single Premium
+
+**[2014 Letter]** National Indemnity reaches **$111B GAAP net worth** — the largest of any insurer in the world, from a $8.6M purchase in 1967. The 1½-page purchase agreement was "homemade: Neither side used a lawyer. Per page, this has to be Berkshire's best deal."
+
+Berkshire Hathaway Reinsurance Group (under Ajit Jain) posts **$606M underwriting profit** on **$42,454M float**. Ajit's "mind is an idea factory that is always looking for more lines of business."
+
+**BHSI expansion:** Peter Eastwood expanded into international business and new insurance lines. "We repeat last year's prediction that BHSI will be a major asset for Berkshire, one that will generate volume in the billions within a few years."
+
+A **$3B single-premium** reinsurance policy was written — the second-largest ever (after the 2007 Lloyd's $7.1B). Buffett knows of only **eight P/C policies in history exceeding $1B premium — all eight written by Berkshire**.
+
+Berkshire can absorb a **$250B industry mega-catastrophe** (triple the worst in history) and "likely record a significant profit for the year." "When major insurers have needed an unquestionable promise that payments will be made, Berkshire has been the party — the only party — to call"[^14].
+
+[^14]: [2014 Letter](../sources/buffett-letter-2014.md) — $111B GAAP net worth; BHSI international expansion; $3B single premium; eight $1B+ policies; $250B mega-cat test; Ajit Jain idea factory
 
 **[2003 Letter]** Ajit writes a PepsiCo $1 billion prize policy (contestants' chance at winning would trigger a payment of up to $1B — Berkshire accepts $250M present-value exposure). Underwriting profit: $1.4B (ex-retroactive). Total float: $44.2B at zero cost. All four insurance segments profitable.
 

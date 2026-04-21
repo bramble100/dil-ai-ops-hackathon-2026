@@ -2,7 +2,7 @@
 title: "Burlington Northern Santa Fe (BNSF)"
 type: entity
 entity_kind: organization
-sources: [buffett-letter-2013]
+sources: [buffett-letter-2013, buffett-letter-2014]
 created: 2026-04-21
 updated: 2026-04-21
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
@@ -83,3 +83,17 @@ Fuel efficiency: moves a ton of freight ~500 miles on a single gallon of diesel 
 "Like Noah, who foresaw early on the need for dependable transportation, we know it's our job to plan ahead"[^5].
 
 [^5]: [2013 Letter](../sources/buffett-letter-2013.md) — $22B revenue; $3.8B net; $4B capex (record); 15% US freight; 9:1 coverage; social compact; Matt Rose/Carl Ice
+
+## 2014: Service Failures Confession and $6B Capex Commitment
+
+**[2014 Letter]** Revenue: **$23,239M**; operating earnings before interest and taxes: **$7,002M**; net earnings: **$3,869M**. Interest coverage: **8:1+** (pre-tax earnings/interest, not EBITDA/interest).
+
+The bad news: "BNSF disappointed many of its customers" — service failures that "can badly hurt their businesses." Severe weather exacerbated problems, but "our responsibility is to do whatever it takes to restore our service to industry-leading levels." BNSF lost market share to Union Pacific, whose earnings beat BNSF's "by a record amount."
+
+The response: **$6B capex committed for 2015** — nearly 50% more than any railroad has ever spent in a single year. That's ~26% of estimated revenues (vs. BNSF's 2009-2013 average of 18% and UP's projected 16-17%). "Our huge investments will soon lead to a system with greater capacity and much better service. Improved profits should follow."
+
+BNSF carries **~15% of all inter-city freight** by ton-miles — "the most important artery in our economy's circulatory system." Fuel efficiency: a ton of freight ~500 miles on a single gallon of diesel (4x more efficient than trucks).
+
+"Those building blocks rest on a rock-solid foundation. A century hence, BNSF and Berkshire Hathaway Energy will still be playing vital roles in our economy"[^6].
+
+[^6]: [2014 Letter](../sources/buffett-letter-2014.md) — $23.2B revenue; $3.9B net; service failures; $6B capex (record railroad spend); 8:1 coverage; lost market share to UP; 15% US freight

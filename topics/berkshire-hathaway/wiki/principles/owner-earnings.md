@@ -33,6 +33,8 @@ sources:
     buffett-letter-2011,
     buffett-letter-2012,
     buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -383,4 +385,58 @@ Big Four updated: **AmEx 13.7%, Coke 8.9%, IBM 6.0%, Wells Fargo 8.7%** — $3.9
 
 **Float-as-intrinsic-value analysis:** Insurance float ($77.2B) is deducted as a full liability in book value calculations, but if costless and long-enduring, "the true value of this liability is dramatically less than the accounting liability." The counterpart $15.5B insurance goodwill asset understates true economic value. This creates a systematic gap between book value and intrinsic value that _widens_ as float grows — "one reason — a huge reason — why we believe Berkshire's intrinsic business value substantially exceeds its book value"[^21].
 
+### Book Value Gap, Market Price Column, and Big Four $4.7B (2014)
+
+**[2014 Letter]** Buffett makes the most explicit case yet that book value materially understates intrinsic value. The cause: Berkshire's emphasis has shifted from securities (marked to market) to operating businesses (carried at cost, never revalued upward). "The gap between Berkshire's intrinsic value and its book value has materially widened." He adds a **market price column** to the performance table for the first time in 50 years — "stock prices and intrinsic value almost invariably converge" over time, and the 50-year market price CAGR (21.6%) is "roughly equal" to the intrinsic value increase.
+
+**Two quantitative factors updated:**
+
+| Metric                            | Per-Share | YoY Change |
+| --------------------------------- | --------- | ---------- |
+| Investments                       | $140,123  | +8.4%      |
+| Non-insurance/investment earnings | $10,847   | +19%       |
+
+Since 1970: investments 19% CAGR, earnings 20.6% CAGR. "It is no coincidence that the price of Berkshire stock over the ensuing 44 years has increased at a rate very similar." Emphasis shifting to building operating earnings — hence the Phillips 66 and Graham Holdings stock-for-operating-business exchanges, plus the contracted Duracell exchange.
+
+**Non-real amortization deepened:** $1.15B total amortization charges, only ~20% "real" (software, depleting patents). The remaining ~80% (customer relationships, trade names) "arise through purchase-accounting rules and clearly do not reflect reality." As Berkshire acquires more companies, non-real charges will continue to rise. "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test."
+
+**Big Four updated:** AmEx 14.8%, Coca-Cola 9.2%, IBM 7.8%, Wells Fargo 9.4% — combined **$4.7B** look-through earnings (vs. $3.3B three years prior). Dividends received: $1.6B. Unrealized gains: **$42B**. Each 0.1% ownership increase = $50M additional earnings.
+
+> "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — 2014 Letter
+
+**Bank of America warrants:** 700M shares exercisable at $5B before September 2021; worth **$12.5B** at yearend. "In effect, our fourth largest equity investment."
+
+**Tesco loss — the cockroach lesson:** $444M after-tax loss from dawdling on a position where management had soured. "In the world of business, bad news often surfaces serially: You see a cockroach in your kitchen; as the days go by, you meet his relatives." Munger's judgment: "thumb-sucking" — the 1991 Fannie Mae error replayed.
+
+**Float-as-intrinsic-value restated:** $83.9B float fully deducted as liability; $15.5B goodwill asset as partial offset. But float is a "revolving fund" — "owing $1 that in effect will never leave the premises is worlds different from owing $1 that will go out the door tomorrow." The true value of the float liability is "dramatically less" than accounting suggests; the true value of insurance goodwill is "far in excess" of its carrying value[^22].
+
+[^22]: [2014 Letter](../sources/buffett-letter-2014.md) — book value gap widened; market price column added; investments $140,123/earnings $10,847; non-real amortization $1.15B (80% phantom); EBITDA polygraph; Big Four $4.7B/$42B unrealized; BofA $12.5B; Tesco $444M cockroach; float-as-intrinsic-value restated
+
 [^21]: [2013 Letter](../sources/buffett-letter-2013.md) — two-pillar update ($129,253/$9,116); Big Four $4.4B/$1.4B dividends/$39B unrealized; non-real amortization $648M (20% real); EBITDA "button your wallet"; float-as-intrinsic-value
+
+### Book Value Gap, Market Price Column, and Big Four $4.7B (2014)
+
+**[2014 Letter]** Buffett makes the most explicit case yet that book value materially understates intrinsic value. The cause: Berkshire's emphasis has shifted from securities (marked to market) to operating businesses (carried at cost, never revalued upward). "The gap between Berkshire's intrinsic value and its book value has materially widened." He adds a **market price column** to the performance table for the first time in 50 years — "stock prices and intrinsic value almost invariably converge" over time, and the 50-year market price CAGR (21.6%) is "roughly equal" to the intrinsic value increase.
+
+**Two quantitative factors updated:**
+
+| Metric                            | Per-Share | YoY Change |
+| --------------------------------- | --------- | ---------- |
+| Investments                       | $140,123  | +8.4%      |
+| Non-insurance/investment earnings | $10,847   | +19%       |
+
+Since 1970: investments 19% CAGR, earnings 20.6% CAGR. "It is no coincidence that the price of Berkshire stock over the ensuing 44 years has increased at a rate very similar." Emphasis shifting to building operating earnings — hence the Phillips 66 and Graham Holdings stock-for-operating-business exchanges, plus the contracted Duracell exchange.
+
+**Non-real amortization deepened:** $1.15B total amortization charges, only ~20% "real" (software, depleting patents). The remaining ~80% (customer relationships, trade names) "arise through purchase-accounting rules and clearly do not reflect reality." As Berkshire acquires more companies, non-real charges will continue to rise. "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test."
+
+**Big Four updated:** AmEx 14.8%, Coca-Cola 9.2%, IBM 7.8%, Wells Fargo 9.4% — combined **$4.7B** look-through earnings (vs. $3.3B three years prior). Dividends received: $1.6B. Unrealized gains: **$42B**. Each 0.1% ownership increase = $50M additional earnings.
+
+> "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — 2014 Letter
+
+**Bank of America warrants:** 700M shares exercisable at $5B before September 2021; worth **$12.5B** at yearend. "In effect, our fourth largest equity investment."
+
+**Tesco loss — the cockroach lesson:** $444M after-tax loss from dawdling on a position where management had soured. "In the world of business, bad news often surfaces serially: You see a cockroach in your kitchen; as the days go by, you meet his relatives." Munger's judgment: "thumb-sucking" — the 1991 Fannie Mae error replayed.
+
+**Float-as-intrinsic-value restated:** $83.9B float fully deducted as liability; $15.5B goodwill asset as partial offset. But float is a "revolving fund" — "owing $1 that in effect will never leave the premises is worlds different from owing $1 that will go out the door tomorrow." The true value of the float liability is "dramatically less" than accounting suggests; the true value of insurance goodwill is "far in excess" of its carrying value[^22].
+
+[^22]: [2014 Letter](../sources/buffett-letter-2014.md) — book value gap widened; market price column added; investments $140,123/earnings $10,847; non-real amortization $1.15B (80% phantom); EBITDA polygraph; Big Four $4.7B/$42B unrealized; BofA $12.5B; Tesco $444M cockroach; float-as-intrinsic-value restated

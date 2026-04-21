@@ -26,6 +26,8 @@ sources:
     buffett-letter-2011,
     buffett-letter-2012,
     buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -297,7 +299,51 @@ Pension fund delusions compound the problem: private plans overstate earnings an
 
 **Walter Schloss tribute:** 47-year partnership (1956-2002), no college, one file cabinet → four, no secretary, no inside information. "We try to buy stocks cheap" was Edwin Schloss's entire investment philosophy. Schloss's documented EMT refutation extended: "If you are in the shipping business, it's helpful to have all of your potential competitors be taught that the earth is flat." Business schools ignored the evidence: "Rather than opening their minds, they closed their eyes." A finance instructor questioning EMT had "about as much chance of major promotion as Galileo had of being named Pope"[^17].
 
+### Volatility ≠ Risk: The 50-Year Proof and Index Fund Endorsement (2014)
+
+**[2014 Letter]** The most sweeping statement of the volatility-is-not-risk thesis, backed by 50 years of data. S&P 500 rose from 84 to 2,059 (11,196% total return with dividends reinvested) while the dollar's purchasing power declined 87% (now takes $1 to buy what cost 13¢ in 1965).
+
+> "The unconventional, but inescapable, conclusion: it has been far safer to invest in a diversified collection of American businesses than to invest in securities whose values have been tied to American currency." — 2014 Letter
+
+Buffett explicitly inverts the conventional wisdom: **currency-denominated instruments are "far riskier" than diversified equity portfolios** bought over time. "Stock prices will always be far more volatile than cash-equivalent holdings. Over the long term, however, currency-denominated instruments are riskier investments — far riskier investments."
+
+The pedagogic critique sharpened: "Volatility is almost universally used as a proxy for risk" in business schools. "Though this pedagogic assumption makes for easy teaching, it is dead wrong: Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray."
+
+The time-horizon distinction: owning equities "for a day or a week or a year is far riskier" than cash — relevant for investment banks whose viability depends on short-term asset prices. But for investors with multi-decade horizons, "quotational declines are unimportant. Their focus should remain fixed on attaining significant gains in purchasing power."
+
+**"Borrowed money has no place in the investor's tool kit":** Berkshire stock fell ~50% from its high three times since 1965. "Anything can happen anytime in markets" — leveraged investors face forced liquidation at the worst moment.
+
+**Index fund endorsement deepened:** "Huge institutional investors, viewed as a group, have long underperformed the unsophisticated index-fund investor who simply sits tight for decades." Fees are the primary destroyer — consultants recommend high-fee managers in a "fool's game." Buffett recommends **Jack Bogle's _The Little Book of Common Sense Investing_**. "Most advisors are far better at generating high fees than they are at generating high returns."
+
+> "The fault, dear Brutus, is not in our stars, but in ourselves." — Ben Graham, quoted in 2014 Letter
+
+The **six investment sins:** active trading, market timing, inadequate diversification, high fees, unnecessary commissions, and borrowed money — these "destroy the decent returns that a life-long owner of equities would otherwise enjoy"[^18].
+
+[^18]: [2014 Letter](../sources/buffett-letter-2014.md) — 50-year volatility-≠-risk proof; currency riskier than equities; pedagogic critique; borrowed money condemned; index fund advocacy; Jack Bogle; six investment sins; Shakespeare/Graham quote
+
 [^17]: [2006 Letter](../sources/buffett-letter-2006.md) — 2-and-20 hedge fund math ($108M on $3B); Walter Schloss tribute; EMT academic blindness; pension fund delusions
+
+### Volatility ≠ Risk: The 50-Year Proof and Index Fund Endorsement (2014)
+
+**[2014 Letter]** The most sweeping statement of the volatility-is-not-risk thesis, backed by 50 years of data. S&P 500 rose from 84 to 2,059 (11,196% total return with dividends reinvested) while the dollar's purchasing power declined 87% (now takes $1 to buy what cost 13¢ in 1965).
+
+> "The unconventional, but inescapable, conclusion: it has been far safer to invest in a diversified collection of American businesses than to invest in securities whose values have been tied to American currency." — 2014 Letter
+
+Buffett explicitly inverts the conventional wisdom: **currency-denominated instruments are "far riskier" than diversified equity portfolios** bought over time. "Stock prices will always be far more volatile than cash-equivalent holdings. Over the long term, however, currency-denominated instruments are riskier investments — far riskier investments."
+
+The pedagogic critique sharpened: "Volatility is almost universally used as a proxy for risk" in business schools. "Though this pedagogic assumption makes for easy teaching, it is dead wrong: Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray."
+
+The time-horizon distinction: owning equities "for a day or a week or a year is far riskier" than cash — relevant for investment banks whose viability depends on short-term asset prices. But for investors with multi-decade horizons, "quotational declines are unimportant. Their focus should remain fixed on attaining significant gains in purchasing power."
+
+**"Borrowed money has no place in the investor's tool kit":** Berkshire stock fell ~50% from its high three times since 1965. "Anything can happen anytime in markets" — leveraged investors face forced liquidation at the worst moment.
+
+**Index fund endorsement deepened:** "Huge institutional investors, viewed as a group, have long underperformed the unsophisticated index-fund investor who simply sits tight for decades." Fees are the primary destroyer — consultants recommend high-fee managers in a "fool's game." Buffett recommends **Jack Bogle's _The Little Book of Common Sense Investing_**. "Most advisors are far better at generating high fees than they are at generating high returns."
+
+> "The fault, dear Brutus, is not in our stars, but in ourselves." — Ben Graham, quoted in 2014 Letter
+
+The **six investment sins:** active trading, market timing, inadequate diversification, high fees, unnecessary commissions, and borrowed money — these "destroy the decent returns that a life-long owner of equities would otherwise enjoy"[^18].
+
+[^18]: [2014 Letter](../sources/buffett-letter-2014.md) — 50-year volatility-≠-risk proof; currency riskier than equities; pedagogic critique; borrowed money condemned; index fund advocacy; Jack Bogle; six investment sins; Shakespeare/Graham quote
 
 ### Pension Assumptions and CEO Gaming (2007)
 

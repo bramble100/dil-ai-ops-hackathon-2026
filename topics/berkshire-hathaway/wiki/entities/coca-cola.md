@@ -15,6 +15,7 @@ sources:
     buffett-letter-1996,
     buffett-letter-2004,
     buffett-letter-2005,
+    buffett-letter-2014,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -130,3 +131,11 @@ The Goldman Sachs and GE preferred stocks, by contrast, are being called — pro
 **[2013 Letter]** Coca-Cola: **400,000,000 shares** (9.1% ownership) at **$16,524M market value** on $1,299M cost. Big Four member with combined look-through earnings of **$4.4B**. Dividends received from Coke: **$488M** (vs. $88M in 1995). The patient-ownership compounding thesis continues to play out: Berkshire's yield on original cost is now **~37.5% annually**[^11].
 
 [^11]: [2013 Letter](../sources/buffett-letter-2013.md) — 400M shares; 9.1%; $16.5B value on $1.3B cost; $488M dividends; Big Four
+
+### 2014: 9.2% Ownership and $16.9B Market Value
+
+**[2014 Letter]** Coca-Cola: **400,000,000 shares** (9.2% ownership) at **$16,888M market value** on $1,299M cost. Big Four member with combined look-through earnings of **$4.7B** and total unrealized gains of **$42B**.
+
+Dividends received continue to grow. Berkshire's yield on original cost now exceeds 40%. The patient-ownership thesis deepens further in the Golden Anniversary retrospective: the See's education "opened my eyes" to the value of powerful brands, leading directly to the Coca-Cola investment[^12].
+
+[^12]: [2014 Letter](../sources/buffett-letter-2014.md) — 400M shares; 9.2%; $16.9B value on $1.3B cost; Big Four $4.7B; See's-to-Coke pipeline

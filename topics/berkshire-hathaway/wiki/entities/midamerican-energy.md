@@ -12,6 +12,7 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
     buffett-letter-2013,
+    buffett-letter-2014,
   ]
 source_count: 8
 created: 2026-04-20
@@ -210,3 +211,19 @@ MidAmerican retains **all of its earnings** — "Last year MidAmerican retained 
 Greg Abel leads MidAmerican; "the three [Abel, Rose, Ice] are extraordinary managers"[^14].
 
 [^14]: [2013 Letter](../sources/buffett-letter-2013.md) — NV Energy $5.6B; 88% Nevada; $2.1B operating earnings; 7% US wind; $15B renewables; #1 satisfaction 95.3%; HomeServices 22,114 agents; Greg Abel
+
+## 2014: Renamed Berkshire Hathaway Energy, AltaLink, and $3.1B Operating Earnings
+
+**[2014 Letter]** MidAmerican is **renamed Berkshire Hathaway Energy (BHE)**. Operating earnings before corporate interest and taxes: **$3,138M** (up from $2,102M in 2013). Berkshire's share: **$1,882M** (89.9% owned).
+
+**AltaLink acquired** for **$3B (Canadian)** — an electric transmission system serving 85% of Alberta's population. Broadens BHE's earnings diversity and shields it from dependence on any single regulatory body.
+
+BHE's earnings breakdown: PacifiCorp $1,010M; Nevada utilities $549M; U.K. utilities $527M; gas pipelines $379M; Iowa utility $298M; other $236M; HomeServices $139M.
+
+BHE now accounts for **6% of US wind generation capacity and 7% of solar generation capacity**. When current renewables projects complete, the portfolio will have cost **$15B**. BHE retains **all of its earnings** — "more dollars of earnings — by far — than any other American electric utility." This 100% retention policy is "an important advantage — one almost certain to distinguish BHE from other utilities for many years to come."
+
+BHE serves regulated retail customers in **eleven states** — "No utility company stretches further." It also owns two large gas pipelines (8% of US natural gas consumption), the Canadian transmission operation, and major electric businesses in the U.K. and Philippines.
+
+"A century hence, BNSF and Berkshire Hathaway Energy will still be playing vital roles in our economy." Greg Abel leads the operation[^15].
+
+[^15]: [2014 Letter](../sources/buffett-letter-2014.md) — renamed BHE; AltaLink $3B; $3.1B operating earnings; 89.9% owned; 6% wind/7% solar; $15B renewables; 100% retention; eleven states; Greg Abel
