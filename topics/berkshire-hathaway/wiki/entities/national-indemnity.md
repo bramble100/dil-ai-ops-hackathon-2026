@@ -33,6 +33,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -215,3 +216,15 @@ Total Berkshire float $50.9B; Equitas adds another $7B. Retroactive reinsurance 
 **$250B mega-catastrophe test:** If the insurance industry experienced a $250B loss (triple anything it has ever seen), "Berkshire as a whole would likely record a significant profit for the year" while "all other major insurers and reinsurers would meanwhile be far in the red, with some facing insolvency." This is the ultimate expression of NICO's cultural DNA: financial strength as competitive moat[^16].
 
 [^16]: [2013 Letter](../sources/buffett-letter-2013.md) — BHSI formed (Peter Eastwood); Ajit $37.2B float/$1,294M profit; $250B mega-cat test; commercial insurance entry
+
+### 2015: Ajit's Origin Story, $250B Resilience, and BHSI $1B Premium
+
+**[2015 Letter]** Ajit Jain's origin story retold: "When Ajit entered Berkshire's office on a Saturday in 1986, he did not have a day's experience in the insurance business." Mike Goldberg handed him the reinsurance keys — "with that move, Mike achieved sainthood: Since then, Ajit has created tens of billions of value for Berkshire shareholders."
+
+BH Reinsurance float: **$44,108M**; underwriting profit: **$421M**. Ajit "insures risks that no one else has the desire or the capital to take on. His operation combines capacity, speed, decisiveness and, most important, brains in a manner unique in the insurance business."
+
+**$250B resilience restated:** If the industry suffered a $250B loss (triple the historical record), "Berkshire as a whole would likely record a significant profit for the year because of its many streams of earnings. We would also remain awash in cash and be looking for large opportunities."
+
+**BHSI** (Peter Eastwood) reaches **$1B annual premium** in under three years — "destined to become one of the world's leading P/C insurers." Smaller primaries: **$4B cumulative underwriting profit** over 13 years (~13% of premium), float grown from $943M to $9.9B[^17].
+
+[^17]: [2015 Letter](../sources/buffett-letter-2015.md) — Ajit 1986 Saturday origin; BH Reinsurance $44.1B float/$421M profit; $250B mega-cat; BHSI $1B premium; smaller primaries $4B/13 years

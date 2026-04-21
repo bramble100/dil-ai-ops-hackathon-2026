@@ -27,6 +27,7 @@ sources:
     buffett-letter-2007,
     buffett-letter-2008,
     buffett-letter-2013,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -280,3 +281,11 @@ Both investments share a critical feature: **productivity focus trumps price foc
 > "It's vital, however, that we recognize the perimeter of our 'circle of competence' and stay well inside of it." — 2013 Letter[^14]
 
 [^14]: [2013 Letter](../sources/buffett-letter-2013.md) — farm/NYU parables as four-filter application; productivity over price; circle of competence restated; macro irrelevance
+
+### PCC as Filter Exemplar and Important Risks (2015)
+
+**[2015 Letter]** Precision Castparts validates the four filters: (1) understandable — aerospace components under multi-year contracts; (2) durable competitive advantage — premier supplier, Mark Donegan "the da Vinci of his craft"; (3) management — Donegan builds through acquisitions, will continue deploying Berkshire's capital; (4) sensible price — $32B all-cash, "fits perfectly into the Berkshire model."
+
+The **Important Risks** section applies filter thinking to Berkshire's own vulnerabilities: BNSF will lose coal volume; driverless cars may shrink GEICO; print circulation declining; online retail threatens consumer brands. None is "crucial to Berkshire's long-term well-being" because the conglomerate form provides adaptation capacity. "When we took over the company in 1965, its risks could have been encapsulated in a single sentence... That development, however, was no death knell. We simply adapted"[^15].
+
+[^15]: [2015 Letter](../sources/buffett-letter-2015.md) — PCC as filter exemplar; Important Risks section (coal/driverless/print/online); adaptation capacity; cyber/bio/nuclear as sole existential risk

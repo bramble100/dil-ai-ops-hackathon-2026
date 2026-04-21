@@ -37,7 +37,7 @@ sources:
     buffett-letter-2012,
     buffett-letter-2013,
     buffett-letter-2014,
-    buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -563,32 +563,26 @@ Smaller insurance companies: $2.95B cumulative underwriting profit over the past
 
 [^22]: [2013 Letter](../sources/buffett-letter-2013.md) — float $77.2B; eleven years; $22B cumulative; $3B in 2013; BHSI Peter Eastwood; Ajit $37B; General Re "gem"; four commandments; GEICO #2 passed Allstate; $20B economic goodwill; $250B mega-cat test
 
-### Twelve Consecutive Years, $83.9B Float, and the National Indemnity Fortress (2014)
+### Thirteen Consecutive Years, $87.7B Float, and Float-as-Revolving-Fund (2015)
 
-**[2014 Letter]** Float reaches **$83,921M** — **twelve consecutive years** of underwriting profit, totaling **$24B cumulative** (including $2.7B in 2014). All four segments profitable:
+**[2015 Letter]** Float reaches **$87,722M** — **thirteen consecutive years** of underwriting profit, totaling **$26.2B cumulative** (including $1.8B in 2015). All four segments profitable:
 
 | Entity         | Underwriting Profit | Float        |
 | -------------- | ------------------- | ------------ |
-| BH Reinsurance | $606M               | $42,454M     |
-| General Re     | $277M               | $19,280M     |
-| GEICO          | $1,159M             | $13,569M     |
-| Other Primary  | $626M               | $8,618M      |
-| **Total**      | **$2,668M**         | **$83,921M** |
+| BH Reinsurance | $421M               | $44,108M     |
+| General Re     | $132M               | $18,560M     |
+| GEICO          | $460M               | $15,148M     |
+| Other Primary  | $824M               | $9,906M      |
+| **Total**      | **$1,837M**         | **$87,722M** |
 
-**National Indemnity fortress:** GAAP net worth reaches **$111B** — the largest of any insurer in the world, from a $8.6M purchase in 1967. The 1½-page purchase agreement was "homemade: Neither side used a lawyer." Buffett writes a **$3B single-premium** reinsurance policy — believed to be the second-largest ever (after the 2007 Lloyd's $7.1B). He knows of only **eight P/C policies in history exceeding $1B premium** — all eight written by Berkshire.
+**Float as revolving fund:** "If our revolving float is both costless and long-enduring, which I believe it will be, the true value of this liability is dramatically less than the accounting liability." Daily, $24.5B paid to 6M+ claimants; new business replaces it. "Owing $1 that in effect will never leave the premises — because new business is almost certain to deliver a substitute — is worlds different from owing $1 that will go out the door tomorrow."
 
-Float characterized as a **revolving fund**, not a pure liability: "owing $1 that in effect will never leave the premises — because new business is almost certain to deliver a substitute — is worlds different from owing $1 that will go out the door tomorrow." Low interest rates exacerbate industry-wide profitability problems — but Berkshire's twelve-year streak proves that discipline transcends the rate environment.
+**Float growth plateau acknowledged:** Further gains "will be tough to achieve." GEICO and specialized operations will grow; NICO reinsurance has run-off contracts drifting downward. Any decline gradual — "at the outside no more than 3% in any year." The structural design prevents sudden demands: "This structure is by design and is a key component in the strength of Berkshire's economic fortress. It will never be compromised."
 
-**BHSI expanded:** Peter Eastwood expanded into international business and new insurance lines during 2014. "Predicted to be a major asset for Berkshire, one that will generate volume in the billions within a few years."
+**Industry outlook:** Low interest rates "virtually guarantee" declining float earnings for most insurers. Industry results over the next decade will "fall short of those recorded in the past decade, particularly for those companies that specialize in reinsurance." But Berkshire's discipline transcends the environment — "Disciplined risk evaluation is the daily focus of all of our insurance managers... At Berkshire it is a religion, Old Testament style."
 
-**General Re:** Tad Montross. Four insurance commandments restated verbatim. "Many insurers pass the first three tests and flunk the fourth" — the willingness to walk away. General Re's international life reinsurance business has "grown consistently and profitably since we acquired the company in 1998." General Re is "now a gem."
+**$250B mega-cat resilience restated:** If the industry suffered a $250B loss (triple anything in history), "Berkshire as a whole would likely record a significant profit for the year because of its many streams of earnings. We would also remain awash in cash and be looking for large opportunities to write business in an insurance market that might well be in disarray."
 
-**GEICO:** Tony Nicely completed 53 years of service. Market share **10.8%** (from 2.5% in 1995). The low-cost moat is "enduring" — "competitors are unable to cross." The gecko "works without pay" and "never gets a swelled head."
+**Smaller primaries:** 13-year cumulative underwriting profit of **$4B** (~13% of premium volume); float grown from $943M to $9.9B. BHSI (Peter Eastwood) reaches **$1B annual premium** in under three years — "destined to become one of the world's leading P/C insurers"[^24].
 
-**$250B mega-cat test restated:** If the industry suffered a loss triple anything in history, "Berkshire as a whole would likely record a significant profit for the year." Meanwhile, other major insurers "would be far in the red, if not facing insolvency."
-
-Smaller insurance companies: $2.95B cumulative underwriting profit over the past decade, float grown from $1.7B to $8.6B. "Charlie and I treasure these companies and their managers."
-
-**Promise quality as moat:** "Berkshire's promises have no equal" — demonstrated by the world's largest insurers ceding long-lived liabilities (especially asbestos) to Berkshire because a reinsurer failure leaves the original insurer exposed. "When major insurers have needed an unquestionable promise that payments of this type will be made, Berkshire has been the party — the only party — to call"[^23].
-
-[^23]: [2014 Letter](../sources/buffett-letter-2014.md) — float $83.9B; twelve years; $24B cumulative; $2.7B in 2014; NICO $111B net worth; $3B single premium; eight $1B+ policies; BHSI international; General Re gem; four commandments; GEICO 10.8%/53 years; $250B mega-cat; promise quality as moat
+[^24]: [2015 Letter](../sources/buffett-letter-2015.md) — float $87.7B; thirteen years; $26.2B cumulative; $1.8B in 2015; revolving fund; float plateau acknowledged; low-rate outlook; $250B mega-cat; BHSI $1B premium; smaller primaries $4B/13 years; Old Testament religion

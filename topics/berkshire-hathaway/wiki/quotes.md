@@ -448,6 +448,64 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 >
 > Context: 80% of Berkshire's amortization charges are "phantom" — customer relationships and trade names that don't actually decline. EBITDA obscures the distinction between real and non-real charges. → [Owner Earnings](principles/owner-earnings.md)
 
+### Mistakes & Self-Deprecation
+
+> "In the world of business, bad news often surfaces serially: You see a cockroach in your kitchen; as the days go by, you meet his relatives." — 2014 Letter
+>
+> Context: On the $444M after-tax Tesco loss — Buffett saw warning signs in management and dawdled. One bad signal means more are coming. Munger's verdict: "thumb-sucking." → [Four Filters](principles/four-filters.md)
+
+## 2015 Letter
+
+### Capital Allocation & Acquisitions
+
+> "It would be insane for us to pass up that opportunity just because the purchase would increase our reported amortization charges and reduce our reported earnings." — 2015 Letter
+>
+> Context: On the PCC acquisition — Munger's maxim against letting accounting distort capital allocation decisions. → [Capital Allocation](principles/capital-allocation.md)
+
+> "If compensation isn't an expense, what is it? And, if real and recurring expenses don't belong in the calculation of earnings, where in the world do they belong?" — 2015 Letter
+>
+> Context: On stock-based compensation — a sharper escalation of the EBITDA critique. → [Owner Earnings](principles/owner-earnings.md)
+
+### Owner Earnings & Accounting
+
+> "When CEOs or investment bankers tout pre-depreciation figures such as EBITDA as a valuation guide, watch their noses lengthen while they speak." — 2015 Letter
+>
+> Context: The "noses" variant of the EBITDA critique — railroad depreciation falls far short of capital outlays needed to keep the business running. → [Owner Earnings](principles/owner-earnings.md)
+
+### Insurance & Risk
+
+> "Disciplined risk evaluation is the daily focus of all of our insurance managers, who know that while float is valuable, its benefits can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old Testament style." — 2015 Letter
+>
+> Context: Thirteen consecutive years of underwriting profit; $87.7B float. The religious metaphor elevates underwriting discipline above mere business practice. → [Underwriting Discipline](principles/underwriting-discipline.md)
+
+### Climate & Existential Risk
+
+> "If there is only a 1% chance the planet is heading toward a truly major disaster and delay means passing a point of no return, inaction now is foolhardy. Call this Noah's Law: If an ark may be essential for survival, begin building it today, no matter how cloudless the skies appear." — 2015 Letter
+>
+> Context: On climate change — Pascal's Wager applied to planetary risk. Insurance repricing protects the business; the planet is a different question. → [Mr. Market](principles/mr-market.md)
+
+### America & Optimism
+
+> "The babies being born in America today are the luckiest crop in history." — 2015 Letter
+>
+> Context: GDP per capita $56,000 (6x 1930 in real terms); 2% real growth = 34.4% gain per generation. → [Mr. Market](principles/mr-market.md)
+
+> "For 240 years it's been a terrible mistake to bet against America, and now is no time to start." — 2015 Letter
+>
+> Context: The optimism coda — countering doom narratives with the compounding arithmetic of American productivity. → [Mr. Market](principles/mr-market.md)
+
+### Productivity & Human Cost
+
+> "The productivity gains that I've just spelled out — Pro: higher output per person; Con: fewer jobs for many workers — have been the constant companion of our nation since its early days." — 2015 Letter
+>
+> Context: The productivity essay — farms (11M→3M workers, 5x output), railroads (1.35M→187K, 3x ton-miles), and the human cost of creative destruction. → [Business Quality](principles/business-quality.md)
+
+### Management & Character
+
+> "When Ajit entered Berkshire's office on a Saturday in 1986, he did not have a day's experience in the insurance business." — 2015 Letter
+>
+> Context: Ajit Jain's origin story — from zero insurance experience to creating "tens of billions of value." Mike Goldberg's sainthood for the handoff. → [National Indemnity](entities/national-indemnity.md)
+
 ### Management & Character
 
 > "Our goal is to work with managers who like their business, think like owners, and relish operating without a bureaucratic overlay or a second-guessing headquarters." — 1990 Letter

@@ -2,7 +2,7 @@
 title: "Burlington Northern Santa Fe (BNSF)"
 type: entity
 entity_kind: organization
-sources: [buffett-letter-2013, buffett-letter-2014]
+sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015]
 created: 2026-04-21
 updated: 2026-04-21
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
@@ -97,3 +97,17 @@ BNSF carries **~15% of all inter-city freight** by ton-miles — "the most impor
 "Those building blocks rest on a rock-solid foundation. A century hence, BNSF and Berkshire Hathaway Energy will still be playing vital roles in our economy"[^6].
 
 [^6]: [2014 Letter](../sources/buffett-letter-2014.md) — $23.2B revenue; $3.9B net; service failures; $6B capex (record railroad spend); 8:1 coverage; lost market share to UP; 15% US freight
+
+## 2015: Record $6.8B Pre-Tax, $5.8B Capex, and Productivity Essay
+
+**[2015 Letter]** BNSF delivers a **record $6.8B pre-tax** (+$606M from 2014) despite a disappointing year for US railroads overall (aggregate ton-miles fell, earnings weakened). BNSF maintained volume. Revenue: **$21,967M**; net earnings: **$4,248M**; operating expenses: **$14,264M**.
+
+Record **$5.8B capital expenditures** — "far and away the record for any American railroad and nearly three times our annual depreciation charge." The investment delivered dramatically improved service after 2014's failures. BNSF moves **~17% of America's intercity freight** (by revenue ton-miles), 45% more than the closest competitor. Matt Rose and Carl Ice manage the operation.
+
+The **productivity essay** uses BNSF as a centerpiece: in 1947, 1.35M railroad workers moved 655B ton-miles; by 2014, 187K workers moved 1.85T ton-miles (+182%). Inflation-adjusted freight cost fell 55%. BNSF specifically: 1996 (first full year after Burlington Northern/Santa Fe merger): 411M ton-miles, 45K employees → 2015: 702M ton-miles (+71%), 47K employees (+4%). Safety improved 50%+ (reportable injuries from 2.04 to 0.95 per 200K man-hours).
+
+**Risks acknowledged:** BNSF "is certain to lose significant coal volume over the next decade." Railroad depreciation "falls far short of the capital outlays needed to merely keep the railroad running properly" — GAAP overstates true earnings.
+
+Interest coverage: **>8:1** (pre-tax earnings/interest, not EBITDA/interest). BHE and BNSF combined: **$11.6B** in plant and equipment, accounting for **37% of Berkshire's after-tax operating earnings**[^7].
+
+[^7]: [2015 Letter](../sources/buffett-letter-2015.md) — record $6.8B pre-tax; $5.8B capex; 17% US freight; productivity essay (1.35M→187K workers); BNSF +71% ton-miles/+4% employees; coal risk; 8:1 coverage

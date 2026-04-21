@@ -32,7 +32,7 @@ sources:
     buffett-letter-2012,
     buffett-letter-2013,
     buffett-letter-2014,
-    buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -449,3 +449,20 @@ The construction downturn illustrates moat resilience under stress: Shaw + Johns
 **MidAmerican:** 7% of US wind generation capacity; renewables portfolio to cost $15B; NV Energy acquisition ($5.6B) adds 88% of Nevada. **#1 customer satisfaction** (95.3%) in a 52-company survey — "not a single customer rating us 'dissatisfied.'"[^19]
 
 [^19]: [2013 Letter](../sources/buffett-letter-2013.md) — Powerhouse Five $10.8B; MSR 16.7% ROE on $25B; NFM Dallas 1.8M sqft; Mrs. B $72,264; Clayton $416M; BNSF 15% freight/$4B capex; MidAmerican 7% wind/#1 satisfaction
+
+### Powerhouse Five $13.1B, MSR 18.4%, and Productivity Essay (2015)
+
+**[2015 Letter]** The **Powerhouse Five** earn **$13.1B** (up $650M from 2014). Twelve years earlier, only BHE was owned (earning $393M). The $12.7B gain in annual earnings has been "accompanied by only minor dilution" (6.1% BNSF stock issuance). PCC will make it the **Powerhouse Six** in 2016.
+
+**MSR segment economics:** $107.8B revenue on $25.6B net tangible assets — **18.4% after-tax ROE** with large excess cash and token leverage. Returns range from 25%+ after-tax to "far more than 100%" for the best. Buffett acknowledges "serious mistakes" in some capital allocation decisions with "very poor returns." "Viewed as a single entity, the companies in this group are an excellent business."
+
+**Productivity and Prosperity essay:** The longest social commentary in the letters — three Berkshire subsidiaries as case studies for American economic dynamism:
+
+- **Farming:** 11M→3M workers (1900→2015); corn yields 30→150+ bushels/acre; 40%→2% of workforce
+- **Railroads:** 1.35M→187K workers (1947→2014); ton-miles +182%; inflation-adjusted freight cost −55%; BNSF ton-miles +71%/employees +4% (1996→2015); safety improved 50%+
+- **Auto insurance:** Agency model 40¢ expense ratio → State Farm/Allstate 25¢ → GEICO 14.7¢; low-cost operators gain share decade after decade
+- **Electric utilities:** BHE Iowa utility: 3,700→3,500 employees producing 19→29M MWH; 16 years without a rate increase (44% industry increase over same period); PacifiCorp: 6,750→5,700 employees, 52.6→56.3M MWH; safety rate from 3.4 to 0.85
+
+The human cost acknowledged: Dexter workers in Maine, New Bedford textile workers who "spoke Portuguese and knew little, if any, English" — "They had no Plan B." Buffett favors "a reformed and expanded Earned Income Tax Credit" over restraining productivity gains[^20].
+
+[^20]: [2015 Letter](../sources/buffett-letter-2015.md) — Powerhouse Five $13.1B; PCC Powerhouse Six; MSR 18.4% on $25.6B; productivity essay (farming/railroads/insurance/utilities); Dexter/textile human cost; EITC; $107.8B revenue

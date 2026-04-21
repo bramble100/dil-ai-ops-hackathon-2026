@@ -14,6 +14,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 ---
 
@@ -135,3 +136,17 @@ Kevin Clayton continues as CEO. The Berkshire financing advantage remains decisi
 A noteworthy detail: Clayton's blue-collar borrowers — often unable to qualify for conventional Fannie Mae/Freddie Mac mortgages — "earned their homes through payments that were well within their means." Their delinquency rates have been consistently favorable. This validates Clayton's underwriting approach against the skeptics who question manufactured-housing lending[^10].
 
 [^10]: [2014 Letter](../sources/buffett-letter-2014.md) — 30,871 homes; 45% US manufactured; $13B mortgage portfolio; blue-collar borrower performance; Kevin Clayton
+
+## 2015: 100% Risk Retention, Regulatory Scrutiny, and $12.8B Portfolio
+
+**[2015 Letter]** Clayton sells **34,397 homes** (~45% of US manufactured homes). Now **#2 US homebuilder** (after D.R. Horton in site-built). Mortgage portfolio: **$12.8B**; originates ~35% of all manufactured-home mortgages. Average loan: **$59,942**; average monthly payment: **$522**.
+
+**100% risk retention:** "When we originate a mortgage we keep it." This distinguishes Clayton from the originate-and-sell model that caused the 2008 crisis. Foreclosures in 2015: **8,444 loans** at **$157M cost**. Despite low FICO scores, borrower payment behavior "during the Great Recession was far better than that prevailing in many mortgage pools populated by people earning multiples of our typical borrower's income."
+
+**Regulatory scrutiny:** Examined by FTC, HUD, CFPB, and 25 state regulators. Over two years: **65 examinations**; total fines: **$38,200**; customer refunds: **$704,678**. 95.4% of borrowers current at yearend. Foreclosure rate: 2.64%.
+
+**Interest rate positioning:** Clayton borrows short/lends long at fixed rates — normally risky, but Berkshire's $20-60B in short-term investments provides a natural offset. "Berkshire is — and always will be — heavily asset-sensitive and will consequently benefit from rising interest rates."
+
+Kevin Clayton continues as CEO. Pre-tax earnings: **$706M** (up from $558M)[^11].
+
+[^11]: [2015 Letter](../sources/buffett-letter-2015.md) — 34,397 homes; 45% US; $12.8B portfolio; 100% risk retention; $59,942 avg loan; 8,444 foreclosures/$157M; 65 exams/$38,200 fines; $706M pre-tax; Kevin Clayton

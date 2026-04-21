@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-22] ingest-batch | Batch 20: 2015 Letter
+
+- Source: raw/articles/buffett-letter-2015.md
+- Created: sources/buffett-letter-2015, entities/precision-castparts
+- Updated: principles/owner-earnings, principles/capital-allocation, principles/underwriting-discipline, principles/business-quality, principles/four-filters, principles/mr-market, entities/geico, entities/bnsf, entities/midamerican-energy, entities/national-indemnity, entities/general-re, entities/clayton-homes, entities/marmon-group, entities/wells-fargo, entities/american-express, entities/ibm, entities/coca-cola, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
+- Key themes: PCC $32.1B (largest acquisition ever, Todd Combs identified); Kraft Heinz 3G partnership; productivity essay (farming/railroads/insurance, EITC advocacy); Powerhouse Five→Six $13.1B; float $87.7B (13 years/$26.2B cumulative); Pillar 2 includes underwriting for first time; GEICO 11.4% + founding history + driverless risk; BHE 7% wind/6% solar/Paris commitments; BNSF record $6.8B; Noah's Law (Pascal's Wager on climate); six-point successor blueprint; EBITDA noses; Clayton 100% risk retention; Marmon 133K railcars (GE purchase)
+- Fixed: de-duplicated sections in owner-earnings, capital-allocation, underwriting-discipline (2014 content was duplicated from batch 19); fixed mr-market source array duplicate; added missing 2014 entry to book-value-per-share
+
 ## [2026-04-22] ingest-batch | Batch 19: 2014 Letter (Golden Anniversary)
 
 - Source: raw/articles/buffett-letter-2014.md

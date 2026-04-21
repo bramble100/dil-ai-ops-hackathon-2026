@@ -5,7 +5,7 @@ entity_kind: product
 created: 2026-04-21
 updated: 2026-04-21
 tags: [equity-investment, big-four, mega-cap-era]
-sources: [buffett-letter-2013, buffett-letter-2014]
+sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015]
 ---
 
 ## Overview
@@ -64,3 +64,11 @@ The share repurchase math from the 2011 essay continues to compound: IBM's ongoi
 Combined Big Four look-through earnings: **$4.7B**; unrealized gains across all four: **$42B**. The IBM stake's rising ownership percentage demonstrates the share-repurchase math from Buffett's 2011 essay — though the stock price decline has now pushed the position to an unrealized loss, the counterintuitive logic says Berkshire should welcome the lower prices as more shares are retired per buyback dollar[^4].
 
 [^4]: [2014 Letter](../sources/buffett-letter-2014.md) — 77M shares; 7.8%; $12.3B value on $13.2B cost; below cost; Big Four $4.7B; buyback math continues
+
+### 2015: 8.4% Ownership and Further Below-Cost
+
+**[2015 Letter]** Berkshire holds **81,033,450 shares** (8.4% ownership, up from 7.8%) at **$11,152M market value** on $13,791M cost — **$2.6B below cost**, the deepest unrealized loss among the Big Four. Despite this, Buffett continues to hold, consistent with the counterintuitive buyback thesis: lower prices accelerate ownership accumulation via IBM's repurchases.
+
+IBM remains a Big Four member with combined look-through earnings of **$4.7B**. The stock's underperformance vs. cost has not triggered any disposition — the long-term thesis on share retirement math remains intact[^5].
+
+[^5]: [2015 Letter](../sources/buffett-letter-2015.md) — 81M shares; 8.4%; $11.2B value on $13.8B cost; $2.6B below cost; buyback thesis intact

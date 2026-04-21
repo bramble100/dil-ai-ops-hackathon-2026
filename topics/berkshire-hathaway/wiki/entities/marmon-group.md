@@ -8,6 +8,7 @@ sources:
     buffett-letter-2008,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -84,3 +85,13 @@ The rail leasing detail: Marmon's UTLX subsidiary operates **105,000 tank cars**
 **Duracell to be assigned to Marmon:** Berkshire contracts to acquire Duracell from Procter & Gamble via a tax-efficient exchange of P&G stock (worth ~$4.7B at signing). Duracell will be placed under Marmon's industrial umbrella[^7].
 
 [^7]: [2014 Letter](../sources/buffett-letter-2014.md) — Powerhouse Five $12.4B; UTLX 105,000 tank cars; 8% crude; 30-year life; >$5B fleet; Duracell assigned to Marmon
+
+## 2015: 133,220 Railcars and GE Fleet Purchase
+
+**[2015 Letter]** Marmon's rail fleet expands to **133,220 units** after purchasing **25,085 cars from General Electric** (September 30). "If our fleet was connected to form a single train, the engine would be in Omaha and the caboose in Portland, Maine." At yearend, **97% of railcars leased**, with 15-17% of the fleet coming up for renewal each year.
+
+Chemicals and refined petroleum products are the lead transported items — only ~7% carries crude oil. Marmon Railcars earns **$546M** pre-tax; Containers and Cranes **$192M**.
+
+Marmon remains a **Powerhouse Five** member (Powerhouse Six with PCC in 2016), contributing to the group's **$13.1B** aggregate earnings[^8].
+
+[^8]: [2015 Letter](../sources/buffett-letter-2015.md) — 133,220 railcars; 25,085 from GE; 97% leased; $546M railcars/$192M containers; chemicals/refined petroleum lead; Powerhouse Five

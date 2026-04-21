@@ -34,7 +34,7 @@ sources:
     buffett-letter-2012,
     buffett-letter-2013,
     buffett-letter-2014,
-    buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -414,29 +414,27 @@ Since 1970: investments 19% CAGR, earnings 20.6% CAGR. "It is no coincidence tha
 
 [^21]: [2013 Letter](../sources/buffett-letter-2013.md) — two-pillar update ($129,253/$9,116); Big Four $4.4B/$1.4B dividends/$39B unrealized; non-real amortization $648M (20% real); EBITDA "button your wallet"; float-as-intrinsic-value
 
-### Book Value Gap, Market Price Column, and Big Four $4.7B (2014)
+### Pillar 2 Expanded, Big Four $4.7B, and EBITDA Noses (2015)
 
-**[2014 Letter]** Buffett makes the most explicit case yet that book value materially understates intrinsic value. The cause: Berkshire's emphasis has shifted from securities (marked to market) to operating businesses (carried at cost, never revalued upward). "The gap between Berkshire's intrinsic value and its book value has materially widened." He adds a **market price column** to the performance table for the first time in 50 years — "stock prices and intrinsic value almost invariably converge" over time, and the 50-year market price CAGR (21.6%) is "roughly equal" to the intrinsic value increase.
+**[2015 Letter]** A significant structural change: **insurance underwriting income is now included in Pillar 2** (business earnings) for the first time. Previously excluded due to catastrophe volatility, Buffett judges the earnings stream now stable enough to include — deemphasized catastrophe coverages, expanded bread-and-butter lines. Underwriting contributed **$1,118/share** of the $12,304/share total; 10-year average: $1,434/share.
 
 **Two quantitative factors updated:**
 
-| Metric                            | Per-Share | YoY Change |
-| --------------------------------- | --------- | ---------- |
-| Investments                       | $140,123  | +8.4%      |
-| Non-insurance/investment earnings | $10,847   | +19%       |
+| Metric                                 | Per-Share | YoY Change |
+| -------------------------------------- | --------- | ---------- |
+| Cash and investments                   | $159,794  | +8.3%      |
+| Business earnings (incl. underwriting) | $12,304   | +2.1%      |
 
-Since 1970: investments 19% CAGR, earnings 20.6% CAGR. "It is no coincidence that the price of Berkshire stock over the ensuing 44 years has increased at a rate very similar." Emphasis shifting to building operating earnings — hence the Phillips 66 and Graham Holdings stock-for-operating-business exchanges, plus the contracted Duracell exchange.
+Since 1970: investments 18.9% CAGR, earnings 23.7% CAGR. "It is no coincidence that the price of Berkshire stock over the ensuing 45 years has increased at a rate very similar to that of our two measures of value."
 
-**Non-real amortization deepened:** $1.15B total amortization charges, only ~20% "real" (software, depleting patents). The remaining ~80% (customer relationships, trade names) "arise through purchase-accounting rules and clearly do not reflect reality." As Berkshire acquires more companies, non-real charges will continue to rise. "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test."
+**Book value vs. intrinsic value gap:** The asymmetric accounting treatment (losers written down, winners never revalued) "necessarily widens the gap between intrinsic value and book value." Repurchase threshold: **120% of book value** — purchases at that level would "instantly and meaningfully increase per-share intrinsic value."
 
-**Big Four updated:** AmEx 14.8%, Coca-Cola 9.2%, IBM 7.8%, Wells Fargo 9.4% — combined **$4.7B** look-through earnings (vs. $3.3B three years prior). Dividends received: $1.6B. Unrealized gains: **$42B**. Each 0.1% ownership increase = $50M additional earnings.
+**Non-real amortization continued:** $1.1B total charges; ~20% real (software, depleting assets); ~80% non-real (customer relationships, trade names). Stock-based compensation rant: "The very name says it all: 'compensation.' If compensation isn't an expense, what is it?" Cooperative analysts "are guilty of propagating misleading numbers that can deceive investors."
 
-> "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — 2014 Letter
+**EBITDA critique escalated:** Railroad depreciation falls "far short of the capital outlays needed to merely keep the railroad running properly" — GAAP earnings overstate true economics.
 
-**Bank of America warrants:** 700M shares exercisable at $5B before September 2021; worth **$12.5B** at yearend. "In effect, our fourth largest equity investment."
+> "When CEOs or investment bankers tout pre-depreciation figures such as EBITDA as a valuation guide, watch their noses lengthen while they speak." — 2015 Letter
 
-**Tesco loss — the cockroach lesson:** $444M after-tax loss from dawdling on a position where management had soured. "In the world of business, bad news often surfaces serially: You see a cockroach in your kitchen; as the days go by, you meet his relatives." Munger's judgment: "thumb-sucking" — the 1991 Fannie Mae error replayed.
+**Big Four:** AmEx 15.6%, Coke 9.3%, IBM 8.4%, Wells Fargo 9.8% — combined **$4.7B** look-through; $1.8B dividends. "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." BofA warrants: 700M shares at $5B, worth **$11.8B** — "in effect, our fourth largest equity investment." Likely to exercise just before September 2021 expiration[^23].
 
-**Float-as-intrinsic-value restated:** $83.9B float fully deducted as liability; $15.5B goodwill asset as partial offset. But float is a "revolving fund" — "owing $1 that in effect will never leave the premises is worlds different from owing $1 that will go out the door tomorrow." The true value of the float liability is "dramatically less" than accounting suggests; the true value of insurance goodwill is "far in excess" of its carrying value[^22].
-
-[^22]: [2014 Letter](../sources/buffett-letter-2014.md) — book value gap widened; market price column added; investments $140,123/earnings $10,847; non-real amortization $1.15B (80% phantom); EBITDA polygraph; Big Four $4.7B/$42B unrealized; BofA $12.5B; Tesco $444M cockroach; float-as-intrinsic-value restated
+[^23]: [2015 Letter](../sources/buffett-letter-2015.md) — Pillar 2 now includes underwriting ($1,118/share); investments $159,794/earnings $12,304; non-real amortization $1.1B (80% non-real); EBITDA noses; stock-comp critique; Big Four $4.7B; BofA $11.8B; 120% repurchase threshold; 18.9%/23.7% since 1970

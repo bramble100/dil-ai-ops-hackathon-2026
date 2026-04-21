@@ -11,6 +11,7 @@ sources:
     buffett-letter-1994,
     buffett-letter-2005,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -100,3 +101,11 @@ Combined Big Four look-through earnings: **$4.7B** (vs. $4.4B in 2013). Total un
 "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." The Big Four represent Berkshire's version of wonderful businesses held forever[^8].
 
 [^8]: [2014 Letter](../sources/buffett-letter-2014.md) — 483M shares; 9.4%; $26.5B value; Big Four $4.7B look-through; $42B unrealized; Hope Diamond
+
+### 2015: 9.8% Ownership and $27.2B Market Value
+
+**[2015 Letter]** Berkshire holds **500,000,000 shares** (9.8% ownership) at **$27,180M market value** on $12,730M cost. Wells Fargo remains the **largest of the Big Four** by market value.
+
+Combined Big Four look-through earnings: **$4.7B**; dividends received: $1.8B. "It's better to have a partial interest in the Hope Diamond than to own all of a rhinestone." Bank of America warrants (700M shares at $5B, worth **$11.8B**) make BofA "in effect, our fourth largest equity investment" alongside the formal Big Four[^9].
+
+[^9]: [2015 Letter](../sources/buffett-letter-2015.md) — 500M shares; 9.8%; $27.2B value on $12.7B cost; Big Four $4.7B; BofA $11.8B

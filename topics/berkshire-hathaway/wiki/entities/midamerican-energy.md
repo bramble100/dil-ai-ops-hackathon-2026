@@ -13,6 +13,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 source_count: 8
 created: 2026-04-20
@@ -227,3 +228,17 @@ BHE serves regulated retail customers in **eleven states** — "No utility compa
 "A century hence, BNSF and Berkshire Hathaway Energy will still be playing vital roles in our economy." Greg Abel leads the operation[^15].
 
 [^15]: [2014 Letter](../sources/buffett-letter-2014.md) — renamed BHE; AltaLink $3B; $3.1B operating earnings; 89.9% owned; 6% wind/7% solar; $15B renewables; 100% retention; eleven states; Greg Abel
+
+## 2015: Renewables Leadership, Iowa Economics, and Paris Commitments
+
+**[2015 Letter]** Operating earnings before corporate interest and taxes: **$3,350M** (up from $3,138M). Berkshire's share: **$2,132M** (89.9% owned). BHE earnings breakdown: PacifiCorp $1,026M; Nevada $586M; U.K. $460M; gas pipelines $401M; Iowa $314M; Canadian transmission $170M; renewables $175M; HomeServices $191M.
+
+BHE now owns **7% of US wind generation and 6% of solar generation**. The **4,423 MW of wind** owned and operated by regulated utilities is **6x the runner-up**. Iowa specifically: wind MWH equaled **47% of all MWH sold to retail customers** (committed projects will reach 58% by 2017). Major commitments made in support of **Paris Climate Change Conference**.
+
+**Iowa economics:** Average retail rate **6.8¢/KWH** vs. Alliant (Iowa's other major utility) at 9.5¢, and national average 10.4¢. **16 years without a rate increase** while industry rates rose 44%. Workforce: 3,700→3,500 employees; output: 19→29M MWH. Safety: 0.79 injuries per 100 employees (vs. 7.0 under prior owner).
+
+**PacifiCorp:** 6,750→5,700 employees; 52.6→56.3M MWH; accident rate from 3.4 to 0.85 per 100 employees. BHE ranks in the **industry's top decile** for safety.
+
+BHE's efficiency and safety records make it "welcomed by regulators when it proposes to buy a utility in their jurisdiction." Low prices + unlimited capital + no dividends paid to Berkshire = decisive regulatory advantage[^16].
+
+[^16]: [2015 Letter](../sources/buffett-letter-2015.md) — $3.35B operating earnings; 7% wind/6% solar; Iowa 47% wind/6.8¢ KWH; 16 years no rate increase; Paris commitments; PacifiCorp productivity; safety top decile

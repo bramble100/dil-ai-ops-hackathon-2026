@@ -36,6 +36,7 @@ sources:
     buffett-letter-2006,
     buffett-letter-2013,
     buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-20
@@ -313,6 +314,20 @@ Buffett recalls first being introduced to GEICO in January 1951 — "63 years ag
 
 [^23]: [2013 Letter](../sources/buffett-letter-2013.md) — #2 US (passed Allstate); Tony Nicely 52 years; $1,127M profit; $12.6B float; $20B economic goodwill; cost advantage moat; Graham connection
 
-[^15]: [2003 Letter](../sources/buffett-letter-2003.md) — 5.0% market share; $8.1B premiums; preferred +8.2%; standard/non-standard +21.4%; Buffalo expansion; Tony Nicely 11-year transformation
+### 2014: 10.8% Market Share
 
-[^16]: [2004 Letter](../sources/buffett-letter-2004.md) — GEICO 69-year history; ~6% market share 2005; New Jersey re-entry 140K policyholders; $970M underwriting profit; float $5,960M; Lou Simpson 25-year 20.3% CAGR; profit-sharing $191M (24.3%)
+**[2014 Letter]** Tony Nicely completes **53 years of service**. Market share reaches **10.8%** (from 2.5% at 1995 acquisition). The low-cost moat remains "enduring" — "competitors are unable to cross"[^24].
+
+### 2015: 11.4% Market Share, Founding History, and Driverless Car Risk
+
+**[2015 Letter]** GEICO reaches **11.4% market share** with **$22.6B premium volume**; **14M policyholders**; **34,000 employees**. Tony Nicely completes **54 years of service**. Expense ratio: **14.7%** of premiums — only USAA lower among large companies. Underwriting profit: **$460M**; float: **$15,148M**.
+
+Buffett provides the most detailed **founding history** in any letter: Leo and Lillian Goodwin, USAA employees, saw that the direct-distribution model could serve beyond military officers. Incorporated **Government Employees Insurance Co.** in 1936 with $100,000 capital. First full year (1937): $238K premium. "Though the early bird gets the worm, the second mouse gets the cheese." The cost advantage lineage: agency model (40¢ expense) → State Farm/Allstate captive force (25¢) → USAA/GEICO direct (14.7¢).
+
+Buffett's target: "On August 30, 2030 — my 100th birthday — I plan to announce that GEICO has taken over the top spot" from State Farm.
+
+**Driverless car risk:** Acknowledged as a long-term threat — "at some point in the future — though not, in my view, for a long time — GEICO's premium volume may shrink because of driverless cars." This is the first time Buffett flags a structural technology risk to GEICO's business model[^25].
+
+[^24]: [2014 Letter](../sources/buffett-letter-2014.md) — 10.8% share; Tony Nicely 53 years; low-cost moat enduring
+
+[^25]: [2015 Letter](../sources/buffett-letter-2015.md) — 11.4% share; $22.6B premium; 14.7% expense; 14M policyholders; 34K employees; founding history (Goodwins/USAA/1936); driverless car risk; 2030 #1 target

@@ -105,7 +105,7 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 20 — 2015 (~1,700 lines)
 
-- [ ] buffett-letter-2015.md
+- [x] buffett-letter-2015.md
 
 ### Batch 21 — 2016-2017 (~2,870 lines)
 

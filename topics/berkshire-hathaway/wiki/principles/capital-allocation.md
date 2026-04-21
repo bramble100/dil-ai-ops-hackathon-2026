@@ -37,7 +37,7 @@ sources:
     buffett-letter-2012,
     buffett-letter-2013,
     buffett-letter-2014,
-    buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -757,38 +757,27 @@ These advantages compound: managers stay because of the culture; the culture att
 
 [^23]: [2013 Letter](../sources/buffett-letter-2013.md) — Heinz 3G template; NV Energy $5.6B; Marmon/ISCAR 100%; Powerhouse Five $10.8B; 25 bolt-ons $3.1B; $11B capex; Big Four $4.4B; BofA $10.9B; EFH $873M final; Todd/Ted >$7B
 
-### Golden Anniversary: Conglomerate Defense, Private Equity Critique, Five Building Blocks (2014)
+### PCC $32B, Six-Point Blueprint, and 3G Partnership (2015)
 
-**[2014 Letter]** The 50th anniversary letter contains Buffett's most comprehensive defense of the conglomerate form and his most explicit private equity critique.
+**[2015 Letter]** The $32.1B all-cash acquisition of **Precision Castparts** is the largest in Berkshire history. Todd Combs identified the opportunity and is assigned to the PCC board. Mark Donegan, CEO: "the da Vinci of his craft" — he builds through acquisitions at PCC and will continue deploying Berkshire's capital. 162 plants, 13 countries, 30,466 employees. Revenue: $10B; pre-tax: $1.5B.
 
-**Conglomerate defense:** Berkshire's structure enables frictionless, tax-free capital reallocation — "without incurring taxes or much in the way of other costs — move huge sums from businesses that have limited opportunities for incremental investment to other sectors with greater promise." Three structural advantages: (1) freedom from historical industry biases, (2) the ability to buy partial interests in wonderful businesses via common stocks, and (3) nearly unlimited scale.
+**Six-point successor blueprint:** Buffett's criteria for acquisitions expressed for future CEOs:
 
-**1960s conglomerate critique (LTV parable):** Jimmy Ling's "project redeployment" strategy (buy low-P/E companies, spin off divisions, exploit p/e arbitrage) created the appearance of earnings growth through accounting manipulation. "2+2 will always equal 4. And when someone tells you how old-fashioned that math is — zip up your wallet." The lesson: serial stock issuances by overpriced companies redistribute wealth but never create it.
+1. Durable competitive advantages
+2. Able and high-grade management
+3. Good returns on net tangible assets
+4. Opportunities for internal growth at attractive returns
+5. A sensible price tag
+6. Can be purchased with the earnings Berkshire retains
 
-**Spin-off condemnation:** "Voluntary spin-offs make no sense for us" — they forfeit control value, capital-allocation flexibility, and tax advantages. Investment bankers' "mental flexibility": pay a 20-50% premium to acquire ("control value"), then later urge spinning off to "unlock shareholder value" — "So much for that talented CEO we met earlier."
+**3G Partnership deepened:** Berkshire invested $5B in 3G-sponsored merger of **Kraft and Heinz**, later converting preferred to 325.4M shares (26.7% of combined entity). "I knew immediately that this partnership would work well" — complementary skill sets. Buffett emphasizes Berkshire and 3G have **different philosophies on workforce**: "Berkshire would not have acted nearly so quickly" in cutting positions. Kraft Heinz valued at **$15.8B** ($9.8B on $8.4B cost).
 
-**Private equity critique:** PE buyers pile on debt; "equity is a dirty word for many private-equity buyers." The business becomes merchandise, re-leveraged and resold. Berkshire offers a third choice: "a permanent home, in which the company's people and culture will be retained."
+**Bolt-on acquisitions:** 29 bolt-ons totaling **$634M**. Small vs. mega acquisitions: "We are now better prepared for the largest deals" but bolt-ons still have "zero chance of making a 10x mistake."
 
-**Acquisition criteria updated:** Minimum pre-tax earnings raised from $10M to **$75M** (unless the business fits an existing unit). Ideal range: **$5-20B**. "The larger the company, the greater will be our interest."
+**Infrastructure commitment:** BNSF + BHE combined capex: **$16B** ($11.6B at BHE+BNSF) — "far more than any other American company invests in infrastructure."
 
-**Five building blocks restated:** (1) improve existing subsidiary earnings, (2) bolt-on acquisitions, (3) investee growth, (4) repurchase shares at meaningful discount, (5) occasional large acquisitions — "plus rarely, if ever, issuing Berkshire shares."
+**Munger maxim:** "It would be insane for us to pass up that opportunity just because the purchase would increase our reported amortization charges and reduce our reported earnings." Stock-based compensation: "If compensation isn't an expense, what is it? And, if real and recurring expenses don't belong in the calculation of earnings, where in the world do they belong?"
 
-**Van Tuyl Automotive:** 78 dealerships, $9B sales, fifth-largest US auto group. Larry Van Tuyl decided Berkshire should be its home. With Van Tuyl, Berkshire now owns 9½ Fortune 500-equivalent companies. "That leaves 490½ fish in the sea."
+**Retained earnings test:** "By the end of 2015, the retained earnings that had been reinvested in operating businesses had delivered more than a dollar of market value for every dollar retained." 340,499 employees; 25 at HQ[^25].
 
-**31 bolt-on acquisitions** contracted for **$7.8B aggregate** ($400K to $2.9B). Duracell largest — acquired via Procter & Gamble stock exchange, placed under Marmon. 3G partnership expanded: Tim Hortons/Burger King financing role; "We expect to partner with 3G in more activities."
-
-**Record $15B subsidiary capex** (~90% US, well over 2x depreciation). 340,499 employees, 25 at HQ.
-
-**Todd Combs and Ted Weschler** each given oversight of a new subsidiary as Chairman. The teaching rationale: "each have oversight of at least one of our businesses... This arrangement will make the two of them even better investors than they already are." Investment experience improves business judgment and vice versa — Buffett applies this from personal experience.
-
-**Financial staying power — three requirements:** (1) large, reliable earnings stream, (2) massive liquid assets ($20B+ minimum in T-bills always), (3) no significant near-term cash requirements. "Cash is to a business as oxygen is to an individual." Derivatives interest terminated: new contracts require full collateralization.
-
-**ABCs of business decay:** Arrogance, bureaucracy, complacency — "when these corporate cancers metastasize, even the strongest of companies can falter." GM, IBM, Sears Roebuck, U.S. Steel cited as cautionary examples. The successor CEO's most important job: "fight off the ABCs."
-
-**Succession advanced:** Howard Buffett suggested as non-executive Chairman (safety valve); CEO successor identified and ready — "In certain important respects, this person will do a better job than I am doing." Todd Combs and Ted Weschler "can be of particular help to the CEO in evaluating acquisitions."
-
-> "Never forget Charlie's plea: 'Tell me where I'm going to die, so I'll never go there.'" — 2014 Letter
-
-**Munger's independent letter** codifies the Berkshire system into 15 elements: extreme subsidiary CEO autonomy, tiny HQ, casualty insurance as float engine, no system-wide compensation/HR/strategy, cash acquisitions preferred, no dividends while retention creates >$1 market value, CEO allocates capital and picks subsidiary managers. Munger names **Ajit Jain and Greg Abel** as "world-leading" successors — "In some important ways, each is a better business executive than Buffett." Errors of omission estimated at **$50B+ in foregone net worth**[^24].
-
-[^24]: [2014 Letter](../sources/buffett-letter-2014.md) — Golden Anniversary; conglomerate defense; LTV parable; spin-off condemnation; PE critique; acquisition criteria $75M; five building blocks; Van Tuyl $9B; 31 bolt-ons $7.8B; Duracell; $15B capex; Todd/Ted subsidiary oversight; three financial requirements; ABCs of decay; succession advanced; Munger's 15-point system; Jain/Abel "world-leading"
+[^25]: [2015 Letter](../sources/buffett-letter-2015.md) — PCC $32.1B all-cash; Todd Combs identified; six-point blueprint; 3G Kraft Heinz $5B/$15.8B; 29 bolt-ons $634M; $16B infrastructure capex; Mungerism on amortization; stock-comp critique; retained earnings >$1

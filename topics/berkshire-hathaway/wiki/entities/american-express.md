@@ -2,7 +2,13 @@
 title: "American Express Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1994, buffett-letter-2013, buffett-letter-2014]
+sources:
+  [
+    buffett-letter-1994,
+    buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2015,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
 status: draft
@@ -58,3 +64,11 @@ At 5.5% ownership, AmEx contributes ~$25M in look-through undistributed earnings
 Combined Big Four look-through earnings: **$4.7B** (vs. $4.4B in 2013). Total unrealized gains: **$42B**. The 14.8% stake represents Berkshire's deepest proportional ownership of any Big Four member[^3].
 
 [^3]: [2014 Letter](../sources/buffett-letter-2014.md) — 151.6M shares; 14.8%; $14.1B value on $1.3B cost; Big Four $4.7B; $42B unrealized
+
+### 2015: 15.6% Ownership and $10.5B Market Value
+
+**[2015 Letter]** Berkshire holds **151,610,700 shares** (15.6% ownership, up from 14.8%) at **$10,545M market value** on $1,287M cost. AmEx remains the highest percentage-owned of the Big Four, though market value declined significantly year-over-year (from $14.1B to $10.5B).
+
+The 2015 letter notes the Important Risks section: "online retailing threatens the business model of our retailers and certain of our consumer brands." While not specific to AmEx, the payment/retail ecosystem disruption is relevant context. Combined Big Four look-through earnings: **$4.7B**[^4].
+
+[^4]: [2015 Letter](../sources/buffett-letter-2015.md) — 151.6M shares; 15.6%; $10.5B value on $1.3B cost; Big Four $4.7B; market value declined

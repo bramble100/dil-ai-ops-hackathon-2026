@@ -27,7 +27,7 @@ sources:
     buffett-letter-2012,
     buffett-letter-2013,
     buffett-letter-2014,
-    buffett-letter-2014,
+    buffett-letter-2015,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -448,3 +448,17 @@ Two connections to Berkshire: (1) Graham's unnamed bonanza investment in the 194
 > "Price is what you pay, value is what you get. Of all the investments I ever made, buying Ben's book was the best (except for my purchase of two marriage licenses)." — 2013 Letter[^24]
 
 [^24]: [2013 Letter](../sources/buffett-letter-2013.md) — farm/NYU parables; six investing principles; moody neighbor; 90/10 will instruction; Ben Graham tribute; GEICO/BNSF connection; "fear is your friend"
+
+### Climate Change Insurance Repricing and "Noah's Law" (2015)
+
+**[2015 Letter]** Buffett addresses climate change through the lens of insurance economics and market rationality. The proxy proposal assumes climate change threatens the insurance business — Buffett argues the opposite:
+
+**Annual repricing protects insurers:** "Insurance policies are customarily written for one year and repriced annually to reflect changing exposures. Increased possibilities of loss translate promptly into increased premiums." GEICO's average loss-per-policy rose from $30 (1951) to ~$1,000 (2015) — and the company is worth vastly more, not less. "Paradoxically, the upward march in loss costs has made insurance companies far more valuable."
+
+**Noah's Law (Pascal's Wager analogy):** "If there is only a 1% chance the planet is heading toward a truly major disaster and delay means passing a point of no return, inaction now is foolhardy. Call this Noah's Law: If an ark may be essential for survival, begin building it today, no matter how cloudless the skies appear."
+
+**America optimism extended:** GDP per capita $56,000 (6x 1930 in real terms). 2% real growth compounds to 34.4% per-capita gain per generation ($19,000 per person). "The babies being born in America today are the luckiest crop in history." "For 240 years it's been a terrible mistake to bet against America, and now is no time to start."
+
+**First webcast:** Annual meeting streamed via Yahoo! for the first time — extending the Mr. Market educational platform to a global audience[^25].
+
+[^25]: [2015 Letter](../sources/buffett-letter-2015.md) — climate change/insurance repricing; Noah's Law (Pascal's Wager); America optimism (GDP 6x/2% = 34.4%); annual meeting webcast; "luckiest crop in history"
