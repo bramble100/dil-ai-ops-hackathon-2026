@@ -11,9 +11,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [investment, management, compounding]
 ---
@@ -85,3 +88,19 @@ The 2015 letter notes the Important Risks section: "online retailing threatens t
 **[2020 Letter]** Ownership: **18.8%**. Cost remains **$1.287B**; market value **$18,331M** (→ 14.2x cost). AmEx listed third in the top-15 holdings table. The buyback-driven ownership growth from 15.6% (2015) to 18.8% (2020) exemplifies Buffett's teaching: when an excellent company repurchases shares at reasonable prices, non-selling shareholders benefit automatically. "Gains in the value of our investment in AmEx have been considerable — and we haven't bought a share since 1998!"[^5]
 
 [^5]: [2018-2020 Letters](../sources/buffett-letter-2018.md) — 17.9%→18.7%→18.8% via AmEx buybacks; $1.2B retained/$6.9B earned; $18.3B value on $1.3B cost; 14.2x
+
+### 2021-2023: 19.9% Ownership and the Secret Sauce
+
+**[2021 Letter]** Berkshire holds **151,610,700 shares** at **$24,804M market value** — ownership rises to **19.9%**. AmEx listed in the top-15 holdings table[^6].
+
+**[2022 Letter]** AmEx is the second "Secret Sauce" example alongside Coca-Cola. Cost: **$1.3B** (completed 1995); market value: **$22B**. Dividends grew from **$41M to $302M**. "Those checks, too, seem highly likely to increase." Both Coke and AmEx now account for **~5% of Berkshire's net worth**, same as their weighting decades ago — illustrating that flowers grow while weeds shrink.
+
+Berkshire listed as **largest owner** of AmEx among eight S&P 500 companies where it holds #1 position[^7].
+
+**[2023 Letter]** Berkshire's share of AmEx's 2023 earnings "considerably exceeded the $1.3 billion cost of our long-ago purchase." AmEx expected to increase its dividend ~**16%** in 2024. "When you find a truly wonderful business, stick with it." AmEx began operations in **1850**; products "traveled" worldwide; "the need for unquestioned financial trust" is a timeless essential. Repurchases at Berkshire increased indirect ownership a bit without cost[^8].
+
+[^6]: [2021 Letter](../sources/buffett-letter-2021.md) — 151.6M shares; $24.8B; 19.9% ownership
+
+[^7]: [2022 Letter](../sources/buffett-letter-2022.md) — Secret Sauce; $1.3B→$22B; $41M→$302M dividends; ~5% of net worth; #1 owner
+
+[^8]: [2023 Letter](../sources/buffett-letter-2023.md) — earnings exceed $1.3B cost; 16% dividend increase; 1850 founding; Rip Van Winkle; patience pays

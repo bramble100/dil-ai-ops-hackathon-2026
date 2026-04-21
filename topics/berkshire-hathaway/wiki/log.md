@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-21] ingest-batch | Batch 23: 2021-2023 Letters
+
+- Sources: raw/articles/buffett-letter-2021.md, raw/articles/buffett-letter-2022.md, raw/articles/buffett-letter-2023.md
+- Created: sources/buffett-letter-2021, sources/buffett-letter-2022, sources/buffett-letter-2023, entities/alleghany, entities/occidental-petroleum
+- Updated: principles/capital-allocation, principles/owner-earnings, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/four-filters, entities/charlie-munger, entities/bnsf, entities/midamerican-energy, entities/geico, entities/national-indemnity, entities/coca-cola, entities/american-express, entities/tti, entities/pilot-flying-j, entities/sees-candies, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
+- Fixed: removed duplicate 2018-2020 sections from capital-allocation, owner-earnings, underwriting-discipline, mr-market (artifact from prior batch)
+- Key themes: Four Giants framework (insurance/Apple/BNSF/BHE); Charlie Munger dies Nov 28, 2023 ("architect" of Berkshire); Secret Sauce (Coke $1.3B→$25B, AmEx $1.3B→$22B, "weeds wither/flowers bloom"); Alleghany acquisition (float $147B→$164B, 8,000-fold); record operating earnings $27.6B→$30.8B→$37.4B; $561B GAAP net worth (largest US); BHE wildfire crisis/regulatory broken compact/public-power threat; BNSF $22B over-depreciation/$500B replacement cost; OXY 27.8%+warrants/Vicki Hollub/carbon capture; five Japanese trading companies 9% each (¥1.3T yen bonds); $51.7B cumulative buybacks (9% share reduction); Paul Andrews/TTI tribute (led to BNSF); "no possibility of eye-popping performance"; "casino in many homes"; Rip Van Winkle patience; insurance records $83B premiums/$5.4B UW profit
+
 ## [2026-04-22] ingest-batch | Batch 22: 2018-2020 Letters
 
 - Sources: raw/articles/buffett-letter-2018.md, raw/articles/buffett-letter-2019.md, raw/articles/buffett-letter-2020.md

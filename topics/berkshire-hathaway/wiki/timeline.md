@@ -2,7 +2,7 @@
 title: "Timeline"
 type: overview
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [retrospective]
 ---
 
@@ -512,3 +512,23 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 2020 | Origin stories retold: GEICO (Goodwins/$100K/1936), NICO (Ringwalt/$125K/1940), NFM (Mrs. B/$2,500/1937), See's (100 years)                               | Business    | [Business Quality](principles/business-quality.md)                 |
 | 2020 | Clayton and Pilot Flying J: both >$1B pre-tax; 47,000 combined employees; Knoxville stories                                                               | Business    | [Clayton Homes](entities/clayton-homes.md)                         |
 | 2020 | Annual meeting from Los Angeles (COVID); Munger age 97                                                                                                    | Corporate   | [Charlie Munger](entities/charlie-munger.md)                       |
+| 2021 | **"Four Giants" framework**: insurance, Apple, BNSF, BHE — Berkshire's four core pillars                                                                  | Philosophy  | [Business Quality](principles/business-quality.md)                 |
+| 2021 | **$51.7B cumulative share buybacks** since 2018, reducing shares by ~9%; float per A-share $99,497 (+25%)                                                 | Corporate   | [Capital Allocation](principles/capital-allocation.md)             |
+| 2021 | **Paul Andrews (TTI) dies** — tribute reveals TTI led to BNSF acquisition; $7.7B revenue, 8,043 employees                                                 | Business    | [TTI](entities/tti.md)                                             |
+| 2021 | PP&E reaches **$158B** (#1 in US); market CAGR 20.1%                                                                                                      | Financial   | [Capital Allocation](principles/capital-allocation.md)             |
+| 2021 | Float **$147B**; 55-year aggregate underwriting profit; Ajit Jain 35 years at Berkshire                                                                   | Insurance   | [National Indemnity](entities/national-indemnity.md)               |
+| 2021 | BNSF record **$6B** earnings; BHE record **$4B** (+30x from 2000); Pilot $45B revenue                                                                     | Business    | [BNSF](entities/bnsf.md)                                           |
+| 2022 | **Alleghany Corporation** acquired; float rises to **$164B** (8,000-fold since 1967)                                                                      | Acquisition | [Alleghany](entities/alleghany.md)                                 |
+| 2022 | **Record operating earnings $30.8B**; GAAP net $22.8B (includes $53.6B unrealized losses)                                                                 | Financial   | [Owner Earnings](principles/owner-earnings.md)                     |
+| 2022 | **"Secret Sauce"**: Coke $1.3B→$25B, AmEx $1.3B→$22B; "weeds wither, flowers bloom"                                                                       | Philosophy  | [Mr. Market](principles/mr-market.md)                              |
+| 2022 | See's Candies: $400K sales in 2 days at annual meeting; 101 years; "Henry Ford Model T"                                                                   | Business    | [See's Candies](entities/sees-candies.md)                          |
+| 2022 | Munger's wisdom collection published; "one good decision every five years"; BNSF $5.9B                                                                    | Philosophy  | [Charlie Munger](entities/charlie-munger.md)                       |
+| 2023 | **Charlie Munger dies** (Nov 28, age 99) — "architect" of Berkshire; Buffett "general contractor"                                                         | Corporate   | [Charlie Munger](entities/charlie-munger.md)                       |
+| 2023 | **Record operating earnings $37.4B**; GAAP net worth **$561B** (largest in US history)                                                                    | Financial   | [Owner Earnings](principles/owner-earnings.md)                     |
+| 2023 | Insurance records: **$83B premiums, $5.4B UW profit, $9.6B investment income**; 5,000-fold volume since 1967                                              | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 2023 | **BHE wildfire crisis**: earnings drop to $2.3B (from $4.3B); regulatory "broken compact"; public-power threat                                            | Business    | [MidAmerican Energy](entities/midamerican-energy.md)               |
+| 2023 | **OXY 27.8% + warrants**; Vicki Hollub; carbon capture; US energy independence                                                                            | Investment  | [Occidental Petroleum](entities/occidental-petroleum.md)           |
+| 2023 | **Five Japanese trading companies** ~9% each; ¥1.3T yen bonds; "similar to Berkshire"                                                                     | Investment  | [Business Quality](principles/business-quality.md)                 |
+| 2023 | BNSF $5.1B; $22B over-depreciation in 14 years; $500B replacement cost; margin erosion vs peers                                                           | Business    | [BNSF](entities/bnsf.md)                                           |
+| 2023 | **"No possibility of eye-popping performance"** — scale constraint fully acknowledged; "casino in many homes"                                             | Philosophy  | [Capital Allocation](principles/capital-allocation.md)             |
+| 2023 | Pilot Flying J reaches 80% ownership; full consolidation                                                                                                  | Acquisition | [Pilot Flying J](entities/pilot-flying-j.md)                       |

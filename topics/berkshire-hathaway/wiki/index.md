@@ -2,7 +2,7 @@
 title: Index
 type: overview
 created: 2026-04-19
-updated: 2026-04-22
+updated: 2026-04-21
 ---
 
 # Buffett's Letters — Investor Education Wiki
@@ -55,31 +55,34 @@ updated: 2026-04-22
 - [2018 Letter](sources/buffett-letter-2018.md) - Book value ABANDONED, five groves framework, American Tailwind essay, Tony Nicely retires, $43B equities purchased, float $122.7B (15/16 years), operating $24.8B, GAAP $4B, Kraft Heinz $3B (2018)
 - [2019 Letter](sources/buffett-letter-2019.md) - Retained earnings power (Smith/Keynes), GUARD $221M→$1.9B, BHE 20th/wind self-sufficiency, board governance essay, float $129.4B, $5B repurchases, succession "urgent zone" (2019)
 - [2020 Letter](sources/buffett-letter-2020.md) - PCC $11B writedown, conglomerate defense, Apple compounding, $24.7B repurchases (5.2%), float $138B, Katie Farmer BNSF CEO, BHE $18B grid, "never bet against America" (2020)
+- [2021 Letter](sources/buffett-letter-2021.md) - Four Giants framework, $158B PP&E (#1 US), $51.7B buybacks (9%), float $147B, Paul Andrews/TTI tribute, BNSF origin story, "business-pickers not stock-pickers" (2021)
+- [2022 Letter](sources/buffett-letter-2022.md) - Secret Sauce (Coke $25B/AmEx $22B), Alleghany acquisition, record $30.8B operating, "weeds wither/flowers bloom," Munger wisdom collection, See's 101 years (2022)
+- [2023 Letter](sources/buffett-letter-2023.md) - Munger dies (Nov 28), record $37.4B operating, $561B net worth, BHE wildfire crisis, OXY 27.8%+warrants, Japanese companies 9% each, "casino in many homes" (2023)
 
 ## Principles
 
 - [Return on Equity](principles/return-on-equity.md) - The primary performance yardstick, not EPS; scale drag; Sainted Seven benchmark; 35-year CAGR 24.0% (21 sources)
-- [Owner Earnings](principles/owner-earnings.md) - GAAP $4B→$81.4B→$42.5B swings; PCC $11B writedown; Smith/Keynes retained earnings; book value abandoned (39 sources)
-- [Four Filters](principles/four-filters.md) - PCC filter-4 failure at mega-scale; GUARD as quiet discovery; sky-high acquisition prices (30 sources)
-- [Business Quality](principles/business-quality.md) - Five groves; four jewels; $154B PP&E (#1 US); Clayton+Pilot >$1B each; NFM COVID record (41 sources)
-- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $138B costless; GUARD 379%; 10-year Treasury 0.93%; Old Testament religion (42 sources)
+- [Owner Earnings](principles/owner-earnings.md) - Record $37.4B operating; BNSF $22B over-depreciation/$500B replacement; GAAP "cannot be accurate"; EBITDA banned (42 sources)
+- [Four Filters](principles/four-filters.md) - Scale constraint; OXY + Japanese companies; "one decision/5 years"; Alleghany passes all four (33 sources)
+- [Business Quality](principles/business-quality.md) - Four Giants; creative destruction; BNSF $500B replacement; Japanese companies; $561B net worth (44 sources)
+- [Underwriting Discipline](principles/underwriting-discipline.md) - Float $164B (8,000-fold); record $83B/$5.4B; Alleghany; "can't be optimists" (45 sources)
 - [Inflation and Investing](principles/inflation-and-investing.md) - Three investment categories essay; gold cube $9.6T; "Sharecropper's Society"; tapeworm (11 sources)
-- [Capital Allocation](principles/capital-allocation.md) - Five groves; conglomerate defense; $24.7B repurchases; PCC $11B mistake; four jewels (42 sources)
+- [Capital Allocation](principles/capital-allocation.md) - Three paths; $51.7B buybacks (9%); $561B net worth; "no eye-popping performance"; OXY + Japanese companies (45 sources)
 - [Economic Goodwill](principles/economic-goodwill.md) - Economic vs accounting Goodwill; Sainted Seven Plus One at 57% ROE (6 sources)
-- [Mr. Market](principles/mr-market.md) - American Tailwind $114.75→$606,811; "never bet against America"; dart-throwing monkey; Phil Fisher restaurant (32 sources)
+- [Mr. Market](principles/mr-market.md) - "Casino in many homes"; weeds/flowers; Rip Van Winkle; patience pays; Bertie thought experiment (35 sources)
 - [Institutional Imperative](principles/institutional-imperative.md) - Board governance essay (21 companies/62 years); cocker spaniel directors; acquisition advisor reform (4 sources)
 
 ## Entities
 
-- [GEICO](entities/geico.md) - Tony Nicely retires/$50B value-added; Bill Roberts CEO; founding retold ($100K/1936→$35B); 1,200% sales growth (41 sources)
-- [National Indemnity](entities/national-indemnity.md) - GUARD $221M→$1.9B; Ringwalt retold; float $138B; insurance core 53 years (37 sources)
-- [See's Candies](entities/sees-candies.md) - 100th year; Mary See founding; $1.9B cumulative on $40M; brand education led to Coca-Cola (24 sources)
-- [Charlie Munger](entities/charlie-munger.md) - "Urgent zone" (95/88→97/90); LA meeting 2020; succession formalized (19 sources)
+- [GEICO](entities/geico.md) - Four Giants; Todd Combs CEO; record $83B P/C premiums; founding retold ($100K/1936→$35B) (44 sources)
+- [National Indemnity](entities/national-indemnity.md) - Float $164B (8,000-fold); Alleghany; record $83B/$5.4B/$9.6B; Ajit 35 years (40 sources)
+- [See's Candies](entities/sees-candies.md) - 101 years; $400K in 2 days at annual meeting; "Henry Ford Model T"; brand permanence (25 sources)
+- [Charlie Munger](entities/charlie-munger.md) - Died Nov 28, 2023 (age 99); "architect" of Berkshire; wisdom collection; partner rule (21 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Three largest US stores; COVID record sales; Mrs. B/Louie retold (15 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - Stan Lipsey retires; 28 dailies $344M; newspaper decline/resurgence (13 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
 - [Scott & Fetzer](entities/scott-fetzer.md) - Ralph Schey retires 2000; $1.03B cumulative distributions vs. $230M net purchase price; 86% ROE record (12 sources)
-- [Coca-Cola](entities/coca-cola.md) - Big Four 9.3% ownership (2015); patient ownership compounding; See's-to-Coke pipeline (16 sources)
+- [Coca-Cola](entities/coca-cola.md) - Secret Sauce $1.3B→$25B; $75M→$704M dividends; Rip Van Winkle 20+ years; patience pays (18 sources)
 - [Fechheimer Bros.](entities/fechheimer.md) - $13.7M pre-tax (1992 record); clean Heldman succession (7 sources)
 - [Salomon Inc](entities/salomon-inc.md) - $140M partial redemption (1995); Travelers merger; "negative overall" experience (8 sources)
 - [Gillette](entities/gillette.md) - Merged into P&G Q4 2005; Jim Kilts praised; $5B paper gain dismissed; moat castle archetype (7 sources)
@@ -90,14 +93,14 @@ updated: 2026-04-22
 - [FlightSafety International](entities/flightsafety.md) - $270M pre-tax; 273 simulators/$1.635B; "Good Business" benchmark (10 sources)
 - [Helzberg's Diamond Shops](entities/helzbergs.md) - Acquired 1995 (stock); 134 stores, $282M sales; sidewalk encounter (1 source)
 - [R.C. Willey](entities/rc-willey.md) - Boise +21% (2005); Reno opened; Sacramento planned; Scott Hymas CEO (4 sources)
-- [American Express](entities/american-express.md) - 17.9%→18.8% via buybacks (no shares added since 1998); $18.3B on $1.3B cost (7 sources)
+- [American Express](entities/american-express.md) - Secret Sauce $1.3B→$22B; 19.9% ownership; Rip Van Winkle; patience pays (10 sources)
 - [General Dynamics](entities/general-dynamics.md) - Arbitrage-to-conviction; 14% stake built in one month; Bill Anders; $312.4M cost (1 source)
 - [Star Furniture](entities/star-furniture.md) - Acquired July 1, 1997; 12 Houston stores; Melvyn Wolff/Shirley Toomin; family since 1924; Irv Blumkin referral (1 source)
 - [Dairy Queen](entities/dairy-queen.md) - Agreed 1997/closed 1998; 5,792 stores, 23 countries; John Mooty/Mike Sullivan; Buffett as product expert (1 source)
 - [General Re](entities/general-re.md) - Montross retires (39 years); Kara Raiguel CEO; four commandments; "now a gem" (14 sources)
 - [Executive Jet Aviation](entities/executive-jet.md) - Jordan Hansell CEO; $227M profit (2011); China expansion; turnaround sustained (13 sources)
 - [Jordan's Furniture](entities/jordans-furniture.md) - Acquired Nov 13, 1999; Barry/Eliot Tatelman; family since 1927; highest sales/sqft US furniture (1 source)
-- [MidAmerican Energy](entities/midamerican-energy.md) - BHE 20 years; Iowa wind self-sufficiency 2021; $18B grid; $100B+ readiness; $154B PP&E (15 sources)
+- [MidAmerican Energy](entities/midamerican-energy.md) - Record $4B→$4.3B→$2.3B (wildfire crisis); regulatory broken compact; public-power threat (18 sources)
 - [Shaw Industries](entities/shaw-industries.md) - $5.7B revenue; USFloors acquisition; world's largest flooring company (8 sources)
 - [Johns Manville](entities/johns-manville.md) - Nation's leading insulation; $1.8B cash; all-cash no-contingency decisive advantage; LBO fell Dec 8 (2 sources)
 - [Benjamin Moore & Co.](entities/benjamin-moore.md) - $1B cash; Salomon connection cold-call; 117-year paint maker; independent dealer network (2 sources)
@@ -109,15 +112,17 @@ updated: 2026-04-22
 - [Forest River](entities/forest-river.md) - RV manufacturer; $1.6B revenue; Pete Liegl; two-page fax acquisition (2005) (1 source)
 - [Business Wire](entities/business-wire.md) - Press release distribution; Lorry Lokey; 25,000 clients; WSJ article triggered (2005) (1 source)
 - [ISCAR](entities/iscar.md) - 100% ownership; Powerhouse Five member; Tungaloy; global cutting-tool platform (6 sources)
-- [TTI](entities/tti.md) - Electronic components distributor; Fort Worth; $1.3B revenue; deal before lunch (1 source)
+- [TTI](entities/tti.md) - Paul Andrews dies 2021; $7.7B revenue; 8,043 employees; 673% earnings growth; led to BNSF acquisition (2 sources)
 - [Marmon Group](entities/marmon-group.md) - 133,220 railcars; utilization 91%; Powerhouse Six member (6 sources)
-- [BNSF](entities/bnsf.md) - Two redwoods; 15% US ton-miles; $41B invested/$41.8B dividends; Katie Farmer CEO (7 sources)
+- [BNSF](entities/bnsf.md) - Record $6B (2021); $22B over-depreciation; $500B replacement cost; margin erosion vs peers (10 sources)
 - [Lubrizol](entities/lubrizol.md) - Specialty chemicals; $4.5B; James Hambrick; Powerhouse Five member (2 sources)
 - [IBM](entities/ibm.md) - Largely sold in 2017; $13.8B cost; Apple replaces as largest holding (4 sources)
 - [Heinz](entities/heinz.md) - H.J. Heinz; 50/50 with 3G Capital; $8B preferred + ~$4.25B common; Lemann partnership template (1 source)
 - [Van Tuyl Automotive](entities/van-tuyl-automotive.md) - 78 dealerships; $9B sales; 5th-largest US auto group; permanent home thesis (1 source)
 - [Precision Castparts](entities/precision-castparts.md) - $32.1B all-cash; $11B writedown ("I paid too much"); Mark Donegan; Powerhouse Six (3 sources)
-- [Pilot Flying J](entities/pilot-flying-j.md) - >$1B pre-tax; Big Jim Haslam 90; heading for 80% by 2023; North America's largest travel centers (2 sources)
+- [Pilot Flying J](entities/pilot-flying-j.md) - $45B revenue; 38.6%→80% by 2023; full consolidation; North America's largest travel centers (3 sources)
+- [Alleghany](entities/alleghany.md) - Insurance acquisition 2022; Joe Brandon; float +$17B (to $164B); 8,000-fold since 1967 (2 sources)
+- [Occidental Petroleum](entities/occidental-petroleum.md) - 27.8% + warrants; Vicki Hollub; carbon capture; US energy independence (1 source)
 
 ## Case Studies
 
@@ -126,7 +131,7 @@ updated: 2026-04-22
 
 ## Financial Analysis
 
-- [Book Value Per Share](financials/book-value-per-share.md) - $19.46 (1964) → $211,750 (2017), ~19% CAGR; two-pillar intrinsic value; $29B tax reform windfall (41 sources)
+- [Book Value Per Share](financials/book-value-per-share.md) - Market price +29.6%/+4.0%/+15.8% (2021-23); $561B GAAP net worth; 20.1% overall CAGR (44 sources)
 
 ## Standalone Pages
 

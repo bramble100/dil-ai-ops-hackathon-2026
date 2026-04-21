@@ -40,12 +40,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
-    buffett-letter-2018,
-    buffett-letter-2019,
-    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [valuation, accounting, compounding, principle]
 ---
@@ -487,26 +487,24 @@ Operating earnings: **$21.9B** (−9%). "Operating earnings are what count most.
 
 [^28]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC $11B writedown; operating $21.9B (−9%); retained earnings >$1 capital gains per $1 reinvested
 
-### GAAP Swings Realized, Retained Earnings Power, and PCC Writedown (2018-2020)
+### Operating Earnings Records, GAAP Misleading, and BNSF Capital Reality (2021-2023)
 
-**[2018 Letter]** The GAAP unrealized gains rule predicted in 2017 delivers its first impact: quarterly results swing from **−$25.4B (Q4) to +$18.5B (Q3)** while operating earnings remain steady. "Focus on operating earnings, paying little attention to gains or losses of any variety." Operating earnings: **$24.8B** (+41% from 2016 high of $17.6B).
+**[2021 Letter]** Buffett reaffirms operating earnings as the only reliable gauge: operating earnings of **$27.6B** vs. GAAP net of $89.8B. The gap underscores the "wild and capricious" nature of GAAP quarterly numbers driven by unrealized equity gains.
 
-Book value per share ABANDONED as primary metric — a fundamental shift in how Berkshire communicates owner earnings. The switch to market price reflects that operating businesses (valued at historical cost under GAAP) now dominate Berkshire's value, making book value "increasingly out of touch with economic reality."
+BNSF's capital reality exposed: **$158B in PP&E** across Berkshire (#1 in the US), with BNSF requiring enormous sustained reinvestment. Depreciation charges systematically understate true capital needs — the railroad must spend far more than depreciation just to maintain competitive position[^29].
 
-Non-real amortization: **$1.4B** — "not a true economic cost." Lincoln's leg/tail quote applied: "If you call a dog's tail a leg, how many legs does it have? Four, because calling a tail a leg doesn't make it one." Depreciation ($8.4B) conversely "understates our true economic cost" — Berkshire needs to spend more just to stay competitive.
+**[2022 Letter]** **Record operating earnings: $30.8B.** GAAP net income: $22.8B (including $53.6B unrealized equity losses). The yawning gap validates every prior warning. Buffett delivers the most forceful GAAP critique yet: **"GAAP figures, as a practical matter, cannot be accurate"** for quarterly reporting of a company like Berkshire. GAAP requires marking-to-market all equity holdings, creating "truly wild and capricious swings" that are "in no way indicative" of business performance.
 
-**[2019 Letter]** GAAP swings amplified: $4B (2018) → **$81.4B** (2019) — a **"crazy 1,900% increase"** driven entirely by unrealized equity gains ($53.7B). Operating earnings: **$24B**, "little changed." The disconnect validates the 2017 warning.
+"What counts for most people in investing is not how much they know, but rather how realistically they define what they don't know." The emphasis is on being honest about what operating earnings really mean — and what GAAP "earnings" obscure[^30].
 
-**Retained earnings power essay:** Traces the insight to Edgar Lawrence Smith's 1924 _Common Stocks as Long Term Investments_. Keynes's review: "there is an element of compound interest operating in favour of a sound industrial investment." Before Smith, stocks were "speculations" and "Gentlemen preferred bonds." Berkshire's deployment: $65B depreciation vs. $121B internal reinvestment over the past decade — "Reinvestment in productive operational assets will forever remain our top priority."
+**[2023 Letter]** **Record operating earnings: $37.4B.** BNSF earned $5.1B but the deeper story is capital intensity: **$22B in cumulative spending above depreciation** over the preceding 14 years. Replacement cost of BNSF estimated at **$500 billion** (vs. ~$70B book). "EBITDA" remains banished from the vocabulary.
 
-10 largest holdings: dividends **$3.8B** vs. retained earnings **$8.3B** — the invisible engine. "What's out of sight should not be out of mind."
+BHE's $2.3B earnings (down from $4.3B) illustrate that operating earnings can decline sharply when regulatory compacts break — another case where GAAP can't capture the true economic picture. The wildfire liabilities are "many years" from final tally — GAAP provisions are necessarily incomplete.
 
-**[2020 Letter]** GAAP: $42.5B — including **$11B writedown** of PCC and other subsidiaries. The PCC impairment is "almost entirely the quantification of a mistake I made in 2016" — overpaying for normalized profit potential. "I was wrong in my calculation of the proper price to pay for the business." The writedown demonstrates that owner earnings are not immune to valuation errors at purchase — even when the underlying business is excellent.
+Berkshire's total GAAP net worth: **$561B** — largest in US corporate history. But Buffett cautions this number vastly understates some assets (BNSF at book vs. $500B replacement) while being roughly accurate for others[^31].
 
-Operating earnings: **$21.9B** (−9%). "Operating earnings are what count most." Non-insurance businesses grouped into transparent tiers. Retained investee earnings emphasized: "Those unrecorded retained earnings are usually building value — lots of value — for Berkshire." The cumulative record: retained earnings have delivered "more than one dollar" of capital gains for each dollar reinvested[^26][^27][^28].
+[^29]: [2021 Letter](../sources/buffett-letter-2021.md) — operating $27.6B vs GAAP $89.8B; $158B PP&E; BNSF capital needs exceed depreciation
 
-[^26]: [2018 Letter](../sources/buffett-letter-2018.md) — GAAP quarterly swings $25.4B; operating $24.8B; book value abandoned; non-real amortization $1.4B; Lincoln leg/tail; depreciation understates
+[^30]: [2022 Letter](../sources/buffett-letter-2022.md) — record operating $30.8B; GAAP $22.8B (includes $53.6B unrealized losses); GAAP "cannot be accurate"; quarterly misleading
 
-[^27]: [2019 Letter](../sources/buffett-letter-2019.md) — GAAP 1,900% swing; operating $24B; Smith/Keynes retained earnings; $121B reinvestment; $8.3B retained vs $3.8B dividends
-
-[^28]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC $11B writedown; operating $21.9B (−9%); retained earnings >$1 capital gains per $1 reinvested
+[^31]: [2023 Letter](../sources/buffett-letter-2023.md) — record operating $37.4B; BNSF $22B over-depreciation; $500B replacement cost; BHE regulatory decline; $561B GAAP net worth; EBITDA banned

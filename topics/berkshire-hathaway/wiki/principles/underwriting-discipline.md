@@ -43,14 +43,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
-    buffett-letter-2016,
-    buffett-letter-2017,
-    buffett-letter-2018,
-    buffett-letter-2019,
-    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [insurance, management, risk, principle]
 ---
@@ -643,26 +641,24 @@ Insurance described as the "core of Berkshire" for 53 years. Equity-heavy invest
 
 [^29]: [2020 Letter](../sources/buffett-letter-2020.md) — float $138B; costless cumulative; 10-year at 0.93%; equity-heavy strategy; insurance as core 53 years
 
-### 2018-2020: Float Approaches $138B, GUARD Spotlight, and Costless Float Sustained
+### Float $147B→$164B, Alleghany, and Record $83B Year (2021-2023)
 
-**[2018 Letter]** Float reaches **$122,732M**. Underwriting profit: **$2B** — 15 of the last 16 profitable years; **$27B cumulative pre-tax** underwriting profit. Float growth table extended from $39M (1970) through the $122.7B milestone. Maximum potential decline: 3% per year. "That structure is by design and is a key component in the unequaled financial strength of our insurance companies."
+**[2021 Letter]** Float grows to **$147B** — costless on a 55-year aggregate basis. Float per A-share rises **25%** to $99,497 (from float growth + share buybacks). Berkshire is "constructed to handle catastrophic events as no other insurer." Insurance is named as one of the **"Four Giants."**
 
-**Disciplined risk evaluation** restated: "the daily focus of our insurance managers, who know that the benefits of float can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old Testament style."
+Ajit Jain: 35 years at Berkshire, hired on a Saturday morning in 1986 with zero insurance experience. "That was my lucky day." Buffett is "certain" there will be years with large underwriting losses, but the discipline to survive them is built into the structure[^30].
 
-Mega-catastrophe preparation: "The Big One" may come from wind, earthquake, or "a cyber attack having disastrous consequences beyond anything insurers now contemplate." Berkshire's response: "we will be looking to add business the next day."
+**[2022 Letter]** **Alleghany Corporation** acquired, pushing float from $147B to **$164B** — an **8,000-fold increase** since the 1967 NICO purchase. Joe Brandon captains the acquisition. The deal demonstrates that float can still be grown through acquisitions of well-run insurance operations, not just organic underwriting.
 
-**[2019 Letter]** Float reaches **$129,423M**. Underwriting profit: **$400M** — 16 of the last 17 profitable years; **$27.5B cumulative**.
+Operating earnings record: **$30.8B** — insurance a major contributor. Buffett credits the "cast of insurance executives" as "Cooperstown's honorees"[^31].
 
-**GUARD Insurance spotlight:** Purchased for **$221M** in 2012 by Ajit Jain; premium volume grew **379% to $1.9B** by 2019; float +265%. Sy Foguel, CEO, was "a star at Berkshire" — "Bingo and bingo." Launched from Wilkes-Barre, Pennsylvania — "may well deliver a similar surprise" to National Indemnity's Omaha origins.
+**[2023 Letter]** Insurance sets records across the board: **$83B in premiums**, **$5.4B underwriting profit**, **$9.6B investment income**. The P/C business has grown **5,000-fold** in volume (from $17M to $83B) in 57 years.
 
-Low-rate environment: standard P/C investment strategy (high-grade bonds) now yields 2-3¢ per dollar of float (down from 5-6¢). Berkshire's "unrivaled mountain of capital" and "huge and diverse stream of non-insurance earnings" allow equity-heavy float deployment unavailable to competitors.
+Key lesson reinforced: **"underwriters can't be optimists at the office."** The discipline to refuse business is still paramount — despite record volume. Berkshire's P/C operation now operates "worldwide with unmatched financial resources, reputation and talent."
 
-**[2020 Letter]** Float reaches **$138B** — costless on cumulative basis. "That happy result, of course, could change — but, over time, I like our odds." Bond market context: 10-year Treasury at **0.93%** (down 94% from 15.8% in September 1981). "Bonds are not the place to be these days."
+The BHE wildfire crisis provides a cautionary contrast: even regulated utility businesses can face existential regulatory risk. Insurance discipline means always pricing for the unknown — "We have learned — too often, painfully — a good deal about what types of insurance business and what sort of people to avoid"[^32].
 
-Insurance described as the "core of Berkshire" for 53 years. Equity-heavy investment strategy enabled by financial strength — "not feasible for the overwhelming majority of insurers" who must focus on bonds for regulatory and credit-rating reasons[^27][^28][^29].
+[^30]: [2021 Letter](../sources/buffett-letter-2021.md) — float $147B; 55-year aggregate profit; float per share $99,497 (+25%); Ajit 35 years; Four Giants; built for catastrophes
 
-[^27]: [2018 Letter](../sources/buffett-letter-2018.md) — float $122.7B; 15/16 years; $27B cumulative; $2B profit; cyber-cat warning; Old Testament religion
+[^31]: [2022 Letter](../sources/buffett-letter-2022.md) — Alleghany; float $164B; 8,000-fold since 1967; Joe Brandon; $30.8B operating earnings; Cooperstown comparison
 
-[^28]: [2019 Letter](../sources/buffett-letter-2019.md) — float $129.4B; 16/17 years; $27.5B cumulative; GUARD $221M→$1.9B; Sy Foguel; low-rate environment
-
-[^29]: [2020 Letter](../sources/buffett-letter-2020.md) — float $138B; costless cumulative; 10-year at 0.93%; equity-heavy strategy; insurance as core 53 years
+[^32]: [2023 Letter](../sources/buffett-letter-2023.md) — record $83B premiums/$5.4B UW profit/$9.6B investment income; 5,000-fold; "can't be optimists"; worldwide unmatched

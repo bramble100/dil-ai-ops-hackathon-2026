@@ -33,12 +33,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
-    buffett-letter-2018,
-    buffett-letter-2019,
-    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [market-psychology, valuation, principle, mental-model]
 ---
@@ -519,30 +519,24 @@ Warning on long-term equity returns: "equities will over time perform far better
 
 [^30]: [2020 Letter](../sources/buffett-letter-2020.md) — "never bet against America"; five ownership buckets; Phil Fisher restaurant; Stan Truhlsen 100; monkey/darts; productive assets
 
-### The American Tailwind, "Never Bet Against America", and Partnership Philosophy (2018-2020)
+### Efficient Markets Debunked, Casino Culture, and Patience Pays (2021-2023)
 
-**[2018 Letter]** "The American Tailwind" — Buffett's most expansive essay on long-term US economic optimism. **$114.75** invested in a no-fee S&P 500 index fund in March 1942 → **$606,811** by January 2019 (5,288-for-1). A $1M institutional investment → **$5.3B**. The same $114.75 in gold → **~$4,200** (<1% of equities). "The magical metal was no match for the American mettle."
+**[2021 Letter]** Buffett's strongest attack on Efficient Market Theory: professors taught "that efficient markets exist only in textbooks." The reality: "Though the field of economics brims with Nobel laureates, there is no Nobel awarded for finance because it is not a science." The Berkshire performance table (20.1% CAGR vs S&P 10.5% since 1965) is the empirical refutation.
 
-The fee critique extended: 1% annual fees on the institutional portfolio would cut the gain to **$2.65B** — half — over 77 years. The math: 11.8% return minus 1% fees = 10.8% compounded over 77 years.
+"Value investing" dismissed as a tautology: "Who wants to invest in a stock they believe is overvalued? That's a loser's game." Market CAGR of 20.1% in 2021 is "beyond anything Charlie and I dreamed of" — far exceeding underlying business value growth. Buffett cautions this pace is unsustainable[^31].
 
-Bipartisan prosperity: seven Republican presidents, seven Democrats since 1942 — through viral inflation, 21% prime rate, wars, presidential resignation, housing collapse, financial panic. "All engendered scary headlines; all are now history." Christopher Wren epitaph: "If you would seek my monument, look around you." Household wealth: **$108T**. Retained earnings and savings are the same force — "If our forefathers had instead consumed all they produced, there would have been no investment, no productivity gains and no leap in living standards."
+**[2022 Letter]** **"The weeds wither away in significance as the flowers bloom."** Buffett's most elegant patience metaphor. Over time, a few great decisions dominate results — mediocre ones fade into irrelevance. **"One good decision every five years"** is sufficient if it's truly great. The Secret Sauce of Coke and AmEx proves it: 28 years of inaction produced $25B and $22B from $1.3B each.
 
-> "It is beyond arrogance for American businesses or individuals to boast that they have 'done it alone.' The tidy rows of simple white crosses at Normandy should shame those who make such claims." — 2018 Letter
+Schumpeter's **creative destruction** acknowledged: Berkshire is not immune. "Capitalism is all about [creative destruction]." Markets can swing wildly (S&P −18.1% in 2022 while Berkshire +4.0%), but the long-term math favors patient owners of wonderful businesses[^32].
 
-**[2019 Letter]** Retained earnings power traced from Edgar Lawrence Smith (1924) through Keynes: "there is an element of compound interest operating in favour of a sound industrial investment." The stocks-as-speculation era ended when investors woke up to retained earnings. "Today, school children learn what Keynes termed 'novel': combining savings with compound interest works wonders."
+**[2023 Letter]** The sharpest warning about market speculation: **"The casino now resides in many homes and daily tempts the occupants."** Wall Street incentives unchanged — "Whatever you do, don't 'sit on your hands.' Activity is the friend of the advisor — never the friend of the client."
 
-Warning on long-term equity returns: "equities will over time perform far better than long-term, fixed-rate debt instruments" — but "Anything can happen to stock prices tomorrow. Occasionally, there will be major drops in the market, perhaps of 50% magnitude or even greater." For the undisciplined: "Beware!"
+Coke and AmEx as the **Rip Van Winkle** case: Berkshire "did not buy or sell a share of either" for 20+ years. Both increased earnings and dividends. "The lesson: When you find a truly wonderful business, stick with it. **Patience pays**, and one wonderful business can offset the many mediocre decisions that are inevitable."
 
-**[2020 Letter]** **"Never bet against America"** — the culminating statement of optimism threaded through all three letters. American entrepreneurship celebrated through Berkshire's own portfolio: Omaha (National Indemnity, NFM), Knoxville (Clayton, Pilot Flying J), Washington (GEICO), Los Angeles (See's). "There has been no incubator for unleashing human potential like America."
+Market context: +15.8% in 2023. Buffett acknowledges "no possibility of eye-popping performance" at Berkshire's scale — but the purpose isn't performance; it's preservation of the partnership for the million-plus individual shareholders who "simply trust us." The Bertie thought experiment: an investor who did nothing but buy an S&P 500 index and sleep for decades would wake up very wealthy[^33].
 
-**Phil Fisher's restaurant analogy** applied to Berkshire's investor relations: a restaurant serving hamburgers and Coke for 56 years should not suddenly offer French cuisine. "We cherish the clientele this fare has attracted."
+[^31]: [2021 Letter](../sources/buffett-letter-2021.md) — efficient markets "only in textbooks"; value investing tautology; 20.1% CAGR; business-pickers
 
-**Partnership philosophy deepened:** Five ownership buckets — founder (Buffett), index funds (automatic), active institutional, active individual, and long-term partners ("million-plus individual investors who simply trust us"). Stan Truhlsen, 100 years old, original Emdee, Ltd. partner from 1959 — still holding Berkshire shares. "Could it be that Berkshire ownership fosters longevity?"
+[^32]: [2022 Letter](../sources/buffett-letter-2022.md) — weeds/flowers; one decision/5 years; Secret Sauce patience; Schumpeter creative destruction; −18.1% S&P vs +4.0% BRK
 
-**Productive assets vs speculation:** "A patient and level-headed monkey, who constructs a portfolio by throwing 50 darts at a board listing all of the S&P 500, will — over time — enjoy dividends and capital gains, just as long as it never gets tempted to make changes." Wall Streeters "do not work for peanuts" — expenses are their income[^28][^29][^30].
-
-[^28]: [2018 Letter](../sources/buffett-letter-2018.md) — American Tailwind; $114.75→$606,811; gold $4,200; 1% fee halves return; $108T household wealth; Normandy; Christopher Wren
-
-[^29]: [2019 Letter](../sources/buffett-letter-2019.md) — Smith/Keynes retained earnings; equities > bonds long-term; 50% drop warning; "Beware!"
-
-[^30]: [2020 Letter](../sources/buffett-letter-2020.md) — "never bet against America"; five ownership buckets; Phil Fisher restaurant; Stan Truhlsen 100; monkey/darts; productive assets
+[^33]: [2023 Letter](../sources/buffett-letter-2023.md) — "casino in many homes"; Rip Van Winkle; patience pays; Bertie thought experiment; no eye-popping performance

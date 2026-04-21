@@ -9,9 +9,12 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-21
-updated: 2026-04-22
+updated: 2026-04-21
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
 ---
 
@@ -140,3 +143,27 @@ Since Berkshire's acquisition: **$41B invested** in fixed assets ($20B above dep
 BNSF + BHE combined 2020 earnings: **$8.3B** (up from $4.2B in 2011, Berkshire's first full year of BNSF ownership)[^9].
 
 [^9]: [2018 Letter](../sources/buffett-letter-2018.md) & [2020 Letter](../sources/buffett-letter-2020.md) — two redwoods $9.3B; 15% ton-miles; 390 antecedents; $41B invested/$41.8B dividends; Katie Farmer CEO; 23K miles; +2.9pp margin on -7% volume
+
+### 2021-2023: Record Earnings, Capital-Intensive Reality, and Margin Erosion
+
+**[2021 Letter]** BNSF posts **record $6B earnings** ("the old-fashioned sort: calculated after interest, taxes, depreciation, amortization and all forms of compensation"). Trains traveled **143 million miles** carrying **535 million tons** of cargo — both far exceeding any other American carrier. Warning: "Deceptive 'adjustments' to earnings have become both more frequent and more fanciful as stocks have risen. Speaking less politely, I would say that bull markets breed bloviated bull…"
+
+BNSF named as one of the **"Four Giants"** (alongside insurance, Apple, and BHE): "an indispensable asset for America as well as for Berkshire." Carbon advantage: moving freight by truck would cause carbon emissions to "soar." Prediction: **"BNSF will be a key asset for Berkshire and our country a century from now."**
+
+BNSF acquisition origin story retold: TTI's Fort Worth location led to a 2009 board meeting there. Buffett met BNSF CEO Matt Rose for the first time on Oct 22, 2009 — coinciding with a disappointing Q3 earnings release. "The market reacted badly... Wall Street wasn't feeling friendly to railroads." Eleven days later: firm deal announced[^10].
+
+**[2022 Letter]** BNSF earns **$5.9B** — one of only two Berkshire businesses that would individually qualify for the S&P 500 (along with BHE at $4.3B). Listed among Berkshire's "ten controlled and non-controlled behemoths" that leave it "more broadly aligned with the country's economic future than any other U.S. company"[^11].
+
+**[2023 Letter]** The most candid assessment of BNSF's economics. Key figures: **23,759 miles** of main track, **99 tunnels, 13,495 bridges, 7,521 locomotives** — carried at **$70B** on the balance sheet but with estimated **$500B+ replacement cost** and "decades" to replicate.
+
+The capital-intensive reality: BNSF "must annually spend more than its depreciation charge to simply maintain its present level of business." Over 14 years of Berkshire ownership, spending above GAAP depreciation totaled **$22 billion** (~$1.5B/year). This means dividends to Berkshire "regularly fall considerably short of BNSF's reported earnings" unless debt is increased — "and that we do not intend to do."
+
+Earnings: **$5.1B** (down from $5.9B). **Profit margins slipped relative to all five** other major North American railroads. Revenues fell; Washington-promulgated wage increases "far beyond the country's inflation goals." Labor challenges: "a growing percentage of Americans are not looking for the difficult, and often lonely, employment conditions inherent in some rail operations." Rail suicides: **~once per day** in North America.
+
+Despite all this: "A century from now, BNSF will continue to be a major asset of the country and of Berkshire. You can count on that"[^12].
+
+[^10]: [2021 Letter](../sources/buffett-letter-2021.md) — record $6B; 143M miles/535M tons; Four Giants; carbon advantage; BNSF acquisition origin via TTI; century prediction
+
+[^11]: [2022 Letter](../sources/buffett-letter-2022.md) — $5.9B; S&P 500 member equivalent; ten behemoths
+
+[^12]: [2023 Letter](../sources/buffett-letter-2023.md) — $5.1B; $70B book/$500B+ replacement; $22B over-depreciation/14 years; margin erosion vs. peers; labor/wage challenges; rail suicides; century prediction repeated

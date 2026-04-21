@@ -23,9 +23,11 @@ sources:
     buffett-letter-2017,
     buffett-letter-2019,
     buffett-letter-2020,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 updated: 2026-04-21
 status: draft
 tags: [management, corporate-governance]
@@ -147,3 +149,35 @@ Charlie's blueprint restated: "Forget what you know about buying fair businesses
 **[2020 Letter]** Munger, now 97, participates in the **annual meeting from Los Angeles** (COVID pivot). He and Buffett maintain the partnership publicly despite distance. At the heart of the 2020 letter: "Never bet against America" — a sentiment Munger has reinforced throughout his decades of co-leadership. The letter's emphasis on American entrepreneurship (origin stories of Omaha, Knoxville, Washington businesses) carries Munger's characteristic historical lens[^8].
 
 [^8]: [2019 Letter](../sources/buffett-letter-2019.md) & [2020 Letter](../sources/buffett-letter-2020.md) — "urgent zone" at 95/88→97/90; five succession factors; 99% net worth; LA meeting; "never bet against America"
+
+### 2022: Wisdom Collection
+
+**[2022 Letter]** A long collection of Munger aphorisms — likely his last major appearance in the letters:
+
+> "The world is full of foolish gamblers, and they will not do as well as the patient investor." — 2022 Letter
+
+> "All I want to know is where I'm going to die, so I'll never go there." — 2022 Letter
+
+> "A great company keeps working after you are not; a mediocre company won't do that." — 2022 Letter
+
+> "There is no such thing as a 100% sure thing when investing. Thus, the use of leverage is dangerous. A string of wonderful numbers times zero will always equal zero. Don't count on getting rich twice." — 2022 Letter
+
+Buffett's tribute: "I never have a phone call with Charlie without learning something. And, while he makes me think, he also makes me laugh." His rule: "Find a very smart high-grade partner — preferably slightly older than you — and then listen very carefully to what he says." Munger and Buffett "hated railroad stocks for decades, but the world changed" — an implicit confession that the BNSF purchase required them to overcome decades of ingrained skepticism[^9].
+
+### 2023: Death and the Architect Tribute
+
+**[2023 Letter]** Charlie Munger died **November 28, 2023**, just 33 days before his 100th birthday. The letter opens with a full-page tribute — the longest personal section in any Buffett letter.
+
+Buffett names Munger **"the architect" of Berkshire**, himself as **"the general contractor"**:
+
+> "In reality, Charlie was the 'architect' of the present Berkshire, and I acted as the 'general contractor' to carry out the day-by-day construction of his vision." — 2023 Letter
+
+Munger's pivotal 1965 advice, delivered without a dime invested in Berkshire: **"Warren, forget about ever buying another company like Berkshire. But now that you control Berkshire, add to it wonderful businesses purchased at fair prices and give up buying fair businesses at wonderful prices. In other words, abandon everything you learned from your hero, Ben Graham. It works but only when practiced at small scale."**
+
+Buffett's confession: "With much back-sliding I subsequently followed his instructions." Munger "repeatedly jerked me back to sanity when my old habits surfaced." Their relationship: "part older brother, part loving father." When Buffett blundered, Munger "never — never — reminded me of my mistake."
+
+Biographical details: born and raised in Omaha (like Buffett), ~2 miles from the annual meeting venue. Lived under **15 of America's 45 presidents**. Spent 80% of his life outside Omaha; the two first met in 1959 when Munger was 35. In 1962, Munger took up money management; three years later told Buffett his Berkshire purchase was "dumb." The partnership lasted from the mid-1960s until Munger's death — nearly 60 years[^10].
+
+[^9]: [2022 Letter](../sources/buffett-letter-2022.md) — wisdom collection; 14+ aphorisms; leverage/zero; railroads confession; partner rule
+
+[^10]: [2023 Letter](../sources/buffett-letter-2023.md) — died Nov 28, 2023 (age 99); architect/contractor; 1965 advice (abandon Graham at scale); "never reminded me of my mistake"; born Omaha; 15 presidents

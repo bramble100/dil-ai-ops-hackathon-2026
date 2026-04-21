@@ -16,10 +16,20 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2019,
+    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
+    buffett-letter-2019,
+    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 source_count: 13
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 tags: [entity, utilities, energy, acquisition]
 ---
 
@@ -266,3 +276,59 @@ Iowa residential rates: <1%/year increase since 2000 (8.8¢ kWh). Competitor: **
 BHE **never paid a dividend** on common stock in 21 years of ownership. "The country's electric utilities need a massive makeover in which the ultimate costs will be staggering." Berkshire's US PP&E: **$154B** (#1, AT&T $127B #2). BHE + BNSF combined earnings: **$8.3B** (2020) vs. $4.2B (2011)[^18].
 
 [^18]: [2019 Letter](../sources/buffett-letter-2019.md) & [2020 Letter](../sources/buffett-letter-2020.md) — 20th anniversary; Iowa wind self-sufficiency 2021; <1%/yr rates; 61% competitor gap; $28B retained; $100B+ ready; $18B grid; $154B PP&E; no dividends ever
+
+### 2021: Record $4B, Renewable Powerhouse, Greg Abel's Leadership
+
+**[2021 Letter]** BHE earns a **record $4 billion** — up more than **30-fold** from $122M in 2000. Berkshire now owns **91.1%**. Under David Sokol's and **Greg Abel's** leadership, BHE has become "a utility powerhouse and a leading force in wind, solar and transmission throughout much of the United States." BHE has been detailing plans and performance in renewables every year since 2007 — "not in any way one of those currently-fashionable 'green-washing' stories."
+
+BHE named as one of the **"Four Giants"** alongside insurance, Apple, and BNSF. "BHE has the management, the experience, the capital and the appetite for the huge power projects that our country needs"[^19].
+
+### 2022: $4.3B and S&P 500 Equivalent
+
+**[2022 Letter]** BHE earns **$4.3B** — would independently qualify for S&P 500 membership. Combined with BNSF ($5.9B), these two account for more than 30% of Berkshire's operating earnings[^20].
+
+### 2023: Wildfire Crisis, Regulatory Reckoning, and Public-Power Threat
+
+**[2023 Letter]** The most serious operational crisis in BHE's history. Earnings drop to **$2.3B** (from $4.3B). "Most of its large electric-utility businesses, as well as its extensive gas pipelines, performed about as expected. But the regulatory climate in a few states has raised the specter of zero profitability or even bankruptcy."
+
+The broken compact: for over a century, utilities operated under a state-by-state promise of a fixed return on equity. "Now, the fixed-but-satisfactory-return pact has been broken in a few states." Climate change compounds the problem — wildfire frequency and intensity "have increased — and will likely continue to increase." Final losses unknown; "many years" before the tally is complete.
+
+BHE's multi-state western transmission project (initiated 2006) remains years from completion — will eventually serve **10 states comprising 30% of continental US acreage**. But: "Underground transmission may be required but who, a few decades ago, wanted to pay the staggering costs?"
+
+Buffett's confession: "I did not anticipate or even consider the adverse developments in regulatory returns and, along with Berkshire's two partners at BHE, I made a costly mistake in not doing so."
+
+The ominous conclusion: "Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model. Nebraska made this choice in the 1930s." BHE and Berkshire are "structured to survive negative surprises" but "will not knowingly throw good money after bad"[^21].
+
+[^19]: [2021 Letter](../sources/buffett-letter-2021.md) — record $4B (+30x from 2000); 91.1% ownership; Greg Abel; Four Giants; renewable powerhouse
+
+[^20]: [2022 Letter](../sources/buffett-letter-2022.md) — $4.3B; S&P 500 equivalent; >30% of operating earnings
+
+[^21]: [2023 Letter](../sources/buffett-letter-2023.md) — $2.3B (down from $4.3B); wildfire losses; regulatory broken compact; zero-profitability specter; public-power model; western transmission 10 states/30%; Buffett's mistake confession
+
+### 2021: Record $4B, Renewable Powerhouse, Greg Abel's Leadership
+
+**[2021 Letter]** BHE earns a **record $4 billion** — up more than **30-fold** from $122M in 2000. Berkshire now owns **91.1%**. Under David Sokol's and **Greg Abel's** leadership, BHE has become "a utility powerhouse and a leading force in wind, solar and transmission throughout much of the United States." BHE has been detailing plans and performance in renewables every year since 2007 — "not in any way one of those currently-fashionable 'green-washing' stories."
+
+BHE named as one of the **"Four Giants"** alongside insurance, Apple, and BNSF. "BHE has the management, the experience, the capital and the appetite for the huge power projects that our country needs"[^19].
+
+### 2022: $4.3B and S&P 500 Equivalent
+
+**[2022 Letter]** BHE earns **$4.3B** — would independently qualify for S&P 500 membership. Combined with BNSF ($5.9B), these two account for more than 30% of Berkshire's operating earnings[^20].
+
+### 2023: Wildfire Crisis, Regulatory Reckoning, and Public-Power Threat
+
+**[2023 Letter]** The most serious operational crisis in BHE's history. Earnings drop to **$2.3B** (from $4.3B). "Most of its large electric-utility businesses, as well as its extensive gas pipelines, performed about as expected. But the regulatory climate in a few states has raised the specter of zero profitability or even bankruptcy."
+
+The broken compact: for over a century, utilities operated under a state-by-state promise of a fixed return on equity. "Now, the fixed-but-satisfactory-return pact has been broken in a few states." Climate change compounds the problem — wildfire frequency and intensity "have increased — and will likely continue to increase." Final losses unknown; "many years" before the tally is complete.
+
+BHE's multi-state western transmission project (initiated 2006) remains years from completion — will eventually serve **10 states comprising 30% of continental US acreage**. But: "Underground transmission may be required but who, a few decades ago, wanted to pay the staggering costs?"
+
+Buffett's confession: "I did not anticipate or even consider the adverse developments in regulatory returns and, along with Berkshire's two partners at BHE, I made a costly mistake in not doing so."
+
+The ominous conclusion: "Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model. Nebraska made this choice in the 1930s." BHE and Berkshire are "structured to survive negative surprises" but "will not knowingly throw good money after bad"[^21].
+
+[^19]: [2021 Letter](../sources/buffett-letter-2021.md) — record $4B (+30x from 2000); 91.1% ownership; Greg Abel; Four Giants; renewable powerhouse
+
+[^20]: [2022 Letter](../sources/buffett-letter-2022.md) — $4.3B; S&P 500 equivalent; >30% of operating earnings
+
+[^21]: [2023 Letter](../sources/buffett-letter-2023.md) — $2.3B (down from $4.3B); wildfire losses; regulatory broken compact; zero-profitability specter; public-power model; western transmission 10 states/30%; Buffett's mistake confession

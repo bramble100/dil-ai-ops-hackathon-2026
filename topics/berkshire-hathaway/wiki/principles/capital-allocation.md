@@ -43,12 +43,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
-    buffett-letter-2018,
-    buffett-letter-2019,
-    buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [capital-allocation, buybacks, valuation, principle]
 ---
@@ -847,36 +847,26 @@ Equity capital: **$349B** (2018) — unmatched. Deferred taxes $50.5B interest-f
 
 [^30]: [2020 Letter](../sources/buffett-letter-2020.md) — conglomerate defense; two strings; four jewels; $24.7B repurchases (5.2%); Apple 10% compounding; PCC $11B mistake; Mae West
 
-### Five Groves, Book Value Abandoned, and Conglomerate Defense (2018-2020)
+### Three Paths, Buyback Supremacy, and Scale Constraints (2021-2023)
 
-**[2018 Letter]** Buffett introduces the **"five groves" framework** for Berkshire's intrinsic value: (1) non-insurance businesses ($16.8B after-tax), (2) equities ($173B), (3) shared-control companies ($1.3B), (4) cash and fixed-income ($132B), (5) insurance/float. "At Berkshire, the whole is greater — considerably greater — than the sum of the parts." The assembly enables seamless capital allocation, enterprise risk elimination, and exceptionally low funding costs.
+**[2021 Letter]** Buffett articulates the definitive **three paths** for capital deployment: (1) reinvest in controlled businesses, (2) buy new businesses, (3) repurchase Berkshire stock. Path (3) dominates: **$51.7B in share buybacks** since 2018, reducing shares by **~9%**. Float per A-share increases 25% to $99,497 — partially from float growth, partially from fewer shares.
 
-**Book value per share ABANDONED** as lead metric after 54 years. Three reasons: Berkshire morphed from marketable-stock company to operating-business company; accounting carries operating companies "far below their current value"; repurchases above book but below intrinsic value widen the gap. Future tabulations will focus on **market price**.
+Buffett's declaration: "We are **business-pickers — not stock-pickers**." The emphasis on "value investing" is redundant — "Who wants to invest in a stock they believe is overvalued?" PP&E stands at **$158B** (#1 in the US). The market's CAGR of **20.1%** in 2021 runs well ahead of business value growth.
 
-**$20B minimum cash pledge:** "I will never risk getting caught short of cash." Berkshire also pledged to "avoid any activities that could threaten our maintaining that buffer."
+Tax partnership celebrated: Berkshire paid **$3.3B in income taxes** in 2021 — a single taxpayer funding the IRS for more than 1,000 hours' worth of operations[^31].
 
-**"Never sell wonderful businesses":** "It would be foolish for us to sell any of our wonderful companies even if no tax would be payable on its sale. Truly good businesses are exceptionally hard to find."
+**[2022 Letter]** **Alleghany acquisition** — Berkshire deploys capital via business acquisition (path 2), adding $17B of float. But Buffett reemphasizes that opportunities for all three paths remain scarce at Berkshire's scale: **"One good decision every five years"** is sufficient if it's a truly great one.
 
-Equity purchases: **$43B** bought, $19B sold — stocks offered "far more for our money than we could obtain by purchasing businesses in their entirety." Prices "sky-high" for whole businesses.
+Record **operating earnings of $30.8B** demonstrate the power of retained capital compounding. Apple repurchases continue to increase Berkshire's ownership percentage at zero cost — the same Mae West "wonderful" dynamic. Berkshire is **largest owner of 8 S&P 500 companies** through patient accumulation[^32].
 
-**[2019 Letter]** Three acquisition criteria restated: (1) good returns on net tangible capital, (2) able and honest managers, (3) sensible price. Acquisitions likened to **marriage**: "They start with a joyful wedding — but then reality tends to diverge from pre-nuptial expectations." Many have caused Buffett to "wonder what I was thinking when I proposed."
+**[2023 Letter]** The sobering reality of scale: **"There is no possibility of eye-popping performance."** Berkshire's $561B GAAP net worth (largest in US corporate history) means the denominator is simply too large. "We have some huge advantages, but size is not among them."
 
-**$5B in share repurchases** (~1% of company). Criteria: (a) selling below intrinsic value and (b) ample cash remaining. "We will not, however, prop the stock at any level."
+Capital deployment in 2023: OXY (27.8% + warrants), five Japanese trading companies (9% each, funded by ¥1.3 trillion in yen-denominated bonds), continued buybacks. But the emphasis shifts to humility: only "a handful of companies" can meaningfully move the needle.
 
-Succession: "Charlie and I long ago entered the urgent zone." Five factors for optimism listed. Buffett's **99% of net worth** in BRK; will directs executors not to sell; 12-15 year distribution period.
+Operating earnings hit a new record of **$37.4B**. Total taxes paid in the decade: **$32B** — "about one-tenth of one percent of all money that the Treasury collected" yet meaningful at individual-company scale[^33].
 
-**[2020 Letter]** The definitive **conglomerate defense**. Traditional conglomerates failed because: (a) great businesses wouldn't sell, forcing purchases of so-so companies; (b) overvalued stock used as currency — "I'll pay you $10,000 for your dog by giving you two of my $5,000 cats." Berkshire's **"two strings to our bow"** — controlled + non-controlled ownership — overcomes these structural flaws.
+[^31]: [2021 Letter](../sources/buffett-letter-2021.md) — three paths; $51.7B buybacks (9%); business-pickers not stock-pickers; $158B PP&E; float per share $99,497; $3.3B taxes
 
-**Four "family jewels"**: (1) P/C insurance, (2) BNSF, (3) Apple 5.4%, (4) BHE 91%. "Most of Berkshire's value resides in four businesses."
+[^32]: [2022 Letter](../sources/buffett-letter-2022.md) — Alleghany; one decision/5 years; $30.8B operating earnings; #1 owner of 8 S&P 500 companies; Apple compounding
 
-**$24.7B in share repurchases** — 80,998 A-share equivalents, reducing shares by **5.2%**. "American CEOs have an embarrassing record of devoting more company funds to repurchases when prices have risen than when they have tanked. Our approach is exactly the reverse." Apple repurchase compounding: Berkshire's 5.2% → 5.4% (costless via Apple buybacks); combined with BRK buybacks, shareholders own **10% more Apple** than in July 2018. Mae West: "Too much of a good thing can be... wonderful."
-
-**PCC mistake confession:** "I paid too much for the company" — $11B writedown on Precision Castparts due to aerospace downturn. "No one misled me... I was simply too optimistic about PCC's normalized profit potential." "PCC is far from my first error of that sort. But it's a big one." Mark Donegan remains as CEO and "pours the same energy into the business."
-
-Equity capital: **$349B** (2018) — unmatched. Deferred taxes $50.5B interest-free. Berkshire's four funding sources: debt (sparingly), equity (retained), float (free or better), deferred taxes (interest-free)[^28][^29][^30].
-
-[^28]: [2018 Letter](../sources/buffett-letter-2018.md) — five groves; book value abandoned; $20B cash pledge; $43B equities; never sell wonderful businesses; $349B equity; four funding sources
-
-[^29]: [2019 Letter](../sources/buffett-letter-2019.md) — marriage analogy; $5B repurchases; three criteria; succession "urgent zone"; 99% net worth in BRK
-
-[^30]: [2020 Letter](../sources/buffett-letter-2020.md) — conglomerate defense; two strings; four jewels; $24.7B repurchases (5.2%); Apple 10% compounding; PCC $11B mistake; Mae West
+[^33]: [2023 Letter](../sources/buffett-letter-2023.md) — $561B net worth; no eye-popping performance; OXY + Japanese companies; $37.4B operating earnings; $32B decade taxes; handful of companies

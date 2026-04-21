@@ -2,9 +2,9 @@
 title: "Pilot Flying J"
 type: entity
 entity_kind: subsidiary
-sources: [buffett-letter-2017, buffett-letter-2020]
-created: 2026-04-21
-updated: 2026-04-22
+sources: [buffett-letter-2017, buffett-letter-2020, buffett-letter-2021]
+created: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [acquisition, partnership, retail, energy]
 ---
@@ -32,3 +32,9 @@ The Pilot Flying J deal illustrates several Berkshire principles:
 ## Sources
 
 [^1]: [2017 Letter](../sources/buffett-letter-2017.md) — 38.6% partnership interest; Haslam family retains management; ~80% by 2023; $20B+ revenue
+
+### 2021: $45B Revenue and Path to 80%
+
+**[2021 Letter]** Pilot Corp had revenues of **$45 billion** in 2021. Berkshire holds **38.6%** and will purchase an additional interest in early 2023, raising ownership to **80%**, at which point Pilot's earnings, assets, and liabilities will be fully consolidated into Berkshire's financial statements[^2].
+
+[^2]: [2021 Letter](../sources/buffett-letter-2021.md) — $45B revenue; 38.6%→80% by early 2023; full consolidation

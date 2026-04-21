@@ -33,9 +33,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [valuation, principle, mental-model]
 ---
@@ -324,3 +327,25 @@ The **Pilot Flying J partnership** (38.6% initially, becoming ~80% in 2023) illu
 [^19]: [2019 Letter](../sources/buffett-letter-2019.md) — GUARD as quiet filter application; three criteria restated
 
 [^20]: [2020 Letter](../sources/buffett-letter-2020.md) — PCC filter (4) failure; $11B writedown; non-controlling > full ownership sometimes
+
+### Scale Constraint, OXY, Japanese Companies, and "One Decision Every Five Years" (2021-2023)
+
+**[2021 Letter]** The **scale constraint** on filter application: with $158B in PP&E and the largest US equity portfolio, there are "very few businesses" large enough to move the needle. The pool of candidates passing all four filters shrinks as Berkshire grows. "We are business-pickers — not stock-pickers" — but the business must be big enough to matter.
+
+TTI demonstrates that filter (3) — management quality — remains paramount. Paul Andrews never took a raise, silently donated to charities, and built $7.7B in revenue from scratch. "We can also dream of a magic purchase. In the meantime, it's job #1 to control/improve our many businesses"[^21].
+
+**[2022 Letter]** **"One good decision every five years"** — the most explicit statement of how rarely filters (1)-(4) align at mega-scale. Alleghany passes all four: understandable (insurance), durable (regulated industry with float dynamics), trusted management (Joe Brandon), and sensible price (relationship deal, not auction).
+
+Filter (4) in securities: Berkshire becomes **largest owner of 8 S&P 500 companies** — Coke, AmEx, OXY, Kraft Heinz, Moody's, HP, Paramount (later reduced), and Activision. All passed the filters at purchase; patience does the rest[^22].
+
+**[2023 Letter]** **Occidental Petroleum** illustrates modern filter application: (1) understandable (oil & gas, carbon capture), (2) favorable prospects (US energy independence, CO2 reduction technology), (3) excellent management (Vicki Hollub's debt repayment and environmental focus), (4) accumulated at attractive prices. 27.8% + warrants.
+
+**Five Japanese trading companies** — 9% each in Itochu, Marubeni, Mitsubishi, Mitsui, Sumitomo. "Somewhat similar to Berkshire itself" — diversified, well-managed, shareholder-friendly. Funded via yen bonds (near-zero cost, currency-hedged). Filter application across geographies.
+
+The honest confession: "no possibility of eye-popping performance." At $561B net worth, even perfect filter application can't produce the early returns. The handful of companies capable of moving the needle is small and shrinking — but a few excellent decisions per decade still compound enormously[^23].
+
+[^21]: [2021 Letter](../sources/buffett-letter-2021.md) — scale constraint; $158B PP&E; business-pickers; TTI management quality; Paul Andrews
+
+[^22]: [2022 Letter](../sources/buffett-letter-2022.md) — one decision/5 years; Alleghany passes all four; largest owner 8 S&P 500 companies
+
+[^23]: [2023 Letter](../sources/buffett-letter-2023.md) — OXY filter application; Japanese companies 9% each; no eye-popping performance; handful of companies; $561B constraint

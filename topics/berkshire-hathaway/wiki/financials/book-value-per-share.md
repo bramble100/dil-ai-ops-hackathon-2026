@@ -35,6 +35,9 @@ sources:
     buffett-letter-2006,
     buffett-letter-2011,
     buffett-letter-2012,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
 updated: 2026-04-21
@@ -169,6 +172,9 @@ _Caveat on 1998:_ The 48.3% gain materially overstates per-share intrinsic value
 
 - **[2019 Letter]** Market price per share: **+11.0%** (vs. S&P 500 +31.5%). GAAP: $81.4B (“1,900% increase”) — driven entirely by $53.7B unrealized equity gains, proving the 2017 warning correct.
 - **[2020 Letter]** Market price per share: **+2.4%** (vs. S&P 500 +18.4%). GAAP: $42.5B (including $11B PCC writedown). Operating earnings: $21.9B (−9%). The book value table is no longer published as Berkshire's lead performance measure.
+- **[2021 Letter]** Market price per share: **+29.6%** (vs. S&P 500 +28.7%). Operating earnings: $27.6B. PP&E: $158B (#1 in US). Overall CAGR since 1965: **20.1%** (vs. S&P 10.5%). "Beyond anything Charlie and I dreamed of" — but far exceeding underlying business growth.
+- **[2022 Letter]** Market price per share: **+4.0%** (vs. S&P 500 −18.1%). Operating earnings: record $30.8B. GAAP net: $22.8B (including $53.6B unrealized equity losses). Berkshire's relative outperformance — +22pp vs. S&P — demonstrates resilience in bear markets.
+- **[2023 Letter]** Market price per share: **+15.8%** (vs. S&P 500 +26.3%). Operating earnings: record $37.4B. GAAP net worth: **$561B** (largest in US corporate history). "No possibility of eye-popping performance" — the denominator is simply too large.
 
 _The book value per share series (1964-2017) remains the canonical historical record of Berkshire's compounding. Post-2018, market price per share is the primary tracking metric._
 

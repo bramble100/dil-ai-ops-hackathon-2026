@@ -2,7 +2,7 @@
 title: "Buffett's Greatest Quotes"
 type: overview
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [principle, mental-model, anecdote]
 ---
 
@@ -1433,3 +1433,75 @@ Memorable passages organized by theme. Each quote includes year, context, and li
 > "A patient and level-headed monkey, who constructs a portfolio by throwing 50 darts at a board listing all of the S&P 500, will — over time — enjoy dividends and capital gains, just as long as it never gets tempted to make changes in its original 'selections.'" — 2020 Letter
 >
 > Context: On the superiority of passive investing — Wall Street's fees are their income, your expense. → [Mr. Market](principles/mr-market.md)
+
+### Business-Pickers, Not Stock-Pickers (2021)
+
+> "We are not stock-pickers; we are business-pickers." — 2021 Letter
+>
+> Context: Buffett dismisses "value investing" as a tautology. → [Capital Allocation](principles/capital-allocation.md)
+
+### Four Giants (2021)
+
+> "We count on these four to generate a large portion of the value that Berkshire offers." — 2021 Letter
+>
+> Context: Insurance, Apple, BNSF, BHE named as the "Four Giants" — Berkshire's core pillars. → [Business Quality](principles/business-quality.md)
+
+### Tax Partnership (2021)
+
+> "If, say, there were only 535 taxpayers like Berkshire in the US, no other individuals or companies would need to pay any federal income or gift taxes." — 2021 Letter
+>
+> Context: On Berkshire's outsized tax contribution ($3.3B in 2021). → [Capital Allocation](principles/capital-allocation.md)
+
+### The Weeds and Flowers (2022)
+
+> "The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders." — 2022 Letter
+>
+> Context: On the patience that produced $25B from $1.3B (Coke) and $22B from $1.3B (AmEx). → [Mr. Market](principles/mr-market.md)
+
+### One Good Decision Every Five Years (2022)
+
+> "Since we began, our shareholders have prospered mightily — not because of any particular Berkshire decision made every day, month, or even year. What has really counted was one or two truly good decisions made in each of, say, five-year periods." — 2022 Letter
+>
+> Context: On the rarity and power of great capital allocation decisions. → [Four Filters](principles/four-filters.md)
+
+### Munger's Partner Rule (2022)
+
+> "Charlie would insist on my including a sentence: 'Ben was right — having a wonderful partner in life is the most important choice any of us can make.'" — 2022 Letter
+>
+> Context: Attributed to Munger — on the primacy of partnership. → [Charlie Munger](entities/charlie-munger.md)
+
+### Bold, Imaginative Accounting (2022)
+
+> "You can be certain that any advisor who pursues bold, imaginative accounting is not your friend." — 2022 Letter (Munger)
+>
+> Context: From Munger's curated wisdom collection on the limits of accounting. → [Owner Earnings](principles/owner-earnings.md)
+
+### The Architect (2023)
+
+> "In reality, Charlie was the 'architect' of the present Berkshire, and I acted as the 'general contractor' to carry out the day-by-day construction of his vision." — 2023 Letter
+>
+> Context: Buffett's tribute after Munger's death (Nov 28, 2023, age 99). → [Charlie Munger](entities/charlie-munger.md)
+
+### Casino in Many Homes (2023)
+
+> "The casino now resides in many homes and daily tempts the occupants." — 2023 Letter
+>
+> Context: On speculation — Wall Street's incentives to encourage activity over patience. → [Mr. Market](principles/mr-market.md)
+
+### Patience Pays (2023)
+
+> "When you find a truly wonderful business, stick with it. Patience pays, and one wonderful business can offset the many mediocre decisions that are inevitable." — 2023 Letter
+>
+> Context: On Coke and AmEx — 20+ years of "Rip Van Winkle" inaction. → [Mr. Market](principles/mr-market.md)
+
+### No Eye-Popping Performance (2023)
+
+> "There is no possibility of eye-popping performance." — 2023 Letter
+>
+> Context: The sobering reality of managing $561B — the largest GAAP net worth in US corporate history. → [Capital Allocation](principles/capital-allocation.md)
+
+### BHE Mistake Confession (2023)
+
+> "I did not anticipate or even consider the adverse developments in regulatory returns and, along with Berkshire's two partners at BHE, I made a costly mistake in not doing so." — 2023 Letter
+>
+> Context: Buffett's confession about failing to foresee the regulatory reckoning in western utilities. → [MidAmerican Energy](entities/midamerican-energy.md)

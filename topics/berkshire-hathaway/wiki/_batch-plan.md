@@ -120,9 +120,9 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 ### Batch 23 — 2021-2023 (~1,950 lines)
 
-- [ ] buffett-letter-2021.md
-- [ ] buffett-letter-2022.md
-- [ ] buffett-letter-2023.md
+- [x] buffett-letter-2021.md
+- [x] buffett-letter-2022.md
+- [x] buffett-letter-2023.md
 
 ### Batch 24 — 2024-2025 (~1,790 lines)
 

@@ -2,9 +2,9 @@
 title: "TTI, Inc."
 type: entity
 entity_kind: company
-sources: [buffett-letter-2006]
+sources: [buffett-letter-2006, buffett-letter-2021]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [acquisition, distribution, mega-cap-era]
 ---
@@ -41,3 +41,15 @@ Berkshire offered the fourth option: permanent ownership with the founder contin
 ## Sources
 
 [^1]: [2006 Letter](../sources/buffett-letter-2006.md) — Paul Andrews; $1.3B revenue; John Roach referral; rejected strategic/PE buyers; morning deal
+
+### 2021: Paul Andrews Dies — $7.7B Revenue, 8,043 Employees, and the BNSF Connection
+
+**[2021 Letter]** Paul Andrews died in 2021, prompting Buffett's longest tribute to a subsidiary CEO. The full arc: from $500 of savings and $112,000 in first-year sales (1971) to **$7.7B annual revenue** and **8,043 employees** (up from 2,387 at acquisition). **Earnings increased 673%**.
+
+Buffett reveals that TTI directly led to Berkshire's most important acquisition: BNSF. Every fall, Berkshire's board visits a recent acquisition. In fall 2009, they chose Fort Worth (TTI's hometown), which happened to also be BNSF's headquarters. Buffett met BNSF CEO Matt Rose for the first time on October 22, 2009 — the same day as a disappointing Q3 earnings release. "The market reacted badly." The next day, Buffett proposed that Berkshire offer BNSF a permanent home. "Eleven busy days later, Berkshire and BNSF announced a firm deal."
+
+> "The BNSF acquisition would never have happened if Paul Andrews hadn't sized up Berkshire as the right home for TTI." — 2021 Letter
+
+Buffett's annual ritual: "I would call Paul and tell him his salary should be substantially increased. Annually, he would tell me, 'We can talk about that next year, Warren; I'm too busy now.'" At the memorial service, Buffett and Greg Abel learned of "the multitudes of people and organizations that Paul had silently supported"[^2].
+
+[^2]: [2021 Letter](../sources/buffett-letter-2021.md) — Paul Andrews died; $7.7B revenue; 8,043 employees; 673% earnings growth; TTI led to BNSF; memorial service

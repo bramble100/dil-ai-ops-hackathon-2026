@@ -38,9 +38,12 @@ sources:
     buffett-letter-2017,
     buffett-letter-2019,
     buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 updated: 2026-04-21
 status: draft
 tags: [insurance, management, moats]
@@ -253,3 +256,21 @@ Insurance described as **"core of Berkshire"** for 53 years. Total float: **$138
 [^18]: [2019 Letter](../sources/buffett-letter-2019.md) — GUARD $221M→$1.9B premium; 379% growth; Sy Foguel; Wilkes-Barre origins
 
 [^19]: [2020 Letter](../sources/buffett-letter-2020.md) — Ringwalt retold; $125K/1940; Omaha Central High; insurance core 53 years; float $138B
+
+### 2021-2023: Float $147B→$164B, Ajit Jain 35 Years, Alleghany, and Insurance Records
+
+**[2021 Letter]** Float grows to **$147B** (from $138B). Berkshire's 55-year underwriting record is profitable in aggregate — "this float has cost us less than nothing." Float is "very sticky" and "immune from precipitous decline." Float per share increases **25%** over two years (to **$99,497** per A-share) thanks partly to buybacks.
+
+Ajit Jain marks **35 years** at Berkshire — hired in 1986 on a Saturday morning with "none" insurance experience. "That was my lucky day: Ajit actually was as perfect a choice as could have been made. Better yet, he continues to be — 35 years later." Buffett is "certain" there will be years with large underwriting losses, but "Berkshire is constructed to handle catastrophic events as no other insurer"[^20].
+
+**[2022 Letter]** **Alleghany Corporation** acquired (captained by Joe Brandon, whom Buffett had worked with before). Float rises from **$147B to $164B** — an **8,000-fold** increase since purchasing NICO in 1967 for $8.6M. "Since purchasing our first property-casualty insurer in 1967, Berkshire's float has increased 8,000-fold through acquisitions, operations and innovations"[^21].
+
+**[2023 Letter]** Insurance sets records across the board: **$83B in premiums**, **$5.4B underwriting profit**, **$9.6B investment income**. The P/C business has grown **5,000-fold** in volume (from $17M to $83B) in 57 years. "We have learned — too often, painfully — a good deal about what types of insurance business and what sort of people to avoid." Key lesson: underwriters "can't be optimists at the office."
+
+Ajit Jain credited once more: "I've told the story of our insurance operations so many times that I will simply direct newcomers." The cast of insurance executives is compared to **"Cooperstown's honorees."** Berkshire's P/C operation now operates "worldwide with unmatched financial resources, reputation and talent"[^22].
+
+[^20]: [2021 Letter](../sources/buffett-letter-2021.md) — float $147B; 55-year net profit; float per share $99,497 (+25%); Ajit 35 years; built to handle catastrophes
+
+[^21]: [2022 Letter](../sources/buffett-letter-2022.md) — Alleghany (Joe Brandon); float $164B; 8,000-fold since 1967
+
+[^22]: [2023 Letter](../sources/buffett-letter-2023.md) — record $83B premiums/$5.4B UW profit/$9.6B investment income; 5,000-fold volume; Cooperstown comparison; optimist warning

@@ -27,9 +27,10 @@ sources:
     buffett-letter-2007,
     buffett-letter-2014,
     buffett-letter-2020,
+    buffett-letter-2022,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 updated: 2026-04-20
 status: draft
 tags: [moats, compounding, capital-allocation]
@@ -191,3 +192,13 @@ The See's case study remains the foundational teaching example: $25M purchase pr
 "Don't mess with my candy" — See's enduring brand moat. The company's competitive position after 100 years demonstrates the permanence of strong consumer brands when supported by quality product and operational consistency[^11].
 
 [^11]: [2020 Letter](../sources/buffett-letter-2020.md) — 100th year; Mary See founding; origin-stories theme; brand permanence
+
+### 2022: 101 Years and the Annual Meeting Record
+
+**[2022 Letter]** At Berkshire's first post-COVID shareholder gathering, See's staged a spectacular showing. Over two days: **2,690 sales on Friday** and **3,931 on Saturday** — about **10 sales per minute** during prime operating hours, racking up **$400,309** from a single location. Products "haven't been materially altered in 101 years."
+
+> "What worked for See's in the days of Henry Ford's model T works now." — 2022 Letter
+
+See's serves as P.T. Barnum-style proof of brand endurance: "we promised you longevity. After all, what else but candy from See's could account for Charlie and me making it to 99 and 92?"[^12]
+
+[^12]: [2022 Letter](../sources/buffett-letter-2022.md) — 101 years; $400K in 2 days; 10 sales/minute; "Henry Ford's model T"; longevity pitch

@@ -17,9 +17,11 @@ sources:
     buffett-letter-2005,
     buffett-letter-2014,
     buffett-letter-2015,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 status: draft
 tags: [investment, moats, compounding]
 ---
@@ -148,3 +150,21 @@ Dividends received continue to grow. Berkshire's yield on original cost now exce
 The 2015 productivity essay provides indirect context: consumer brands face long-term disruption from online retailing, listed as an "Important Risk" — though Coca-Cola's brand moat and global distribution remain intact[^13].
 
 [^13]: [2015 Letter](../sources/buffett-letter-2015.md) — 400M shares; 9.3%; $17.2B value on $1.3B cost; Big Four $4.7B; brand moat
+
+### 2022-2023: The Secret Sauce and Rip Van Winkle
+
+**[2022 Letter]** Coca-Cola features as the lead example in the **"Secret Sauce"** section — Buffett's most powerful illustration of patience-based compounding. The numbers: **$1.3B total cost** (completed 1994); **$25B market value** at yearend 2022. Dividends grew from **$75M (1994) to $704M (2022)** — "Growth occurred every year, just as certain as birthdays." All Buffett and Munger had to do was "cash Coke's quarterly dividend checks."
+
+The counterfactual: a $1.3B investment in a high-grade 30-year bond would now represent **0.3% of net worth** and deliver an unchanged $80M annually. Coke instead accounts for **~5% of net worth** with growing dividends. The lesson: **"The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders."**
+
+Berkshire listed as **largest owner** of Coke among the eight S&P 500 companies where it holds the #1 position[^14].
+
+**[2023 Letter]** Coke and AmEx described as a **20+ year "Rip Van Winkle slumber"** — Berkshire "did not buy or sell a share of either" in 2023. Both increased earnings and dividends again. AmEx earnings share in 2023 "considerably exceeded the $1.3 billion cost of our long-ago purchase."
+
+> "The lesson from Coke and AMEX? When you find a truly wonderful business, stick with it. Patience pays, and one wonderful business can offset the many mediocre decisions that are inevitable." — 2023 Letter
+
+Both companies "traveled" — becoming worldwide brands. "The consumption of liquids and the need for unquestioned financial trust are timeless essentials of our world"[^15].
+
+[^14]: [2022 Letter](../sources/buffett-letter-2022.md) — Secret Sauce; $1.3B→$25B; $75M→$704M dividends; weeds/flowers; #1 owner
+
+[^15]: [2023 Letter](../sources/buffett-letter-2023.md) — Rip Van Winkle 20+ years; patience pays; products "traveled"; timeless essentials

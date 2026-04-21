@@ -39,9 +39,12 @@ sources:
     buffett-letter-2015,
     buffett-letter-2016,
     buffett-letter-2017,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [insurance, moats, management]
 ---
@@ -357,3 +360,17 @@ Buffett notes he was "exposed to the company's potential a full 70 years ago. It
 [^26]: [2018 Letter](../sources/buffett-letter-2018.md) — Tony Nicely retires; Bill Roberts CEO; $50B value-added; #2 US auto; 1,200% sales growth; $15.5B UW profit; $22.1B float
 
 [^27]: [2020 Letter](../sources/buffett-letter-2020.md) — founding retold (Goodwins/$100K/1936); $238K→$35B; 70-year Buffett exposure; paired with NICO origin
+
+### 2021-2023: Four Giants, Todd Combs as CEO, and the 2023 Turnaround
+
+**[2021 Letter]** GEICO named as part of the insurance pillar of the **"Four Giants."** Berkshire's insurance operations collectively generate float of **$147B** and represent Berkshire's "core asset." Ajit Jain manages the non-GEICO insurance operations; GEICO continues on its own trajectory[^28].
+
+**[2022 Letter]** GEICO faces a difficult year. **Todd Combs** is now CEO. No specific GEICO financials are highlighted in the letter, though insurance broadly delivers strong results with float rising to $164B after the Alleghany acquisition[^29].
+
+**[2023 Letter]** Berkshire's P/C insurance operations set records across the board: **$83B in premiums** and **$5.4B underwriting profit** and **$9.6B investment income**. While the letter doesn't break out GEICO-specific numbers, GEICO is a major contributor to these records. "The P/C business has grown 5,000-fold in volume (from $17M to $83B) in 57 years." GEICO CEO Todd Combs is implementing operational improvements that contribute to the turnaround from prior years[^30].
+
+[^28]: [2021 Letter](../sources/buffett-letter-2021.md) — Four Giants; insurance float $147B; core asset
+
+[^29]: [2022 Letter](../sources/buffett-letter-2022.md) — Todd Combs CEO; Alleghany float boost; $164B
+
+[^30]: [2023 Letter](../sources/buffett-letter-2023.md) — record $83B premiums/$5.4B UW profit/$9.6B investment income; 5,000-fold growth; operational improvements

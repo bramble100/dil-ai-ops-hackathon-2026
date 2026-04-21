@@ -38,9 +38,12 @@ sources:
     buffett-letter-2018,
     buffett-letter-2019,
     buffett-letter-2020,
+    buffett-letter-2021,
+    buffett-letter-2022,
+    buffett-letter-2023,
   ]
 created: 2026-04-20
-updated: 2026-04-22
+updated: 2026-04-21
 status: draft
 tags: [moats, valuation, principle, mental-model]
 ---
@@ -509,3 +512,27 @@ Clayton + Pilot Flying J: both earn **>$1B pre-tax**; 47,000 combined employees.
 [^24]: [2019 Letter](../sources/buffett-letter-2019.md) — BNSF+BHE $8.3B; total $17.7B; Murphy maxim; acquisitions-as-marriage; Lubrizol self-insured
 
 [^25]: [2020 Letter](../sources/buffett-letter-2020.md) — four jewels; $154B PP&E; BNSF $41B/$41.8B; BHE $18B grid; Clayton+Pilot >$1B each; NFM COVID record
+
+### Four Giants, Creative Destruction, and Capital-Intensive Realities (2021-2023)
+
+**[2021 Letter]** The **"Four Giants"** framework: (1) insurance float ($147B), (2) Apple (5.55%), (3) BNSF, (4) BHE 91%. These four "towering strengths" make Berkshire fundamentally different from any other company. PP&E: **$158B** (#1 in the US, ahead of any other corporation). "We build things in America."
+
+TTI as a business-quality proof: from $112K first-year revenue to **$7.7B** and **8,043 employees** — growing 673% in earnings under Berkshire ownership. Paul Andrews never asked for a raise. The business had a durable competitive position in electronic components distribution that compounded for 50 years[^26].
+
+**[2022 Letter]** Schumpeter's **creative destruction** explicitly acknowledged: "Capitalism is all about creative destruction." Berkshire is not immune. But the antidote is owning businesses with enduring competitive advantages — and being honest when a business no longer qualifies.
+
+The **"Secret Sauce"** case: Coke and AmEx demonstrate that businesses with truly durable moats compound for decades with no management intervention from the investor. The $1.3B→$25B (Coke) and $1.3B→$22B (AmEx) outcomes are the ultimate business-quality proof. "We didn't need to do anything except cash the dividend checks."
+
+Non-insurance operating earnings reach **$30.8B** record — the aggregate output of Berkshire's controlled business-quality bets over 58 years[^27].
+
+**[2023 Letter]** BNSF's capital-intensive reality: **$22B in cumulative spending above depreciation** over 14 years. Replacement cost estimated at **$500 billion** (vs. ~$70B book). Asset-heavy businesses can be wonderful, but investors must understand that depreciation understates true capital needs. "EBITDA" remains banished.
+
+BHE's crisis reveals that even excellent businesses face existential risks from regulatory regime change. The broken compact in western utility regulation turns a "wonderful business" into one with "the specter of zero profitability or even bankruptcy." Business quality can be destroyed by external forces — not just competition.
+
+**Five Japanese trading companies** (Itochu, Marubeni, Mitsubishi, Mitsui, Sumitomo): Berkshire owns ~9% of each. These are "somewhat similar to Berkshire itself" — diversified conglomerates with excellent capital allocation. Funded via **¥1.3 trillion** in yen-denominated bonds. An example of finding business quality in unexpected geographies[^28].
+
+[^26]: [2021 Letter](../sources/buffett-letter-2021.md) — Four Giants; $158B PP&E #1 US; TTI $7.7B/8,043 employees/673% earnings
+
+[^27]: [2022 Letter](../sources/buffett-letter-2022.md) — creative destruction; Secret Sauce; Coke $25B/AmEx $22B; $30.8B operating record
+
+[^28]: [2023 Letter](../sources/buffett-letter-2023.md) — BNSF $22B over-depreciation/$500B replacement; BHE regulatory crisis; five Japanese companies ~9% each; ¥1.3T yen bonds
