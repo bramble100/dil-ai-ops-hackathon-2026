@@ -51,7 +51,10 @@ The **default layout** works for most knowledge domains. When a domain has a nat
 **Examples of custom layouts in this repo:**
 
 - **Amsterdam** (`places/`, `themes/`, `practical/`, `hotels/`) — travel wiki organized by what you'd look up
-- **Rheinmetall** (`entities/`, `concepts/`, `financials/`, `comparisons/`) — corporate analysis with dedicated financial pages
+- **Berkshire Hathaway** (`principles/`, `entities/`, `case-studies/`, `financials/`, `questions/`) — investor education wiki with standalone root pages (`quotes.md`, `timeline.md`, `acquisitions-timeline.md`)
+- **Rheinmetall** (`entities/`, `concepts/`, `financials/`, `comparisons/`, `questions/`) — corporate analysis with dedicated financial pages
+
+Topics may also declare **standalone pages** at the `wiki/` root beyond `index.md`, `log.md`, and `overview.md` (e.g., a quotes collection or a master timeline). Define them in `TOPIC.md` under `## Page Conventions`.
 
 The `raw/` subdirectories are always the same across all topics:
 
@@ -82,10 +85,10 @@ title: "<Descriptive title>"
 type: source
 source_path: "raw/articles/filename.md"
 source_url: "<original URL if applicable>"
-source_original: "raw/assets/filename.pdf"  # optional: path to the binary original when source_path is a conversion (e.g., PDF→Markdown). Protects the original from being re-ingested.
+source_original: "raw/assets/filename.pdf" # optional: path to the binary original when source_path is a conversion (e.g., PDF→Markdown). Protects the original from being re-ingested.
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
-status: complete  # allowed: complete | partial | incomplete
+status: complete # allowed: complete | partial | incomplete
 tags: [tag1, tag2]
 ---
 ```
@@ -130,7 +133,7 @@ A specific named thing: a tool, person, organization, product, framework, servic
 ---
 title: "<Entity name>"
 type: entity
-entity_kind: tool  # allowed: tool | person | organization | product | framework | service
+entity_kind: tool # allowed: tool | person | organization | product | framework | service
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
@@ -169,7 +172,7 @@ An open question, contradiction, or gap identified during ingest or lint. Stays 
 ---
 title: "<Question as a sentence>"
 type: question
-status: open  # allowed: open | investigating | resolved
+status: open # allowed: open | investigating | resolved
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
 tags: [tag1, tag2]
@@ -337,7 +340,7 @@ These are soft targets, not hard limits. A well-organized page at 120 lines is b
 When a page grows well beyond its guideline:
 
 1. **Source summaries** - These are fixed. If too long, the summary wasn't tight enough. Rewrite.
-2. **Concept/entity/custom pages** - Split into a hub page + sub-pages. The hub has the overview; sub-pages have depth.
+2. **Concept/entity/custom pages** - Evaluate before splitting. Hub + sub-pages work when sections are independently useful and loosely coupled. Keep large pages intact when the value comes from narrative continuity (chronological arcs, multi-source principle pages) or single-page searchability (reference lists, timelines). A well-organized 200-line principle page that traces an idea across decades is better than a 100-line hub linking to three stubs. When pages are over budget but structured well, note them as informational rather than action items.
 3. **Log** - Compact entries older than 30 days that are no longer relevant. Original detail is preserved in git history.
 4. **Index** - If a section has 20+ entries, group them into sub-sections.
 
