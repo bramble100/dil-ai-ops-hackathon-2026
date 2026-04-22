@@ -28,7 +28,7 @@ description: Health-checks the wiki for quality issues - unprocessed sources, co
 
 ## Phase 1: Check for Unprocessed Sources
 
-1. List all files in `raw/` across subdirectories (articles, papers, notes). Exclude `.gitkeep` and files in `assets/`.
+1. List all files in `raw/` across all subdirectories (articles, papers, notes, assets). Exclude `.gitkeep`. Do not inventory `originals/` — that folder is non-ingestible by definition.
 2. Read `source_path` frontmatter from every file in `wiki/sources/`.
 3. Compare. Report: "X files in raw/, Y ingested, Z remaining" with the list of unprocessed files.
 

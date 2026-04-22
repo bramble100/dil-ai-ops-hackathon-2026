@@ -3,8 +3,9 @@ title: "Buffett's 2023 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2023.md"
 source_url: "https://www.berkshirehathaway.com/letters/2023ltr.pdf"
+source_original: "originals/buffett-letter-2023.pdf"
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-23
 status: complete
 tags: [shareholder-letter, late-buffett, munger, insurance, succession]
 ---

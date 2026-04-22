@@ -3,8 +3,9 @@ title: "2006 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2006.md"
 source_url: "https://www.berkshirehathaway.com/letters/2006ltr.pdf"
+source_original: "originals/buffett-letter-2006.pdf"
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-23
 status: complete
 tags:
   [

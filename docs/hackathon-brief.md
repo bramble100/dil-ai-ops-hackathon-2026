@@ -35,7 +35,8 @@ my-wiki/
 ├── raw/                 # Source documents (immutable)
 │   ├── articles/
 │   ├── papers/
-│   └── assets/          # Downloaded images
+│   └── notes/
+├── originals/           # Binary originals of converted sources; never ingested
 ├── wiki/                # LLM-generated (don't edit manually)
 │   ├── index.md         # Master catalog
 │   ├── log.md           # Activity timeline

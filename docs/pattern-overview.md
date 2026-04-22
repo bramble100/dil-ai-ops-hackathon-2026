@@ -88,7 +88,7 @@ Fridman [replied under Karpathy's original tweet](https://x.com/karpathy/status/
 - [Obsidian Web Clipper](https://obsidian.md/clipper) (browser extension, recommended) - 2 clicks to save any web page as markdown
 - Copy-paste to `.md` manually
 - Tell the LLM to fetch a URL and save clean markdown to `raw/`
-- PDFs that are primary sources saved to `raw/papers/` (or `raw/articles/` if a Markdown conversion is the canonical form); embedded images and binary originals of already-converted sources go to `raw/assets/` (non-ingestible — link originals from a source summary via `source_original:`)
+- PDFs that are primary sources saved to `raw/papers/` (or `raw/articles/` if a Markdown conversion is the canonical form); binary originals of already-converted sources go to `originals/` at the topic root (non-ingestible — link originals from a source summary via `source_original:`)
 
 ## Tooling
 

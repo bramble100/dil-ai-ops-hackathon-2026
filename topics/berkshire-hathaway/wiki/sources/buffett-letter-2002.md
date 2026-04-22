@@ -2,9 +2,10 @@
 title: "2002 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2002.md"
-source_original: "raw/assets/buffett-letter-2002.pdf"
+source_url: "https://www.berkshirehathaway.com/letters/2002pdf.pdf"
+source_original: "originals/buffett-letter-2002.pdf"
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-23
 status: complete
 tags:
   [

@@ -1,10 +1,11 @@
 ---
 title: "1998 Annual Letter"
 type: source
-sources: [buffett-letter-1998]
 source_path: "raw/articles/buffett-letter-1998.md"
+source_url: "https://www.berkshirehathaway.com/letters/1998pdf.pdf"
+source_original: "originals/buffett-letter-1998.pdf"
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-23
 status: complete
 tags: [shareholder-letter, growth-era]
 ---

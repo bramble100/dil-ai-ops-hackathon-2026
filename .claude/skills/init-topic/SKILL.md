@@ -66,6 +66,9 @@ Create the `raw/` directories (always the same) and `wiki/` directories matching
 # Raw directories (always the same)
 mkdir -p topics/<slug>/raw/{articles,papers,notes,assets}
 
+# Originals directory (binary originals of converted sources — never ingested)
+mkdir -p topics/<slug>/originals
+
 # Wiki directories (layout-dependent)
 mkdir -p topics/<slug>/wiki/sources
 # + one directory per layout folder, e.g.:

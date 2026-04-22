@@ -55,7 +55,8 @@ topics/<slug>/
 │   ├── articles/            # Web articles, blog posts
 │   ├── papers/              # Research papers
 │   ├── notes/               # Quick thoughts, observations
-│   └── assets/              # Images, diagrams, PDFs
+│   └── assets/              # Images, diagrams, and other media
+├── originals/               # Binary originals of converted sources (e.g. PDFs); never ingested
 └── wiki/                    # LLM-generated (don't edit manually)
     ├── index.md             # Master catalog
     ├── log.md               # Activity timeline
@@ -125,7 +126,7 @@ Works well on long-form articles, blog posts, documentation pages, and even Twit
 
 ### Settings tips
 
-- **Attachment folder:** In Settings > Files and links > "Attachment folder path", set it to a fixed directory (e.g., `raw/assets/`) so downloaded images land in a predictable place
+- **Attachment folder:** In Settings > Files and links > "Attachment folder path", set it to a fixed directory (e.g., `topics/<your-topic>/raw/assets/`) so downloaded images land in a predictable place alongside your source files
 - **Download images hotkey:** In Settings > Hotkeys, search for "Download attachments for current file" and bind it to a hotkey (e.g., Ctrl+Shift+D). After clipping an article, hit the hotkey to download all images locally - useful for offline access and for giving the LLM access to diagrams
 
 ## Further Reading

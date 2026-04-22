@@ -2,9 +2,10 @@
 title: "Buffett's 2019 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2019.md"
-source_original: "raw/assets/buffett-letter-2019.pdf"
+source_url: "https://www.berkshirehathaway.com/letters/2019ltr.pdf"
+source_original: "originals/buffett-letter-2019.pdf"
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-23
 status: complete
 tags:
   [

@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-23] maintenance | Provenance metadata normalization
+
+- Updated: 31 source summaries — replaced sources: lists and raw/assets/ paths with canonical source_url (berkshirehathaway.com) and source_original (originals/ path); refreshed updated dates
+- Updated: TOPIC.md frontmatter example — clarifies source_url/source_original as source-summary fields; sources: as the non-source page field (principles, entities, case-studies)
+- Deleted: .gitkeep placeholders from wiki/entities/, wiki/financials/, wiki/principles/, wiki/sources/
+
 ## [2026-04-22] lint | Final quality audit
 
 - Unprocessed: 0 files (all 49 letters ingested)

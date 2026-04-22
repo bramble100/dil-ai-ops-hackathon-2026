@@ -2,9 +2,10 @@
 title: "Buffett's 2010 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2010.md"
-source_original: "raw/assets/buffett-letter-2010.pdf"
+source_url: "https://www.berkshirehathaway.com/letters/2010ltr.pdf"
+source_original: "originals/buffett-letter-2010.pdf"
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-23
 status: complete
 tags:
   [shareholder-letter, mega-cap-era, insurance, capital-allocation, valuation]

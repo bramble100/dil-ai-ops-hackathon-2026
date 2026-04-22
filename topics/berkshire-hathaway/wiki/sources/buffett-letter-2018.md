@@ -2,9 +2,10 @@
 title: "Buffett's 2018 Shareholder Letter"
 type: source
 source_path: "raw/articles/buffett-letter-2018.md"
-source_original: "raw/assets/buffett-letter-2018.pdf"
+source_url: "https://www.berkshirehathaway.com/letters/2018ltr.pdf"
+source_original: "originals/buffett-letter-2018.pdf"
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-23
 status: complete
 tags:
   [shareholder-letter, late-buffett, capital-allocation, insurance, valuation]

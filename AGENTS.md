@@ -27,7 +27,8 @@ This schema defines how the wiki is structured, what conventions to follow, and 
         │   ├── articles/       # Web articles, blog posts (markdown)
         │   ├── papers/         # Research papers, whitepapers
         │   ├── notes/          # Personal notes, observations, quick thoughts
-        │   └── assets/         # Downloaded images, diagrams, PDFs
+        │   └── assets/         # Images, diagrams, and other media (also downloaded by Obsidian Web Clipper)
+        ├── originals/          # Binary originals of converted sources (PDFs, images); never ingested by the agent
         └── wiki/               # LLM-generated pages (agent-owned)
             ├── index.md        # Master catalog of all wiki pages
             ├── log.md          # Chronological activity log
@@ -59,7 +60,9 @@ Topics may also declare **standalone pages** at the `wiki/` root beyond `index.m
 The `raw/` subdirectories are always the same across all topics:
 
 - `articles/`, `papers/`, `notes/` — **primary-source folders.** Files here are inventoried for ingestion. PDFs that are primary sources go to `papers/`.
-- `assets/` — **non-ingestible.** Holds embedded images, supporting binaries, and originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in `articles/` or `papers/`). Never inventoried as a source. Link originals from a source summary via the optional `source_original:` frontmatter field (see Source Summary below).
+- `assets/` — **media sources.** Images, diagrams, and other media files. Inventoried for ingestion alongside the other primary-source folders. Obsidian Web Clipper may auto-download images here alongside clipped articles — if those bulk-downloaded attachments create unwanted noise during ingest, the agent should ask the user whether to skip them.
+
+The `originals/` folder sits **alongside** `raw/` at the topic root (not inside it). It holds binary originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in `raw/articles/` or `raw/papers/`). The agent never inventories or reads this folder. Link originals from a source summary via the optional `source_original:` frontmatter field (see Source Summary below).
 
 Users can also drop files directly into `raw/` without sorting — the ingest skill will classify and move them to the right subfolder before processing.
 
@@ -84,14 +87,16 @@ One page per ingested raw source. Summarizes content, extracts key claims, links
 title: "<Descriptive title>"
 type: source
 source_path: "raw/articles/filename.md"
-source_url: "<original URL if applicable>"
-source_original: "raw/assets/filename.pdf" # optional: path to the binary original when source_path is a conversion (e.g., PDF→Markdown). Protects the original from being re-ingested.
+source_url: "<original URL if applicable>" # provenance — where the source came from
+source_original: "originals/filename.pdf" # optional: path to binary original when source_path is a Markdown conversion. Prevents the PDF from being re-ingested as a separate source.
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
 status: complete # allowed: complete | partial | incomplete
 tags: [tag1, tag2]
 ---
 ```
+
+`source_url` and `source_original` serve different purposes and are **not mutually exclusive**. A source converted from a PDF that was downloaded from a known URL should have both.
 
 Content structure:
 
