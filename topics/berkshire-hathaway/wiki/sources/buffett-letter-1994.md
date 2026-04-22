@@ -5,7 +5,7 @@ source_path: "raw/articles/buffett-letter-1994.md"
 sources: [buffett-letter-1994]
 created: 2026-04-20
 updated: 2026-04-20
-status: draft
+status: complete
 tags: [shareholder-letter, growth-era]
 ---
 

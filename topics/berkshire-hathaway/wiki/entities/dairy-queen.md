@@ -25,6 +25,13 @@ International Dairy Queen (IDQ) is a global fast-food franchise operator acquire
 
 DQ is a consumer franchise with decades of brand recognition and repeat-purchase economics. It fits Berkshire's "The Inevitables" framework — a brand so embedded in consumer habits that it persists across economic cycles. The owner-operator franchise model generates capital-light recurring revenues. Buffett's willingness to structure consideration toward cash (rather than issuing stock) reflects his ongoing discipline around equity issuance.
 
+## Connections
+
+- [Four Filters](../principles/four-filters.md) — understandable consumer franchise (filter 1); durable brand embedded in daily habits (filter 2); cash-weighted deal structure reflects equity issuance discipline (filter 4)
+- [Business Quality](../principles/business-quality.md) — "The Inevitables" framework: capital-light franchise model with recurring revenues and repeat-purchase economics
+- [Capital Allocation](../principles/capital-allocation.md) — all-cash preference; global franchise scale absorbing meaningful capital
+- [Nebraska Furniture Mart](nebraska-furniture-mart.md) — shared acquisition archetype: family-built, owner-operated, culture-first
+
 ## Sources and Citations
 
 - [1997 Letter](../sources/buffett-letter-1997.md) — agreement late 1997; 5,792 DQ stores, 23 countries, 409 Orange Julius, 43 Karmelkorn; John Mooty/Mike Sullivan; cash-weighted consideration; 45% cash election; Buffett as product expert

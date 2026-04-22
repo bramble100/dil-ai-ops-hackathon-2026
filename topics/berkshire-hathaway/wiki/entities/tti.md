@@ -5,7 +5,7 @@ entity_kind: company
 sources: [buffett-letter-2006, buffett-letter-2021]
 created: 2026-04-20
 updated: 2026-04-21
-status: draft
+status: complete
 tags: [acquisition, distribution, mega-cap-era]
 ---
 

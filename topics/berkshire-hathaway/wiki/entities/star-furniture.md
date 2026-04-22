@@ -26,6 +26,13 @@ Star Furniture is a Houston-area home furnishings retailer acquired by Berkshire
 
 Star Furniture exemplifies Berkshire's acquisition archetype: a dominant regional retailer with a long owner-operator history, simple economics, and management that stayed post-acquisition. The Irv Blumkin referral echoes the Nebraska Furniture Mart model — Buffett explicitly relies on existing owners to identify comparable businesses in other markets.
 
+## Connections
+
+- [Four Filters](../principles/four-filters.md) — simple, understandable retail economics (filter 1); owner-operator integrity demonstrated by employee payments at closing (filter 3)
+- [Capital Allocation](../principles/capital-allocation.md) — Berkshire's furniture-retailer collection strategy: regional dominance with owner-operators who stay post-acquisition
+- [Nebraska Furniture Mart](nebraska-furniture-mart.md) — direct referral source (Irv Blumkin); shared dominant-regional-retailer model
+- [Jordan's Furniture](jordans-furniture.md) — same acquisition archetype; similar seller-pays-employees-at-closing pattern
+
 ## Sources and Citations
 
 - [1997 Letter](../sources/buffett-letter-1997.md) — acquisition on July 1, 1997; Melvyn Wolff and Shirley Toomin; 12 Houston stores; family since 1924; Irv Blumkin referral; sellers' special payments to employees

@@ -1,5 +1,40 @@
 # Activity Log
 
+## [2026-04-22] lint | Final quality audit
+
+- Unprocessed: 0 files (all 49 letters ingested)
+- Found: 0 broken links, 0 contradictions, 33 draft statuses, 3 weak entity pages
+- Fixed: 33 pages status draft→complete (26 entities, 2 case-studies, 1 financial, 4 sources)
+- Fixed: added Connections sections to dairy-queen, star-furniture, jordans-furniture
+- Verdict: wiki production-ready — no new pages needed
+
+## [2026-04-22] create | Japanese Trading Companies and USAir case studies
+
+- Created: case-studies/japanese-trading-companies (3 sources — $15.4B→$35.4B; five sogo shosha; yen financing at 1.2%; $862M dividends; international pivot)
+- Created: case-studies/usair-investment (7 sources — $358M preferred→75% writedown→$73 recovery; airline deregulation; "sloppy analysis")
+- Updated: index.md with 2 new case study entries (17→19 total)
+- Updated: overview.md case study table with Japanese Trading Cos. and USAir
+
+## [2026-04-22] maintenance | Overview sync
+
+- Updated: overview.md case studies table (9→17 entries — added Apple, BHE, Cap Cities, Clayton, PCC, Wells Fargo, Gillette, Salomon)
+- Updated: overview.md financial engine list (8→12 entries — added Cash & Treasury, Dividends, Tax Strategy, Look-Through)
+- Reorganized case study table: successes first, then anti-cases, then turnarounds/crises
+
+## [2026-04-22] create | Case studies and financial analysis — batch 4
+
+- Created: case-studies/apple-investment (13 sources — IBM $13.8B exit→Apple $62B; technology education; buyback compounding)
+- Created: case-studies/precision-castparts-acquisition (5 sources — $32B→$11B writedown→$2.4B recovery; overpayment lesson)
+- Created: case-studies/capital-cities-abc-investment (10 sources — $517.5M; Murphy/Burke; Mistake Du Jour partial sale)
+- Created: case-studies/berkshire-hathaway-energy-acquisition (22 sources — $2B→$4.3B earnings; renewables; wildfire crisis)
+- Created: case-studies/clayton-homes-acquisition (12 sources — balance sheet as moat; 47% industry; $14B mortgages)
+- Created: financials/cash-and-treasury-management (11 sources — $20B minimum; $370B+ fortress; deployment philosophy)
+- Created: financials/dividends-retained-earnings (12 sources — $1 test; zero dividends; BHE $28B retained; Secret Sauce)
+- Created: financials/tax-strategy-deferred-gains (9 sources — Rip Van Winkle; $26.8B tax; $101B+ since 1965)
+- Created: financials/look-through-earnings (18 sources — $590M→$2,415M; invisible engine; $3.8B vs $8.3B)
+- Updated: index.md with 9 new page entries
+- Structural balance: case-studies 12→17, financials 8→12
+
 ## [2026-04-22] review | Overview page creation + principle page quality pass
 
 - Created: overview.md (topic front page with 10 principles, record stats, case studies, navigation guide)

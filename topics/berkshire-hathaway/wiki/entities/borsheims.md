@@ -5,7 +5,7 @@ entity_kind: company
 sources: [buffett-letter-1988, buffett-letter-1989, buffett-letter-1990]
 created: 2026-04-20
 updated: 2026-04-20
-status: draft
+status: complete
 tags: [acquisition, management, moats]
 ---
 
@@ -46,5 +46,7 @@ Borsheim's joins the operating group as the "Sainted Seven Plus One" — raising
 - [Capital Allocation](../principles/capital-allocation.md) — the Blumkin-Friedman-Heldman acquisition mold
 
 [^1]: [1988 Letter](../sources/buffett-letter-1988.md) — acquisition announced; Friedman family history
+
 [^2]: [1989 Letter](../sources/buffett-letter-1989.md) — first-year results; five-point success formula
+
 [^3]: [1990 Letter](../sources/buffett-letter-1990.md) — 18% sales growth; #2 US fine jewelry by volume; 18% cost ratio

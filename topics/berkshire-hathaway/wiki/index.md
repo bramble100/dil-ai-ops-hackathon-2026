@@ -147,6 +147,13 @@ updated: 2026-04-22
 - [BNSF Railway — The Capital-Intensive Pivot](case-studies/bnsf-acquisition.md) - $34B "all-in wager on America"; $46.6B cumulative dividends; infrastructure irreplaceability (13 sources)
 - [American Express — Patience and Buyback Compounding](case-studies/american-express-investment.md) - $1.3B → $56.1B; 5.5%→22.1% via investee buybacks; 27 years of inaction (15 sources)
 - [Salomon Crisis — Reputation and Rescue](case-studies/salomon-crisis.md) - 10-month Interim Chairman; "lose reputation" testimony; "negative overall" experience (8 sources)
+- [Apple — From Technology Skeptic to Largest Holding](case-studies/apple-investment.md) - IBM ($13.8B loss) → Apple ($62B on $31B); buyback compounding; Four Giants (13 sources)
+- [Precision Castparts — When a Great Business Meets a Wrong Price](case-studies/precision-castparts-acquisition.md) - $32B all-cash → $11B writedown → $2.4B recovery; "I paid too much" (5 sources)
+- [Capital Cities/ABC — Backing the Best Operator in America](case-studies/capital-cities-abc-investment.md) - $517.5M; Murphy/Burke "best management"; Mistake Du Jour partial sale (10 sources)
+- [Berkshire Hathaway Energy — The Regulated Capital Machine](case-studies/berkshire-hathaway-energy-acquisition.md) - $2B → $4.3B earnings; 30x growth; "Saudi Arabia of wind"; wildfire crisis (22 sources)
+- [Clayton Homes — When the Balance Sheet Is the Moat](case-studies/clayton-homes-acquisition.md) - Berkshire funding as competitive weapon; 47% industry share; $14B mortgage portfolio (12 sources)
+- [Japanese Trading Companies — Berkshire's International Pivot](case-studies/japanese-trading-companies.md) - $15.4B → $35.4B; five sogo shosha; yen-financed at 1.2%; $862M dividends (3 sources)
+- [USAir — The Airline Mistake That Paid Off Anyway](case-studies/usair-investment.md) - $358M preferred → 75% writedown → $73 recovery; "sloppy analysis"; deregulation lesson (7 sources)
 
 ## Financial Analysis
 
@@ -158,6 +165,10 @@ updated: 2026-04-22
 - [Combined Ratio — The Insurance Scorecard](financials/combined-ratio.md) - CR definition; GEICO cost advantage; NICO ebb-and-flow; General Re crisis; four commandments (13 sources)
 - [Share Repurchase Economics](financials/share-repurchase-economics.md) - Counterintuitive buyback math; three-condition framework; $51.7B cumulative; investee buyback compounding (12 sources)
 - [Portfolio Concentration](financials/portfolio-concentration.md) - Big Four → Four Giants → 9-holding endgame; $194B on $24.5B cost; extreme concentration philosophy (13 sources)
+- [Cash & Treasury Management](financials/cash-and-treasury-management.md) - $20B minimum; "cash is oxygen"; $370B+ fortress; deployment philosophy (11 sources)
+- [Dividends & Retained Earnings](financials/dividends-retained-earnings.md) - The $1 test; zero dividends in 60 years; BHE $28B retained; Secret Sauce compounding (12 sources)
+- [Tax Strategy & Deferred Gains](financials/tax-strategy-deferred-gains.md) - Rip Van Winkle advantage; $26.8B tax (5% US corporate); $101B+ since 1965; 80%+ subsidiary rule (9 sources)
+- [Look-Through Earnings](financials/look-through-earnings.md) - $590M (1990) → $2,415M (2000); invisible compounding engine; $3.8B dividends vs. $8.3B retained (18 sources)
 
 ## Standalone Pages
 

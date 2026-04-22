@@ -56,17 +56,27 @@ The principle pages are the wiki's core product — rich, multi-source documents
 
 Berkshire's history is a 60-year investing seminar. The case studies teach principles through real decisions — what Buffett bought, why, what happened, and what he learned:
 
-| Case Study                                                      | Principle Illustrated                              | Outcome                            |
-| --------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------- |
-| [See's Candies](case-studies/sees-candies-acquisition.md)       | Economic goodwill; wonderful company at fair price | $25M → $1.9B cumulative pre-tax    |
-| [Coca-Cola](case-studies/coca-cola-investment.md)               | Franchise investing; patience                      | $1.3B → $28B + $816M dividends     |
-| [American Express](case-studies/american-express-investment.md) | Buyback compounding; inaction                      | $1.3B → $56.1B over 27 years       |
-| [GEICO](case-studies/geico-investment.md)                       | Low-cost moat; float economics                     | $47M → 100% ownership at $2.3B     |
-| [BNSF](case-studies/bnsf-acquisition.md)                        | Capital-intensive pivot; infrastructure            | $34B → $46.6B cumulative dividends |
-| [Textile Operations](case-studies/textile-operations.md)        | **Anti-case:** cigar butt; headwinds               | 20 years of mediocre returns       |
-| [Dexter Shoe](case-studies/dexter-shoe-investment.md)           | **Anti-case:** stock-for-stock payment             | $433M → $5.7B compounding error    |
-| [General Re](case-studies/general-re-turnaround.md)             | Turnaround; underwriting discipline                | $4.3B loss → "now a gem"           |
-| [Scott & Fetzer](case-studies/scott-fetzer-acquisition.md)      | Owner earnings vindicated                          | $315M → $1.03B distributions       |
+| Case Study                                                             | Principle Illustrated                              | Outcome                             |
+| ---------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------- |
+| [See's Candies](case-studies/sees-candies-acquisition.md)              | Economic goodwill; wonderful company at fair price | $25M → $1.9B cumulative pre-tax     |
+| [Coca-Cola](case-studies/coca-cola-investment.md)                      | Franchise investing; patience                      | $1.3B → $28B + $816M dividends      |
+| [American Express](case-studies/american-express-investment.md)        | Buyback compounding; inaction                      | $1.3B → $56.1B over 27 years        |
+| [Apple](case-studies/apple-investment.md)                              | Technology evolution; buyback compounding          | IBM loss → Apple $62B on $31B cost  |
+| [GEICO](case-studies/geico-investment.md)                              | Low-cost moat; float economics                     | $47M → 100% ownership at $2.3B      |
+| [BNSF](case-studies/bnsf-acquisition.md)                               | Capital-intensive pivot; infrastructure            | $34B → $46.6B cumulative dividends  |
+| [BHE](case-studies/berkshire-hathaway-energy-acquisition.md)           | Retained earnings; capital deployment              | $2B → $4.3B earnings (35x)          |
+| [Capital Cities/ABC](case-studies/capital-cities-abc-investment.md)    | Management quality; backing the operator           | $517.5M; "best management"          |
+| [Wells Fargo](case-studies/wells-fargo-investment.md)                  | Buying through panic; margin of safety             | $290M for 10% at worst-case price   |
+| [Gillette](case-studies/gillette-investment.md)                        | Castle-and-moat franchise                          | $600M preferred → $1.8B equity      |
+| [Clayton Homes](case-studies/clayton-homes-acquisition.md)             | Balance sheet as competitive moat                  | 47% industry share; $14B portfolio  |
+| [Scott & Fetzer](case-studies/scott-fetzer-acquisition.md)             | Owner earnings vindicated                          | $315M → $1.03B distributions        |
+| [Textile Operations](case-studies/textile-operations.md)               | **Anti-case:** cigar butt; headwinds               | 20 years of mediocre returns        |
+| [Dexter Shoe](case-studies/dexter-shoe-investment.md)                  | **Anti-case:** stock-for-stock payment             | $433M → $5.7B compounding error     |
+| [Precision Castparts](case-studies/precision-castparts-acquisition.md) | **Anti-case:** overpaying for quality              | $32B → $11B writedown               |
+| [USAir](case-studies/usair-investment.md)                              | **Anti-case:** bad industry economics              | $358M → $89.5M writedown → recovery |
+| [General Re](case-studies/general-re-turnaround.md)                    | Turnaround; underwriting discipline                | $4.3B loss → "now a gem"            |
+| [Japanese Trading Cos.](case-studies/japanese-trading-companies.md)    | International pivot; currency-matched financing    | $15.4B → $35.4B; $862M dividends    |
+| [Salomon Crisis](case-studies/salomon-crisis.md)                       | Reputation risk; crisis management                 | 10-month rescue; "negative overall" |
 
 ## The Financial Engine
 
@@ -80,6 +90,10 @@ Berkshire's numbers tell the story of compounding in action:
 - [Combined Ratio](financials/combined-ratio.md) — The insurance scorecard; GEICO cost advantage
 - [Share Repurchase Economics](financials/share-repurchase-economics.md) — $51.7B cumulative; counterintuitive math
 - [Portfolio Concentration](financials/portfolio-concentration.md) — Big Four → Four Giants → 9-holding endgame
+- [Cash & Treasury Management](financials/cash-and-treasury-management.md) — $20B minimum; "cash is oxygen"; $370B+ fortress
+- [Dividends & Retained Earnings](financials/dividends-retained-earnings.md) — The $1 test; zero dividends in 60 years; BHE $28B retained
+- [Tax Strategy & Deferred Gains](financials/tax-strategy-deferred-gains.md) — Rip Van Winkle 31:1 advantage; $26.8B tax (5% US corporate)
+- [Look-Through Earnings](financials/look-through-earnings.md) — $590M (1990) → $2,415M (2000); invisible compounding engine
 
 ## Key People and Businesses
 

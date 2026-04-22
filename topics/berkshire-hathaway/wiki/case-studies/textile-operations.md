@@ -1,10 +1,22 @@
 ---
 title: "Textile Operations — The Anti-Case-Study"
 type: case-study
-sources: [buffett-letter-1977, buffett-letter-1978, buffett-letter-1979, buffett-letter-1980, buffett-letter-1981, buffett-letter-1982, buffett-letter-1983, buffett-letter-1984, buffett-letter-1985, buffett-letter-1989]
+sources:
+  [
+    buffett-letter-1977,
+    buffett-letter-1978,
+    buffett-letter-1979,
+    buffett-letter-1980,
+    buffett-letter-1981,
+    buffett-letter-1982,
+    buffett-letter-1983,
+    buffett-letter-1984,
+    buffett-letter-1985,
+    buffett-letter-1989,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
-status: draft
+status: complete
 tags: [moats, mistake, lesson, capital-allocation]
 ---
 

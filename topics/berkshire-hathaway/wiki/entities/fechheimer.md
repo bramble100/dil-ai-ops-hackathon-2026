@@ -2,10 +2,19 @@
 title: "Fechheimer Bros. Company"
 type: entity
 entity_kind: company
-sources: [buffett-letter-1986, buffett-letter-1987, buffett-letter-1988, buffett-letter-1989, buffett-letter-1990, buffett-letter-1991, buffett-letter-1992]
+sources:
+  [
+    buffett-letter-1986,
+    buffett-letter-1987,
+    buffett-letter-1988,
+    buffett-letter-1989,
+    buffett-letter-1990,
+    buffett-letter-1991,
+    buffett-letter-1992,
+  ]
 created: 2026-04-20
 updated: 2026-04-20
-status: draft
+status: complete
 tags: [acquisition, management]
 ---
 
@@ -53,5 +62,7 @@ One limitation: size. Utilizing only ~2% of Berkshire's net worth, Fechheimer wa
 [^2]: [1988 Letter](../sources/buffett-letter-1988.md) — acquisition integrated; five Heldmans
 
 [^3]: [1989 Letter](../sources/buffett-letter-1989.md) — Sainted Seven Plus One member
+
 [^4]: [1990 Letter](../sources/buffett-letter-1990.md) — George Heldman retires; 42 retail stores; improved integration
+
 [^5]: [1992 Letter](../sources/buffett-letter-1992.md) — $13.7M pre-tax; record earnings; clean succession confirmed

@@ -5,7 +5,7 @@ entity_kind: company
 sources: [buffett-letter-1991, buffett-letter-1992, buffett-letter-1993]
 created: 2026-04-20
 updated: 2026-04-20
-status: draft
+status: complete
 tags: [management, capital-allocation]
 ---
 
@@ -26,7 +26,7 @@ Leading North American manufacturer of work shoes and boots, acquired by Berkshi
 
 H.H. Brown was found by accident: John Loomis (a Berkshire shareholder and Buffett's friend) was playing golf with Frank Rooney in Florida and mentioned Berkshire as a buyer when he learned of the pending sale — illustrating how Berkshire's acquisition approach depends on relationship networks rather than investment bankers[^1].
 
-The compensation system is the defining feature: key managers receive $7,800 salary plus a share of profits *after* a charge for capital employed. This makes managers genuine owners — they bear the cost of capital, unlike options-holders or managers with purely revenue-based bonuses. Buffett: "Managers eager to bet heavily on their abilities usually have plenty of ability to bet on"[^1].
+The compensation system is the defining feature: key managers receive $7,800 salary plus a share of profits _after_ a charge for capital employed. This makes managers genuine owners — they bear the cost of capital, unlike options-holders or managers with purely revenue-based bonuses. Buffett: "Managers eager to bet heavily on their abilities usually have plenty of ability to bet on"[^1].
 
 The industry contrast is instructive: shoes are a tough business with poor aggregate economics, yet H.H. Brown earned "unusually fine margins" through exceptional management — echoing the principle that management quality matters most in difficult industries (while also illustrating the limits of that principle, since Berkshire would prefer a great business over a great manager in a bad industry)[^1].
 
@@ -44,5 +44,7 @@ The industry contrast is instructive: shoes are a tough business with poor aggre
 - [Dexter Shoe](dexter-shoe.md) — Frank Rooney brokered the introduction to Harold Alfond
 
 [^1]: [1991 Letter](../sources/buffett-letter-1991.md) — H.H. Brown acquisition history, compensation model
+
 [^2]: [1992 Letter](../sources/buffett-letter-1992.md) — Lowell Shoe acquisition
+
 [^3]: [1993 Letter](../sources/buffett-letter-1993.md) — record profits up 35%; Rooney brokered Dexter introduction

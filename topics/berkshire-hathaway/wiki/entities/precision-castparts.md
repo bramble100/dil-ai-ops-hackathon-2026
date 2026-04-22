@@ -5,7 +5,7 @@ entity_kind: organization
 sources: [buffett-letter-2015, buffett-letter-2016, buffett-letter-2020]
 created: 2026-04-21
 updated: 2026-04-22
-status: draft
+status: complete
 tags: [acquisition, manufacturing, aerospace]
 ---
 
