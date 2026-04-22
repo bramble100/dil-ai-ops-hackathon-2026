@@ -109,6 +109,8 @@ Read the wiki layout from `TOPIC.md` (or use the defaults: `concepts/`, `entitie
 - Not every idea deserves a concept page. If a concept appears in only one source and isn't central, mention it in the source summary's "Key Claims" section instead.
 - When updating an existing page, preserve the existing structure. Add to sections, don't reorganize unless it's clearly broken.
 
+**Source–content integrity rule:** Never add a source to a page's `sources` frontmatter array without also adding corresponding content to the page body. The `sources` array is a provenance claim — it asserts "this source contributed information to this page." A source that merely mentions an entity in passing (e.g., in a portfolio table or a list of managers) does NOT warrant inclusion unless you extract substantive new information into the page. If the source has substantive content about the entity/concept, add both the content AND the source reference. If it doesn't, add neither.
+
 ---
 
 ## Phase 6: Update Index and Log
