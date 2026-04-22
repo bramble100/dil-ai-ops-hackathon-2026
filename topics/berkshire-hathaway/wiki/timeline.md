@@ -3,6 +3,7 @@ title: "Timeline"
 type: overview
 created: 2026-04-20
 updated: 2026-04-22
+status: complete
 tags: [retrospective]
 ---
 
@@ -11,7 +12,7 @@ tags: [retrospective]
 Chronological master timeline of key events from the Berkshire Hathaway shareholder letters.
 
 | Year | Event                                                                                                                                                     | Category    | Related Page                                                       |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ | --- | ---- | ---------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------ |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ |
 | 1955 | Berkshire Fine Spinning and Hathaway Manufacturing merge to form Berkshire Hathaway                                                                       | Corporate   |                                                                    |
 | 1964 | Present management assumes responsibility (Sept 30). Book value: $19.46/share                                                                             | Corporate   | [Book Value](financials/book-value-per-share.md)                   |
 | 1965 | Buffett takes control of Berkshire Hathaway                                                                                                               | Corporate   |                                                                    |
@@ -409,7 +410,8 @@ Chronological master timeline of key events from the Berkshire Hathaway sharehol
 | 2012 | Stan Lipsey retires as Buffalo News publisher after 30+ years                                                                                             | Governance  | [Buffalo Evening News](entities/buffalo-evening-news.md)           |
 | 2012 | Record $9.8B capex (88% US); record $2.3B bolt-on acquisitions (26 companies)                                                                             | Corporate   | [Capital Allocation](principles/capital-allocation.md)             |
 | 2012 | Guard Insurance acquired (~$300M premiums)                                                                                                                | Acquisition | [Underwriting Discipline](principles/underwriting-discipline.md)   |
-| 2012 | Float $73.1B; ten consecutive profitable years; $18.6B cumulative                                                                                         | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |     | 2013 | Book value $134,973/share (+18.2%; 49-year CAGR 19.7%); overall gain 693,518%; $34.2B net worth gain | Financial | [Book Value](financials/book-value-per-share.md) |
+| 2012 | Float $73.1B; ten consecutive profitable years; $18.6B cumulative                                                                                         | Insurance   | [Underwriting Discipline](principles/underwriting-discipline.md)   |
+| 2013 | Book value $134,973/share (+18.2%; 49-year CAGR 19.7%); overall gain 693,518%; $34.2B net worth gain                                                      | Financial   | [Book Value](financials/book-value-per-share.md)                   |
 | 2013 | Heinz closed (June); $8B 9% preferred + ~$4.25B common (50/50 with 3G); Lemann/Hees/Behring partnership template                                          | Acquisition | [Heinz](entities/heinz.md)                                         |
 | 2013 | NV Energy acquired for $5.6B (88% Nevada population); MidAmerican's largest utility acquisition                                                           | Acquisition | [MidAmerican Energy](entities/midamerican-energy.md)               |
 | 2013 | Marmon and ISCAR to 100% ownership; $3.5B combined; $1.8B accounting charge; $300M added pre-tax                                                          | Acquisition | [Capital Allocation](principles/capital-allocation.md)             |

@@ -9,6 +9,8 @@ updated: 2026-04-22
 
 > Warren Buffett's annual shareholder letters (1977-2025) distilled into an interconnected knowledge base for becoming a better investor and company analyst. Principles, case studies, mental models, and financial track records — extracted from 49 years of candid writing.
 
+**[Topic Overview](overview.md)** — Start here: 10 investment principles, record numbers, case studies at a glance, and how to navigate this wiki.
+
 ## Sources
 
 - [1977 Letter](sources/buffett-letter-1977.md) - First letter; ROE as yardstick, four filters, tailwinds vs headwinds, insurance growth (1977)
@@ -79,13 +81,16 @@ updated: 2026-04-22
 
 - [GEICO](entities/geico.md) - "Spectacular" under Todd Combs; retention vs. margin; risk segmentation; record $83B P/C premiums (46 sources)
 - [National Indemnity](entities/national-indemnity.md) - Float $176B; CR 87.1%; Abel's four structural advantages; record premiums (42 sources)
+- [Ajit Jain](entities/ajit-jain.md) - Vice Chairman of Insurance Operations; built reinsurance from $0 to $37.2B float; "tens of billions" of shareholder value (20 sources)
 - [See's Candies](entities/sees-candies.md) - 101 years; $400K in 2 days at annual meeting; "Henry Ford Model T"; brand permanence (25 sources)
 - [Charlie Munger](entities/charlie-munger.md) - "Greg will keep the culture"; thumb-sucking; died Nov 28, 2023 (age 99); architect of Berkshire (23 sources)
+- [Benjamin Graham](entities/ben-graham.md) - Intellectual foundation of Buffett's philosophy; Mr. Market, margin of safety, _The Intelligent Investor_; GEICO/BNSF connection (11 sources)
 - [Nebraska Furniture Mart](entities/nebraska-furniture-mart.md) - Three largest US stores; COVID record sales; Mrs. B/Louie retold (15 sources)
 - [Buffalo Evening News](entities/buffalo-evening-news.md) - Stan Lipsey retires; 28 dailies $344M; newspaper decline/resurgence (13 sources)
 - [Capital Cities/ABC](entities/capital-cities-abc.md) - Partial sale at $63 (1993, Mistake Du Jour); $1,705M market value yearend 1994; Dan Burke retires (10 sources)
 - [Scott & Fetzer](entities/scott-fetzer.md) - Ralph Schey retires 2000; $1.03B cumulative distributions vs. $230M net purchase price; 86% ROE record (12 sources)
 - [Coca-Cola](entities/coca-cola.md) - Four-stock core; $28.0B on $1.3B; $816M dividends; patience pays (20 sources)
+- [Apple](entities/apple.md) - Largest equity holding; Four Giants member; $62B on ~$31B; buyback compounding; replaced IBM in 2017 (9 sources)
 - [Fechheimer Bros.](entities/fechheimer.md) - $13.7M pre-tax (1992 record); clean Heldman succession (7 sources)
 - [Salomon Inc](entities/salomon-inc.md) - $140M partial redemption (1995); Travelers merger; "negative overall" experience (8 sources)
 - [Gillette](entities/gillette.md) - Merged into P&G Q4 2005; Jim Kilts praised; $5B paper gain dismissed; moat castle archetype (7 sources)
@@ -132,10 +137,27 @@ updated: 2026-04-22
 
 - [Textile Operations](case-studies/textile-operations.md) - The anti-case-study: 1965-1985; cigar butt as original sin (1989 retrospective); Burlington comparison (10 sources)
 - [GEICO Investment](case-studies/geico-investment.md) - $47M → 100% ownership at $2.3B; 45-year arc (1951-1996); franchise investing culmination (15 sources)
+- [See's Candies Acquisition](case-studies/sees-candies-acquisition.md) - $25M → $1.9B cumulative pre-tax; the investment that changed Buffett's philosophy; gateway to Coca-Cola (19 sources)
+- [Coca-Cola Investment](case-studies/coca-cola-investment.md) - The 52-year delay; $1.3B → $28B + $816M dividends; franchise investing perfected (16 sources)
+- [Wells Fargo Investment](case-studies/wells-fargo-investment.md) - Buying through 1990 bank panic; $290M for 10% at worst-case pricing; 30-year arc (13 sources)
+- [Gillette Investment](case-studies/gillette-investment.md) - $600M preferred → $1.8B equity; razor/blade franchise; moat castle archetype (7 sources)
+- [General Re — From Crisis to Gem](case-studies/general-re-turnaround.md) - $22B stock deal → $4.3B loss → four commandments → "now a gem"; turnaround case (11 sources)
+- [Dexter Shoe — Payment Method as Destiny](case-studies/dexter-shoe-investment.md) - 25,203 BRK shares ($433M→$5.7B); worst stock-for-stock deal; compounding error (5 sources)
+- [Scott & Fetzer — Owner Earnings Vindicated](case-studies/scott-fetzer-acquisition.md) - $315M cash → $1.03B distributions; 86% ROE; Company O vs N proof (12 sources)
+- [BNSF Railway — The Capital-Intensive Pivot](case-studies/bnsf-acquisition.md) - $34B "all-in wager on America"; $46.6B cumulative dividends; infrastructure irreplaceability (13 sources)
+- [American Express — Patience and Buyback Compounding](case-studies/american-express-investment.md) - $1.3B → $56.1B; 5.5%→22.1% via investee buybacks; 27 years of inaction (15 sources)
+- [Salomon Crisis — Reputation and Rescue](case-studies/salomon-crisis.md) - 10-month Interim Chairman; "lose reputation" testimony; "negative overall" experience (8 sources)
 
 ## Financial Analysis
 
 - [Book Value Per Share](financials/book-value-per-share.md) - BRK +25.5%/+10.9% (2024-25); 19.7% CAGR / 6,099,294% overall; $370B+ cash (46 sources)
+- [Insurance Float](financials/float.md) - $17M (1967) → $176B (2023); the liability that works like an asset; Berkshire's structural engine (27 sources)
+- [Operating Earnings](financials/operating-earnings.md) - The true scorecard; $2.69/share (1968) → $47.4B aggregate (2024); Sainted Seven; look-through earnings (18 sources)
+- [Intrinsic Value vs. Book Value](financials/intrinsic-value-vs-book-value.md) - Why book value misleads; two-column framework; economic vs. accounting goodwill (15 sources)
+- [Owner Earnings](financials/owner-earnings.md) - Buffett's alternative to GAAP; (a)+(b)−(c) formula; Scott Fetzer proof; capital requirements variation (8 sources)
+- [Combined Ratio — The Insurance Scorecard](financials/combined-ratio.md) - CR definition; GEICO cost advantage; NICO ebb-and-flow; General Re crisis; four commandments (13 sources)
+- [Share Repurchase Economics](financials/share-repurchase-economics.md) - Counterintuitive buyback math; three-condition framework; $51.7B cumulative; investee buyback compounding (12 sources)
+- [Portfolio Concentration](financials/portfolio-concentration.md) - Big Four → Four Giants → 9-holding endgame; $194B on $24.5B cost; extreme concentration philosophy (13 sources)
 
 ## Standalone Pages
 

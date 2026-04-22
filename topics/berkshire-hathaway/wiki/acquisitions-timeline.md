@@ -3,6 +3,7 @@ title: "Acquisitions & Major Investments Timeline"
 type: overview
 created: 2026-04-20
 updated: 2026-04-22
+status: complete
 tags: [capital-allocation, retrospective]
 ---
 
@@ -12,7 +13,7 @@ Chronological list of acquisitions and major investment positions as documented 
 
 ## Acquisitions (Full Ownership)
 
-| Year  | Company                                          | Price                 | Outcome (as of 1981)                                                             | Case Study                                               |
+| Year  | Company                                          | Price                 | Outcome                                                                          | Case Study                                               |
 | ----- | ------------------------------------------------ | --------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | 1967  | National Indemnity + National Fire & Marine      | ~$8.6M                | Core insurance platform; premiums $22M → $151M by 1977                           | [National Indemnity](entities/national-indemnity.md)     |
 | 1969  | Illinois National Bank                           | Undisclosed           | Earned ~2-3x industry ROA under Gene Abegg; divested Dec 1980 (regulatory)       | —                                                        |
@@ -30,8 +31,8 @@ Chronological list of acquisitions and major investment positions as documented 
 
 ## Major Equity Investments (Non-Controlling)
 
-| Year    | Company                                           | Cost ($M)                                | Market ($M, 1983) | Key Insight                                                                                                               |
-| ------- | ------------------------------------------------- | ---------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --- | ---- | ------------------------- | -------------------------- | --- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Year    | Company                                           | Cost ($M)                                | Market Value ($M) | Key Insight                                                                                                               | Related Page                                                     |
+| ------- | ------------------------------------------------- | ---------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 1976-80 | GEICO Corporation (33→36%)                        | 47.1                                     | 595.9 (1985)      | 12.7x return; combined ratio 96 vs. 111; Jack Byrne departs 1985                                                          | [GEICO](case-studies/geico-investment.md)                        |
 | 1973+   | Washington Post (1.87M shares)                    | 10.6                                     | 221.0 (1985)      | 20x return; proportionate redemptions 1984-85                                                                             |
 | 1985    | Capital Cities/ABC (3M shares)                    | 517.5                                    | At cost (1985)    | Largest single investment; Tom Murphy/Dan Burke; voting arrangement                                                       | [Cap Cities](entities/capital-cities-abc.md)                     |
@@ -133,7 +134,8 @@ Chronological list of acquisitions and major investment positions as documented 
 | 2013    | NV Energy                                         | $5.6B                                    | —                 | 88% Nevada population; fits MidAmerican utility platform; renewables potential                                            | [MidAmerican Energy](entities/midamerican-energy.md)             |
 | 2013    | Marmon Group (to 100%)                            | formula price (part of $3.5B w/ ISCAR)   | —                 | Staged acquisition completed; Christmas Day 2007 agreement fulfilled; $1.8B accounting charge (shared)                    | [Marmon Group](entities/marmon-group.md)                         |
 | 2013    | ISCAR (to 100%)                                   | formula price (part of $3.5B w/ Marmon)  | —                 | Wertheimer put exercised; $300M combined added pre-tax; $800M combined cash                                               | [ISCAR](entities/iscar.md)                                       |
-| 2013    | 25 bolt-on acquisitions                           | $3.1B total                              | —                 | Continued bolt-on strategy; part of five building blocks                                                                  | [Capital Allocation](principles/capital-allocation.md)           |     | 2014 | Van Tuyl Automotive Group | ~$9B sales; 78 dealerships | —   | 5th-largest US auto group; Larry Van Tuyl/Jeff Rachor; permanent home thesis; 9½ Fortune 500 equivalents | [Van Tuyl Automotive](entities/van-tuyl-automotive.md) |
+| 2013    | 25 bolt-on acquisitions                           | $3.1B total                              | —                 | Continued bolt-on strategy; part of five building blocks                                                                  | [Capital Allocation](principles/capital-allocation.md)           |
+| 2014    | Van Tuyl Automotive Group                         | ~$9B sales; 78 dealerships               | —                 | 5th-largest US auto group; Larry Van Tuyl/Jeff Rachor; permanent home thesis; 9½ Fortune 500 equivalents                  | [Van Tuyl Automotive](entities/van-tuyl-automotive.md)           |
 | 2014    | AltaLink                                          | $3B (Canadian)                           | —                 | Electric transmission; 85% Alberta population; placed under BHE; broadens regulatory diversity                            | [MidAmerican Energy](entities/midamerican-energy.md)             |
 | 2014    | Duracell (contracted)                             | ~$4.7B (P&G stock exchange)              | —                 | Tax-efficient exchange of Berkshire's P&G stock for Duracell; placed under Marmon                                         | [Marmon Group](entities/marmon-group.md)                         |
 | 2014    | 31 bolt-on acquisitions                           | $7.8B aggregate ($400K to $2.9B)         | —                 | Continued bolt-on strategy; acquisition criteria raised to $75M minimum                                                   | [Capital Allocation](principles/capital-allocation.md)           |

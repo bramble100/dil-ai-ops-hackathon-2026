@@ -1,11 +1,12 @@
 ---
 title: International Dairy Queen
 type: entity
+entity_kind: company
 sources: [buffett-letter-1997]
-source_count: 1
 created: 2026-04-20
 updated: 2026-04-20
-tags: [entity, retail, food-service, acquisition]
+status: complete
+tags: [retail, food-service, acquisition]
 ---
 
 ## Overview

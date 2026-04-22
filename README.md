@@ -8,6 +8,7 @@ Live topics in this repo:
 
 - [`topics/ai-engineering/`](topics/ai-engineering/) - AI from a software engineer's perspective (scaffold)
 - [`topics/amsterdam/`](topics/amsterdam/) - Amsterdam & Netherlands travel wiki (fully populated)
+- [`topics/berkshire-hathaway/`](topics/berkshire-hathaway/) - Buffett's shareholder letters distilled into an investor education wiki (fully populated)
 - [`topics/rheinmetall/`](topics/rheinmetall/) - Rheinmetall company analysis (fully populated)
 
 ![LLM Wiki architecture diagram by Yuchen Jin](docs/yuchen-jin-diagram.png)
@@ -65,11 +66,12 @@ topics/<slug>/
 
 The `init-topic` skill helps you choose a **wiki layout** fitted to your domain. The default is `concepts/`, `entities/`, `syntheses/`, `questions/` — but topics can declare a custom layout in `TOPIC.md`:
 
-| Topic            | Layout                                                                | Why                                            |
-| ---------------- | --------------------------------------------------------------------- | ---------------------------------------------- |
-| `ai-engineering` | `concepts/`, `entities/`, `syntheses/`, `questions/`                  | Default — general knowledge domain             |
-| `amsterdam`      | `places/`, `themes/`, `practical/`, `hotels/`                         | Travel wiki — organized by what you'd look up  |
-| `rheinmetall`    | `entities/`, `concepts/`, `financials/`, `comparisons/`, `questions/` | Corporate analysis — dedicated financial pages |
+| Topic                | Layout                                                                   | Why                                                         |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| `ai-engineering`     | `concepts/`, `entities/`, `syntheses/`, `questions/`                     | Default — general knowledge domain                          |
+| `amsterdam`          | `places/`, `themes/`, `practical/`, `hotels/`                            | Travel wiki — organized by what you'd look up               |
+| `berkshire-hathaway` | `principles/`, `entities/`, `case-studies/`, `financials/`, `questions/` | Investor education — principles taught through case studies |
+| `rheinmetall`        | `entities/`, `concepts/`, `financials/`, `comparisons/`, `questions/`    | Corporate analysis — dedicated financial pages              |
 
 ## Operations
 

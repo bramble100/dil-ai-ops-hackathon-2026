@@ -97,6 +97,7 @@ The market offered a 33% interest in a franchise with $20M earning power for $47
 - [Four Filters](../principles/four-filters.md) — all four criteria met decisively
 - [Capital Allocation](../principles/capital-allocation.md) — public market vs. negotiated prices; buyback logic
 - [Textile Operations](textile-operations.md) — the contrasting case: bad business at a bargain price
+- [Timeline](../timeline.md) — key GEICO events in chronological context
 
 [^1]: [1980 Letter](../sources/buffett-letter-1980.md) — GEICO analysis
 

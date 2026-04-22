@@ -40,8 +40,8 @@ sources:
     buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [valuation, principle, mental-model]
 ---
 
@@ -139,7 +139,7 @@ The criterion stability test: "Our equity-investing strategy remains little chan
 
 ### Arbitrage to Conviction (1992)
 
-**[1992 Letter]** The General Dynamics story adds a new dimension to filter application: conviction can emerge from process. Buffett started buying General Dynamics as an arbitrage play on a Dutch tender, then deep study of CEO Bill Anders's strategy converted him into a long-term holder. "I dumped my arbitrage thoughts and decided that Berkshire should become a long-term investor with Bill." Opportunistic entry can legitimately precede full filter evaluation, provided the evaluation happens before full commitment[^4].
+**[1992 Letter]** The [General Dynamics](../entities/general-dynamics.md) story adds a new dimension to filter application: conviction can emerge from process. Buffett started buying General Dynamics as an arbitrage play on a Dutch tender, then deep study of CEO Bill Anders's strategy converted him into a long-term holder. "I dumped my arbitrage thoughts and decided that Berkshire should become a long-term investor with Bill." Opportunistic entry can legitimately precede full filter evaluation, provided the evaluation happens before full commitment[^4].
 
 ### Beta vs. Real Filters (1993)
 
@@ -195,7 +195,7 @@ The distinction is critical: Buffett doesn't claim tech stocks are overpriced. H
 **[2003 Letter]** Two acquisitions demonstrate the four filters applied rapidly:
 
 - **Clayton Homes:** Buffett read Jim Clayton's autobiography (gifted by Tennessee students), evaluated Kevin Clayton, reviewed public financials, and called with an offer. Filter (1): understood manufactured housing from Oakwood experience; Filter (2): industry survivor with disciplined lending; Filter (3): Jim Clayton's character evident from his book; Filter (4): public company priced by a distressed market.
-- **McLane ($23B sales):** 2-hour meeting, handshake, 29 days to close, no due diligence. Filter (3) satisfied by Wal-Mart's reputation: "We knew everything would be exactly as Wal-Mart said it would be." Speed is possible precisely because the filters are internalized[^9].
+- **[McLane](../entities/mclane.md) ($23B sales):** 2-hour meeting, handshake, 29 days to close, no due diligence. Filter (3) satisfied by Wal-Mart's reputation: "We knew everything would be exactly as Wal-Mart said it would be." Speed is possible precisely because the filters are internalized[^9].
 
 ### Simple Propositions and Mono-Linked Chains (2004)
 
@@ -207,9 +207,9 @@ This sharpens filter (1) (understandable business): understanding a business mea
 
 **[2005 Letter]** Three acquisition stories demonstrate the four filters applied with characteristic speed:
 
-- **Forest River:** Pete Liegl sent a **two-page fax** after reading the 2003 acquisition criteria. $1.6B revenue, 60 plants, 5,400 employees. Liegl had bought the company from an LBO operator in 1996 for a "token amount" when it was near bankruptcy, built it into the #2 RV maker. Buffett: "It took me only a few minutes to realize that Pete was a straight-shooter" (filter 3) and the RV industry was within his circle of competence (filter 1). "Pete's a dynamo, and you can be sure that he'll build Forest River."
+- **[Forest River](../entities/forest-river.md):** Pete Liegl sent a **two-page fax** after reading the 2003 acquisition criteria. $1.6B revenue, 60 plants, 5,400 employees. Liegl had bought the company from an LBO operator in 1996 for a "token amount" when it was near bankruptcy, built it into the #2 RV maker. Buffett: "It took me only a few minutes to realize that Pete was a straight-shooter" (filter 3) and the RV industry was within his circle of competence (filter 1). "Pete's a dynamo, and you can be sure that he'll build Forest River."
 
-- **Business Wire:** Lorry Lokey, who founded the company in 1961 (age ~78 at sale), wrote Buffett after reading a WSJ article about Berkshire's acquisition criteria. Cathy Baron Tamraz serves as CEO. 25,000 clients in 150 countries. "Lorry created the gold standard for business wire services."
+- **[Business Wire](../entities/business-wire.md):** Lorry Lokey, who founded the company in 1961 (age ~78 at sale), wrote Buffett after reading a WSJ article about Berkshire's acquisition criteria. Cathy Baron Tamraz serves as CEO. 25,000 clients in 150 countries. "Lorry created the gold standard for business wire services."
 
 - **All-cash discipline restated:** "Our consistently-Loss-free acquisition strategy has now been institutionalized. We buy businesses that are within our circle of competence; offer them at attractive prices; employ managers who run them honestly; and then we leave them alone." The "no exit strategy" formulation: "We have no exit strategy. We buy to keep." This reverses private equity's fundamental axiom. The entrance strategy is what matters — price, quality, management — because there is no second chance to get it right[^11].
 
@@ -294,7 +294,7 @@ Both investments share a critical feature: **productivity focus trumps price foc
 
 ### PCC as Filter Exemplar and Important Risks (2015)
 
-**[2015 Letter]** Precision Castparts validates the four filters: (1) understandable — aerospace components under multi-year contracts; (2) durable competitive advantage — premier supplier, Mark Donegan "the da Vinci of his craft"; (3) management — Donegan builds through acquisitions, will continue deploying Berkshire's capital; (4) sensible price — $32B all-cash, "fits perfectly into the Berkshire model."
+**[2015 Letter]** [Precision Castparts](../entities/precision-castparts.md) validates the four filters: (1) understandable — aerospace components under multi-year contracts; (2) durable competitive advantage — premier supplier, Mark Donegan "the da Vinci of his craft"; (3) management — Donegan builds through acquisitions, will continue deploying Berkshire's capital; (4) sensible price — $32B all-cash, "fits perfectly into the Berkshire model."
 
 The **Important Risks** section applies filter thinking to Berkshire's own vulnerabilities: BNSF will lose coal volume; driverless cars may shrink GEICO; print circulation declining; online retail threatens consumer brands. None is "crucial to Berkshire's long-term well-being" because the conglomerate form provides adaptation capacity. "When we took over the company in 1965, its risks could have been encapsulated in a single sentence... That development, however, was no death knell. We simply adapted"[^15].
 
@@ -310,7 +310,7 @@ The **Important Risks** section applies filter thinking to Berkshire's own vulne
 - **Filter (3) inversion:** Instead of evaluating management quality, acquiring CEOs project their own confidence onto the target. The "can-do" personality bias.
 - **Filter (4) abandonment:** "Don't ask the barber whether you need a haircut" — the entire advisory ecosystem (bankers, lawyers, accountants) profits from deal completion, not deal quality.
 
-The **Pilot Flying J partnership** (38.6% initially, becoming ~80% in 2023) illustrates patient application of all four filters: simple, understandable business (truck stops); durable advantage (prime interstate locations); proven management (Haslam family); and a price that reflects partnership rather than auction dynamics[^16][^17].
+The **[Pilot Flying J](../entities/pilot-flying-j.md) partnership** (38.6% initially, becoming ~80% in 2023) illustrates patient application of all four filters: simple, understandable business (truck stops); durable advantage (prime interstate locations); proven management (Haslam family); and a price that reflects partnership rather than auction dynamics[^16][^17].
 
 [^16]: [2016 Letter](../sources/buffett-letter-2016.md) — all-equity acquisition evaluation; leverage aversion; Dexter as filter (4) failure
 
@@ -338,7 +338,7 @@ TTI demonstrates that filter (3) — management quality — remains paramount. P
 
 **[2022 Letter]** **"One good decision every five years"** — the most explicit statement of how rarely filters (1)-(4) align at mega-scale. Alleghany passes all four: understandable (insurance), durable (regulated industry with float dynamics), trusted management (Joe Brandon), and sensible price (relationship deal, not auction).
 
-Filter (4) in securities: Berkshire becomes **largest owner of 8 S&P 500 companies** — Coke, AmEx, OXY, Kraft Heinz, Moody's, HP, Paramount (later reduced), and Activision. All passed the filters at purchase; patience does the rest[^22].
+Filter (4) in securities: Berkshire becomes **largest owner of 8 S&P 500 companies** — Coke, AmEx, OXY, [Kraft Heinz](../entities/heinz.md), Moody's, HP, Paramount (later reduced), and Activision. All passed the filters at purchase; patience does the rest[^22].
 
 **[2023 Letter]** **Occidental Petroleum** illustrates modern filter application: (1) understandable (oil & gas, carbon capture), (2) favorable prospects (US energy independence, CO2 reduction technology), (3) excellent management (Vicki Hollub's debt repayment and environmental focus), (4) accumulated at attractive prices. 27.8% + warrants.
 
@@ -370,3 +370,19 @@ The speed/decisiveness filter maintained: "big investment opportunities can be c
 [^24]: [2024 Letter](../sources/buffett-letter-2024.md) — Pete Liegl filter exemplar ($100K/10%); fidelity as filter (3); thumb-sucking cardinal sin; household-name equities
 
 [^25]: [2025 Letter](../sources/buffett-letter-2025.md) — five principles codified; OxyChem/Bell Labs filter application; speed/decisiveness maintained; "ten times bigger"
+
+## Case Studies
+
+- [See's Candies](../case-studies/sees-candies-acquisition.md) — the textbook four-filter pass: understandable, durable moat, excellent management, acquired at a sensible price
+- [Coca-Cola](../case-studies/coca-cola-investment.md) — Munger-era filter application: consumer franchise with extraordinary economics, concentrated bet
+- [Dexter Shoe](../case-studies/dexter-shoe-investment.md) — passed filters (1)-(3) but the moat assessment was wrong; Buffett's "worst deal I've made"
+- [Wells Fargo](../case-studies/wells-fargo-investment.md) — contrarian purchase during a banking panic; circle of competence + margin of safety
+- [General Re — From Crisis to Gem](../case-studies/general-re-turnaround.md) — filter (3) failure at purchase; management quality misjudged
+
+## Practical Application
+
+- **Apply all four filters simultaneously** — a business that passes three but fails one is a pass, not a buy
+- **Define your circle of competence honestly** — filter (1) eliminates most businesses, and that's correct
+- **Wait for the fat pitch** — speed of action after years of patience is the hallmark; "one decision per five years" can build a fortune
+- **Weight management character as highly as management ability** — the "fidelity" dimension matters as much as capability
+- **Be willing to say no** — Buffett and Munger turned down thousands of deals; the discipline to reject is more valuable than the skill to select

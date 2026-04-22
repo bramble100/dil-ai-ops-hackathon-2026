@@ -1,7 +1,7 @@
 ---
 title: "Burlington Northern Santa Fe (BNSF)"
 type: entity
-entity_kind: organization
+entity_kind: company
 sources:
   [
     buffett-letter-2013,
@@ -17,6 +17,7 @@ sources:
   ]
 created: 2026-04-21
 updated: 2026-04-21
+status: complete
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
 ---
 

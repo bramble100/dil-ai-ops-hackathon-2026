@@ -47,8 +47,8 @@ sources:
     buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [valuation, accounting, compounding, principle]
 ---
 
@@ -358,7 +358,7 @@ The investment column's growth rate is decelerating while operating earnings acc
 
 ### Big Four Look-Through and Non-Real Amortization (2011-2012)
 
-**[2011 Letter]** The Big Four equity positions — now **American Express (13.0%), Coca-Cola (8.8%), IBM (5.5%), Wells Fargo (7.6%)** — demonstrate the look-through framework at scale. Berkshire receives **$862M in dividends** but its share of retained earnings is **$3.3B** — meaning **$2.4B in unreported earnings** that "create at least that amount of value" annually. IBM replaces Gillette/P&G as a permanent pillar.
+**[2011 Letter]** The Big Four equity positions — now **American Express (13.0%), Coca-Cola (8.8%), [IBM](../entities/ibm.md) (5.5%), Wells Fargo (7.6%)** — demonstrate the look-through framework at scale. Berkshire receives **$862M in dividends** but its share of retained earnings is **$3.3B** — meaning **$2.4B in unreported earnings** that "create at least that amount of value" annually. IBM replaces Gillette/P&G as a permanent pillar.
 
 The two-column update continues. Berkshire now owns **eight subsidiaries** that individually qualify for the Fortune 500 by revenue — the non-insurance earnings pillar grows with each acquisition[^19].
 
@@ -521,8 +521,23 @@ The tax payment as owner-earnings proof: Berkshire paid **$26.8B** in federal in
 
 The GAAP caution reiterated: "GAAP net earnings — with its sometimes-large annual swings from realized and unrealized investment gains and losses — must be assessed with caution." Abel maintains Buffett's framework but adds operational cash generation as a co-equal metric.
 
-BNSF's capital reality continues: $8.1B net operating cash, but operating margin only 34.5% — each 1pp improvement generates ~$230M incremental cash flow. PCC rebounds to **$2.4B operating cash** (from $0.9B avg in 2021-22). BHE produces $8.4B operating cash "even as it absorbed" wildfire challenges. Pilot delivers $1.7B[^33].
+BNSF's capital reality continues: $8.1B net operating cash, but operating margin only 34.5% — each 1pp improvement generates ~$230M incremental cash flow. [PCC](../entities/precision-castparts.md) rebounds to **$2.4B operating cash** (from $0.9B avg in 2021-22). BHE produces $8.4B operating cash "even as it absorbed" wildfire challenges. [Pilot](../entities/pilot-flying-j.md) delivers $1.7B[^33].
 
 [^32]: [2024 Letter](../sources/buffett-letter-2024.md) — record $47.4B operating; $26.8B tax (5% of all corporate); $101B cumulative; EBITDA dismissed; one dividend ever
 
 [^33]: [2025 Letter](../sources/buffett-letter-2025.md) — $44.5B operating; $46B cash flows; GAAP caution; BNSF 34.5% margin/$230M per pp; PCC $2.4B; BHE $8.4B; Pilot $1.7B
+
+## Case Studies
+
+- [Scott & Fetzer](../case-studies/scott-fetzer-acquisition.md) — the primary owner-earnings teaching case: identical economics under different GAAP treatments; showed owner earnings unaffected by Goodwill accounting
+- [See's Candies](../case-studies/sees-candies-acquisition.md) — generates owner earnings far exceeding reported net income due to minimal maintenance capex
+- [Coca-Cola](../case-studies/coca-cola-investment.md) — Berkshire's look-through earnings from 8.1% ownership vastly exceed reported dividend income
+- [BNSF](../case-studies/bnsf-acquisition.md) — capital-intensive business where maintenance capex consistently exceeds depreciation; tests the limits of owner-earnings analysis
+
+## Practical Application
+
+- **Calculate owner earnings**: reported earnings + depreciation/amortization − normalized maintenance capex − working capital changes
+- **Never use EBITDA** as a proxy for value — it ignores the very real capital expenditures that businesses must make to maintain competitive position
+- **Apply look-through earnings** to portfolio positions — your share of undistributed earnings from investees is real economic income
+- **Distrust reported earnings** when non-cash charges seem artificially low — some businesses underspend on maintenance (depleting assets) to inflate near-term earnings
+- **Prefer businesses where maintenance capex is well below depreciation** — excess cash flow is truly available to owners

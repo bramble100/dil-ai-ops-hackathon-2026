@@ -5,6 +5,7 @@ entity_kind: company
 sources: [buffett-letter-2022, buffett-letter-2023]
 created: 2026-04-21
 updated: 2026-04-21
+status: complete
 tags: [insurance, acquisition, float]
 ---
 

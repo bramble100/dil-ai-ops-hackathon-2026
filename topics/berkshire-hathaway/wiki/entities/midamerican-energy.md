@@ -1,6 +1,7 @@
 ---
 title: MidAmerican Energy
 type: entity
+entity_kind: company
 sources:
   [
     buffett-letter-1999,
@@ -27,6 +28,7 @@ sources:
 source_count: 15
 created: 2026-04-20
 updated: 2026-04-22
+status: complete
 tags: [entity, utilities, energy, acquisition]
 ---
 

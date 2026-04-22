@@ -6,6 +6,7 @@ sources: [buffett-letter-2005, buffett-letter-2024]
 source_count: 2
 created: 2026-04-20
 updated: 2026-04-21
+status: complete
 tags: [acquisition, manufacturing, four-filters]
 ---
 

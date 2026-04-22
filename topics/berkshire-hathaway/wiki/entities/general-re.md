@@ -1,6 +1,7 @@
 ---
 title: General Re Corporation
 type: entity
+entity_kind: company
 sources:
   [
     buffett-letter-1998,
@@ -21,6 +22,7 @@ sources:
 source_count: 14
 created: 2026-04-20
 updated: 2026-04-21
+status: complete
 tags: [entity, insurance, reinsurance, acquisition]
 ---
 

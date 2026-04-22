@@ -1,12 +1,18 @@
 ---
 title: "IBM"
 type: entity
-entity_kind: product
+entity_kind: company
 created: 2026-04-21
 updated: 2026-04-21
+status: complete
 tags: [equity-investment, big-four, mega-cap-era]
-sources: [buffett-letter-2013, buffett-letter-2014, buffett-letter-2015, buffett-letter-2017]
-updated: 2026-04-21
+sources:
+  [
+    buffett-letter-2013,
+    buffett-letter-2014,
+    buffett-letter-2015,
+    buffett-letter-2017,
+  ]
 ---
 
 ## Overview

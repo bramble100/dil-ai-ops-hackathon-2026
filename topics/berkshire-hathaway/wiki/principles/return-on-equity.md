@@ -26,8 +26,8 @@ sources:
     buffett-letter-2013,
   ]
 created: 2026-04-20
-updated: 2026-04-20
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [valuation, accounting, principle]
 ---
 
@@ -134,7 +134,7 @@ The college education analogy: identical spending on two children produces ident
 
 ### Exceptional Years and Stock-Price Warning (1995-1996)
 
-**[1995 Letter]** Net worth gained $5.3B (45.0%); per-share book value grew 43.1% to $14,426 — the second-highest percentage gain ever (after 1985's 48.2%). 31-year CAGR: 23.6%. But Buffett issues an extraordinary warning: "Rising tide lifts all yachts" — disclaiming personal credit. More strikingly: "at a price at which Charlie and I would not consider buying it." Berkshire's market price has outpaced intrinsic value — investors should recalibrate expectations. Share count rose from issuances for Helzberg's and R.C. Willey acquisitions (stock deals)[^4].
+**[1995 Letter]** Net worth gained $5.3B (45.0%); per-share book value grew 43.1% to $14,426 — the second-highest percentage gain ever (after 1985's 48.2%). 31-year CAGR: 23.6%. But Buffett issues an extraordinary warning: "Rising tide lifts all yachts" — disclaiming personal credit. More strikingly: "at a price at which Charlie and I would not consider buying it." Berkshire's market price has outpaced intrinsic value — investors should recalibrate expectations. Share count rose from issuances for [Helzberg's](../entities/helzbergs.md) and R.C. Willey acquisitions (stock deals)[^4].
 
 **[1996 Letter]** Net worth gained $6.2B (36.1%); per-share book value grew 31.8% to $19,011; 32-year CAGR 23.8%. The two-year 1995-96 gain of ~$11.5B is extraordinary — but Buffett attributes it to favorable markets for both businesses owned and securities held. Shares outstanding increased from Class B IPO and FlightSafety acquisition. GEICO step-acquisition accounting adjustment reduced book value by $478.4M upon consolidation[^4].
 
@@ -160,5 +160,19 @@ The college education analogy: identical spending on two children produces ident
 Net worth increased by **$34.2B** during 2013 — the largest single-year dollar gain in Berkshire's history. However, Buffett acknowledges book value underperformed the S&P 500 (+32.4%) for the fifth time in his 49-year tenure — "all five instances occurred during bull-market periods," reflecting Berkshire's pattern of outperforming in bad years and lagging in frothy markets.
 
 The 2013 result affirms the structural tension at massive scale: 18.2% book value growth on a $221B enterprise is extraordinary, but the percentage cannot match Berkshire's early decades. "Our advantage has shrunk"; the probabilistic forecast is "modestly better" than S&P 500, not dramatically better[^5].
+
+## Case Studies
+
+- [Scott & Fetzer](../case-studies/scott-fetzer-acquisition.md) — near-100% ROE on carrying value; would rank in Fortune 500's top four
+- [Textile Operations](../case-studies/textile-operations.md) — negative example: low ROE despite management effort; illustrates why ROE matters more than EPS
+- [See's Candies](../case-studies/sees-candies-acquisition.md) — extraordinary ROE on net tangible assets, generating excess cash for redeployment
+
+## Practical Application
+
+- **Use ROE on beginning equity** (securities at cost) as the primary single-year performance metric — not EPS growth
+- **Apply a 5-year rolling test** — compare average ROE against average American corporate ROE; red flags if consistently below
+- **Adjust for leverage** — high ROE achieved through debt is less meaningful than high ROE with minimal leverage
+- **Watch for scale drag** — as equity base grows, maintaining high ROE percentages becomes exponentially harder
+- **Distinguish book value from intrinsic value** — book value records what was put in; intrinsic value estimates what can be taken out
 
 [^5]: [2013 Letter](../sources/buffett-letter-2013.md) — $134,973/share; +18.2%; 49-year CAGR 19.7%; 693,518% overall; $34.2B net worth gain; S&P underperformance in bull markets

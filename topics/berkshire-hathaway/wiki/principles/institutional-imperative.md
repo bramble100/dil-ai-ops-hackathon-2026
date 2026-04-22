@@ -12,7 +12,7 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-22
-status: draft
+status: complete
 tags: [management, corporate-governance, principle, mental-model, warning]
 ---
 
@@ -33,7 +33,7 @@ The institutional imperative is the unseen force that causes organizations to ac
 3. **Leader ratification:** "Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops"
 4. **Peer imitation:** "The behavior of peer companies, whether they are expanding, acquiring, setting executive compensation or whatever, will be mindlessly imitated"
 
-> "Institutional dynamics, not venality or stupidity, set businesses on these courses, which are too often misguided." — 1989 Letter
+> "Institutional dynamics, not venality or stupidity, set businesses on these courses, which are too often misguided." — 1989 Letter[^1]
 
 ## Practical Application
 
@@ -109,5 +109,12 @@ The Salomon testimony still echoes: "For over 25 years, at each shareholder meet
 BNSF's Swinomish Indian Tribal Community resolution as institutional correction: "The BNSF decisions that sparked the dispute were made long ago, but the current BNSF leadership built a partnership rooted in communication, understanding, and respect. BNSF acknowledged its past mistakes and apologized." Proof that the anti-imperative works: correct errors publicly rather than defending them[^6].
 
 [^5]: [2024 Letter](../sources/buffett-letter-2024.md) — thumb-sucking (Munger); 16 times "mistake/error" in 5 years; Amazon candor credit; happy talk/pictures elsewhere
+
+## Case Studies
+
+- [Textile Operations](../case-studies/textile-operations.md) — Buffett's own textile persistence was partly institutional imperative: inertia prevented timely closure despite obvious economics
+- [Salomon Crisis](../case-studies/salomon-crisis.md) — institutional culture of rule-bending left uncorrected until crisis forced intervention
+- [General Re — From Crisis to Gem](../case-studies/general-re-turnaround.md) — institutional imperative drove volume-chasing at inadequate prices; turnaround required structural reform
+- [Dexter Shoe](../case-studies/dexter-shoe-investment.md) — thumb-sucking: delay in recognizing the error compounded the cost
 
 [^6]: [2025 Letter](../sources/buffett-letter-2025.md) — decentralized model codified; no bureaucracy/no short-term targets; Salomon testimony 25+ years; integrity re-earned daily; BNSF Swinomish resolution

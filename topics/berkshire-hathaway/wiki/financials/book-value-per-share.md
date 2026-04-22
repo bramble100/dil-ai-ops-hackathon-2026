@@ -195,3 +195,5 @@ _The book value per share series (1964-2017) remains the canonical historical re
 - [Return on Equity](../principles/return-on-equity.md) — the annual metric; book value is the cumulative scorecard
 - [Inflation and Investing](../principles/inflation-and-investing.md) — nominal book value growth overstates real returns
 - [Owner Earnings](../principles/owner-earnings.md) — market recognition of unreported earnings drives book value above what operating earnings alone would produce
+- [Timeline](../timeline.md) — chronological events behind the numbers
+- [Acquisitions Timeline](../acquisitions-timeline.md) — deals that drove book value growth

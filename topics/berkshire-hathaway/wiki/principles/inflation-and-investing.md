@@ -16,8 +16,8 @@ sources:
     buffett-letter-2011,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [inflation, valuation, risk, taxes, principle]
 ---
 
@@ -131,5 +131,19 @@ This essay extends the inflation principle from domestic purchasing power to int
 **Category 3: Productive assets** — businesses, farmland, real estate. "The runaway winner over any extended period of time... and by far the safest." The critical insight connecting to the 1979-1981 inflation analysis: productive assets deliver output measured in _real units_ (bushels, barrels, widgets), not nominal currency. Inflation changes the price tag; it doesn't destroy the output. Businesses with pricing power and low capital requirements (See's Candies, Coca-Cola) pass inflation through to customers while requiring minimal additional capital.
 
 This essay resolves the earlier tension between the 1981 tapeworm pessimism (inflation destroys all equity returns) and the 1983 Goodwill optimism (some businesses thrive in inflation). The synthesis: productive assets with strong competitive positions are the only reliable inflation defense. Currency-denominated assets are the most dangerous precisely when they feel safest. And nonproductive assets (gold) are a bet on fear — "What motivates most gold purchasers is their belief that the ranks of the fearful will grow"[^8].
+
+## Case Studies
+
+- [See's Candies](../case-studies/sees-candies-acquisition.md) — the archetype of an inflation-adapted business: pricing power + minimal capital requirements
+- [Textile Operations](../case-studies/textile-operations.md) — the archetype of an inflation-vulnerable business: commodity product + heavy capital requirements
+- [Coca-Cola](../case-studies/coca-cola-investment.md) — franchise pricing power passes inflation through to consumers while requiring little incremental capital
+
+## Practical Application
+
+- **Calculate your misery index** — inflation rate + tax rate on nominal gains. If this exceeds investment returns, purchasing power is shrinking
+- **Own productive assets** (Category 3) for long-term wealth preservation — businesses, farmland, real estate with pricing power
+- **Avoid currency-denominated instruments** when they feel safest — the "safety" of bonds at low real yields is an illusion
+- **Prefer businesses with low capital requirements and pricing power** — they are the only true inflation hedges
+- **Hold for long periods** to minimize the Rip Van Winkle tax disadvantage — deferred taxes compound like an interest-free loan
 
 [^8]: [2011 Letter](../sources/buffett-letter-2011.md) — three investment categories essay; gold cube $9.6T vs. Pile B; currency "most dangerous"; productive assets "runaway winner and safest"; purchasing power proof

@@ -40,14 +40,14 @@ sources:
     buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [market-psychology, valuation, principle, mental-model]
 ---
 
 ## Definition
 
-Mr. Market is Ben Graham's allegorical business partner who offers a daily buy-sell price driven by emotion, not fundamentals. He is there to serve the investor, not to guide him. The investor's edge lies in understanding that market quotations reflect the mood of other participants — not the intrinsic value of the underlying business.
+Mr. Market is [Ben Graham](../entities/ben-graham.md)'s allegorical business partner who offers a daily buy-sell price driven by emotion, not fundamentals. He is there to serve the investor, not to guide him. The investor's edge lies in understanding that market quotations reflect the mood of other participants — not the intrinsic value of the underlying business.
 
 ## Buffett's Teaching
 
@@ -234,6 +234,7 @@ Lou Simpson's 25-year track record (**20.3% CAGR** vs. S&P 13.5%) on ~$2.5B of G
 - [Business Quality](business-quality.md) — you must understand the business to know when Mr. Market is wrong
 - [Capital Allocation](capital-allocation.md) — permanent holdings philosophy flows from ignoring Mr. Market's daily quotations
 - [Owner Earnings](owner-earnings.md) — Aesop's "birds in the bush" = DCF = owner earnings — same formula, different words
+- [Quotes](../quotes.md) — Buffett's most memorable Mr. Market and market psychology aphorisms
 
 [^1]: [1987 Letter](../sources/buffett-letter-1987.md) — full Mr. Market parable
 
@@ -255,7 +256,7 @@ Lou Simpson's 25-year track record (**20.3% CAGR** vs. S&P 13.5%) on ~$2.5B of G
 
 [^10]: [1999 Letter](../sources/buffett-letter-1999.md) — "enchanted market"; equity investors "wildly optimistic"; 10-year real return estimate 4-6%; share repurchase as Mr. Market exploitation
 
-[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's axiom; IBT theory; tech bubble as pathology; "dancing in a room with no clocks"
+[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
 
 [^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble endpoint March 10, 2000; NASDAQ 5,132 = BRK low; moderate equity return expectations
 
@@ -265,8 +266,6 @@ Lou Simpson's 25-year track record (**20.3% CAGR** vs. S&P 13.5%) on ~$2.5B of G
 
 [^15]: [2004 Letter](../sources/buffett-letter-2004.md) — Big Four ($3.83B cost / $36.3B value / $1.2B earnings share); "talked when should have walked" Bubble confession; normal return paradox; three investor enemies; Lou Simpson 20.3% CAGR
 
-[^11]: [2000 Letter](../sources/buffett-letter-2000.md) — Aesop's three-question valuation framework; IBT; Cinderella/clocks-no-hands; wealth transfer via "birdless bushes"; growth as value-creating or value-destroying
-
 ### The Gotrocks Family and Newton's Fourth Law (2005)
 
 **[2005 Letter]** Buffett's most complete parable on why investors as a whole earn less than the businesses they own. The Gotrocks family — owning all of corporate America — progressively hires four tiers of Helpers (brokers → managers → consultants → hyper-Helpers/hedge funds), each extracting fees that reduce the family's share of earnings. Frictional costs now consume ~20% of corporate earnings.
@@ -280,22 +279,6 @@ Portfolio expectations sobered: Berkshire's major equity holdings "may double in
 **[2005 Letter]** The foreign currency shift: direct currency positions reduced; replaced with foreign equities earning profits internationally. Rationale: rising US rates create "significant negative carry" on currency positions, while foreign equity ownership generates positive carry. The underlying trade-deficit thesis remains: "our country's 'Sharecropper's Society' problem" continues to worsen[^16].
 
 [^16]: [2005 Letter](../sources/buffett-letter-2005.md) — Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR math; portfolio expectations 6-8%; foreign currency to foreign equities shift
-
-### The Gotrocks Family and Newton's Fourth Law (2005)
-
-**[2005 Letter]** Buffett's most complete parable on why investors as a whole earn less than the businesses they own. The Gotrocks family — owning all of corporate America — progressively hires four tiers of Helpers (brokers → managers → consultants → hyper-Helpers/hedge funds), each extracting fees that reduce the family's share of earnings. Frictional costs now consume ~20% of corporate earnings.
-
-> "Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases." — 2005 Letter
-
-The Dow rose from 66 to 11,497 in the 20th century — a 5.3% annual rate (plus dividends). To match that pace in the 21st century, the Dow must reach 2,011,011 by 2099. Six years into the century, the Dow had gained not at all.
-
-Portfolio expectations sobered: Berkshire's major equity holdings "may double in value in ten years" — 6-8% earnings growth, stock prices to match. "Expect no miracles from our equity portfolio." This sober assessment contrasts sharply with the 1988-1998 era of double-digit returns from permanent holdings[^16].
-
-**[2005 Letter]** The foreign currency shift: direct currency positions reduced; replaced with foreign equities earning profits internationally. Rationale: rising US rates create "significant negative carry" on currency positions, while foreign equity ownership generates positive carry. The underlying trade-deficit thesis remains: "our country's 'Sharecropper's Society' problem" continues to worsen[^16].
-
-[^16]: [2005 Letter](../sources/buffett-letter-2005.md) — Gotrocks parable; Newton's Fourth Law; Dow 5.3% CAGR math; portfolio expectations 6-8%; foreign currency to foreign equities shift
-
-[^12]: [2001 Letter](../sources/buffett-letter-2001.md) — Great Bubble ended March 10, 2000 (NASDAQ 5,132 = day BRK hit $40,800 low); equity prices presage only moderate returns
 
 ### Gotrocks Sequel: 2-and-20 Math (2006)
 
@@ -333,28 +316,6 @@ The **six investment sins:** active trading, market timing, inadequate diversifi
 
 [^17]: [2006 Letter](../sources/buffett-letter-2006.md) — 2-and-20 hedge fund math ($108M on $3B); Walter Schloss tribute; EMT academic blindness; pension fund delusions
 
-### Volatility ≠ Risk: The 50-Year Proof and Index Fund Endorsement (2014)
-
-**[2014 Letter]** The most sweeping statement of the volatility-is-not-risk thesis, backed by 50 years of data. S&P 500 rose from 84 to 2,059 (11,196% total return with dividends reinvested) while the dollar's purchasing power declined 87% (now takes $1 to buy what cost 13¢ in 1965).
-
-> "The unconventional, but inescapable, conclusion: it has been far safer to invest in a diversified collection of American businesses than to invest in securities whose values have been tied to American currency." — 2014 Letter
-
-Buffett explicitly inverts the conventional wisdom: **currency-denominated instruments are "far riskier" than diversified equity portfolios** bought over time. "Stock prices will always be far more volatile than cash-equivalent holdings. Over the long term, however, currency-denominated instruments are riskier investments — far riskier investments."
-
-The pedagogic critique sharpened: "Volatility is almost universally used as a proxy for risk" in business schools. "Though this pedagogic assumption makes for easy teaching, it is dead wrong: Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray."
-
-The time-horizon distinction: owning equities "for a day or a week or a year is far riskier" than cash — relevant for investment banks whose viability depends on short-term asset prices. But for investors with multi-decade horizons, "quotational declines are unimportant. Their focus should remain fixed on attaining significant gains in purchasing power."
-
-**"Borrowed money has no place in the investor's tool kit":** Berkshire stock fell ~50% from its high three times since 1965. "Anything can happen anytime in markets" — leveraged investors face forced liquidation at the worst moment.
-
-**Index fund endorsement deepened:** "Huge institutional investors, viewed as a group, have long underperformed the unsophisticated index-fund investor who simply sits tight for decades." Fees are the primary destroyer — consultants recommend high-fee managers in a "fool's game." Buffett recommends **Jack Bogle's _The Little Book of Common Sense Investing_**. "Most advisors are far better at generating high fees than they are at generating high returns."
-
-> "The fault, dear Brutus, is not in our stars, but in ourselves." — Ben Graham, quoted in 2014 Letter
-
-The **six investment sins:** active trading, market timing, inadequate diversification, high fees, unnecessary commissions, and borrowed money — these "destroy the decent returns that a life-long owner of equities would otherwise enjoy"[^18].
-
-[^18]: [2014 Letter](../sources/buffett-letter-2014.md) — 50-year volatility-≠-risk proof; currency riskier than equities; pedagogic critique; borrowed money condemned; index fund advocacy; Jack Bogle; six investment sins; Shakespeare/Graham quote
-
 ### Pension Assumptions and CEO Gaming (2007)
 
 **[2007 Letter]** Buffett devotes significant space to pension fund accounting manipulation:
@@ -362,7 +323,7 @@ The **six investment sins:** active trading, market timing, inadequate diversifi
 - **Expected return assumptions** are chosen by CEOs, not actuaries — and directly affect reported earnings. Raise the assumption from 6.5% to 8%, and earnings jump with zero economic change.
 - The S&P 500 companies assume an average 8% return while the risk-free rate is ~4.7%. This implies "stocks will return 12.8% annually" — a heroic assumption.
 - Buffett's test: "How many investment managers, if compensated based on performance, would agree to 8%+ as a minimum return?" The answer: very few. Yet corporate America bakes it into earnings.
-- This is the Mr. Market principle inverted: rather than exploiting market mispricing, corporate managers exploit accounting flexibility to manufacture earnings[^18].
+- This is the Mr. Market principle inverted: rather than exploiting market mispricing, corporate managers exploit accounting flexibility to manufacture earnings[^18a].
 
 ### Black-Scholes Critique and "Beware Geeks Bearing Formulas" (2008)
 
@@ -378,7 +339,7 @@ The **six investment sins:** active trading, market timing, inadequate diversifi
 
 **"Swimming naked" vindicated:** "You only find out who is swimming naked when the tide goes out" (from the 2001 letter) — the 2008 crisis reveals exactly who had no margin of safety[^19].
 
-[^18]: [2007 Letter](../sources/buffett-letter-2007.md) — pension assumption gaming; 8% expected return delusion; CEO manipulation of reported earnings
+[^18a]: [2007 Letter](../sources/buffett-letter-2007.md) — pension assumption gaming; 8% expected return delusion; CEO manipulation of reported earnings
 
 [^19]: [2008 Letter](../sources/buffett-letter-2008.md) — Black-Scholes 100-year put critique; "beware geeks bearing formulas"; derivatives four-category disclosure; Treasury bubble; swimming naked vindicated
 
@@ -408,7 +369,7 @@ Common stocks: **$59B** in publicly traded equities plus **$21.1B** in non-trade
 
 **Category 3: Productive assets** (businesses, farmland, real estate). "The runaway winner over any extended period of time... and by far the safest." These are assets that deliver output regardless of the currency unit — farms produce food, businesses deliver goods and services.
 
-The IBM section applies this framework to equity investing: Berkshire owns 63.9M shares ($10.9B, 5.5%). If IBM continues aggressive repurchasing, Berkshire's ownership rises automatically. **The counterintuitive insight:** existing shareholders should root for a _lower_ stock price during the repurchase period, because more shares are retired per dollar spent. "When Berkshire buys cattle, I hope the price of beef goes down"[^22].
+The [IBM](../entities/ibm.md) section applies this framework to equity investing: Berkshire owns 63.9M shares ($10.9B, 5.5%). If IBM continues aggressive repurchasing, Berkshire's ownership rises automatically. **The counterintuitive insight:** existing shareholders should root for a _lower_ stock price during the repurchase period, because more shares are retired per dollar spent. "When Berkshire buys cattle, I hope the price of beef goes down"[^22].
 
 **[2012 Letter]** The optimism-despite-uncertainty theme is restated with full force:
 
@@ -560,3 +521,18 @@ Financial strength as market anchor: cash/Treasuries exceed **$370B** — "a str
 [^34]: [2024 Letter](../sources/buffett-letter-2024.md) — American capitalism defense; paper money warning; equities always; 25.5% vs 25.0%; scoundrels caution; compounding magic
 
 [^35]: [2025 Letter](../sources/buffett-letter-2025.md) — stewardship not speculation; $370B fortress; deploy when fearful; compounding math at scale; 19.7% CAGR / 6,099,294%
+
+## Case Studies
+
+- [American Express](../case-studies/american-express-investment.md) — bought during 1960s Salad Oil Scandal panic; classic Mr. Market irrationality creating opportunity
+- [Wells Fargo](../case-studies/wells-fargo-investment.md) — purchased during 1990 California real-estate fears when Mr. Market was selling at 5× earnings
+- [Coca-Cola](../case-studies/coca-cola-investment.md) — concentrated bet on a business Mr. Market chronically undervalued relative to intrinsic franchise power
+- [GEICO](../case-studies/geico-investment.md) — Buffett's longest-held position; accumulated across decades as Mr. Market offered various prices
+
+## Practical Application
+
+- **Treat stock prices as offers, not verdicts** — Mr. Market quotes you a price daily; you decide whether it's attractive, not whether it's "right"
+- **Buy when fearful, hold when greedy** — Berkshire's largest gains came from acting during panics (1973-74, 1990, 2008-09)
+- **Ignore daily price movements** — check quarterly at most; if you'd be comfortable owning a business with no quoted price, you're thinking correctly
+- **Use volatility as opportunity, not risk** — "volatility is far from synonymous with risk"; beta is a textbook artifact
+- **Hold for 10+ years** — the Rip Van Winkle approach minimizes taxes and maximizes compounding; "our favorite holding period is forever"

@@ -1,11 +1,12 @@
 ---
 title: Star Furniture
 type: entity
+entity_kind: company
 sources: [buffett-letter-1997]
-source_count: 1
 created: 2026-04-20
 updated: 2026-04-20
-tags: [entity, retail, acquisition]
+status: complete
+tags: [retail, acquisition]
 ---
 
 ## Overview

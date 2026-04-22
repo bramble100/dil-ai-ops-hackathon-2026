@@ -133,7 +133,7 @@ This file tracks batch-by-batch ingestion progress. The agent reads this at the 
 
 After all batches are complete:
 
-- [ ] Review and polish standalone pages (quotes.md, timeline.md, acquisitions-timeline.md)
-- [ ] Run lint skill for full health check
-- [ ] Create overview.md (topic front page)
-- [ ] Human review pass on principle pages (the core product)
+- [x] Review and polish standalone pages — timeline.md and acquisitions-timeline.md fixed; quotes.md thematic reorganization deferred to dedicated session
+- [x] Run lint skill for full health check
+- [x] Create overview.md (topic front page)
+- [x] Human review pass on principle pages (the core product)

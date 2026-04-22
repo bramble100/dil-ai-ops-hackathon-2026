@@ -1,5 +1,65 @@
 # Activity Log
 
+## [2026-04-22] review | Overview page creation + principle page quality pass
+
+- Created: overview.md (topic front page with 10 principles, record stats, case studies, navigation guide)
+- Reviewed: all 10 principle pages (capital-allocation, business-quality, mr-market, owner-earnings, four-filters, underwriting-discipline, return-on-equity, economic-goodwill, inflation-and-investing, institutional-imperative)
+- Fixed: duplicate sections in 4 pages (capital-allocation −46 lines, mr-market −40 lines, business-quality −34 lines, economic-goodwill −7 lines)
+- Fixed: duplicate/conflicting footnotes in mr-market and business-quality; garbled markdown in business-quality
+- Added: Case Studies + Practical Application sections to all 10 principle pages
+- Fixed: orphan footnotes in business-quality, economic-goodwill, institutional-imperative, underwriting-discipline
+- Updated: frontmatter status draft→complete and updated date on all 10 principle pages
+- Updated: index.md with overview.md entry; \_batch-plan.md post-ingestion items checked off
+
+## [2026-04-22] create | Case studies and financial analysis — batch 3
+
+- Created: case-studies/american-express-investment (15 sources — $1.3B→$56.1B; 5.5%→22.1% via buybacks; 27 years of inaction)
+- Created: case-studies/salomon-crisis (8 sources — 10-month Interim Chairman; Treasury scandal; "lose reputation" testimony)
+- Created: financials/share-repurchase-economics (12 sources — three-condition framework; $51.7B cumulative; investee buyback compounding)
+- Created: financials/portfolio-concentration (13 sources — Big Four→Four Giants→9-holding endgame; $194B on $24.5B cost)
+- Updated: index.md with 4 new page entries
+- Structural balance: case-studies 10→12, financials 6→8
+
+## [2026-04-22] create | Case studies and financial analysis — batch 2
+
+- Created: case-studies/general-re-turnaround (11 sources — $22B crisis→gem; four commandments; turnaround)
+- Created: case-studies/dexter-shoe-investment (5 sources — 25,203 shares→$5.7B; payment method lesson)
+- Created: case-studies/scott-fetzer-acquisition (12 sources — $315M→$1.03B distributions; owner-earnings proof; 86% ROE)
+- Created: case-studies/bnsf-acquisition (13 sources — $34B capital-intensive pivot; $46.6B dividends; irreplaceability)
+- Created: financials/owner-earnings (8 sources — (a)+(b)−(c) formula; Company O vs N; capital requirements variation)
+- Created: financials/combined-ratio (13 sources — CR definition; GEICO/NICO/General Re; four commandments)
+- Updated: index.md with 6 new page entries
+- Structural balance: case-studies 6→10, financials 4→6
+
+## [2026-04-21] create | Case studies and financial analysis pages
+
+- Created: case-studies/sees-candies-acquisition (19 sources — philosophy-changing investment; $25M→$1.9B; gateway to Coke)
+- Created: case-studies/coca-cola-investment (16 sources — 52-year delay; $1.3B→$28B; franchise investing perfected)
+- Created: case-studies/wells-fargo-investment (13 sources — 1990 bank panic; worst-case analysis; 30-year arc)
+- Created: case-studies/gillette-investment (7 sources — preferred→equity conversion; razor/blade; moat castle archetype)
+- Created: financials/float (27 sources — $17M→$176B; structural engine; negative cost; Ajit Jain)
+- Created: financials/operating-earnings (18 sources — true scorecard; Sainted Seven; look-through earnings; GAAP vs reality)
+- Created: financials/intrinsic-value-vs-book-value (15 sources — two-column framework; economic goodwill; why book value misleads)
+- Updated: index.md with 7 new page entries
+- Structural balance improved: case-studies 2→6, financials 1→4
+
+## [2026-04-21] lint | Health check
+
+- Unprocessed: 0 files in raw/ (all 49 letters ingested)
+- Found: 9 important (page budget), 5 medium, 6 minor themes (~35 individual items)
+- Fixed: 22 missing status fields, 6 missing entity_kind fields, 2 wrong entity_kind (ibm/lubrizol product→company), 4 duplicate updated fields, 1 timestamp anomaly (pilot-flying-j), BNSF entity_kind organization→company, redundant source_count removed from 3 entities, 'entity' tag removed from 4 entities
+- Fixed: 20+ cross-links added in principles (four-filters, capital-allocation, business-quality, owner-earnings, mr-market, return-on-equity, underwriting-discipline) linking to weakly connected entities (IBM, Heinz, PCC, Pilot Flying J, TTI, Forest River, McLane, Business Wire, Johns Manville, General Dynamics, Helzberg's, Ajit Jain, Apple, Ben Graham)
+- Fixed: standalone pages (quotes, timeline, acquisitions-timeline) linked from content pages (capital-allocation, mr-market, book-value-per-share, geico-investment)
+- Created: entities/ajit-jain, entities/apple, entities/ben-graham (3 heavily referenced figures that lacked pages)
+- Open: 9 pages over budget (deferred — hub+sub splitting not yet warranted); only 2 case studies despite 49 letters (future work); structural imbalance entities/50 vs case-studies/2
+
+## [2026-04-21] post-ingestion | Review and polish standalone pages
+
+- Polished: timeline.md, acquisitions-timeline.md
+- timeline.md: Fixed broken table separator row (9 columns → 4) and split concatenated 2012/2013 row
+- acquisitions-timeline.md: Fixed "Outcome (as of 1981)" → "Outcome", fixed investments table header/separator (13 columns → 6), split concatenated 2013/2014 Van Tuyl row
+- quotes.md: Thematic reorganization deferred to dedicated session (initial attempt removed too many unique quotes)
+
 ## [2026-04-22] ingest-batch | Batch 24 (FINAL): 2024-2025 Letters
 
 - Sources: raw/articles/buffett-letter-2024.md, raw/articles/buffett-letter-2025.md

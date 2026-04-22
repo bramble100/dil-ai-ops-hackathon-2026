@@ -50,8 +50,8 @@ sources:
     buffett-letter-2025,
   ]
 created: 2026-04-20
-updated: 2026-04-21
-status: draft
+updated: 2026-04-22
+status: complete
 tags: [insurance, management, risk, principle]
 ---
 
@@ -65,11 +65,11 @@ The willingness to reject underpriced insurance business — accepting reduced p
 
 > "If business makes sense, he writes it; if it doesn't, he rejects it." — 1979 Letter (on Phil Liesche)
 
-> "It is our policy not to lay off people because of the large fluctuations in work load produced by such voluntary volume changes. We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money." — 1979 Letter
+> "It is our policy not to lay off people because of the large fluctuations in work load produced by such voluntary volume changes. We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money." — 1979 Letter[^1]
 
 ### The Institutional Failure Mode
 
-**[1980 Letter]** "Asset maintenance underwriting": insurers with massive unrealized bond losses are forced to keep writing business at any price to maintain premium volume, because shrinking volume means selling bonds and recognizing losses. This creates a structural floor under bad behavior.
+**[1980 Letter]** "Asset maintenance underwriting":[^2] insurers with massive unrealized bond losses are forced to keep writing business at any price to maintain premium volume, because shrinking volume means selling bonds and recognizing losses. This creates a structural floor under bad behavior.
 
 **[1981 Letter]** "Virtually no major property-casualty insurer — despite protests by the entire industry that rates are inadequate — has been willing to turn down business to the point where cash flow has turned significantly negative."
 
@@ -184,7 +184,7 @@ The correct framework: insurance is a commodity business where capacity is a "me
 
 > "We will accept more reinsurance risk for our own account than any other company." — 1989 Letter
 
-Berkshire offers $250M per-event capacity — the ability to absorb a single catastrophe loss of that magnitude without material impact on the company. Two structural advantages: (1) financial strength — $4.9B net worth makes a $250M loss tolerable; (2) volume indifference — Berkshire doesn't need the premiums and can walk away if pricing deteriorates. Ajit Jain, operating from a single room, handles all large reinsurance deals[^3].
+Berkshire offers $250M per-event capacity — the ability to absorb a single catastrophe loss of that magnitude without material impact on the company. Two structural advantages: (1) financial strength — $4.9B net worth makes a $250M loss tolerable; (2) volume indifference — Berkshire doesn't need the premiums and can walk away if pricing deteriorates. [Ajit Jain](../entities/ajit-jain.md), operating from a single room, handles all large reinsurance deals[^3].
 
 The Fireman's Fund seven-year contract expires August 1989. Premium volume declines further as Berkshire refuses to replace it at inadequate prices.
 
@@ -684,3 +684,17 @@ Ajit Jain's contribution reaffirmed: "For nearly four decades, his judgment and 
 [^33]: [2024 Letter](../sources/buffett-letter-2024.md) — float $171B; $32B/20yr UW profits (3.3¢/$); $9,020M UW profit; climate risk; "corporate suicide"; Goldberg maxim; not dependent on reinsurers
 
 [^34]: [2025 Letter](../sources/buffett-letter-2025.md) — float $176B; CR 87.1% (5/10/20yr avgs); $29B returned; four structural advantages; pricing headwinds; Ajit peerless; CEO as CRO
+
+## Case Studies
+
+- [GEICO](../case-studies/geico-investment.md) — the anchor insurance franchise: direct-distribution cost advantage creates a structural moat; Todd Combs' "spectacular" 2024 turnaround proves underwriting discipline can be restored
+- [General Re — From Crisis to Gem](../case-studies/general-re-turnaround.md) — the primary cautionary tale: volume-chasing at inadequate prices produced massive losses; turnaround required walking away from bad business
+- [Salomon Crisis](../case-studies/salomon-crisis.md) — while not strictly underwriting, demonstrates the catastrophic cost of institutional indiscipline in financial services
+
+## Practical Application
+
+- **Compare float cost to alternative financing** — if float is generated at a cost below long-term Treasury yields, it's a competitive advantage; if above, it's expensive debt in disguise
+- **Track combined ratios over full cycles** — a single profitable year means nothing; 20-year average combined ratio is the true measure of discipline
+- **Be willing to shrink** — writing less premium when prices are inadequate is the hardest and most important discipline in insurance
+- **Price for the catastrophe that hasn't happened yet** — "someday, any day, a truly staggering insurance loss will occur"; the CEO is the Chief Risk Officer
+- **Underwriters should come to work nervous, not paralyzed** — Mike Goldberg's maxim captures the cultural balance between caution and opportunity
