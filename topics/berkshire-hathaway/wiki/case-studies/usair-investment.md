@@ -13,8 +13,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [mistake, airlines, convertible-preferred, deregulation, recovery, lesson]
+status: complete
 ---
 
 # USAir — The Airline Mistake That Paid Off Anyway

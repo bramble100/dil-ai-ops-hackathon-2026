@@ -5,7 +5,16 @@ source_path: "raw/amszterdam-latnivalok.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete
-tags: [amsterdam, sights, transport, passes, prices-2026, hungarian-language, day-trips]
+tags:
+  [
+    amsterdam,
+    sights,
+    transport,
+    passes,
+    prices-2026,
+    hungarian-language,
+    day-trips,
+  ]
 ---
 
 # Amszterdam latnivalok: amiket ne hagyj ki [2026-ban]
@@ -21,39 +30,45 @@ A well-structured Hungarian-language guide to Amsterdam's must-see attractions, 
 ## Transport Details
 
 Amsterdam's public transport network consists of:
+
 - **14 tram lines**
 - **30+ bus lines**
 - **7 ferry routes**
 - **5 metro lines**
 
 ### Transport Passes (GVB)
-| Duration | Price |
-|----------|-------|
-| 24 hours | EUR 10 |
-| 48 hours | (scaled) |
-| 72 hours | (scaled) |
+
+| Duration | Price     |
+| -------- | --------- |
+| 24 hours | EUR 10    |
+| 48 hours | (scaled)  |
+| 72 hours | (scaled)  |
 | 96 hours | EUR 27.50 |
 
 ### I Amsterdam City Card
-| Duration | Price |
-|----------|-------|
-| 1 day | EUR 67 |
-| 2 days | (scaled) |
-| 3 days | (scaled) |
-| 4 days | EUR 130 |
+
+| Duration | Price    |
+| -------- | -------- |
+| 1 day    | EUR 67   |
+| 2 days   | (scaled) |
+| 3 days   | (scaled) |
+| 4 days   | EUR 130  |
 
 ### Hop-on Hop-off
+
 - Combined bus + boat: 1 day EUR 37.50
 
 ## Sights & Attractions Covered
 
 ### Major Landmarks
+
 - **Dam Square** - central hub
 - **Royal Palace** - on Dam Square
 - **Begijnhof** - medieval courtyard
 - **Montelbaan Tower** - historic defense tower
 
 ### Museums
+
 - **Van Gogh Museum**
 - **Rijksmuseum**
 - **Rembrandt House Museum**
@@ -64,22 +79,27 @@ Amsterdam's public transport network consists of:
 - **Madame Tussauds**
 
 ### Churches
+
 - **Oude Kerk (Old Church)** - entry EUR 14.50
 
 ### Markets & Shopping
+
 - **Bloemenmarkt** - floating flower market
 - **Albert Cuyp Market** - largest street market in Amsterdam
 
 ### Experiences
+
 - **Heineken Experience** - brewery tour
 - **Diamond workshops** - traditional Amsterdam craft
 - **Canal cruises**
 
 ### Parks & Nature
+
 - **Vondelpark**
 - **Artis Zoo**
 
 ### Day Trips
+
 - **Zaanse Schans** - windmill village
 - **Giethoorn** - "Venice of the North"
 
@@ -98,14 +118,11 @@ Amsterdam's public transport network consists of:
 - [../places/rijksmuseum.md](../places/rijksmuseum.md)
 - [../places/van-gogh-museum.md](../places/van-gogh-museum.md)
 - [../places/anne-frank-house.md](../places/anne-frank-house.md)
-- [../places/nemo.md](../places/nemo.md)
-- [../places/maritime-museum.md](../places/maritime-museum.md)
-- [../places/rembrandt-house.md](../places/rembrandt-house.md)
+- [../places/nemo-science-museum.md](../places/nemo-science-museum.md)
 - [../places/vondelpark.md](../places/vondelpark.md)
-- [../places/artis-zoo.md](../places/artis-zoo.md)
 - [../places/bloemenmarkt.md](../places/bloemenmarkt.md)
 - [../places/begijnhof.md](../places/begijnhof.md)
 - [../places/zaanse-schans.md](../places/zaanse-schans.md)
-- [../practical/transport.md](../practical/transport.md)
-- [../practical/passes-and-cards.md](../practical/passes-and-cards.md)
-- [../practical/day-trips.md](../practical/day-trips.md)
+- [../practical/getting-around.md](../practical/getting-around.md)
+- [../practical/budget-tips.md](../practical/budget-tips.md)
+- [../themes/day-trips-from-amsterdam.md](../themes/day-trips-from-amsterdam.md)

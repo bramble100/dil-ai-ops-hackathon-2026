@@ -1,7 +1,7 @@
 ---
 title: "2003 Shareholder Letter"
 type: source
-source_path: "raw/articles/buffett-letter-2003.md"
+source_path: "raw/buffett-letter-2003.md"
 source_url: "https://www.berkshirehathaway.com/letters/2003ltr.pdf"
 source_original: "originals/buffett-letter-2003.pdf"
 created: 2026-04-20

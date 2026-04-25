@@ -19,8 +19,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [acquisition, infrastructure, capital-intensive, lesson, compounding]
+status: complete
 ---
 
 ## Overview

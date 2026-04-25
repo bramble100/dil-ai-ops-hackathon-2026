@@ -5,8 +5,8 @@ entity_kind: company
 sources: [buffett-letter-1991, buffett-letter-1992, buffett-letter-1993]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [management, capital-allocation]
+status: complete
 ---
 
 ## Overview

@@ -22,8 +22,8 @@ sources:
 source_count: 14
 created: 2026-04-20
 updated: 2026-04-21
-status: complete
 tags: [entity, insurance, reinsurance, acquisition]
+status: complete
 ---
 
 ## Overview

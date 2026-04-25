@@ -88,3 +88,10 @@ updated: 2026-04-19
 - Created: questions/2023-roce-discrepancy (19.9% vs 21.4% ROCE)
 - Updated index.md with Open Questions section
 - Removed nato-2-percent-target.md from TOPIC.md (content merged into european-defense-spending)
+
+## [2026-04-25] lint | Health check
+
+- Unprocessed: 0 files (all 12 sources ingested)
+- Found: 0 important, 0 medium, 2 minor
+- Minor: 2 open questions still unresolved (2022-operating-result-discrepancy, 2023-roce-discrepancy) — requires 2024 annual report to resolve; segment-performance.md 130 lines (over ~120 guideline, well-structured, keeping as-is)
+- No fixes needed

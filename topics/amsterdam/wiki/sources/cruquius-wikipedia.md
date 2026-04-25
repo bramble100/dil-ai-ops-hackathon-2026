@@ -5,7 +5,17 @@ source_path: "raw/cruquius-wikipedia.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete
-tags: [cruquius, museum, engineering, steam-engine, haarlemmermeer, day-trip, unesco, wikipedia]
+tags:
+  [
+    cruquius,
+    museum,
+    engineering,
+    steam-engine,
+    haarlemmermeer,
+    day-trip,
+    unesco,
+    wikipedia,
+  ]
 ---
 
 # Museum De Cruquius (Wikipedia)
@@ -21,6 +31,7 @@ Wikipedia article on Museum De Cruquius, a former steam-powered pumping station 
 ## Historical Background
 
 ### The Haarlemmermeer Drainage Project
+
 - Three pumping stations were built to drain the Haarlemmermeer lake: **Leeghwater**, **Lynden**, and **Cruquius**
 - Named after **Nicolaas Kruik** (1678-1754), a Dutch surveyor and mapmaker
 - The Cruquius station was positioned at the mouth of the **Spaarne river** near **Heemstede**
@@ -29,6 +40,7 @@ Wikipedia article on Museum De Cruquius, a former steam-powered pumping station 
 - The lake was fully drained in **3 years**
 
 ### Museum History
+
 - Converted to a museum in **1933**
 
 ## The Steam Engine
@@ -64,5 +76,5 @@ The engine was built by **Harvey & Co of Hayle, Cornwall**, England.
 ## Pages Updated
 
 - [../places/cruquius-museum.md](../places/cruquius-museum.md)
-- [../practical/day-trips.md](../practical/day-trips.md)
+- [../themes/day-trips-from-amsterdam.md](../themes/day-trips-from-amsterdam.md)
 - [../themes/water-management.md](../themes/water-management.md)

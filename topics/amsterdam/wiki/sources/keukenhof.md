@@ -5,7 +5,17 @@ source_path: "raw/keukenhof.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete
-tags: [keukenhof, tulips, flowers, seasonal, events, family, accessibility, official]
+tags:
+  [
+    keukenhof,
+    tulips,
+    flowers,
+    seasonal,
+    events,
+    family,
+    accessibility,
+    official,
+  ]
 ---
 
 # Keukenhof Official Website
@@ -26,20 +36,22 @@ Official website content for Keukenhof, the world-famous tulip garden in Lisse, 
 ## Best Time to Visit
 
 ### By Flowers
+
 - **Early season (late March - early April):** Crocuses, daffodils, hyacinths
 - **Later season (mid-April - May):** Larger tulips in full bloom
 
 ### By Crowds
+
 - **Quieter times:** Before 10:30 AM or after 4:00 PM
 - **Quietest days:** Monday, Tuesday, Wednesday
 
 ## Events Schedule (2026)
 
-| Event | Dates |
-|-------|-------|
-| Alstroemeria & Calla Show | April 16-21 |
-| Flower Parade (Bloemencorso) | April 18 |
-| Gerbera Show | April 23-28 |
+| Event                            | Dates            |
+| -------------------------------- | ---------------- |
+| Alstroemeria & Calla Show        | April 16-21      |
+| Flower Parade (Bloemencorso)     | April 18         |
+| Gerbera Show                     | April 23-28      |
 | Fien and Teun (children's event) | April 27 - May 1 |
 
 ## Activities
@@ -74,5 +86,4 @@ Official website content for Keukenhof, the world-famous tulip garden in Lisse, 
 ## Pages Updated
 
 - [../places/keukenhof.md](../places/keukenhof.md)
-- [../practical/events-calendar.md](../practical/events-calendar.md)
-- [../practical/day-trips.md](../practical/day-trips.md)
+- [../themes/day-trips-from-amsterdam.md](../themes/day-trips-from-amsterdam.md)

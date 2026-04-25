@@ -5,8 +5,8 @@ entity_kind: subsidiary
 sources: [buffett-letter-2014]
 created: 2026-04-21
 updated: 2026-04-21
-status: complete
 tags: [acquisition, automotive, mega-cap-era]
+status: complete
 ---
 
 ## Overview

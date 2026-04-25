@@ -47,8 +47,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-21
-status: complete
 tags: [insurance, moats, management]
+status: complete
 ---
 
 ## Overview

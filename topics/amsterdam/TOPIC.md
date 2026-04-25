@@ -4,6 +4,10 @@
 
 This wiki compiles and cross-references travel information about **Amsterdam and the Netherlands** from multiple multilingual sources (Spanish, Hungarian, Dutch, English). The goal is to transform scattered travel blog posts, hotel pages, and museum sites into an interconnected, navigable travel knowledge base -- organized by place, theme, and practical concern.
 
+## Raw Layout
+
+Flat — all sources in `raw/` root, no subfolders. Sources are HTML pages saved from travel blogs, hotel sites, and attraction pages.
+
 ## Wiki Layout
 
 - `sources/` - One summary per raw source document (always present)

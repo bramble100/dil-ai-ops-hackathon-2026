@@ -14,8 +14,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [investment, moats, capital-allocation]
+status: complete
 ---
 
 ## Overview

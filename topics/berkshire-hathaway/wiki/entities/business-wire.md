@@ -6,8 +6,8 @@ sources: [buffett-letter-2005]
 source_count: 1
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [acquisition, media, four-filters]
+status: complete
 ---
 
 ## Overview

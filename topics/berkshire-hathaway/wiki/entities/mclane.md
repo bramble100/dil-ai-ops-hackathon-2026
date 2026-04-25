@@ -5,8 +5,8 @@ entity_kind: subsidiary
 source_count: 1
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [distribution, logistics, acquisition]
+status: complete
 ---
 
 ## Overview

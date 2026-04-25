@@ -4,7 +4,6 @@ type: entity
 entity_kind: company
 created: 2026-04-21
 updated: 2026-04-21
-status: complete
 tags: [equity-investment, big-four, mega-cap-era]
 sources:
   [
@@ -13,6 +12,7 @@ sources:
     buffett-letter-2015,
     buffett-letter-2017,
   ]
+status: complete
 ---
 
 ## Overview

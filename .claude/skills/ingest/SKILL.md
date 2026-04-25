@@ -33,11 +33,18 @@ description: Processes raw source documents into the wiki - creates source summa
 
 **When:** The user says "ingest" without naming a specific file.
 
-**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). Before moving anything, read `source_path` and `source_original` frontmatter from every file in `wiki/sources/` and treat any root-level file referenced by either as already ingested. Only classify and move root-level files that are **not** referenced anywhere, moving them to the appropriate primary-source subfolder: `articles/`, `papers/`, `notes/`, or `assets/`. **PDFs that are primary sources go to `papers/`.** **Do not** route primary sources into `originals/` — `originals/` is reserved for binary originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in `articles/` or `papers/`). Confirm classification with the user before moving. Leave referenced files in place unless you are also updating every affected `source_path`/`source_original`.
+**Step 1 — Sort unsorted files.** Check for files dropped directly into `raw/` (the root, not a subfolder). Before moving anything, read `source_path` and `source_original` frontmatter from every file in `wiki/sources/` and treat any root-level file referenced by either as already ingested.
+
+**Determine the raw layout by scanning disk first** — list the actual subdirectories in `raw/`. Disk is the source of truth; `TOPIC.md`'s `## Raw Layout` is supplementary context (it may be stale).
+
+- **If `raw/` has subdirectories**: those are the routing targets. Move only unprocessed, unreferenced root-level files into the appropriate subfolder. Consult `TOPIC.md` for intent if the correct subfolder is ambiguous.
+- **If `raw/` has no subdirectories** (flat layout): all files live in `raw/` root — this is valid and intentional. No sorting needed. Do not create subfolders unless the user explicitly requests it.
+
+**Do not** route primary sources into `originals/` — `originals/` is reserved for binary originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in a `raw/` subfolder). Confirm classification with the user before moving. Leave referenced files in place unless you are also updating every affected `source_path`/`source_original`.
 
 **Step 2 — Find unprocessed sources.**
 
-1. List all files in `raw/` across all subdirectories (`articles/`, `papers/`, `notes/`, `assets/`). Exclude `.gitkeep`. **Do not** list files in `originals/` — that folder is non-ingestible by definition (binary originals of sources already converted to Markdown).
+1. List all files in `raw/` across all subdirectories (scan whatever subdirectories actually exist on disk). Exclude `.gitkeep`. **Do not** list files in `originals/` — that folder is non-ingestible by definition (binary originals of sources already converted to Markdown).
 2. Read `source_path` **and** `source_original` frontmatter from every file in `wiki/sources/` to build the set of already-represented raw files. A file listed under `source_original` is already represented by its `source_path` sibling and must not be ingested separately.
 3. Compare the two lists. Present unprocessed files as a numbered list.
 4. **Batch plan check:** If there are 10 or more unprocessed files, or if a quick size check (`wc -l` across the files) suggests a total reading load above ~3000 lines, pause before asking which files to process. Explain the context degradation risk and recommend batch mode: _"There are N unprocessed sources — processing them all at once risks degraded quality as context fills up. Would you like to create a batch plan first?"_ If yes, load `.claude/skills/ingest/BATCH.md` and follow the Generating a Batch Plan workflow. If no, proceed — but cap the session at 3–5 sources.
@@ -49,9 +56,9 @@ description: Processes raw source documents into the wiki - creates source summa
 
 ## Phase 2: Read the Source
 
-- **First:** Read `TOPIC.md` to understand the topic's wiki layout, page conventions, and domain-specific rules. This determines where new pages are filed in Phase 5. Also list the actual `wiki/` subdirectories — if they diverge from what `TOPIC.md` declares, use the actual structure and note the discrepancy to the user.
+- **First:** Read `TOPIC.md` to understand the topic's domain-specific rules, wiki layout, page conventions, and ingest notes. Also list the actual `wiki/` subdirectories — if they diverge from what `TOPIC.md` declares, use the actual structure and note the discrepancy to the user.
 - Read the entire source file.
-- If the user provides a **URL** instead of a file: fetch the URL, convert to clean markdown, save to `raw/articles/<slug>.md`, then proceed.
+- If the user provides a **URL** instead of a file: fetch the URL, convert to clean markdown, save to the appropriate location based on the topic's raw layout (flat: `raw/<slug>.md`; subfolders: the most fitting subfolder), then proceed.
 - Note the source's original URL if present (often in frontmatter from Obsidian Web Clipper).
 
 ---
@@ -123,7 +130,7 @@ Read the wiki layout from `TOPIC.md` (or use the defaults: `concepts/`, `entitie
 ```markdown
 ## [YYYY-MM-DD] ingest | <Source Title>
 
-- Source: raw/articles/<filename>.md
+- Source: raw/<optional-subfolder>/<filename>.md
 - Created: sources/<slug>, <folder>/<new-page>, <folder>/<new-page>
 - Updated: <folder>/<existing-page>, <folder>/<existing-page>
 ```
@@ -143,7 +150,13 @@ No links in log entries.
 ## Edge Cases
 
 - **Duplicate source:** If `wiki/sources/` already has a summary for this source (same URL or same content), tell the user. Offer to update the existing summary if the source has changed.
-- **Source in wrong folder:** Article in `raw/notes/` or note in `raw/articles/` - doesn't matter for processing. Mention it but don't refuse to ingest.
+- **Source in wrong folder:** Source in a subfolder that doesn't match its type — doesn't matter for processing. Mention it but don't refuse to ingest.
 - **Very long source (>5000 words):** Focus on the most novel/important claims. Note in the summary which sections you focused on.
 - **Source with images:** Read text first. If diagrams or charts seem important, tell the user you can view them separately for additional context.
-- **Non-markdown source (PDF, image):** If the PDF is a primary source and no Markdown conversion exists, place it in `raw/papers/` and note in the summary that the raw source is not Markdown — extract what you can. If a `.md` conversion already exists (or you produce one), the canonical ingested file is the `.md` (in `articles/` or `papers/`), and the original binary belongs in `originals/` (at the topic root, alongside `raw/`) referenced from the source summary via `source_original:`. This prevents the PDF from being re-ingested as a separate source. When a source has both a known web URL and a local binary original, set **both** `source_url` and `source_original` — they serve different purposes and are not mutually exclusive.
+- **Non-markdown source (PDF, image):** Two approaches, choose based on context:
+
+  **Approach A — Direct AI reading (preferred for one-off PDFs):** If the LLM agent can read PDFs natively (most modern agents can), read the PDF directly during ingest and create the source summary from it. The PDF stays in `raw/` as the canonical source. Set `source_path` to the PDF path. No conversion needed, no `originals/` involvement.
+
+  **Approach B — Convert to Markdown (preferred for large/recurring PDF sets):** When PDFs are numerous, very long, or will be re-ingested/updated, convert to Markdown first. The canonical ingested file is the `.md` in `raw/`, and the original PDF belongs in `originals/` (at the topic root, alongside `raw/`) referenced from the source summary via `source_original:`. This prevents the PDF from being re-ingested as a separate source. Conversion can be done manually, via PyMuPDF text extraction, or by asking the LLM to read the PDF and produce a clean `.md` file.
+
+  When a source has both a known web URL and a local binary original, set **both** `source_url` and `source_original` — they serve different purposes and are not mutually exclusive.

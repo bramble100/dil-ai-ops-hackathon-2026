@@ -60,16 +60,6 @@ From Karpathy's gist:
 - **Personal knowledge management** - Goals, health, self-improvement, journal entries, podcast notes, articles - structured and connected over time.
 - **Due diligence / trip planning / course notes / hobby deep-dives** - Anything where you accumulate knowledge over time and want it organized.
 
-### Work documentation & brag list
-
-One of the strongest use cases - the pain point (nobody maintains their work log) is universal.
-
-**Raw sources:** PR descriptions, commit messages, ticket updates, meeting notes, Slack messages about decisions, quick daily notes.
-
-**Wiki pages the LLM maintains:** Weekly summaries, project pages, a skills/growth page (patterns the LLM notices), a **brag list** (accomplishments extracted and quantified for review season), a decision log.
-
-**Daily workflow:** End of day, paste 2-3 sentences into raw sources -> tell LLM "process today's notes" -> LLM files into project pages, updates weekly summary, flags brag-list-worthy items. At review time, the brag list is already written.
-
 ### Extensions (from Lex Fridman)
 
 Fridman [replied under Karpathy's original tweet](https://x.com/karpathy/status/2039805659525644595) describing a similar setup and shared two ideas:
@@ -80,7 +70,7 @@ Fridman [replied under Karpathy's original tweet](https://x.com/karpathy/status/
 ## Ingest Strategies
 
 - **One-at-a-time (recommended for starting)** - You stay involved, guide emphasis, catch mistakes early. Best for high-value sources. Karpathy: _"Personally I prefer to ingest sources one at a time and stay involved - I read the summaries, check the updates, and guide the LLM on what to emphasize."_
-- **Batch ingest** - "Process all unprocessed files in `raw/articles/`." Less control but faster. Good for lower-stakes sources where the schema gives enough guidance.
+- **Batch ingest** - "Process all unprocessed files in `raw/`." Less control but faster. Good for lower-stakes sources where the schema gives enough guidance.
 - **Batched batch ingest** - Break large batch ingests into smaller focused batches of 3-5 sources to avoid LLM context degradation. Review each batch before proceeding.
 
 **Source collection methods:**
@@ -88,7 +78,7 @@ Fridman [replied under Karpathy's original tweet](https://x.com/karpathy/status/
 - [Obsidian Web Clipper](https://obsidian.md/clipper) (browser extension, recommended) - 2 clicks to save any web page as markdown
 - Copy-paste to `.md` manually
 - Tell the LLM to fetch a URL and save clean markdown to `raw/`
-- PDFs that are primary sources saved to `raw/papers/` (or `raw/articles/` if a Markdown conversion is the canonical form); binary originals of already-converted sources go to `originals/` at the topic root (non-ingestible — link originals from a source summary via `source_original:`)
+- PDFs that are primary sources saved to `raw/` (or a subfolder if the topic uses one); binary originals of already-converted sources go to `originals/` at the topic root (non-ingestible — link originals from a source summary via `source_original:`)
 
 ## Tooling
 

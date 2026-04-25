@@ -43,5 +43,5 @@ A Spanish-language travel blog post listing the top 10 must-see places in the Ne
 
 - [../places/keukenhof.md](../places/keukenhof.md)
 - [../places/zaanse-schans.md](../places/zaanse-schans.md)
-- [../practical/day-trips.md](../practical/day-trips.md)
-- [../practical/transport.md](../practical/transport.md)
+- [../themes/day-trips-from-amsterdam.md](../themes/day-trips-from-amsterdam.md)
+- [../practical/getting-around.md](../practical/getting-around.md)

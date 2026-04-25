@@ -19,8 +19,8 @@ sources:
   ]
 created: 2026-04-21
 updated: 2026-04-21
-status: complete
 tags: [investment, market-psychology, risk, management, valuation]
+status: complete
 ---
 
 ## Overview

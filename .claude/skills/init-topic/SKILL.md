@@ -35,36 +35,47 @@ Ask the user (if not already provided):
 
 ---
 
-## Phase 1.5: Discover Wiki Layout
+## Phase 1.5: Discover Layouts
 
-Help the user choose between the **default layout** and a **custom layout**.
+Help the user choose between the **default** and a **custom layout** for both `raw/` (input) and `wiki/` (output).
 
 **Ask about:**
 
-- Expected source types (web articles, PDFs, financial reports, transcripts, etc.)
+- Expected source types (web articles, PDFs, financial reports, transcripts, analytics exports, daily notes, etc.)
 - Key questions the wiki should answer
 - Optionally: "Drop 2-3 example sources into `raw/` and I'll analyze them to suggest a structure"
 
-**If example sources provided:** Read them, identify natural groupings (people, places, financial data, technical concepts, timelines, etc.), and propose folders with rationale.
+**If example sources provided:** Read them, identify natural groupings (people, places, financial data, technical concepts, timelines, etc.), and propose folders with rationale for both `raw/` and `wiki/`.
 
-**Propose a layout:**
+**Propose a raw layout:**
+
+- "Based on your source types, I suggest organizing `raw/` as: `articles/`, `reports/`, `notes/`. Does this work?"
+- User confirms or adjusts.
+- **Subfolder option:** If the user's sources are diverse (e.g. articles + reports + notes + data), propose subfolders fitted to the domain.
+- **Fallback:** If the user has no strong opinions, use flat layout (all sources in `raw/` root, no subfolders).
+
+**Propose a wiki layout:**
 
 - "Based on [rationale], I suggest: `sources/`, `entities/`, `financials/`, `comparisons/`. Does this work?"
 - User confirms or adjusts.
+- **Fallback:** If the user has no examples and no strong opinions, use the default wiki layout: `concepts/`, `entities/`, `syntheses/`, `questions/`.
 
-**Fallback:** If the user has no examples and no strong opinions, use the default layout: `concepts/`, `entities/`, `syntheses/`, `questions/`.
-
-Record the chosen layout for use in Phases 2, 3, and 5.
+Record the chosen layouts for use in Phases 2, 3, and 5.
 
 ---
 
 ## Phase 2: Create Directory Structure
 
-Create the `raw/` directories (always the same) and `wiki/` directories matching the chosen layout:
+Create the `raw/` directories matching the chosen raw layout and `wiki/` directories matching the chosen wiki layout:
 
 ```bash
-# Raw directories (always the same)
+# Raw directories (layout-dependent)
+# Default (flat layout — no subfolders):
+mkdir -p topics/<slug>/raw
+# Subfolder example (general knowledge):
 mkdir -p topics/<slug>/raw/{articles,papers,notes,assets}
+# Subfolder example (competitor analysis):
+mkdir -p topics/<slug>/raw/{competitor-snapshots,analytics-exports,market-research,assets}
 
 # Originals directory (binary originals of converted sources — never ingested)
 mkdir -p topics/<slug>/originals
@@ -138,6 +149,13 @@ For a custom layout, replace section names to match (e.g., `## Places`, `## Them
 
 <Domain description - expanded to 2-3 sentences explaining the scope and perspective.>
 
+## Raw Layout
+
+- `<folder>/` - <description>
+- `<folder>/` - <description>
+- <...one line per raw subfolder chosen in Phase 1.5>
+- <For flat layout, write: "Flat — all sources in `raw/` root, no subfolders.">
+
 ## Wiki Layout
 
 - `sources/` - One summary per raw source (always present)
@@ -152,10 +170,10 @@ For a custom layout, replace section names to match (e.g., `## Places`, `## Them
 ```yaml
 ---
 title: Page Title
-type: source  # or a custom type matching the layout
+type: source # or a custom type matching the layout
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-status: draft  # allowed: draft | complete
+status: draft # allowed: draft | complete
 tags: [tag1, tag2]
 ---
 ```
@@ -177,9 +195,9 @@ Work with the user to fill in layout, conventions, and questions. If the user do
 
 Tell the user:
 
-- What was created (list the files and the chosen wiki layout)
+- What was created (list the files and the chosen raw + wiki layouts)
 - Optionally create `wiki/overview.md` with placeholder text: "Overview will be populated after the first ingest session." (frontmatter: `type: overview`)
-- How to start adding sources: drop files into `raw/articles/`, then say "ingest"
+- How to start adding sources: drop files into `raw/` (or the appropriate subfolder if using a subfolder layout), then say "ingest"
 - Remind them to commit to git
 
 ---

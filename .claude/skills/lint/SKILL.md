@@ -28,7 +28,7 @@ description: Health-checks the wiki for quality issues - unprocessed sources, co
 
 ## Phase 1: Check for Unprocessed Sources
 
-1. List all files in `raw/` across all subdirectories (articles, papers, notes, assets). Exclude `.gitkeep`. Do not inventory `originals/` — that folder is non-ingestible by definition.
+1. List all files in `raw/` across all subdirectories (scan whatever subdirectories actually exist on disk). Exclude `.gitkeep`. Do not inventory `originals/` — that folder is non-ingestible by definition.
 2. Read `source_path` frontmatter from every file in `wiki/sources/`.
 3. Compare. Report: "X files in raw/, Y ingested, Z remaining" with the list of unprocessed files.
 
@@ -48,14 +48,17 @@ Check for each of the following. Rate findings by severity.
 
 **Important (address soon):**
 
-- TOPIC.md layout drift — folders listed in `## Wiki Layout` that don't exist on disk, or actual `wiki/` subdirectories not listed in TOPIC.md
-- TOPIC.md missing expected sections (`## Wiki Layout`, `## Page Conventions`, `## Key Questions`)
+- TOPIC.md wiki layout drift — folders listed in `## Wiki Layout` that don't exist on disk, or actual `wiki/` subdirectories not listed in TOPIC.md
+- TOPIC.md raw layout drift — folders listed in `## Raw Layout` that don't exist on disk, or actual `raw/` subdirectories not listed in TOPIC.md. (Skip this check for topics that declare flat layout — flat topics have no subdirectories by design.)
+- TOPIC.md missing expected sections (`## Raw Layout`, `## Wiki Layout`, `## Page Conventions`, `## Key Questions`)
 - Contradictions between pages (two pages making conflicting claims about the same topic)
 - Broken links (links pointing to pages that don't exist)
 - Pages exceeding budget (see Growth Management in `AGENTS.md`)
 
 **Medium (address when convenient):**
 
+- Unsorted raw files — files in `raw/` root that aren't in any subfolder (only flag this for topics that use subfolders, not for flat-layout topics)
+- Misplaced raw files — files in a `raw/` subfolder that clearly don't match its purpose (e.g., a PDF annual report in a `daily-notes/` folder)
 - Stale claims - pages not updated in 60+ days where newer relevant sources exist
 - Important concepts mentioned in page text but lacking their own dedicated page
 - Missing cross-references between pages that clearly relate to each other
@@ -84,7 +87,7 @@ Present as a checklist grouped by severity:
 
 ### Unprocessed Sources (Z remaining)
 
-- [ ] raw/articles/new-article.md
+- [ ] raw/<optional-subfolder>/new-source.md
 
 ### Important
 

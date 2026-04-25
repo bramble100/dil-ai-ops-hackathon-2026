@@ -1,7 +1,7 @@
 ---
 title: "Buffett's 2007 Shareholder Letter"
 type: source
-source_path: "raw/articles/buffett-letter-2007.md"
+source_path: "raw/buffett-letter-2007.md"
 source_url: "https://www.berkshirehathaway.com/letters/2007ltr.pdf"
 source_original: "originals/buffett-letter-2007.pdf"
 created: 2026-04-20

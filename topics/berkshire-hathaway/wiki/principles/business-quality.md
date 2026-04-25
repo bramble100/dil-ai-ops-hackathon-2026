@@ -46,8 +46,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-22
-status: complete
 tags: [moats, valuation, principle, mental-model]
+status: complete
 ---
 
 ## Definition

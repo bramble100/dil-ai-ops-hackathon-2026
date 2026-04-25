@@ -16,8 +16,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [equity-holding, management, media, capital-allocation, mistake, lesson]
+status: complete
 ---
 
 ## Overview

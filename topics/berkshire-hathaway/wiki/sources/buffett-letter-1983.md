@@ -1,7 +1,7 @@
 ---
 title: "1983 Shareholder Letter"
 type: source
-source_path: "raw/articles/buffett-letter-1983.md"
+source_path: "raw/buffett-letter-1983.md"
 source_url: "https://www.berkshirehathaway.com/letters/1983.html"
 created: 2026-04-20
 updated: 2026-04-20

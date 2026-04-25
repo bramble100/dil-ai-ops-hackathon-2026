@@ -14,8 +14,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [ethics, management, risk, capital-allocation, lesson]
+status: complete
 ---
 
 ## Overview

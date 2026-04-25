@@ -5,9 +5,9 @@ entity_kind: person
 source_count: 1
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [investment-management, geico, track-record]
 sources: [buffett-letter-2004]
+status: complete
 ---
 
 ## Overview

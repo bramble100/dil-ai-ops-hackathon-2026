@@ -2,15 +2,17 @@
 title: Index
 type: overview
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-25
 ---
 
 # Amsterdam & Netherlands Travel Wiki - Index
 
 ## Overview
+
 - [Overview](overview.md) - Amsterdam at a glance: top attractions, day trips, practical snapshot, source coverage
 
 ## Source Summaries
+
 - [Viajeros Callejeros](sources/viajeros-callejeros.md) - Spanish blog: 10 must-see places in Holland with transport tips
 - [Sinohasviajado](sources/sinohasviajado.md) - Spanish blog: 30 things to do/see (incomplete extraction)
 - [Amszterdam Nevezetessegek](sources/amszterdam-nevezetessegek.md) - Hungarian: comprehensive Amsterdam guide 2026 (largest source)
@@ -24,6 +26,7 @@ updated: 2026-04-16
 - [Amsterdam Wiki PDF](sources/amsterdam-wiki-pdf.md) - 24-page image-only PDF (not extractable without OCR)
 
 ## Place Pages - Amsterdam
+
 - [Rijksmuseum](places/rijksmuseum.md) - Netherlands' largest museum: Night Watch, Milkmaid, 800 years of art
 - [Van Gogh Museum](places/van-gogh-museum.md) - World's largest Van Gogh collection: 200+ paintings, 500 drawings
 - [Anne Frank House](places/anne-frank-house.md) - WWII hiding place museum; book online far in advance
@@ -37,6 +40,7 @@ updated: 2026-04-16
 - [Bloemenmarkt](places/bloemenmarkt.md) - World's only floating flower market on the Singel canal
 
 ## Place Pages - Greater Netherlands
+
 - [Keukenhof](places/keukenhof.md) - World's largest flower garden; spring only (2026: Mar 19 - May 10)
 - [Zaanse Schans](places/zaanse-schans.md) - Windmill village 20 km north; cheese, clogs, working mills
 - [Delft](places/delft.md) - Blue ceramics, fairy-tale canals, Vermeer Centre
@@ -50,6 +54,7 @@ updated: 2026-04-16
 - [Cruquius Museum](places/cruquius-museum.md) - World's largest steam engine; Dutch water engineering history
 
 ## Theme Pages
+
 - [Dutch Culture and Traditions](themes/dutch-culture-and-traditions.md) - Tulips, windmills, cheese, clogs, King's Day, Sinterklaas
 - [Cycling in Amsterdam](themes/cycling-in-amsterdam.md) - Bike culture, tips for visitors, cycling day trips
 - [Canal Cruises](themes/canal-cruises.md) - Hop-on hop-off, standard cruises, pricing
@@ -62,6 +67,7 @@ updated: 2026-04-16
 - [Nightlife](themes/nightlife.md) - Brown cafes, coffee shops, evening areas, night transport
 
 ## Practical Information
+
 - [Getting Around](practical/getting-around.md) - Trams, buses, metro, ferries, cycling, transport passes
 - [Where to Stay](practical/where-to-stay.md) - Neighborhoods, Die Port van Cleve, booking tips
 - [Best Time to Visit](practical/best-time-to-visit.md) - Seasons, Keukenhof timing, key dates 2026
@@ -69,4 +75,5 @@ updated: 2026-04-16
 - [Itineraries](practical/itineraries.md) - 1-day, 3-day, and 5-day suggested plans
 
 ## Hotels
+
 - [Die Port van Cleve](hotels/die-port-van-cleve.md) - Historic 1864 hotel on Dam Square; 122 themed rooms

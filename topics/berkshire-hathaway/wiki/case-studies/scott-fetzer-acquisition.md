@@ -18,8 +18,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [acquisition, owner-earnings, management, capital-allocation, compounding]
+status: complete
 ---
 
 ## Overview

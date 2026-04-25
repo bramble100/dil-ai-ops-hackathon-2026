@@ -14,7 +14,7 @@ This schema defines how the wiki is structured, what conventions to follow, and 
 ├── CLAUDE.md                   # Global schema (Claude Code) - references this file
 ├── README.md                   # Human-readable overview
 ├── .gitignore
-├── .claude/skills/             # Operational workflows (ingest, query, lint, init-topic)
+├── .claude/skills/             # Operational workflows (init-topic, ingest, lint, query)
 ├── docs/                       # Reference documents (not part of any topic's wiki)
 │   ├── karpathy-gist.md        # Local copy of Karpathy's original LLM Wiki gist
 │   ├── karpathy-tweet.md       # Local copy of Karpathy's original tweet (April 2, 2026)
@@ -24,10 +24,7 @@ This schema defines how the wiki is structured, what conventions to follow, and 
     └── <topic-slug>/           # One folder per topic
         ├── TOPIC.md            # Topic-specific rules, wiki layout, conventions
         ├── raw/                # Source documents (human-curated, immutable once sorted)
-        │   ├── articles/       # Web articles, blog posts (markdown)
-        │   ├── papers/         # Research papers, whitepapers
-        │   ├── notes/          # Personal notes, observations, quick thoughts
-        │   └── assets/         # Images, diagrams, and other media (also downloaded by Obsidian Web Clipper)
+        │   └── ...             # Flat by default; subfolders when declared in TOPIC.md
         ├── originals/          # Binary originals of converted sources (PDFs, images); never ingested by the agent
         └── wiki/               # LLM-generated pages (agent-owned)
             ├── index.md        # Master catalog of all wiki pages
@@ -57,14 +54,28 @@ The **default layout** works for most knowledge domains. When a domain has a nat
 
 Topics may also declare **standalone pages** at the `wiki/` root beyond `index.md`, `log.md`, and `overview.md` (e.g., a quotes collection or a master timeline). Define them in `TOPIC.md` under `## Page Conventions`.
 
-The `raw/` subdirectories are always the same across all topics:
+### Raw Layout
 
-- `articles/`, `papers/`, `notes/` — **primary-source folders.** Files here are inventoried for ingestion. PDFs that are primary sources go to `papers/`.
-- `assets/` — **media sources.** Images, diagrams, and other media files. Inventoried for ingestion alongside the other primary-source folders. Obsidian Web Clipper may auto-download images here alongside clipped articles — if those bulk-downloaded attachments create unwanted noise during ingest, the agent should ask the user whether to skip them.
+Like the wiki layout, the `raw/` subdirectory structure is **domain-specific** and declared in `TOPIC.md` under `## Raw Layout`.
 
-The `originals/` folder sits **alongside** `raw/` at the topic root (not inside it). It holds binary originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in `raw/articles/` or `raw/papers/`). The agent never inventories or reads this folder. Link originals from a source summary via the optional `source_original:` frontmatter field (see Source Summary below).
+**Default layout: flat** — all sources in `raw/` root, no subfolders. This is the simplest starting point and works well when sources are the same type or there are relatively few. Declare in `TOPIC.md` as: "Flat — all sources in `raw/` root, no subfolders."
 
-Users can also drop files directly into `raw/` without sorting — the ingest skill will classify and move them to the right subfolder before processing.
+**Subfolder layouts** — when a topic has diverse source types, organize into subfolders declared in `TOPIC.md` under `## Raw Layout`. Common patterns:
+
+| Pattern                    | Subfolders                                                                   | When to use                                         |
+| -------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------- |
+| **General knowledge**      | `articles/`, `papers/`, `notes/`, `assets/`                                  | Mixed prose sources (articles + papers + notes)     |
+| **Competitor analysis**    | `competitor-snapshots/`, `analytics-exports/`, `market-research/`, `assets/` | Periodic data collection from multiple source types |
+| **Product research**       | `user-interviews/`, `market-data/`, `competitor-docs/`, `internal-memos/`    | Mixed qualitative and quantitative sources          |
+| **Engineering initiative** | `prds/`, `architecture/`, `investigations/`, `meeting-notes/`, `updates/`    | Documents from different phases of a project        |
+
+These are examples, not a fixed menu. Design subfolders to match the domain's natural source types.
+
+All `raw/` subfolders are inventoried for ingestion (the agent scans whatever subdirectories actually exist on disk). For flat layouts, the agent scans `raw/` root directly. Obsidian Web Clipper may auto-download images into an assets folder — if those bulk-downloaded attachments create unwanted noise during ingest, the agent should ask the user whether to skip them.
+
+The `originals/` folder sits **alongside** `raw/` at the topic root (not inside it). It holds binary originals of sources already converted to Markdown (e.g., a PDF whose `.md` version lives in one of `raw/`'s subfolders). The agent never inventories or reads this folder. Link originals from a source summary via the optional `source_original:` frontmatter field (see Source Summary below).
+
+Users can drop files directly into `raw/` — for flat layouts they stay there; for subfolder layouts the ingest skill will classify and move them to the right subfolder before processing.
 
 ### Topic Isolation
 
@@ -86,7 +97,7 @@ One page per ingested raw source. Summarizes content, extracts key claims, links
 ---
 title: "<Descriptive title>"
 type: source
-source_path: "raw/articles/filename.md"
+source_path: "raw/filename.md"
 source_url: "<original URL if applicable>" # provenance — where the source came from
 source_original: "originals/filename.pdf" # optional: path to binary original when source_path is a Markdown conversion. Prevents the PDF from being re-ingested as a separate source.
 created: "YYYY-MM-DD"
@@ -244,10 +255,10 @@ Detailed operational workflows live in `.claude/skills/`. Each skill has a `SKIL
 
 | Operation      | Skill                                | When to Use                                                                                |
 | -------------- | ------------------------------------ | ------------------------------------------------------------------------------------------ |
-| **Ingest**     | `.claude/skills/ingest/SKILL.md`     | Process a raw source into the wiki (create summary, update wiki pages, update index & log) |
-| **Query**      | `.claude/skills/query/SKILL.md`      | Answer a question by searching and synthesizing from wiki pages                            |
-| **Lint**       | `.claude/skills/lint/SKILL.md`       | Health-check for unprocessed sources, contradictions, orphans, broken links, staleness     |
 | **Init Topic** | `.claude/skills/init-topic/SKILL.md` | Create a new topic with full directory structure and initial files                         |
+| **Ingest**     | `.claude/skills/ingest/SKILL.md`     | Process a raw source into the wiki (create summary, update wiki pages, update index & log) |
+| **Lint**       | `.claude/skills/lint/SKILL.md`       | Health-check for unprocessed sources, contradictions, orphans, broken links, staleness     |
+| **Query**      | `.claude/skills/query/SKILL.md`      | Answer a question by searching and synthesizing from wiki pages                            |
 
 ---
 
@@ -299,7 +310,7 @@ Append-only chronological record. Parseable format.
 
 ## [2026-04-16] ingest | Karpathy's LLM Wiki Gist
 
-- Source: raw/articles/karpathy-llm-wiki.md
+- Source: raw/karpathy-llm-wiki.md
 - Created: sources/karpathy-llm-wiki-2026, concepts/knowledge-compilation, entities/obsidian
 - Updated: (none - first ingest)
 
@@ -377,7 +388,7 @@ LLM Wikis outperform RAG for synthesizing knowledge across documents[^1].
 
 ### What the Agent Should NOT Do
 
-- Never modify the content of files in `raw/`. Sources are immutable once added. (Moving unsorted files into the correct subfolder during ingest is fine.)
+- Never modify the content of files in `raw/`. Sources are immutable once added. (Moving unsorted files into the correct subfolder during ingest is fine for topics that use subfolders.)
 - Never fabricate claims. If unsure, say so and file a question.
 - Never remove content without the human's approval (move to archive section or git handles history).
 - Never add links to `log.md`.
@@ -388,6 +399,7 @@ LLM Wikis outperform RAG for synthesizing knowledge across documents[^1].
 
 Each topic can optionally have a `TOPIC.md` file at `topics/<slug>/TOPIC.md` with:
 
+- Custom raw layout (declared in `## Raw Layout`) — flat by default; subfolder layouts for diverse source types
 - Custom wiki layout (declared in `## Wiki Layout`) — overrides the default `concepts/entities/syntheses/questions` folders
 - Custom page types and their content structure (declared in `## Page Conventions`)
 - Domain-specific terminology and definitions
@@ -410,7 +422,7 @@ The global schema (this file) always applies. `TOPIC.md` adds domain-specific gu
 
 When starting a new session on a topic:
 
-1. **Read `TOPIC.md`** (if it exists) to understand domain, wiki layout, page conventions, and domain-specific rules
+1. **Read `TOPIC.md`** (if it exists) to understand domain, raw layout, wiki layout, page conventions, and domain-specific rules
 2. **Read `wiki/index.md`** to understand current state
 3. **Read `wiki/log.md`** (last 10 entries) to understand recent activity
 4. **Ask the human** what they want to do: ingest new sources, ask questions, or run maintenance

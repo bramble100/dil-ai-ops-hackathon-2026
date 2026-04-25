@@ -6,6 +6,10 @@ This wiki compiles and cross-references publicly available financial, strategic,
 
 The goal is to transform ~3,000 pages of dense German/English corporate filings into an interconnected, navigable knowledge base that surfaces trends, contradictions, and strategic shifts over time.
 
+## Raw Layout
+
+Flat — all sources in `raw/` root, no subfolders. Sources are PDF annual reports and earnings call transcripts.
+
 ## Wiki Layout
 
 - `sources/` - One summary per raw source document (always present)

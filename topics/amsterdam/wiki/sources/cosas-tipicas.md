@@ -5,7 +5,8 @@ source_path: "raw/cosas-tipicas.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: partial
-tags: [netherlands, culture, traditions, food, spanish-language, extraction-partial]
+tags:
+  [netherlands, culture, traditions, food, spanish-language, extraction-partial]
 ---
 
 # Cosas tipicas de Holanda
@@ -21,21 +22,25 @@ An article about the most iconic and typical elements of Dutch culture. While th
 ## Topics Covered (based on partial extraction and metadata)
 
 ### Icons & Symbols
+
 - **Tulips** - national flower, tulip mania history, Keukenhof
 - **Windmills** - historical water management, Kinderdijk and Zaanse Schans
 - **Cheese** - Gouda, Edam, cheese markets
 - **Wooden shoes (Klompen)** - traditional footwear, still used in rural areas
 
 ### Lifestyle & Culture
+
 - **Cycling** - the Netherlands as a cycling nation, bike infrastructure
 - **Canals** - defining feature of Dutch cities
 - **Liberal policies** - tolerance and progressive social policies
 
 ### Celebrations & Traditions
+
 - **King's Day (Koningsdag)** - April 27, national celebration with orange theme
 - **Sinterklaas** - traditional Dutch holiday (December 5)
 
 ### Food & Drink
+
 - **Stroopwafels** - iconic Dutch waffle cookie
 - **Herring (haring)** - traditional raw fish, eaten Dutch-style
 
@@ -52,6 +57,5 @@ The HTML extraction primarily captured a phone country codes dropdown list and o
 
 ## Pages Updated
 
-- [../themes/dutch-culture.md](../themes/dutch-culture.md)
-- [../themes/food-and-drink.md](../themes/food-and-drink.md)
-- [../practical/events-calendar.md](../practical/events-calendar.md)
+- [../themes/dutch-culture-and-traditions.md](../themes/dutch-culture-and-traditions.md)
+- [../themes/dutch-cuisine.md](../themes/dutch-cuisine.md)

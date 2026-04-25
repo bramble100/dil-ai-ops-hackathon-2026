@@ -5,8 +5,8 @@ entity_kind: company
 sources: [buffett-letter-1988, buffett-letter-1989, buffett-letter-1990]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [acquisition, management, moats]
+status: complete
 ---
 
 ## Overview

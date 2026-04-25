@@ -1,7 +1,7 @@
 ---
 title: "1997 Annual Letter"
 type: source
-source_path: "raw/articles/buffett-letter-1997.md"
+source_path: "raw/buffett-letter-1997.md"
 source_url: "https://www.berkshirehathaway.com/letters/1997.html"
 created: 2026-04-20
 updated: 2026-04-23

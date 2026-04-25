@@ -4,9 +4,9 @@ type: entity
 entity_kind: company
 created: 2026-04-21
 updated: 2026-04-22
-status: complete
 tags: [subsidiary, chemicals, mega-cap-era]
 sources: [buffett-letter-2011, buffett-letter-2012, buffett-letter-2025]
+status: complete
 ---
 
 ## Overview

@@ -26,7 +26,7 @@
 | **Client Onboarding / CS**        | Structured knowledge bases from scattered client docs                                            |
 | **Any analyst**                   | Turn a pile of PDFs into a cross-referenced, queryable wiki in hours                             |
 
-**Our demo proves it:** 12 German PDFs became 35 interconnected financial analysis pages. 11 sources in 4 languages became a 53-page travel guide. No app, no infra -- just Claude Code and markdown.
+**Our demo proves it:** 12 German PDFs became 35 interconnected financial analysis pages. 49 Buffett shareholder letters became an 88-page investor education wiki. 11 sources in 4 languages became a 53-page travel guide. No app, no infra -- just Claude Code and markdown.
 
 ---
 
@@ -87,7 +87,7 @@ in any language                 cross-references, index      ingest workflow, qu
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **AI hallucination / inaccuracy**   | Every wiki page cites its source. Schema enforces claim types: Source (verbatim), Analysis (inference), Unverified, Gap. Human reviews the output. |
 | **Sensitive data in prompts**       | All processing is local -- documents stay on your machine, wiki stays in your git repo. No data leaves the controlled environment.                 |
-| **Schema quality = output quality** | We provide battle-tested schemas from our two demos. Bad schema → bad wiki, but this is a solved problem once you have a good template.            |
+| **Schema quality = output quality** | We provide battle-tested schemas from our three demos. Bad schema → bad wiki, but this is a solved problem once you have a good template.          |
 | **"Just another tool to learn"**    | There is nothing to learn -- you drop files in a folder and talk to Claude. The wiki is plain markdown anyone can read.                            |
 
 **Driving adoption:**
@@ -104,7 +104,7 @@ in any language                 cross-references, index      ingest workflow, qu
 
 | Phase                      | What                                                                                                                                                        | Timeline  |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Done**                   | Two working demos (corporate intelligence + travel guide), reusable schemas, README/playbook                                                                | Hackathon |
+| **Done**                   | Three working demos (corporate intelligence, investor education, travel guide), reusable schemas, README/playbook                                           | Hackathon |
 | **Next: Template Library** | Package schemas for common use cases -- company profiles, competitive intel, client onboarding, regulatory research                                         | 1-2 weeks |
 | **Next: Team Pilot**       | Pick one real team (e.g. Board Intelligence) and build a wiki from their actual documents. Measure time saved vs. current process.                          | 2-4 weeks |
 | **Future: Automation**     | Scripted ingest pipelines (watch folders, scheduled refreshes), Obsidian vault as team-shared viewer, integration with DiligentGPT/Glean as a source feeder | Quarter   |
@@ -119,7 +119,7 @@ in any language                 cross-references, index      ingest workflow, qu
 
 ## Slide 8: What We Learned
 
-### Lessons from building two wikis in a day
+### Lessons from building three wikis in a day
 
 **On AI in practice:**
 

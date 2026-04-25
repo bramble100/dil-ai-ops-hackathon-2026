@@ -30,8 +30,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-22
-status: complete
 tags: [management, corporate-governance]
+status: complete
 ---
 
 ## Overview

@@ -20,32 +20,38 @@ Official website content for Die Port van Cleve, a historic hotel in the heart o
 ## Hotel Details
 
 ### Location
+
 - Behind the Nieuwe Kerk on Dam Square
 - Next to Magna Plaza shopping center
 - Central Amsterdam, walking distance to major sights
 
 ### History
+
 - **Founded:** 1864
 - Originally established as a brewery
 - Historical connection to **Gerard Heineken** (founder of Heineken)
 - Celebrating 155th anniversary (as of 2019 website content)
 
 ### Rooms & Facilities
+
 - **122 rooms** across **6 floors**
 - **8 historical themes** reflected in room design
 - Extra bed available: EUR 75/night
 - Early check-in / late check-out: EUR 15/hour
 
 ### Check-in / Check-out
+
 - **Check-in:** 15:00
 - **Check-out:** 11:00
 
 ### On-Site Dining & Venues
+
 - **Bar-Bodega De Blauwe Parade** - hotel bar
 - **Hulscher's Restaurant** - specializes in steaks
 - **The Brewery Club** - meetings and private events space
 
 ### Current Promotions (as captured)
+
 - **20% off Nieuwe Kerk tickets** with a hotel-provided discount code
 - **Spring sale:** code `Spring30` for 30% off room rates
 
@@ -60,6 +66,6 @@ Official website content for Die Port van Cleve, a historic hotel in the heart o
 
 ## Pages Updated
 
-- [../hotels/port-van-cleve.md](../hotels/port-van-cleve.md)
+- [../hotels/die-port-van-cleve.md](../hotels/die-port-van-cleve.md)
 - [../places/dam-square.md](../places/dam-square.md)
-- [../practical/accommodation.md](../practical/accommodation.md)
+- [../practical/where-to-stay.md](../practical/where-to-stay.md)

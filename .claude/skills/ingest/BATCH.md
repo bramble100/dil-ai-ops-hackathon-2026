@@ -43,7 +43,7 @@ Process all sources in the batch together, not sequentially:
 ```markdown
 ## [YYYY-MM-DD] ingest-batch | Batch N — <brief description>
 
-- Sources: raw/articles/source-1.md, source-2.md, source-3.md
+- Sources: raw/<optional-subfolder>/source-1.md, raw/<optional-subfolder>/source-2.md, raw/<optional-subfolder>/source-3.md
 - Created: sources/source-1, sources/source-2, sources/source-3, folder/new-page
 - Updated: folder/existing-page, folder/existing-page, quotes, timeline
 - Notes: <contradictions found, judgment calls made, questions filed>
@@ -68,7 +68,7 @@ After the batch is fully processed and bookkeeping is done, check off completed 
 Triggered when: user says "create a batch plan" / "prepare for ingestion", or Phase 1 finds 10+ sources and the user agrees to batch mode.
 
 **Step 1 — Inventory unprocessed sources.**
-List all files in the primary-source folders `raw/articles/`, `raw/papers/`, `raw/notes/`, `raw/assets/`. Move any unsorted files from `raw/` root to the correct subfolder first (see SKILL.md Phase 1 Step 1 for classification rules — PDFs that are primary sources go to `papers/`). Exclude `.gitkeep`. **Do not inventory `originals/`** — it is non-ingestible by definition (binary originals of sources already converted to Markdown). Build the already-ingested set from **both** `source_path` and `source_original` frontmatter in `wiki/sources/*.md`, then subtract it from the inventory.
+List all files in `raw/` (for flat layouts, scan root; for subfolder layouts, scan all subdirectories). Sort any unsorted files first if the topic uses subfolders (see SKILL.md Phase 1 Step 1). Exclude `.gitkeep`. **Do not inventory `originals/`** — it is non-ingestible by definition (binary originals of sources already converted to Markdown). Build the already-ingested set from **both** `source_path` and `source_original` frontmatter in `wiki/sources/*.md`, then subtract it from the inventory.
 
 **Step 2 — Identify natural ordering.**
 Look for an inherent sequence: publication date, numbered chapters, alphabetical series, etc. If one exists, process in that order — later sources often reference earlier ones. If no ordering is obvious, group thematically.
@@ -77,7 +77,7 @@ Look for an inherent sequence: publication date, numbered chapters, alphabetical
 Check line counts to gauge reading load:
 
 ```bash
-wc -l raw/articles/*.md | sort -n
+find raw/ -type f -name '*.md' ! -name '.gitkeep' | xargs wc -l | sort -n
 ```
 
 - Short (<300 lines): up to 5 per batch

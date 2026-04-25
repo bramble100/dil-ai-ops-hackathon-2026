@@ -5,8 +5,8 @@ entity_kind: company
 sources: [buffett-letter-2023, buffett-letter-2025]
 created: 2026-04-21
 updated: 2026-04-22
-status: complete
 tags: [equity-holding, energy, carbon-capture]
+status: complete
 ---
 
 ## Overview

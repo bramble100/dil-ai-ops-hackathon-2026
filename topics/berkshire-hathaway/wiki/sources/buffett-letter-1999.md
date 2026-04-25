@@ -1,7 +1,7 @@
 ---
 title: "1999 Annual Letter"
 type: source
-source_path: "raw/articles/buffett-letter-1999.md"
+source_path: "raw/buffett-letter-1999.md"
 source_url: "https://www.berkshirehathaway.com/letters/final1999pdf.pdf"
 source_original: "originals/buffett-letter-1999.pdf"
 created: 2026-04-20

@@ -4,8 +4,8 @@ type: case-study
 sources: [buffett-letter-2023, buffett-letter-2024, buffett-letter-2025]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [international, compounding, capital-allocation, dividends, currency]
+status: complete
 ---
 
 # Japanese Trading Companies — Berkshire's International Pivot

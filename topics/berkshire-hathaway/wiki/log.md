@@ -1,4 +1,18 @@
+---
+title: Activity Log
+type: overview
+created: 2026-04-19
+updated: 2026-04-25
+---
+
 # Activity Log
+
+## [2026-04-25] lint | Health check
+
+- Unprocessed: 0 files (all 49 letters ingested)
+- Found: 1 important (log.md missing frontmatter), 2 medium (40 missing status fields, pages over budget), 1 minor (empty questions/)
+- Fixed: log.md YAML frontmatter added; status: complete added to 94 pages (41 originally flagged + 53 others that were also missing)
+- Open: page budgets informational only — principles, standalone pages, and key entities over guideline but well-structured, keeping as-is per TOPIC.md design intent
 
 ## [2026-04-23] maintenance | Provenance metadata normalization
 
@@ -103,7 +117,7 @@
 
 ## [2026-04-22] ingest-batch | Batch 24 (FINAL): 2024-2025 Letters
 
-- Sources: raw/articles/buffett-letter-2024.md, raw/articles/buffett-letter-2025.md
+- Sources: raw/buffett-letter-2024.md, raw/buffett-letter-2025.md
 - Created: sources/buffett-letter-2024, sources/buffett-letter-2025, entities/greg-abel
 - Updated: ALL 7 principles (capital-allocation, owner-earnings, underwriting-discipline, business-quality, four-filters, mr-market, institutional-imperative), entities/geico, entities/bnsf, entities/forest-river, entities/precision-castparts, entities/pilot-flying-j, entities/coca-cola, entities/midamerican-energy, entities/american-express, entities/shaw-industries, entities/executive-jet, entities/lubrizol, entities/occidental-petroleum, entities/heinz, entities/charlie-munger, entities/clayton-homes, quotes, timeline, acquisitions-timeline, financials/book-value-per-share, index.md
 - Fixed: midamerican-energy.md duplicate 2021-2023 section (pre-existing artifact); institutional-imperative.md duplicate Board Governance section
@@ -111,7 +125,7 @@
 
 ## [2026-04-21] ingest-batch | Batch 23: 2021-2023 Letters
 
-- Sources: raw/articles/buffett-letter-2021.md, raw/articles/buffett-letter-2022.md, raw/articles/buffett-letter-2023.md
+- Sources: raw/buffett-letter-2021.md, raw/buffett-letter-2022.md, raw/buffett-letter-2023.md
 - Created: sources/buffett-letter-2021, sources/buffett-letter-2022, sources/buffett-letter-2023, entities/alleghany, entities/occidental-petroleum
 - Updated: principles/capital-allocation, principles/owner-earnings, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/four-filters, entities/charlie-munger, entities/bnsf, entities/midamerican-energy, entities/geico, entities/national-indemnity, entities/coca-cola, entities/american-express, entities/tti, entities/pilot-flying-j, entities/sees-candies, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
 - Fixed: removed duplicate 2018-2020 sections from capital-allocation, owner-earnings, underwriting-discipline, mr-market (artifact from prior batch)
@@ -119,21 +133,21 @@
 
 ## [2026-04-22] ingest-batch | Batch 22: 2018-2020 Letters
 
-- Sources: raw/articles/buffett-letter-2018.md, raw/articles/buffett-letter-2019.md, raw/articles/buffett-letter-2020.md
+- Sources: raw/buffett-letter-2018.md, raw/buffett-letter-2019.md, raw/buffett-letter-2020.md
 - Created: sources/buffett-letter-2018, sources/buffett-letter-2019, sources/buffett-letter-2020
 - Updated: principles/capital-allocation, principles/owner-earnings, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/four-filters, principles/institutional-imperative, entities/geico, entities/national-indemnity, entities/bnsf, entities/midamerican-energy, entities/precision-castparts, entities/clayton-homes, entities/pilot-flying-j, entities/wells-fargo, entities/american-express, entities/charlie-munger, entities/sees-candies, entities/nebraska-furniture-mart, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
 - Key themes: Book value ABANDONED as primary metric (54-year run ends); five groves framework; American Tailwind ($114.75→$606,811); conglomerate defense ("two strings to our bow"); four "family jewels"; $24.7B repurchases (5.2%, largest buyback year); PCC $11B writedown ("I paid too much"); GUARD $221M→$1.9B (+379%); float $122.7B→$129.4B→$138B (costless); BHE 20th anniversary/wind self-sufficiency/18B grid; Katie Farmer BNSF CEO; retained earnings power (Smith/Keynes); board governance essay (21 companies/62 years, cocker spaniel directors); succession "urgent zone"; Apple compounding (5.2%→5.4%→10% more); origin stories retold (GEICO/NICO/NFM/See's); "never bet against America"
 
 ## [2026-04-22] ingest-batch | Batch 21: 2016-2017 Letters
 
-- Sources: raw/articles/buffett-letter-2016.md, raw/articles/buffett-letter-2017.md
+- Sources: raw/buffett-letter-2016.md, raw/buffett-letter-2017.md
 - Created: sources/buffett-letter-2016, sources/buffett-letter-2017, entities/pilot-flying-j
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/owner-earnings, principles/business-quality, principles/four-filters, principles/institutional-imperative, entities/geico, entities/general-re, entities/national-indemnity, entities/clayton-homes, entities/bnsf, entities/midamerican-energy, entities/shaw-industries, entities/marmon-group, entities/precision-castparts, entities/wells-fargo, entities/ibm, entities/charlie-munger, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
 - Key themes: Float $91.6B→$114.5B (AIG $10.2B world-record premium); 14-year underwriting streak ends (3 hurricanes $3.2B); $400B mega-cat framework; Powerhouse Six $17.8B; MSR 24% ROE; Clayton largest US builder (42,075 homes); GEICO ~12% share; Montross retires/Raiguel CEO; BHSI $1.3B; BHE Iowa 55%→89% wind target, 7.1¢ rate freeze to 2029; Shaw $5.7B/USFloors; share repurchase essay (120% threshold); Dexter $6B+ blunder; acquisition-mania critique ("can-do" CEOs, barber analogy, boardroom silence); Jain/Abel Vice Chairmen (succession crystallized); The Bet concludes 125.8% vs 36.3%; Bogle statue; GAAP unrealized gains rule; IBM sold/Apple $28.2B; BofA warrant exercised; Pilot Flying J 38.6%; $116B cash; risk ≠ volatility
 
 ## [2026-04-22] ingest-batch | Batch 20: 2015 Letter
 
-- Source: raw/articles/buffett-letter-2015.md
+- Source: raw/buffett-letter-2015.md
 - Created: sources/buffett-letter-2015, entities/precision-castparts
 - Updated: principles/owner-earnings, principles/capital-allocation, principles/underwriting-discipline, principles/business-quality, principles/four-filters, principles/mr-market, entities/geico, entities/bnsf, entities/midamerican-energy, entities/national-indemnity, entities/general-re, entities/clayton-homes, entities/marmon-group, entities/wells-fargo, entities/american-express, entities/ibm, entities/coca-cola, quotes, timeline, acquisitions-timeline, financials/book-value-per-share
 - Key themes: PCC $32.1B (largest acquisition ever, Todd Combs identified); Kraft Heinz 3G partnership; productivity essay (farming/railroads/insurance, EITC advocacy); Powerhouse Five→Six $13.1B; float $87.7B (13 years/$26.2B cumulative); Pillar 2 includes underwriting for first time; GEICO 11.4% + founding history + driverless risk; BHE 7% wind/6% solar/Paris commitments; BNSF record $6.8B; Noah's Law (Pascal's Wager on climate); six-point successor blueprint; EBITDA noses; Clayton 100% risk retention; Marmon 133K railcars (GE purchase)
@@ -141,21 +155,21 @@
 
 ## [2026-04-22] ingest-batch | Batch 19: 2014 Letter (Golden Anniversary)
 
-- Source: raw/articles/buffett-letter-2014.md
+- Source: raw/buffett-letter-2014.md
 - Created: sources/buffett-letter-2014, entities/van-tuyl-automotive
 - Updated: principles/capital-allocation, principles/owner-earnings, principles/mr-market, principles/underwriting-discipline, principles/business-quality, entities/geico, entities/national-indemnity, entities/bnsf, entities/midamerican-energy, entities/general-re, entities/sees-candies, entities/charlie-munger, entities/clayton-homes, entities/marmon-group, entities/dexter-shoe, entities/wells-fargo, entities/coca-cola, entities/american-express, entities/ibm, quotes, timeline, acquisitions-timeline
 - Key themes: Golden Anniversary retrospective; conglomerate defense/PE critique/spin-off condemnation; Munger's independent 15-point Berkshire system letter; Jain/Abel named "world-leading"; Van Tuyl $9B (permanent home thesis); Powerhouse Five $12.4B record; float $83.9B (12 years/$24B cumulative); GEICO 10.8%; NICO $111B; 50-year volatility-≠-risk proof; index fund deepened; acquisition criteria raised to $75M; Tesco $444M cockroach; Dexter revised to $5.7B; See's $1.9B cumulative; ABCs of decay
 
 ## [2026-04-21] ingest-batch | Batch 17: 2011-2012 Letters
 
-- Sources: raw/articles/buffett-letter-2011.md, raw/articles/buffett-letter-2012.md
+- Sources: raw/buffett-letter-2011.md, raw/buffett-letter-2012.md
 - Created: sources/buffett-letter-2011, sources/buffett-letter-2012, entities/lubrizol, entities/ibm
 - Updated: principles/capital-allocation, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/owner-earnings, principles/inflation-and-investing, entities/geico, entities/bnsf, entities/midamerican-energy, entities/sees-candies, entities/marmon-group, entities/iscar, entities/clayton-homes, entities/executive-jet, entities/general-re, entities/wells-fargo, entities/coca-cola, entities/nebraska-furniture-mart, entities/buffalo-evening-news, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
 - Key themes: Three investment categories essay (gold cube $9.6T), share repurchase 110%→120%, dividend policy essay, Lubrizol/IBM/BofA/Heinz, Fabulous Five→Powerhouse Five $10.1B, float $73.1B (ten consecutive years), non-real amortization, newspaper resurgence $344M
 
 ## [2026-04-21] ingest-batch | Batch 16: 2009-2010 Letters
 
-- Sources: raw/articles/buffett-letter-2009.md, raw/articles/buffett-letter-2010.md
+- Sources: raw/buffett-letter-2009.md, raw/buffett-letter-2010.md
 - Created: sources/buffett-letter-2009, sources/buffett-letter-2010, entities/bnsf
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/business-quality, principles/owner-earnings, entities/geico, entities/general-re, entities/executive-jet, entities/midamerican-energy, entities/clayton-homes, entities/iscar, entities/marmon-group, entities/wells-fargo, entities/coca-cola, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
 - Key themes: BNSF acquisition (largest ever, capital-intensive pivot), three-pillar intrinsic value, GEICO $14B goodwill case study, four insurance commandments, "Life and Debt" leverage essay, NetJets turnaround, Todd Combs hired
@@ -175,7 +189,7 @@
 - Renamed acquisitions/ to case-studies/ (teaching examples, not corporate history)
 - Rewrote TOPIC.md: purpose, key questions, and ingest notes reoriented toward investor education
 - Fixed frontmatter on all 21 markdown letters (title, author, published, description)
-- Removed .gitkeep from raw/articles/ and raw/papers/ (now have real files)
+- Removed .gitkeep from raw/ and raw/papers/ (now have real files)
 - Revised batch sizing: 5 early, 4 mid, 3 late (adaptive to letter length and wiki growth)
 
 ## [2026-04-20] maintenance | Tag normalization and TOPIC.md refinements
@@ -196,114 +210,114 @@
 
 ## [2026-04-20] maintenance | Structure refinements and PDF conversion cleanup
 
-- Converted 28 PDF letters (1998-2025) to markdown via PyMuPDF; all 49 letters now in raw/articles/ as .md
+- Converted 28 PDF letters (1998-2025) to markdown via PyMuPDF; all 49 letters now in raw/ as .md
 - Moved original PDFs from raw/papers/ to raw/assets/ (archival; excluded from ingest discovery)
 - Added tag strategy to TOPIC.md: topic tags, type tags, era tags for rich querying
 - Added standalone page guidance: quotes.md, timeline.md, acquisitions-timeline.md
 - Updated index.md: changed "Expected:" definitive lists to "e.g." illustrative examples
-- Updated ingest notes: source discovery limited to raw/articles/, PDF formatting caveats documented
+- Updated ingest notes: source discovery limited to raw/, PDF formatting caveats documented
 
 ## [2026-04-20] ingest-batch | Batch 1 — 1977-1981 (early Berkshire, foundational letters)
 
-- Sources: raw/articles/buffett-letter-1977.md, buffett-letter-1978.md, buffett-letter-1979.md, buffett-letter-1980.md, buffett-letter-1981.md
+- Sources: raw/buffett-letter-1977.md, buffett-letter-1978.md, buffett-letter-1979.md, buffett-letter-1980.md, buffett-letter-1981.md
 - Created: sources/buffett-letter-1977 through 1981, principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/inflation-and-investing, principles/capital-allocation, entities/geico, entities/national-indemnity, entities/sees-candies, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline
 - Updated: index.md
 - Notes: All principle pages marked draft — will be enriched as later batches add sources. Batch establishes foundational framework: ROE yardstick, four filters, owner earnings, business quality, underwriting discipline, inflation analysis, capital allocation. GEICO and textiles are the anchor case studies (positive and negative).
 
 ## [2026-04-20] ingest-batch | Batch 2 — 1982-1983 (commodity business framework, Owner's Manual, Economic Goodwill)
 
-- Sources: raw/articles/buffett-letter-1982.md, buffett-letter-1983.md
+- Sources: raw/buffett-letter-1982.md, buffett-letter-1983.md
 - Created: sources/buffett-letter-1982, sources/buffett-letter-1983, principles/economic-goodwill, entities/nebraska-furniture-mart, entities/buffalo-evening-news
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/business-quality, principles/capital-allocation, principles/underwriting-discipline, principles/inflation-and-investing, principles/four-filters, entities/geico, entities/sees-candies, entities/national-indemnity, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1982 introduces commodity business framework and equity issuance discipline. 1983 is a landmark: 13 Owner's Manual principles, Economic Goodwill appendix, NFM acquisition, Blue Chip merger. Book value track record extended to $975.83 (22.6% CAGR). All existing pages enriched with 1982-83 content.
 
 ## [2026-04-20] ingest-batch | Batch 3 — 1984-1985 (scale drag, textile closure, Capital Cities/ABC)
 
-- Sources: raw/articles/buffett-letter-1984.md, buffett-letter-1985.md
+- Sources: raw/buffett-letter-1984.md, buffett-letter-1985.md
 - Created: sources/buffett-letter-1984, sources/buffett-letter-1985, entities/capital-cities-abc, entities/scott-fetzer
 - Updated: principles/return-on-equity, principles/business-quality, principles/capital-allocation, principles/underwriting-discipline, principles/four-filters, principles/owner-earnings, principles/inflation-and-investing, principles/economic-goodwill, entities/geico, entities/sees-candies, entities/nebraska-furniture-mart, entities/buffalo-evening-news, entities/national-indemnity, entities/charlie-munger, case-studies/textile-operations, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1984 introduces scale drag warning, dividend policy framework, WPPSS bonds-as-business, greenmail condemnation, loss-reserving errors. 1985 is a milestone: textile closure (Burlington comparison, capex trap, boat metaphor), Capital Cities/ABC ($517.5M), Scott & Fetzer (~$320M), General Foods sale, incentive comp critique, Halley's Comet year (48.2%). Book value extended to $1,643.71 (23.2% CAGR).
 
 ## [2026-04-20] ingest-batch | Batch 4 — 1986-1987 (owner earnings formula, Mr. Market, permanent holdings)
 
-- Sources: raw/articles/buffett-letter-1986.md, buffett-letter-1987.md
+- Sources: raw/buffett-letter-1986.md, buffett-letter-1987.md
 - Created: sources/buffett-letter-1986, sources/buffett-letter-1987, principles/mr-market, entities/fechheimer, entities/salomon-inc
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/inflation-and-investing, principles/capital-allocation, principles/economic-goodwill, entities/geico, entities/sees-candies, entities/national-indemnity, entities/charlie-munger, entities/nebraska-furniture-mart, entities/buffalo-evening-news, entities/capital-cities-abc, entities/scott-fetzer, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1986 is foundational: owner earnings equation (a+b-c) in appendix demolishes "cash flow" fallacy; Scott Fetzer Company O vs N; Fechheimer acquisition via annual-report ad; "be fearful when others are greedy"; GEICO moat metaphor; Tax Reform Act analysis (franchise vs commodity tax incidence); "not more statesmen, but less corn." 1987 is one of the most quotable letters: full Mr. Market parable from Graham; Sainted Seven at 57% ROE; three permanent holdings designated; CEO capital allocation critique (Carnegie Hall/Fed); debt philosophy ("loaded gun"); Salomon $700M convertible preferred; portfolio insurance demolition after Black Monday. Book value extended to $2,477.47 (23.1% CAGR).
 
 ## [2026-04-20] ingest-batch | Batch 6 — 1990-1992 (look-through earnings, Wells Fargo, Salomon scandal, DCF synthesis)
 
-- Sources: raw/articles/buffett-letter-1990.md, buffett-letter-1991.md, buffett-letter-1992.md
+- Sources: raw/buffett-letter-1990.md, buffett-letter-1991.md, buffett-letter-1992.md
 - Created: sources/buffett-letter-1990, sources/buffett-letter-1991, sources/buffett-letter-1992, entities/wells-fargo, entities/hh-brown, entities/general-dynamics
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, entities/geico, entities/sees-candies, entities/national-indemnity, entities/charlie-munger, entities/nebraska-furniture-mart, entities/buffalo-evening-news, entities/capital-cities-abc, entities/scott-fetzer, entities/fechheimer, entities/salomon-inc, entities/coca-cola, entities/borsheims, entities/gillette, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1990 introduces the float-cost framework (1.6% vs government bond yield), Wells Fargo contrarian purchase ($290M, <5x earnings), junk bond demolition, and media franchise erosion identified as structural. 1991 is the richest letter: H.H. Brown acquisition (July), See's 20-year $410M retrospective, franchise 3-test definition (needed/no substitute/no price regulation), Salomon scandal with Buffett as Interim Chairman (Aug 18), Fannie Mae omission (~$1.4B forgone), Gillette preferred converted to common. 1992 delivers the growth-value synthesis (DCF as universal valuation; "value investing is redundant"), General Dynamics arbitrage-to-conviction (14% in one month), stock-option expensing critique, Central States Indemnity acquisition, Mrs. B returns at 99 with non-compete, Hurricane Andrew $125M loss. Book value extended: $4,612.06 (7.3%), $6,437.00 (39.6%), $7,745.00 (20.3%).
 
 ## [2026-04-20] ingest-batch | Batch 7 — 1993-1994 (Dexter Shoe, beta demolished, Scott Fetzer 9-year masterclass)
 
-- Sources: raw/articles/buffett-letter-1993.md, buffett-letter-1994.md
+- Sources: raw/buffett-letter-1993.md, buffett-letter-1994.md
 - Created: sources/buffett-letter-1993, sources/buffett-letter-1994, entities/dexter-shoe, entities/american-express
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, entities/geico, entities/sees-candies, entities/nebraska-furniture-mart, entities/capital-cities-abc, entities/scott-fetzer, entities/coca-cola, entities/gillette, entities/wells-fargo, entities/hh-brown, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md, \_batch-plan.md
 - Notes: 1993 introduces the beta demolition (5 real risk factors), Li'l Abner deferred-tax demonstration of look-through earnings ($856M total), Dexter Shoe acquisition for 25,203 Berkshire shares (later Buffett's worst stock deal), corporate governance three-situation framework, float $2.6B at negative cost, Mrs. B turns 100. 1994 delivers the fat wallet problem ($11.9B net worth → $100M minimum position), Scott Fetzer definitive 9-year retrospective (near-100% pre-tax ROE, would rank #1 Fortune 500), Mistake Du Jour Silver (Cap Cities at $63 = $222.5M forgone) and Gold (USAir writedown), American Express rebuilt to 27.76M shares, compensation rationality without consultants. Book value extended: $8,854 (14.3%), $10,083 (13.9%) — 30-year CAGR 23.0%.
 
 ## [2026-04-20] ingest-batch | Batch 8 — 1995-1996 (GEICO 100%, FlightSafety, "The Inevitables," circle of competence)
 
-- Sources: raw/articles/buffett-letter-1995.md, buffett-letter-1996.md
+- Sources: raw/buffett-letter-1995.md, buffett-letter-1996.md
 - Created: sources/buffett-letter-1995, sources/buffett-letter-1996, entities/flightsafety, entities/helzbergs, entities/rc-willey
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, entities/geico, entities/coca-cola, entities/salomon-inc, entities/national-indemnity, case-studies/geico-investment, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1995 is the culmination of the GEICO story — 45 years from cold Saturday visit to 100% ownership ($2.3B). Three acquisitions doubled revenues (Helzberg's, R.C. Willey, GEICO). "Have-to-be-smart-once" vs. "-every-day" framework. Class B recapitalization. Convertible preferred definitive scorecard. Float $3.6B. 1996 introduces "The Inevitables" (Coke/Gillette), FlightSafety ($1.5B, Al Ueltschi age 79), first explicit index fund endorsement, circle of competence, GEICO's spectacular first subsidiary year (+10% policies), incentive comp principles, float surges to $6.7B with GEICO consolidation. Book value: $14,426 (43.1%) → $19,011 (31.8%); 32-year CAGR 23.8%.
 
 ## [2026-04-20] ingest-batch | Batch 9 — 1997-1999 (General Re, EJA/NetJets, GEICO spectacular growth, 1999 crisis)
 
-- Sources: raw/articles/buffett-letter-1997.md, buffett-letter-1998.md, buffett-letter-1999.md
+- Sources: raw/buffett-letter-1997.md, buffett-letter-1998.md, buffett-letter-1999.md
 - Created: sources/buffett-letter-1997, sources/buffett-letter-1998, sources/buffett-letter-1999, entities/star-furniture, entities/dairy-queen, entities/general-re, entities/executive-jet, entities/jordans-furniture, entities/midamerican-energy
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/owner-earnings, principles/four-filters, principles/mr-market, entities/geico, entities/national-indemnity, entities/sees-candies, entities/scott-fetzer, entities/flightsafety, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md, \_batch-plan.md
 - Notes: 1997 introduces the stock-for-stock confession, Ted Williams batting zone, hamburger analogy, and catastrophe bonds critique. Float surges from $6.7B to $7.1B. 1998 is dominated by the General Re acquisition ($22B, float to $22.7B) and EJA/NetJets ($725M). The "Son of Gresham" accounting philippic (stock-options, restructuring charges, pooling) is the intellectual centerpiece. 1999 is the worst year in Berkshire's history (+0.5% book value, capital allocation grade D). General Re's $1.4B underwriting loss drives the disaster; GEICO simultaneously delivers its best year ever (market share 2.7→4.1%). Jordan's Furniture and MidAmerican Energy acquired. Tech-stock circle of competence and market overvaluation warnings are the lasting intellectual contributions. Lorimer Davidson dies at 97, closing the GEICO origin story. Era tag shifts: 1997-1998 are growth-era; 1999 opens the mega-cap-era.
 
 ## [2026-04-20] ingest-batch | Batch 10 — 2000-2001 (Great Bubble endpoint, 9/11, General Re full reckoning, SFAS 142)
 
-- Sources: raw/articles/buffett-letter-2000.md, raw/articles/buffett-letter-2001.md
+- Sources: raw/buffett-letter-2000.md, raw/buffett-letter-2001.md
 - Created: sources/buffett-letter-2000, sources/buffett-letter-2001, entities/shaw-industries, entities/johns-manville, entities/benjamin-moore, entities/justin-industries
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/owner-earnings, principles/business-quality, entities/geico, entities/general-re, entities/national-indemnity, entities/scott-fetzer, entities/dexter-shoe, entities/midamerican-energy, entities/rc-willey, entities/flightsafety, entities/executive-jet, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md, \_batch-plan.md
 - Notes: 2000 is the Great Bubble peak — NASDAQ 5,132 on March 10 = same day BRK hit $40,800 low. Berkshire outperforms as tech implodes but eight acquisitions (~$8B, 97% cash) absorb capital: Shaw ($4B sales), Justin, Benjamin Moore, Johns Manville (three major new subsidiaries), plus CORT, U.S. Liability, Ben Bridge, XTRA, Larson-Juhl. Aesop/IBT framework is the intellectual centerpiece — the universal valuation equation as birds in the bush. GEICO advertising mistake acknowledged; Dexter goodwill written off. Ralph Schey retires from Scott Fetzer. Float $27.9B but cost 6% due to General Re repricing underway. 2001 is dominated by 9/11 ($2.275B+ Berkshire loss, largest insurance event to that point). General Re's full reckoning: $4.3B pre-tax underwriting loss ($800M reserve catch-up + $1.7B 9/11). Three underwriting principles canonically stated for the first time. Noah Rule coined. GEICO recovers to $221M underwriting profit. Ajit Jain writes four post-9/11 mega-policies. SFAS 142 goodwill victory. Dexter three-part confession. R.C. Willey Las Vegas outsells all at 2x expectations. Fat wallet "elephants needed" escalated. Book value: $40,442 (+6.5%) → $37,920 (−6.2%); CAGR 23.6% → 22.6%.
 
 ## [2026-04-20] ingest-batch | Batch 11 — 2002-2003 (derivatives WMD, General Re fixed, Clayton/McLane acquisitions)
 
-- Sources: raw/articles/buffett-letter-2002.md, raw/articles/buffett-letter-2003.md
+- Sources: raw/buffett-letter-2002.md, raw/buffett-letter-2003.md
 - Created: sources/buffett-letter-2002, sources/buffett-letter-2003, entities/clayton-homes, entities/mclane, entities/fruit-of-the-loom
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/owner-earnings, principles/business-quality, principles/four-filters, entities/general-re, entities/geico, entities/midamerican-energy, entities/executive-jet, entities/national-indemnity, entities/flightsafety, entities/shaw-industries, entities/nebraska-furniture-mart, entities/dexter-shoe, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md, \_batch-plan.md
 - Notes: 2002 is one of the five most intellectually important letters — contains the famous "derivatives are financial weapons of mass destruction" essay (prescient of 2008), the most comprehensive corporate governance analysis (boardroom atmosphere, four audit committee questions, stock-option FASB/Senate history), and deepened EBITDA critique. General Re takes $1.31B additional prior-year charge but turnaround underway under Joe Brandon/Tad Montross. GEICO spectacular: $6.9B premiums, $416M profit, internet +75%. Ajit $13.4B float from 20-person staff. Non-insurance now $272M/month (12x decade ago). Float $41.2B at 1% cost. Acquisitions: Fruit of the Loom, Pampered Chef, CTB, Garan, MEHC pipelines (Kern River, Northern Natural Gas). 2003 marks the turning point: General Re FIXED ($145M profit, $5B swing from 2001). Float $44.2B at zero cost with $1.7B underwriting profit — all segments profitable. Clayton Homes (from reading a book) and McLane ($23B, 29 days, no due diligence) demonstrate acquisition speed advantage. GEICO hits 5.0% market share. Foreign currency $12B (first-ever macro bet). Owner-capitalism governance formalized. Operating earnings per-share table 1968-2003 ($2.69→$3,531.32). Book value: $41,727 (+10.0%, S&P −22.1%) → $50,498 (+21.0%); CAGR stabilizes at 22.2%.
 
 ## [2026-04-20] ingest-batch | Batch 5 — 1988-1989 (Coca-Cola, institutional imperative, "Mistakes of First 25 Years")
 
-- Sources: raw/articles/buffett-letter-1988.md, buffett-letter-1989.md
+- Sources: raw/buffett-letter-1988.md, buffett-letter-1989.md
 - Created: sources/buffett-letter-1988, sources/buffett-letter-1989, principles/institutional-imperative, entities/coca-cola, entities/borsheims, entities/gillette
 - Updated: principles/return-on-equity, principles/owner-earnings, principles/four-filters, principles/business-quality, principles/underwriting-discipline, principles/inflation-and-investing, principles/capital-allocation, principles/economic-goodwill, principles/mr-market, entities/geico, entities/sees-candies, entities/national-indemnity, entities/charlie-munger, entities/nebraska-furniture-mart, entities/buffalo-evening-news, entities/capital-cities-abc, entities/scott-fetzer, entities/fechheimer, entities/salomon-inc, case-studies/geico-investment, case-studies/textile-operations, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 1988 introduces two landmark topics: complete arbitrage framework (four questions, Rockwood & Co.) and EMT demolition (63-year record, $97M vs $405K). Coca-Cola purchase ($592.5M) marks Berkshire's most famous investment; "favorite holding period is forever" coined. Sainted Seven reach 67% ROE. GAAP manifesto (three questions). 1989 is one of the most philosophically rich letters: "Mistakes of First 25 Years" crystallizes cigar butt critique, institutional imperative (new principle), cockroach theory, one-foot hurdles. Zero-coupon/PIK takedown extends owner earnings into debt markets. Three convertible preferreds (Gillette $600M, USAir $358M, Champion $300M). Rip Van Winkle tax math. CAT reinsurance $250M capacity. Mrs. B departs NFM at 96. Borsheim's acquired. Book value extended to $4,296.01 (23.8% CAGR over 25 years).
 
 ## [2026-04-20] ingest-batch | Batch 12 — 2004 (NICO portrait, trade deficit, Big Four, Clayton synergy)
 
-- Sources: raw/articles/buffett-letter-2004.md
+- Sources: raw/buffett-letter-2004.md
 - Created: sources/buffett-letter-2004, entities/lou-simpson
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/business-quality, principles/mr-market, principles/inflation-and-investing, principles/four-filters, principles/owner-earnings, principles/institutional-imperative, entities/geico, entities/national-indemnity, entities/general-re, entities/midamerican-energy, entities/clayton-homes, entities/flightsafety, entities/executive-jet, entities/shaw-industries, entities/fruit-of-the-loom, entities/rc-willey, entities/coca-cola, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 2004 is the longest individual letter, anchored by three major essays: (1) NICO 25-year "Portrait of a Disciplined Underwriter" — the ebb-and-flow model, Don Wurster, no-layoff promise, mega-cat $100B preparedness; (2) trade deficit "Sharecropper's Society" — $618B current account deficit, $21.4B in 12 foreign currencies, $3T foreign net ownership, 1987 claim-check framework revisited; (3) board independence — Matthew 6:21 test, Berkshire directors $4M+ stock / no D&O / no options. Other highlights: Big Four equities ($3.83B cost / $36.3B value / $1.2B earnings share), Lou Simpson 25-year 20.3% CAGR, Clayton/Oakwood "synergy at Berkshire" ($7.35B financing), zinc write-off $579M ("simple propositions" / "mono-linked chains"), FlightSafety CEO transition (Ueltschi to Whitman), stock-option expensing victory, "talked when should have walked" Bubble confession. Book value: $55,824 (+10.5%); 40-year CAGR 21.9%.
 
 ## [2026-04-20] ingest-batch | Batch 13 — 2005 (Gotrocks parable, Fred Futile, $3.4B hurricanes, succession first discussed)
 
-- Sources: raw/articles/buffett-letter-2005.md
+- Sources: raw/buffett-letter-2005.md
 - Created: sources/buffett-letter-2005, entities/forest-river, entities/business-wire
 - Updated: principles/capital-allocation, principles/underwriting-discipline, principles/mr-market, principles/business-quality, principles/owner-earnings, principles/four-filters, entities/geico, entities/midamerican-energy, entities/clayton-homes, entities/executive-jet, entities/general-re, entities/sees-candies, entities/flightsafety, entities/shaw-industries, entities/fruit-of-the-loom, entities/rc-willey, entities/wells-fargo, entities/gillette, entities/coca-cola, entities/charlie-munger, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: 2005 is one of the most quotable letters, anchored by three major essays: (1) Gotrocks parable — the definitive argument for why investors as a group must underperform the businesses they own, with four tiers of Helpers consuming ~20% of earnings, culminating in Newton's Fourth Law; (2) Fred Futile/Stagnant Inc. — mathematical proof that fixed-price stock options reward CEOs for zero performance ($158M for a do-nothing CEO), with "Ratchet, Ratchet and Bingo" comp committee critique, Jim Kilts as counter-example; (3) "widening the moat" — competitive advantage maintained daily, not once; short-term earnings must never sacrifice long-term position. Insurance highlights: $3.4B hurricane losses (Katrina $2.5B + Rita/Wilma $0.9B) yet float $49.3B remains costless thanks to GEICO's $1.2B profit; Pascal's Wager applied to mega-cat pricing. Acquisitions: Forest River (two-page fax, Pete Liegl), Business Wire (Lorry Lokey letter), MedPro ($125M reserve strengthening), Applied Underwriters (to 81%), PacifiCorp agreed ($3.4B+$1.7B). PUHCA repealed; MidAmerican converts to 83.4% voting common. Gen Re Securities: 741 contracts, $104M loss, $404M cumulative — "canary in coal mine." Succession first publicly discussed: three internal candidates, investment function to be separated. Chuck Huggins retires after 34 years at See's. P&G/Gillette merger. Two-table framework (investments/earnings per share). Book value: $59,377 (+6.4%); 41-year CAGR 21.5%.
 
 ## [2026-04-20] ingest-batch | Batch 14 — 2006 (record $16.9B gain, ISCAR, Equitas, newspaper decline, Gotrocks sequel)
 
-- Sources: raw/articles/buffett-letter-2006.md
+- Sources: raw/buffett-letter-2006.md
 - Created: sources/buffett-letter-2006, entities/iscar, entities/tti
 - Updated: principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/business-quality, principles/four-filters, principles/owner-earnings, entities/geico, entities/national-indemnity, entities/general-re, entities/executive-jet, entities/midamerican-energy, entities/clayton-homes, entities/shaw-industries, entities/fruit-of-the-loom, entities/buffalo-evening-news, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: Record $16.9B net worth gain (+18.4%); book value $70,281; 42-year CAGR 21.4%. Two landmark acquisitions: ISCAR ($4B, 80% — Berkshire's first international deal; Eitan Wertheimer letter from Israel) and TTI (Paul Andrews; deal before lunch via John Roach referral). Equitas retroactive reinsurance: $7.12B premium for $13.9B limit on Lloyd's pre-1993 asbestos/pollution liabilities — largest DCRA in insurance history. Record $3.838B underwriting profit; total float $50.9B (+Equitas $7B); "Mother Nature went on vacation." GEICO: 8.1M policies, 47% productivity gain, $631M advertising, $1,314M profit. General Re: $526M best year; Gen Re Securities wound to 197 contracts/$409M cumulative — "All's well that ends." NetJets: $143M worldwide profit; European turnaround under Mark Booth. National Indemnity 40th anniversary — Jack Ringwalt parking meter story. Comprehensive newspaper decline essay: "Survival of the Fattest" monopoly destroyed by cable/satellite/internet; "days of lush profits over." Gotrocks sequel: 2-and-20 hedge fund fee math ($108M on $3B); Walter Schloss tribute (49 years, 20% CAGR, never charged fixed fee). CIO succession criteria refined: professional track record + temperament that derives pleasure from investing process. MidAmerican $1.718B pre-tax; HomeServices -50% — housing crisis foreshadowed ("rolling loan gathers no loss"). Bob Shaw retires at 75; Vance Bell succeeds. Russell Corp ~$1.2B and VF Corp intimate apparel acquired by Fruit of the Loom. Clayton $513M pre-tax on $10B portfolio; industry lowest since 1962.
 
 ## [2026-04-20] ingest-batch | Batch 15 — 2007-2008 (Great/Good/Gruesome, financial crisis, Marmon, Black-Scholes critique)
 
-- Sources: raw/articles/buffett-letter-2007.md, raw/articles/buffett-letter-2008.md
+- Sources: raw/buffett-letter-2007.md, raw/buffett-letter-2008.md
 - Created: sources/buffett-letter-2007, sources/buffett-letter-2008, entities/marmon-group
 - Updated: principles/business-quality, principles/underwriting-discipline, principles/capital-allocation, principles/mr-market, principles/owner-earnings, principles/four-filters, entities/geico, entities/general-re, entities/sees-candies, entities/flightsafety, entities/executive-jet, entities/midamerican-energy, entities/clayton-homes, entities/iscar, entities/dexter-shoe, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Fixed: Removed duplicate 2006 sections in general-re.md, executive-jet.md, underwriting-discipline.md (pre-existing copy-paste artifacts)
@@ -311,7 +325,7 @@
 
 ## [2026-04-22] ingest-batch | Batch 18 — 2013 (Heinz/3G template, farm/NYU essay, 90/10 will, BHSI, Ben Graham tribute)
 
-- Sources: raw/articles/buffett-letter-2013.md
+- Sources: raw/buffett-letter-2013.md
 - Created: sources/buffett-letter-2013, entities/heinz
 - Updated: principles/capital-allocation, principles/mr-market, principles/underwriting-discipline, principles/owner-earnings, principles/business-quality, principles/four-filters, principles/return-on-equity, entities/geico, entities/national-indemnity, entities/general-re, entities/bnsf, entities/midamerican-energy, entities/iscar, entities/marmon-group, entities/clayton-homes, entities/wells-fargo, entities/coca-cola, entities/ibm, entities/american-express, entities/nebraska-furniture-mart, entities/charlie-munger, financials/book-value-per-share, quotes, timeline, acquisitions-timeline, index.md
 - Notes: Book value $134,973/share (+18.2%); 49-year CAGR 19.7%; $34.2B net worth gain (largest ever in dollars); overall gain 693,518%. THREE LANDMARK ESSAYS: (1) "Some Thoughts About Investing" — farm purchased 1986 (400 acres, $280K, now 5x earnings + 3x price) and NYU real estate purchase 1993 ($35M, annual distributions exceed cost), six investing principles derived; (2) 90/10 will instruction — "Put 10% in short-term government bonds and 90% in a very low-cost S&P 500 index fund (I suggest Vanguard's)"; (3) Ben Graham tribute — a single sentence in The Intelligent Investor led to GEICO discovery, which led to BNSF, together worth ~$250B to Berkshire. MAJOR ACQUISITIONS: Heinz closed June 2013 — $8B 9% preferred + ~$4.25B common (50/50 with 3G Capital); Lemann/Hees/Behring partnership template for future mega-deals; "permanent ownership." NV Energy $5.6B (88% Nevada population) — MidAmerican's largest utility acquisition. Marmon and ISCAR reach 100% ownership ($3.5B combined; $300M added pre-tax; $1.8B "nonsensical" accounting charge). 25 bolt-ons ($3.1B). INSURANCE: BHSI formed June 2013 under Peter Eastwood — commercial insurance entry; expected "billions within a few years." Ajit Jain $37.2B float/$1,294M profit. GEICO passes Allstate to become #2 US auto insurer; Tony Nicely 52 years; $20B economic goodwill estimate. General Re "now a gem" under Tad Montross; four commandments. $250B mega-cat test: "Berkshire would likely record a significant profit." Float $77.2B; eleven consecutive profitable years; $22B cumulative. BUSINESS: Powerhouse Five record $10.8B pre-tax. BNSF $22B revenue/$3.8B net/$4B record capex. MidAmerican $2.1B operating earnings; 7% US wind; #1 customer satisfaction 95.3%. Clayton 29,547 homes/$416M pre-tax (+63%). NFM Dallas 1.8M sqft under construction; $40.2M Berkshire weekend. INVESTMENTS: Big Four $4.4B look-through earnings; $39B unrealized; Wells 9.2%/Coke 9.1%/IBM 6.3%/AmEx 14.2%. BofA warrants $10.9B unrealized. Todd/Ted >$7B each; beat S&P by 13.1 pp combined. Record $11B capex (88% US). EFH: final $873M loss; total ~$2B destroyed. EBITDA: "button your wallet." Non-real amortization $648M (20% real). Pension warning: "most American companies owe far more than is recorded."

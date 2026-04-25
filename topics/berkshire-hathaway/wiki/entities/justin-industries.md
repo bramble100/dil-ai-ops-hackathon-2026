@@ -5,8 +5,8 @@ entity_kind: company
 sources: [buffett-letter-2000]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [acquisition, manufacturing, mega-cap-era]
+status: complete
 ---
 
 ## Overview

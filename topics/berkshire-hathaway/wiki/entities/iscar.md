@@ -11,8 +11,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [acquisition, manufacturing, international, mega-cap-era]
+status: complete
 ---
 
 ## Overview

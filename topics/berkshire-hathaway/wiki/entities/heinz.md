@@ -5,8 +5,8 @@ entity_kind: company
 sources: [buffett-letter-2013, buffett-letter-2025]
 created: 2026-04-21
 updated: 2026-04-22
-status: complete
 tags: [acquisition, consumer-brands, partnership, late-buffett]
+status: complete
 ---
 
 ## Overview

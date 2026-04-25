@@ -18,8 +18,8 @@ sources:
   ]
 created: 2026-04-22
 updated: 2026-04-22
-status: complete
 tags: [acquisition, lending, moats, compounding, capital-allocation, lesson]
+status: complete
 ---
 
 ## Overview

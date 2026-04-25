@@ -6,6 +6,10 @@ This wiki distills **Warren Buffett's annual shareholder letters** (1977-2025) i
 
 Berkshire's story and financials serve as the living case study through which these principles are demonstrated. The wiki should help a reader answer: "What would Buffett think about this situation, and why?"
 
+## Raw Layout
+
+Flat — all sources in `raw/` root, no subfolders. All 49 Buffett shareholder letters (1977-2025) are Markdown files converted from PDF: `buffett-letter-YYYY.md`
+
 ## Wiki Layout
 
 - `sources/` - One summary per shareholder letter (always present)
@@ -22,14 +26,14 @@ Berkshire's story and financials serve as the living case study through which th
 ```yaml
 ---
 title: Page Title
-type: source  # allowed: source | entity | principle | case-study | financial | question | overview
-sources: [buffett-letter-1977, buffett-letter-1990]  # non-source pages only (principles, entities, case-studies, etc.); lists sources that inform this page
-source_path: "raw/articles/buffett-letter-YYYY.md"  # source summaries only
-source_url: "https://www.berkshirehathaway.com/letters/YYYY..."  # source summaries only; original Berkshire URL
-source_original: "originals/buffett-letter-YYYY.pdf"  # optional: binary original when source_path is a conversion
+type: source # allowed: source | entity | principle | case-study | financial | question | overview
+sources: [buffett-letter-1977, buffett-letter-1990] # non-source pages only (principles, entities, case-studies, etc.); lists sources that inform this page
+source_path: "raw/buffett-letter-YYYY.md" # source summaries only
+source_url: "https://www.berkshirehathaway.com/letters/YYYY..." # source summaries only; original Berkshire URL
+source_original: "originals/buffett-letter-YYYY.pdf" # optional: binary original when source_path is a conversion
 created: 2026-04-19
 updated: 2026-04-19
-status: draft  # allowed: draft | complete
+status: draft # allowed: draft | complete
 tags: [insurance, acquisition, philosophy]
 ---
 ```
@@ -143,4 +147,4 @@ Case study pages teach through specific examples:
 - **Compound, don't duplicate** — by the time you reach 2025, principle pages like "intrinsic value" or "margin of safety" should be rich multi-source documents tracing how Buffett taught the concept across decades.
 - **Code-fenced letters (1977-1996)** — most early markdown letters have their body wrapped in a single code fence (Web Clipper artifact). The text is fully readable; the formatting is cosmetic. Don't let it slow ingestion.
 - **PDF-converted letters (1998-2025)** — converted to markdown via PyMuPDF text extraction. The performance table at the start of each letter has broken formatting (each cell on a separate line instead of tabular). The actual letter body text reads cleanly. Focus on the letter content; the master performance table will be built separately in `financials/`.
-- **Source discovery** — only process files from `raw/articles/` (markdown). Original PDFs are archived in `originals/` (at the topic root, alongside `raw/`) and should NOT be ingested (they are duplicates of the markdown versions).
+- **Source discovery** — only process files from `raw/` (markdown). Original PDFs are archived in `originals/` (at the topic root, alongside `raw/`) and should NOT be ingested (they are duplicates of the markdown versions).

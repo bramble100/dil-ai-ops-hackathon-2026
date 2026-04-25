@@ -33,16 +33,13 @@ For the full problem statement, comparisons with alternatives, use cases, and co
 ```
 my-wiki/
 ├── raw/                 # Source documents (immutable)
-│   ├── articles/
-│   ├── papers/
-│   └── notes/
+│   └── <subfolders>/    # Domain-specific (flat by default; subfolders when declared in TOPIC.md)
 ├── originals/           # Binary originals of converted sources; never ingested
 ├── wiki/                # LLM-generated (don't edit manually)
 │   ├── index.md         # Master catalog
 │   ├── log.md           # Activity timeline
-│   ├── concepts/        # Concept pages
-│   ├── entities/        # Entity pages (people, orgs, tools)
-│   └── sources/         # Source summaries
+│   ├── sources/         # Source summaries (always present)
+│   └── <layout folders>/  # Domain-specific (default: concepts/, entities/, syntheses/, questions/)
 └── TOPIC.md             # Topic-specific domain, scope, and instructions for the LLM
 ```
 
@@ -54,9 +51,9 @@ my-wiki/
 
 2. **Write the topic file** (`TOPIC.md`) - domain, scope, categorization axes, and any topic-specific conventions beyond the global schema in `AGENTS.md`.
 
-3. **Collect 5-10 raw sources** - articles, docs, papers. Use Obsidian Web Clipper or save as markdown.
+3. **Collect at least 5-10 raw sources** - articles, docs, papers. Use Obsidian Web Clipper or save as markdown.
 
-4. **Ingest one source at a time** - "Process `raw/articles/source1.md`. Read it, create a summary in `wiki/sources/`, update the index, and create/update any relevant concept or entity pages."
+4. **Ingest one (or more) source at a time** - "Process `raw/source1.md`. Read it, create a summary in `wiki/sources/`, update the index, and create/update any relevant concept or entity pages." (If your topic uses raw subfolders, adjust the path accordingly.)
 
 5. **Ask questions** - once 5+ sources are ingested: "What are the key themes?", "Compare X and Y", "What contradictions exist?"
 

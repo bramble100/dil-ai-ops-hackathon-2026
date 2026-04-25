@@ -19,8 +19,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [moats, management]
+status: complete
 ---
 
 ## Overview

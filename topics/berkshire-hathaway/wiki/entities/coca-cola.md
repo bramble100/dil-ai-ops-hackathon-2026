@@ -22,8 +22,8 @@ sources:
   ]
 created: 2026-04-20
 updated: 2026-04-21
-status: complete
 tags: [investment, moats, compounding]
+status: complete
 ---
 
 ## Overview

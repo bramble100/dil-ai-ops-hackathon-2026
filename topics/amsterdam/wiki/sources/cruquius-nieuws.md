@@ -20,6 +20,7 @@ The news/updates page from the Museum De Cruquius website, containing announceme
 ## Key News Items
 
 ### Museum Fully Accessible Again (March 31, 2026)
+
 - After **2+ years** of bridge and road works, the museum is fully accessible again
 - **Cruquiusbrug** (bridge) reopened
 - **Cruquiusdijk** (road) reopened
@@ -27,16 +28,20 @@ The news/updates page from the Museum De Cruquius website, containing announceme
 - Discount entry offered to celebrate the completion of bridge repairs
 
 ### Voting Location (March 18, 2026)
+
 - Museum served as a polling station for **municipal elections** on March 18, 2026
 
 ### Free Entry with Boekenweekgeschenk (March 22, 2026)
+
 - Free museum admission on March 22, 2026 for visitors presenting the **Boekenweekgeschenk** (Dutch Book Week gift -- an annual literary tradition)
 
 ### TV Documentary (February 2026)
+
 - **Andere Tijden** (Dutch historical TV program) aired a documentary about **WWII in Haarlemmermeer**
 - Recommended by the museum as relevant to the region's history
 
 ### New Film Room (December 2025)
+
 - New permanent film room opened in December 2025
 - Features documentary: **"Het Beste water ter wereld"** ("The Best Water in the World")
 - Consists of **7 short films** on the history of water management in the Netherlands
@@ -56,4 +61,3 @@ The news/updates page from the Museum De Cruquius website, containing announceme
 ## Pages Updated
 
 - [../places/cruquius-museum.md](../places/cruquius-museum.md)
-- [../practical/events-calendar.md](../practical/events-calendar.md)

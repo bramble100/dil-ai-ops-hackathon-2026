@@ -5,7 +5,6 @@ entity_kind: subsidiary
 source_count: 4
 created: 2026-04-20
 updated: 2026-04-20
-status: complete
 tags: [apparel, manufacturing, acquisition, turnaround]
 sources:
   [
@@ -15,6 +14,7 @@ sources:
     buffett-letter-2005,
     buffett-letter-2006,
   ]
+status: complete
 ---
 
 ## Overview

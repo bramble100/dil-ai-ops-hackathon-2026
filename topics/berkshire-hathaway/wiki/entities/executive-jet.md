@@ -18,8 +18,8 @@ sources:
 source_count: 10
 created: 2026-04-20
 updated: 2026-04-22
-status: complete
 tags: [entity, aviation, acquisition]
+status: complete
 ---
 
 ## Overview

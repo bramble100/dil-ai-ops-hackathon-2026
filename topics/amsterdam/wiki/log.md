@@ -94,3 +94,11 @@ updated: 2026-04-19
 
 - Removed 3 unbuilt place pages from TOPIC.md directory listing: jordaan, ndsm-wharf, a-dam-lookout
 - No source coverage exists for these locations; can be re-added if sources are ingested
+
+## [2026-04-25] lint | Health check
+
+- Unprocessed: 0 files (all 11 sources ingested)
+- Found: 1 important (28 broken links across 9 source summaries), 2 medium, 1 minor
+- Fixed: 28 broken links corrected — 3 wrong filenames (port-van-cleve, dutch-culture, food-and-drink), 7 repointed to correct existing pages (nemo, transport, day-trips, accommodation, passes-and-cards), 5 removed (pages never created: artis-zoo, maritime-museum, rembrandt-house, royal-palace, events-calendar)
+- Fixed: overview.md missing status field; index.md stale updated date
+- Open: 2 incomplete source extractions (sinohasviajado, amsterdam-wiki-pdf) — needs human decision on re-extraction

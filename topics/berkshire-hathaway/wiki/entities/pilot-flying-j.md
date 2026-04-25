@@ -5,8 +5,8 @@ entity_kind: subsidiary
 sources: [buffett-letter-2017, buffett-letter-2020, buffett-letter-2021]
 created: 2026-04-21
 updated: 2026-04-22
-status: complete
 tags: [acquisition, partnership, retail, energy]
+status: complete
 ---
 
 ## Overview

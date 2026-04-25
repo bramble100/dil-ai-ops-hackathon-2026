@@ -17,8 +17,8 @@ sources:
   ]
 created: 2026-04-21
 updated: 2026-04-21
-status: complete
 tags: [acquisition, railroad, capital-intensive, mega-cap-era]
+status: complete
 ---
 
 ## Overview

@@ -5,7 +5,17 @@ source_path: "raw/amszterdam-nevezetessegek.html"
 created: 2026-04-16
 updated: 2026-04-16
 status: complete
-tags: [amsterdam, sights, museums, transport, accommodation, hungarian-language, comprehensive, prices-2026]
+tags:
+  [
+    amsterdam,
+    sights,
+    museums,
+    transport,
+    accommodation,
+    hungarian-language,
+    comprehensive,
+    prices-2026,
+  ]
 ---
 
 # Amszterdam Nevezetessegek, latnivalok 2026
@@ -21,16 +31,19 @@ An extremely detailed and up-to-date (2026) Hungarian-language guide to Amsterda
 ## Sights & Attractions Covered
 
 ### Landmarks & Squares
+
 - **Dam Square** - central square and historical heart of Amsterdam
 - **Royal Palace (Koninklijk Paleis)** - built 1648-1655; entry EUR 13.50
 - **Nieuwe Kerk** - on Dam Square; entry EUR 20
 - **National Monument** - WWII memorial on Dam Square
 
 ### Historic Areas
+
 - **Canal Ring (Grachtengordel)** - UNESCO World Heritage Site
 - **Red Light District (De Wallen)** - history, culture, and visitor guidance
 
 ### Museums
+
 - **Rijksmuseum** - entry EUR 25
 - **Van Gogh Museum** - entry EUR 25
 - **Amsterdam Museum** - city history museum
@@ -42,10 +55,12 @@ An extremely detailed and up-to-date (2026) Hungarian-language guide to Amsterda
 - **Body Worlds** - anatomical exhibition
 
 ### Experiential Attractions
+
 - **Anne Frank House** - entry EUR 15.50, online-only ticket sales
 - **NEMO Science Museum** - interactive science center
 
 ### Parks & Nature
+
 - **Vondelpark** - Amsterdam's main urban park
 - **Artis Zoo** - oldest zoo in the Netherlands
 
@@ -65,16 +80,12 @@ An extremely detailed and up-to-date (2026) Hungarian-language guide to Amsterda
 ## Pages Updated
 
 - [../places/dam-square.md](../places/dam-square.md)
-- [../places/royal-palace.md](../places/royal-palace.md)
 - [../places/rijksmuseum.md](../places/rijksmuseum.md)
 - [../places/van-gogh-museum.md](../places/van-gogh-museum.md)
 - [../places/anne-frank-house.md](../places/anne-frank-house.md)
-- [../places/nemo.md](../places/nemo.md)
-- [../places/maritime-museum.md](../places/maritime-museum.md)
-- [../places/rembrandt-house.md](../places/rembrandt-house.md)
+- [../places/nemo-science-museum.md](../places/nemo-science-museum.md)
 - [../places/vondelpark.md](../places/vondelpark.md)
-- [../places/artis-zoo.md](../places/artis-zoo.md)
 - [../places/red-light-district.md](../places/red-light-district.md)
 - [../places/canal-ring.md](../places/canal-ring.md)
-- [../practical/transport.md](../practical/transport.md)
-- [../practical/accommodation.md](../practical/accommodation.md)
+- [../practical/getting-around.md](../practical/getting-around.md)
+- [../practical/where-to-stay.md](../practical/where-to-stay.md)
